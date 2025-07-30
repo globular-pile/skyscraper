@@ -1,0 +1,3958 @@
+{
+  "lastUpdated": "2025-07-29T22:12:54.384132",
+  "movies": [
+    {
+      "date": "Wed, Jul 30",
+      "title": "Some Like It Hot",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27615\",\"3:30 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Jul 30",
+      "title": "Still Life [DCP]",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27609\",\"4:15 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Jul 30",
+      "title": "Il Dono",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27614\",\"6:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Jul 30",
+      "title": "The Young Girls of Rochefort",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27610\",\"6:30 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Jul 30",
+      "title": "Magic Mike XXL",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27613\",\"7:40 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Jul 30",
+      "title": "Scarface [35mm]",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27611\",\"9:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Jul 30",
+      "title": "Santa Sangre",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27612\",\"9:45 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Jul 30",
+      "title": "Familiar Touch",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/familiar-touch/45127\",\"12:20 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Jul 30",
+      "title": "2000 Meters To Andriivka",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/44123\",\"1:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/44117\",\"3:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/44130\",\"5:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/44139\",\"7:50 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Jul 30",
+      "title": "Throne Of Blood",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/throne-of-blood-kurosawa/44424\",\"1:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Jul 30",
+      "title": "The Hidden Fortress",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/the-hidden-fortress-kurosawa/45163\",\"1:30 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Jul 30",
+      "title": "Hearts Of Darkness",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45146\",\"2:20 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45153\",\"6:40 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Jul 30",
+      "title": "Ikiru",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/ikiru-kurosawa/44390\",\"3:20 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Jul 30",
+      "title": "Rashomon",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/rashomon-kurosawa/45170\",\"4:20 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Jul 30",
+      "title": "Kill The Jockey",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45132\",\"4:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45139\",\"8:50 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Jul 30",
+      "title": "Yojimbo",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/yojimbo-kurosawa/45160\",\"6:20 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Jul 30",
+      "title": "Seven Samurai",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/seven-samurai-kurosawa/44399\",\"6:30 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Jul 30",
+      "title": "Sanjuro",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/sanjuro-kurosawa/45167\",\"8:45 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Jul 30",
+      "title": "Berlin: Die Sinfonie der Gro\u00dfstadt (Berlin: Symphonyof a Great City)",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10735\",\"8:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Jul 30",
+      "title": "Rachel Getting Married - 35MM",
+      "theater": "Roxy Cinema",
+      "showtimes": [
+        "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6511?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"9:15 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Jul 31",
+      "title": "Twin Peaks circa 2017 || Parts 10-12",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27616\",\"2:30 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Jul 31",
+      "title": "Offside",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27627\",\"3:10 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Jul 31",
+      "title": "Sunshine State",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27621\",\"5:15 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Jul 31",
+      "title": "Twin Peaks circa 2017 || Parts 13-15",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27617\",\"6:00 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Jul 31",
+      "title": "Il Dono",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27620\",\"8:00 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Jul 31",
+      "title": "Twin Peaks circa 2017 || Parts 16-18",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27618\",\"9:30 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Jul 31",
+      "title": "Spring Breakers",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27619\",\"9:45 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Jul 31",
+      "title": "Familiar Touch",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/familiar-touch/45128\",\"12:20 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Jul 31",
+      "title": "2000 Meters To Andriivka",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/44124\",\"1:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/44118\",\"3:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/44131\",\"5:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/44140\",\"7:50 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Jul 31",
+      "title": "The Hidden Fortress",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/the-hidden-fortress-kurosawa/44431\",\"4:50 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Jul 31",
+      "title": "Hearts Of Darkness",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45147\",\"2:20 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45154\",\"6:40 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Jul 31",
+      "title": "Ikiru",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/ikiru-kurosawa/45173\",\"1:00 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Jul 31",
+      "title": "Kill The Jockey",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45133\",\"4:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45140\",\"8:50 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Jul 31",
+      "title": "Yojimbo",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/yojimbo-kurosawa/44419\",\"12:30 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Jul 31",
+      "title": "Seven Samurai",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/seven-samurai-kurosawa/45172\",\"3:50 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Jul 31",
+      "title": "Sanjuro",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/sanjuro-kurosawa/44415\",\"2:50 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Jul 31",
+      "title": "High And Low",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/high-and-low-kurosawa/44438\",\"7:40 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Jul 31",
+      "title": "Stray Dog",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/stray-dog-kurosawa/45166\",\"8:00 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Jul 31",
+      "title": "The Gold Rush",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10736\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Jul 31",
+      "title": "Rachel Getting Married - 35MM",
+      "theater": "Roxy Cinema",
+      "showtimes": [
+        "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6493?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"5:30 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Jul 31",
+      "title": "Christiane F. (New 4K Restoration)",
+      "theater": "Roxy Cinema",
+      "showtimes": [
+        "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6512?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"7:45 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Jul 31",
+      "title": "Breathless - 35MM | This is Cin\u00e9matographe",
+      "theater": "Roxy Cinema",
+      "showtimes": [
+        "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6573?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"10:15 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1",
+      "title": "The Masque Of The Red Death",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27537\",\"2:40 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1",
+      "title": "The Good, the Bad and the Ugly",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27538\",\"2:45 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1",
+      "title": "Nostalghia",
+      "theater": "Metrograph",
+      "showtimes": [
+        "4:30 PM (SOLD OUT)"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1",
+      "title": "Desperately Seeking Susan: 40th Anniversary",
+      "theater": "Metrograph",
+      "showtimes": [
+        "6:00 PM (SOLD OUT)"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1",
+      "title": "Downtown 81",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27658\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1",
+      "title": "Harvest",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27542\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1",
+      "title": "Taxi zum Klo",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27540\",\"8:40 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1",
+      "title": "Holy Motors",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27541\",\"10:45 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1",
+      "title": "Stranger Than Paradise",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27543\",\"11:00 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1",
+      "title": "2000 Meters To Andriivka",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45182\",\"1:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45183\",\"3:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45184\",\"5:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45185\",\"7:50 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1",
+      "title": "Hearts Of Darkness",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45231\",\"2:20 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45232\",\"6:40 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1",
+      "title": "Kill The Jockey",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45210\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45211\",\"4:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45212\",\"8:50 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1",
+      "title": "Yojimbo",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/yojimbo-kurosawa/45245\",\"12:15 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1",
+      "title": "Sanjuro",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/sanjuro-kurosawa/45246\",\"2:45 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1",
+      "title": "High And Low",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/high-and-low-kurosawa/45248\",\"8:25 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1",
+      "title": "Brazil",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44750\",\"1:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44751\",\"4:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44752\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1",
+      "title": "Red Beard",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/red-beard-kuro/45247\",\"4:50 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1",
+      "title": "Beau Geste",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10737\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1",
+      "title": "Speed Racer - 35MM",
+      "theater": "Roxy Cinema",
+      "showtimes": [
+        "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6515?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1",
+      "title": "Christiane F. (New 4K Restoration)",
+      "theater": "Roxy Cinema",
+      "showtimes": [
+        "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6516?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"9:45 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1",
+      "title": "Holiday",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1314/seats\",\"11:10 AM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1",
+      "title": "Kind Hearts and Coronets",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1315/seats\",\"1:35 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1",
+      "title": "American Psycho",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1316/seats\",\"4:10 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1",
+      "title": "La r\u00e8gle du jeu",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1317/seats\",\"6:45 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1",
+      "title": "A New Leaf",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1318/seats\",\"9:20 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2",
+      "title": "Harvest",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27546\",\"12:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2",
+      "title": "Out of Sight",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27547\",\"12:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2",
+      "title": "This Long Century presents: Amiel Courtin-Wilson",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27548\",\"2:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2",
+      "title": "3 Faces",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27550\",\"4:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2",
+      "title": "I'm Not There",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27549\",\"4:40 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2",
+      "title": "Passages",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27551\",\"6:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2",
+      "title": "1991: The Year That Punk Broke",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27555\",\"8:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2",
+      "title": "Taxi zum Klo",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27552\",\"8:25 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2",
+      "title": "Holy Motors",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27553\",\"10:25 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2",
+      "title": "Desperately Seeking Susan: 40th Anniversary",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27556\",\"10:35 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2",
+      "title": "2000 Meters To Andriivka",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45186\",\"1:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45187\",\"3:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45188\",\"5:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45189\",\"7:50 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2",
+      "title": "Throne Of Blood",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/throne-of-blood-kurosawa/45249\",\"12:45 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2",
+      "title": "Hearts Of Darkness",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45233\",\"2:20 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45234\",\"6:40 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2",
+      "title": "Ikiru",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/ikiru-kurosawa/45252\",\"7:20 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2",
+      "title": "Kill The Jockey",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45213\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45214\",\"4:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45215\",\"8:50 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2",
+      "title": "Seven Samurai",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/seven-samurai-kurosawa/45251\",\"3:15 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2",
+      "title": "Brazil",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44759\",\"1:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44769\",\"4:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44753\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2",
+      "title": "Saxophon-Susi (Miss Saxophone)",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10738\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2",
+      "title": "On the Silver Globe",
+      "theater": "Roxy Cinema",
+      "showtimes": [
+        "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6518?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"4:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2",
+      "title": "Speed Racer - 35MM",
+      "theater": "Roxy Cinema",
+      "showtimes": [
+        "=HYPERLINK(\"http://ticketing.uswest.veezi.com/purchase/6520?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"9:45 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2",
+      "title": "The Black Pirate",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1164/seats\",\"12:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2",
+      "title": "American Psycho",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1319/seats\",\"9:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "The Good, the Bad and the Ugly",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27557\",\"11:45 AM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "3 Faces",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27558\",\"12:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "No Bears",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27559\",\"2:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "A Brighter Summer Day",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27562\",\"3:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "The Masque Of The Red Death",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27560\",\"4:10 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "Harvest",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27561\",\"6:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "Office Killer",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27563\",\"7:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "Taxi zum Klo",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27566\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "Out of Sight",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27564\",\"9:50 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "Suspiria [4K DCP]",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27661\",\"10:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "2000 Meters To Andriivka",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45190\",\"1:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45191\",\"3:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45192\",\"5:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45193\",\"7:50 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "Hearts Of Darkness",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45235\",\"2:20 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45236\",\"6:40 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "Rashomon",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/rashomon-kurosawa/45253\",\"12:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "Kill The Jockey",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45216\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45217\",\"4:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45218\",\"8:50 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "Yojimbo",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/yojimbo-kurosawa/45256\",\"8:35 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "High And Low",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/high-and-low-kurosawa/45255\",\"5:40 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "Brazil",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44760\",\"1:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44770\",\"4:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44754\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "Ran",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/ran-kuro/45254\",\"2:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "Street Angel",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10739\",\"4:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "Speed Racer - 35MM",
+      "theater": "Roxy Cinema",
+      "showtimes": [
+        "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6523?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"7:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "The Women",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1165/seats\",\"12:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "The Landlord",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1320/seats\",\"3:20 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "Kind Hearts and Coronets",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1321/seats\",\"6:05 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "Holiday",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1322/seats\",\"8:45 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Punch-Drunk Love",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27662\",\"4:40 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Party Girl",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27665\",\"4:45 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Still Life [35mm]",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27663\",\"6:45 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Taxi zum Klo",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27666\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Twin Peaks circa 2017 || Parts 1-3",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27677\",\"9:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Harvest",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27667\",\"9:15 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "2000 Meters To Andriivka",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45194\",\"1:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45195\",\"3:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45196\",\"5:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45197\",\"7:50 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Throne Of Blood",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/throne-of-blood-kurosawa/45257\",\"12:30 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Hearts Of Darkness",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45237\",\"2:20 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45238\",\"6:40 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Ikiru",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/ikiru-kurosawa/45260\",\"8:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Rashomon",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/rashomon-kurosawa/45259\",\"6:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Kill The Jockey",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45219\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45220\",\"4:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45221\",\"8:50 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Stray Dog",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/stray-dog-kurosawa/45258\",\"2:50 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Brazil",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44761\",\"1:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44765\",\"4:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44755\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Die Stra\u00dfe (The Street)",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10740\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Speed Racer - 35MM",
+      "theater": "Roxy Cinema",
+      "showtimes": [
+        "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6532?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"9:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "La r\u00e8gle du jeu",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1323/seats\",\"11:00 AM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "American Psycho",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1324/seats\",\"1:35 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Holiday",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1325/seats\",\"4:05 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Divorce Italian Style",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1326/seats\",\"6:45 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Kind Hearts and Coronets",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1327/seats\",\"9:20 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "Taxi Tehran",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27668\",\"4:00 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "A Woman is a Woman",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27672\",\"4:10 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "Harvest",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27669\",\"5:45 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "A Brighter Summer Day",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27673\",\"6:00 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "Taxi zum Klo",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27670\",\"8:20 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "Climax",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27671\",\"10:20 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "Office Killer",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27674\",\"10:30 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "2000 Meters To Andriivka",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45198\",\"1:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45199\",\"3:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45200\",\"5:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45201\",\"7:50 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "Hearts Of Darkness",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45239\",\"2:20 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45240\",\"6:40 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "Rashomon",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/rashomon-kurosawa/45263\",\"6:20 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "Kill The Jockey",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45222\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45223\",\"4:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45224\",\"8:50 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "Yojimbo",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/yojimbo-kurosawa/45261\",\"12:20 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "High And Low",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/high-and-low-kurosawa/45264\",\"8:20 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "Brazil",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44762\",\"1:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44766\",\"4:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44756\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "Ran",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/ran-kuro/45262\",\"2:30 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "Memory Lane",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10741\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "Confessions of a Teenage Drama Queen - 35MM | Shot By...",
+      "theater": "Roxy Cinema",
+      "showtimes": [
+        "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6533?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "2046 [4K DCP]",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27675\",\"4:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "I'm Not There",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27679\",\"4:15 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "Nostalghia",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27676\",\"6:40 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "Harvest",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27680\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "Twin Peaks circa 2017 || Parts 7-9",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27678\",\"9:15 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "Taxi zum Klo",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27681\",\"9:45 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "2000 Meters To Andriivka",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45202\",\"1:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45203\",\"3:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45204\",\"5:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45205\",\"7:50 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "Throne Of Blood",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/throne-of-blood-kurosawa/45267\",\"8:10 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "Hearts Of Darkness",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45241\",\"2:20 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45242\",\"6:40 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "Kill The Jockey",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45225\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45226\",\"4:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45227\",\"8:50 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "Seven Samurai",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/seven-samurai-kurosawa/45265\",\"1:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "Stray Dog",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/stray-dog-kurosawa/45266\",\"5:30 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "Brazil",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44763\",\"1:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44767\",\"4:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44757\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "Confessions of a Teenage Drama Queen - 35MM | Shot By...",
+      "theater": "Roxy Cinema",
+      "showtimes": [
+        "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6536?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"9:15 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "Holiday",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1328/seats\",\"1:45 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "La r\u00e8gle du jeu",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1329/seats\",\"4:10 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "The Women",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1166/seats\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "A New Leaf",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1330/seats\",\"10:00 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "No Bears",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27682\",\"3:40 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "Out of Sight",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27686\",\"4:15 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "The Masque Of The Red Death",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27683\",\"5:50 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "Suspiria [4K DCP]",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27687\",\"6:50 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "Harvest",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27684\",\"7:40 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "Twin Peaks circa 2017 || Parts 16-18",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27688\",\"9:00 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "Taxi zum Klo",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27685\",\"10:15 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "2000 Meters To Andriivka",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45206\",\"1:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45207\",\"3:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45208\",\"5:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45209\",\"7:50 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "The Hidden Fortress",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/the-hidden-fortress-kurosawa/45271\",\"7:50 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "Hearts Of Darkness",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45243\",\"2:20 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45244\",\"6:40 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "Kill The Jockey",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45228\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45229\",\"4:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45230\",\"8:50 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "Yojimbo",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/yojimbo-kurosawa/45269\",\"3:30 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "Sanjuro",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/sanjuro-kurosawa/45270\",\"5:45 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "High And Low",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/high-and-low-kurosawa/45268\",\"12:30 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "Brazil",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44764\",\"1:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44768\",\"4:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44758\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "The Man Who Would Be King",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10699\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "Kind Hearts and Coronets",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1332/seats\",\"11:00 AM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "La r\u00e8gle du jeu",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1333/seats\",\"1:35 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "A New Leaf",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1331/seats\",\"4:10 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "Holiday",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1334/seats\",\"6:45 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "American Psycho",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1335/seats\",\"9:10 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8",
+      "title": "Kundun",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27567\",\"3:20 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8",
+      "title": "Better Days",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27624\",\"3:30 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8",
+      "title": "Suspended Time",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27568\",\"6:00 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8",
+      "title": "The Green Room",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27573\",\"6:10 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8",
+      "title": "Non-Fiction",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27572\",\"8:10 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8",
+      "title": "One Hour Photo",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27569\",\"8:15 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8",
+      "title": "School in the Crosshairs",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27570\",\"10:15 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8",
+      "title": "Mala Noche",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27571\",\"10:20 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8",
+      "title": "An Officer And A Spy",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44593\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44607\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44617\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44631\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8",
+      "title": "Who Killed Teddy Bear?",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44870\",\"12:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44871\",\"2:40 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44872\",\"4:50 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44873\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8",
+      "title": "Hamlet at Elsinore",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10784\",\"4:00 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8",
+      "title": "Alfie",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10700\",\"7:30 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8",
+      "title": "Speed Racer - 35MM",
+      "theater": "Roxy Cinema",
+      "showtimes": [
+        "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6539?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"4:30 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8",
+      "title": "Angelheaded Hipster: The Songs of Marc Bolan & T. Rex + Q&A",
+      "theater": "Roxy Cinema",
+      "showtimes": [
+        "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6540?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"7:15 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8",
+      "title": "La Dolce Vita",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1336/seats\",\"10:00 AM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8",
+      "title": "The Discreet Charm of the Bourgeoisie",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1337/seats\",\"1:40 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8",
+      "title": "A Night at the Opera",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1338/seats\",\"4:15 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8",
+      "title": "Mon Oncle",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1339/seats\",\"6:40 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8",
+      "title": "Auntie Mame",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1340/seats\",\"9:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "The Good, the Bad and the Ugly",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27574\",\"11:45 AM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "Better Days",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27625\",\"12:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "How Green Was My Valley",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27578\",\"2:40 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "Far From Heaven",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27575\",\"3:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "Mala Noche",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27577\",\"5:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "Zola",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27576\",\"5:15 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "The Green Room",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27579\",\"6:50 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "Instrument",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27581\",\"7:40 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "Macumba",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27580\",\"8:45 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "Belly [DCP]",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27582\",\"10:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "One Hour Photo",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27583\",\"10:35 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "An Officer And A Spy",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44594\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44645\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44618\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44632\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "Who Killed Teddy Bear?",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44885\",\"12:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44884\",\"2:40 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44883\",\"4:50 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44874\",\"7:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44877\",\"9:10 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "The Ipcress File",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10701\",\"1:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "Funeral in Berlin",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10778\",\"4:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "Billion Dollar Brain",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10781\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "Angelheaded Hipster: The Songs of Marc Bolan & T. Rex + Q&A",
+      "theater": "Roxy Cinema",
+      "showtimes": [
+        "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6544?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "Brain Dead Studios presents: Alien",
+      "theater": "Roxy Cinema",
+      "showtimes": [
+        "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6568?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"9:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "Mon Oncle",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1341/seats\",\"10:30 AM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "The Discreet Charm of the Bourgeoisie",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1342/seats\",\"1:15 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "A Night at the Opera",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1343/seats\",\"3:50 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "The Philadelphia Story",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1344/seats\",\"6:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "Arthur",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1345/seats\",\"9:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
+      "title": "Kundun",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27584\",\"11:00 AM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
+      "title": "Four Adventures of Reinette and Mirabelle",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27585\",\"11:00 AM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
+      "title": "How Green Was My Valley",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27586\",\"1:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
+      "title": "Nashville",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27588\",\"1:45 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
+      "title": "Instrument",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27587\",\"3:20 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
+      "title": "Far From Heaven",
+      "theater": "Metrograph",
+      "showtimes": [
+        "5:00 PM (SOLD OUT)"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
+      "title": "Macumba",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27594\",\"5:35 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
+      "title": "Non-Fiction",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27593\",\"7:25 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
+      "title": "Killer Secret Screening",
+      "theater": "Metrograph",
+      "showtimes": [
+        "7:45 PM (SOLD OUT)"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
+      "title": "Belly [35mm]",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27591\",\"9:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
+      "title": "School in the Crosshairs",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27592\",\"9:35 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
+      "title": "An Officer And A Spy",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44595\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44646\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44619\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44633\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
+      "title": "Who Killed Teddy Bear?",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44886\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44882\",\"2:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44881\",\"6:10 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44878\",\"8:20 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
+      "title": "Cartoons Lost And Found",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/cartoons-lost-and-found/44906\",\"4:15 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
+      "title": "X Y & Zee",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10779\",\"1:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
+      "title": "Zulu",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10702\",\"4:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
+      "title": "Angelheaded Hipster: The Songs of Marc Bolan & T. Rex",
+      "theater": "Roxy Cinema",
+      "showtimes": [
+        "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6546?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"3:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
+      "title": "Husbands - 35MM",
+      "theater": "Roxy Cinema",
+      "showtimes": [
+        "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6548?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"7:45 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
+      "title": "My Fair Lady",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1346/seats\",\"2:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
+      "title": "La Dolce Vita",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1347/seats\",\"6:10 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
+      "title": "A Night at the Opera",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1348/seats\",\"9:50 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 11",
+      "title": "An Officer And A Spy",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44596\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44608\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44620\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44634\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 11",
+      "title": "Who Killed Teddy Bear?",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44887\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44889\",\"2:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44890\",\"4:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44879\",\"8:10 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 11",
+      "title": "Musical Cartoons Before The Co",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/musical-cartoons-before-the-code/44908\",\"6:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 11",
+      "title": "X Y & Zee",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10779\",\"4:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 11",
+      "title": "The Romantic Englishwoman",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10703\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 11",
+      "title": "Angelheaded Hipster: The Songs of Marc Bolan & T. Rex",
+      "theater": "Roxy Cinema",
+      "showtimes": [
+        "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6549?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 11",
+      "title": "A Night at the Opera",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1349/seats\",\"10:10 AM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 11",
+      "title": "My Fair Lady",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1350/seats\",\"12:35 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 11",
+      "title": "Mon Oncle",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1351/seats\",\"4:15 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 11",
+      "title": "The Discreet Charm of the Bourgeoisie",
+      "theater": "Paris Theater",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1352/seats\",\"9:40 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 12",
+      "title": "An Officer And A Spy",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44597\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44609\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44621\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44635\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 12",
+      "title": "Who Killed Teddy Bear?",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44888\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44891\",\"2:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44892\",\"4:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44880\",\"6:15 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 12",
+      "title": "Funny Pages",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/funny-pages/44904\",\"8:15 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 12",
+      "title": "The Man Who Would Be King",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10699\",\"4:00 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 12",
+      "title": "Zulu",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10702\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 12",
+      "title": "Husbands - 35MM",
+      "theater": "Roxy Cinema",
+      "showtimes": [
+        "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6525?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"6:30 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 13",
+      "title": "An Officer And A Spy",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44598\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44610\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44622\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44636\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 13",
+      "title": "Who Killed Teddy Bear?",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44893\",\"12:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44894\",\"2:40 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44895\",\"4:50 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44896\",\"7:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44897\",\"9:10 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 13",
+      "title": "The Last Valley",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10704\",\"4:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 13",
+      "title": "Hamlet at Elsinore",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10784\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 13",
+      "title": "Husbands - 35MM",
+      "theater": "Roxy Cinema",
+      "showtimes": [
+        "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6553?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"6:30 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 14",
+      "title": "An Officer And A Spy",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44599\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44611\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44623\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44637\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 14",
+      "title": "Who Killed Teddy Bear?",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44898\",\"12:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44899\",\"2:40 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44900\",\"4:50 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44901\",\"7:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44902\",\"9:10 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 14",
+      "title": "The Wilby Conspiracy",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10785\",\"4:00 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 14",
+      "title": "The Last Valley",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10704\",\"6:30 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 15",
+      "title": "A River Called Titas",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27629\",\"3:00 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 15",
+      "title": "Nashville",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27630\",\"3:10 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 15",
+      "title": "Whisky",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27636\",\"6:10 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 15",
+      "title": "Summer Hours",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27631\",\"6:15 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 15",
+      "title": "Clouds of Sils Maria",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27635\",\"8:15 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 15",
+      "title": "Natural Born Killers",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27632\",\"8:20 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 15",
+      "title": "Requiem for a Dream",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27634\",\"10:50 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 15",
+      "title": "An Officer And A Spy",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44600\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44612\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44624\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44638\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 15",
+      "title": "Crackdown: Chaps 1-3",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44747\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44748\",\"4:20 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44909\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 15",
+      "title": "Irma Vep",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/irma-vep-wia/44962\",\"1:00 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 15",
+      "title": "Gloria",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/gloria-wia/44967\",\"3:10 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 15",
+      "title": "Lady Snowblood",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/lady-snowblood-wia/44975\",\"6:00 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 15",
+      "title": "Alien",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/alien-wia/44977\",\"8:10 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 15",
+      "title": "Pulp",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10705\",\"4:00 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 15",
+      "title": "Get Carter",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10707\",\"6:30 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 15",
+      "title": "Mixed Blood (New 4K Restoration)",
+      "theater": "Roxy Cinema",
+      "showtimes": [
+        "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6551?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"7:15 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "Late August, Early September",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27637\",\"12:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "The Girl Can't Help It",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27646\",\"12:15 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "Happiness",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27638\",\"2:15 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "A River Called Titas",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27645\",\"2:20 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "Requiem for a Dream",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27639\",\"5:10 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "Clouds of Sils Maria",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27644\",\"5:25 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "Hard to Be a God",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27640\",\"7:20 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "Madame X: An Absolute Ruler",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27643\",\"8:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "Possession",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27641\",\"10:45 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "Querelle",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27642\",\"10:50 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "An Officer And A Spy",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44601\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44647\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44625\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44639\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "Crackdown: Chaps 1-3",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44910\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44912\",\"4:20 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44911\",\"7:15 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "Irma Vep",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/irma-vep-wia/44963\",\"3:10 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "Gloria",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/gloria-wia/44968\",\"12:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "Alien",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/alien-wia/44978\",\"5:20 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "Aliens",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/aliens-wia/44981\",\"7:50 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "Educating Rita",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10708\",\"1:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "Alfie",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10700\",\"4:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "The Italian Job",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10709\",\"6:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "Mixed Blood (New 4K Restoration)",
+      "theater": "Roxy Cinema",
+      "showtimes": [
+        "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6556?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"9:45 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "Boyfriends and Girlfriends",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27648\",\"11:00 AM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "Nashville",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27647\",\"11:30 AM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "Whisky",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27649\",\"1:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "Battle Royale",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27650\",\"2:40 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "Happiness",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27657\",\"3:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "Hedwig and the Angry Inch",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27651\",\"5:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "Summer Hours",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27656\",\"5:35 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "Belly [35mm]",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27652\",\"7:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "Shortbus",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27655\",\"7:35 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "Natural Born Killers",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27653\",\"9:35 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "Made in Hong Kong",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27654\",\"9:45 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "An Officer And A Spy",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44602\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44648\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44626\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44640\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "Crackdown: Chaps 1-3",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44913\",\"1:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44914\",\"5:20 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44915\",\"8:20 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "Johnny Guitar",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/johnny-guitar-wia/44983\",\"12:15 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "The Furies",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/the-furies-wia/44987\",\"2:45 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "Forty Guns",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/forty-guns-wia/44989\",\"5:10 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "A Touch Of Zen",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/a-touch-of-zen-wia/44993\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "Get Carter",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10707\",\"1:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "Pulp",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10705\",\"4:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "Husbands - 35MM",
+      "theater": "Roxy Cinema",
+      "showtimes": [
+        "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6557?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"3:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "Mixed Blood (New 4K Restoration)",
+      "theater": "Roxy Cinema",
+      "showtimes": [
+        "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6559?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"8:45 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 18",
+      "title": "An Officer And A Spy",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44603\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44613\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44627\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44641\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 18",
+      "title": "Crackdown: Chaps 1-3",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44916\",\"1:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44920\",\"6:10 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 18",
+      "title": "Johnny Guitar",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/johnny-guitar-wia/44985\",\"5:45 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 18",
+      "title": "The Furies",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/the-furies-wia/44986\",\"3:10 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 18",
+      "title": "Gun Crazy",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/gun-crazy-wia/44995\",\"12:45 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 18",
+      "title": "Kriemhild'S Revenge",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/kriemhilds-revenge-wia/44998\",\"8:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 18",
+      "title": "Children of Men",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10710\",\"4:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 18",
+      "title": "The Wilby Conspiracy",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10785\",\"6:30 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 19",
+      "title": "An Officer And A Spy",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44604\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44614\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44628\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44642\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 19",
+      "title": "Crackdown: Chaps 1-3",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44918\",\"1:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44922\",\"5:20 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44924\",\"8:00 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 19",
+      "title": "Gloria",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/gloria-wia/44969\",\"12:50 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 19",
+      "title": "Alien",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/alien-wia/44976\",\"3:30 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 19",
+      "title": "Aliens",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/aliens-wia/44982\",\"5:50 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 19",
+      "title": "Ghost In The Shell",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/ghost-in-the-shell-wia/44999\",\"8:50 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 19",
+      "title": "The Romantic Englishwoman",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10703\",\"4:00 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 19",
+      "title": "Children of Men",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10710\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 20",
+      "title": "An Officer And A Spy",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44605\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44615\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44629\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44643\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 20",
+      "title": "Crackdown: Chaps 1-3",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44917\",\"1:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44921\",\"6:10 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 20",
+      "title": "Aliens",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/aliens-wia/44979\",\"1:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 20",
+      "title": "Forty Guns",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/forty-guns-wia/44990\",\"6:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 20",
+      "title": "Cleopatra Jones",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/cleopatra-jones-wia/45000\",\"4:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 20",
+      "title": "Hannah and Her Sisters",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10711\",\"4:00 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 21",
+      "title": "An Officer And A Spy",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44606\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44616\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44630\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44644\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 21",
+      "title": "Crackdown: Chaps 1-3",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44919\",\"1:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44923\",\"5:20 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44925\",\"8:00 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 21",
+      "title": "A Touch Of Zen",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/a-touch-of-zen-wia/44991\",\"12:15 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 21",
+      "title": "Cleopatra Jones",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/cleopatra-jones-wia/45001\",\"6:35 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 21",
+      "title": "The Hidden Fortress",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/the-hidden-fortress-wia/45002\",\"3:45 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 21",
+      "title": "Blue Steel",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/blue-steel-wia/45007\",\"8:35 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
+      "title": "All About Lily Chou-Chou",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27689\",\"3:20 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
+      "title": "Days of Heaven",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27693\",\"3:20 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
+      "title": "Come Drink with Me",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27694\",\"5:25 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
+      "title": "Pripyat",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27690\",\"6:10 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
+      "title": "ACE Presents: Wet Hot American Summer",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27695\",\"7:30 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
+      "title": "Spacked Out",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27691\",\"8:15 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
+      "title": "Burst City",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27692\",\"10:10 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
+      "title": "Titane",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27696\",\"10:15 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
+      "title": "Lady Snowblood",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/lady-snowblood-wia/44972\",\"3:50 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
+      "title": "Aliens",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/aliens-wia/44980\",\"12:50 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
+      "title": "Blue Steel",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/blue-steel-wia/45008\",\"6:00 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
+      "title": "Terminator 2: Judgment Day",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/terminator-2-wia/45009\",\"8:10 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
+      "title": "Pripyat",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27702\",\"12:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
+      "title": "Pauline at the Beach",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27697\",\"12:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
+      "title": "Once Upon a Time in China",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27698\",\"2:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
+      "title": "House of Hummingbird",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27714\",\"2:10 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
+      "title": "Come Drink with Me",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27699\",\"4:45 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
+      "title": "The Mouth Agape",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27703\",\"5:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
+      "title": "Apocalypse Now: Redux",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27700\",\"6:45 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
+      "title": "Dilwale Dulhania Le Jayenge",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27704\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
+      "title": "Titane",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27705\",\"10:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
+      "title": "The Grandmaster",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27701\",\"10:40 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
+      "title": "A Touch Of Zen",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/a-touch-of-zen-wia/44994\",\"2:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
+      "title": "Terminator 2: Judgment Day",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/terminator-2-wia/45010\",\"5:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
+      "title": "Bloody Mama",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/bloody-mama-wia/45013\",\"12:15 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
+      "title": "Mad Max: Fury Road",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/mad-max-fury-road-wia/45017\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "House of Hummingbird",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27715\",\"11:35 AM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "Once Upon a Time in China",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27706\",\"11:40 AM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "Days of Heaven",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27707\",\"2:20 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "The Mouth Agape",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27710\",\"2:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "Dilwale Dulhania Le Jayenge",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27711\",\"4:15 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "Les Destinees Sentimentales",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27716\",\"4:15 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "Pauline at the Beach",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27708\",\"7:40 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "Spacked Out",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27712\",\"7:45 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "Burst City",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27713\",\"9:40 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "The Grandmaster",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27709\",\"9:45 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "Forty Guns",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/forty-guns-wia/44988\",\"12:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "Bonnie And Clyde",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/bonnie-and-clyde-wia/45019\",\"2:20 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "Kill Bill: Vol. 1",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/kill-bill-vol-1-wia/45023\",\"4:40 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "Kill Bill: Vol. 2",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/kill-bill-vol-2-wia/45025\",\"7:10 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 25",
+      "title": "Johnny Guitar",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/johnny-guitar-wia/44984\",\"1:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 25",
+      "title": "Gun Crazy",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/gun-crazy-wia/44996\",\"8:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 25",
+      "title": "Dragon Inn",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/dragon-inn-wia/45027\",\"3:20 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 25",
+      "title": "Silent Women In Action",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/silent-women-in-action-wia/45026\",\"6:00 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 26",
+      "title": "Gun Crazy",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/gun-crazy-wia/44997\",\"6:00 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 26",
+      "title": "Mad Max: Fury Road",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/mad-max-fury-road-wia/45016\",\"12:30 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 26",
+      "title": "Bonnie And Clyde",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/bonnie-and-clyde-wia/45020\",\"8:00 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 26",
+      "title": "Kill Bill: Vol. 2",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/kill-bill-vol-2-wia/45024\",\"3:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 27",
+      "title": "Lady Snowblood",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/lady-snowblood-wia/44973\",\"1:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 27",
+      "title": "Blue Steel",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/blue-steel-wia/45006\",\"3:40 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 27",
+      "title": "Filibus",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/filibus-wia/45121\",\"6:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 27",
+      "title": "The Quay Brothers - On 35Mm",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/the-quay-brothers-on-35mm/44927\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 27",
+      "title": "La Femme Nikita",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/la-femme-nikita-wia/45031\",\"7:50 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 28",
+      "title": "Irma Vep",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/irma-vep-wia/44965\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 28",
+      "title": "Gloria",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/gloria-wia/44970\",\"3:30 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 28",
+      "title": "Bonnie And Clyde",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/bonnie-and-clyde-wia/45018\",\"1:00 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 28",
+      "title": "Set It Off",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/set-it-off-wia/45032\",\"6:00 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 29",
+      "title": "Gloria",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/gloria-wia/44971\",\"6:00 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 29",
+      "title": "Dragon Inn",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/dragon-inn-wia/45028\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 29",
+      "title": "La Femme Nikita",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/la-femme-nikita-wia/45029\",\"3:30 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 29",
+      "title": "Sanatorium Under The Sign Of",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44649\",\"12:20 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44656\",\"2:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44662\",\"4:10 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44667\",\"6:10 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44674\",\"8:10 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 30",
+      "title": "Sanatorium Under The Sign Of",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44650\",\"12:20 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44681\",\"2:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44683\",\"4:10 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44668\",\"6:10 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44675\",\"8:10 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 30",
+      "title": "The Big Doll House",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/the-big-doll-house-wia/45034\",\"1:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 30",
+      "title": "Coffy",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/coffy-wia/45036\",\"3:15 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 30",
+      "title": "Foxy Brown",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/foxy-brown-wia/45037\",\"5:20 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 30",
+      "title": "Jackie Brown",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/jackie-brown-wia/45039\",\"7:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 31",
+      "title": "Terminator 2: Judgment Day",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/terminator-2-wia/45011\",\"8:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 31",
+      "title": "Sanatorium Under The Sign Of",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44651\",\"12:20 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44682\",\"2:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44684\",\"4:10 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44669\",\"6:10 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44676\",\"8:10 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 31",
+      "title": "The Heroic Trio",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/the-heroic-trio-wia/45041\",\"3:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 31",
+      "title": "Crouching Tiger, Hidden Dragon",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/crouching-tiger-hidden-dragon-wia/45042\",\"5:30 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Sep 1",
+      "title": "A Touch Of Zen",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/a-touch-of-zen-wia/44992\",\"2:50 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Sep 1",
+      "title": "Bloody Mama",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/bloody-mama-wia/45014\",\"6:20 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Sep 1",
+      "title": "Kill Bill: Vol. 1",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/kill-bill-vol-1-wia/45022\",\"12:30 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Sep 1",
+      "title": "Sanatorium Under The Sign Of",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44652\",\"12:20 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44658\",\"2:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44663\",\"4:10 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44670\",\"6:10 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44677\",\"8:10 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Sep 1",
+      "title": "Big Bad Mama",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/big-bad-mama-wia/45043\",\"8:20 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Sep 2",
+      "title": "Lady Snowblood",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/lady-snowblood-wia/44974\",\"1:00 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Sep 2",
+      "title": "La Femme Nikita",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/la-femme-nikita-wia/45030\",\"3:30 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Sep 2",
+      "title": "Set It Off",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/set-it-off-wia/45033\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Sep 2",
+      "title": "Sanatorium Under The Sign Of",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44653\",\"12:20 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44659\",\"2:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44664\",\"4:10 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44671\",\"6:10 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44678\",\"8:10 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Sep 2",
+      "title": "The Brave One",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/the-brave-one-wia/45044\",\"6:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Sep 3",
+      "title": "Sanatorium Under The Sign Of",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44654\",\"12:20 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44660\",\"2:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44665\",\"4:10 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44672\",\"6:10 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44679\",\"8:10 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Sep 3",
+      "title": "The Big Doll House",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/the-big-doll-house-wia/45035\",\"1:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Sep 3",
+      "title": "Ms .45",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/ms-45-wia/45045\",\"3:15 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Sep 3",
+      "title": "Hanna",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/hanna-wia/45049\",\"5:40 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Sep 3",
+      "title": "The Hunger Games",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/the-hunger-games-wia/45048\",\"8:00 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Sep 4",
+      "title": "Irma Vep",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/irma-vep-wia/44966\",\"6:00 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Sep 4",
+      "title": "Sanatorium Under The Sign Of",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44655\",\"12:20 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44661\",\"2:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44666\",\"4:10 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44673\",\"6:10 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44680\",\"8:10 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Sep 4",
+      "title": "Jackie Brown",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/jackie-brown-wia/45038\",\"1:00 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Sep 4",
+      "title": "The Heroic Trio",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/the-heroic-trio-wia/45040\",\"4:10 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Sep 4",
+      "title": "Ms .45",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/ms-45-wia/45046\",\"8:10 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Sep 12",
+      "title": "Dreams",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/dreams/44685\",\"12:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/dreams/44692\",\"2:50 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/dreams/44697\",\"5:20 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Sep 13",
+      "title": "Dreams",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/dreams/44686\",\"12:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/dreams/44711\",\"2:50 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/dreams/44698\",\"5:20 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Sep 14",
+      "title": "Dreams",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/dreams/44687\",\"12:40 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/dreams/44712\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/dreams/44699\",\"5:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/dreams/44706\",\"8:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Sep 15",
+      "title": "Dreams",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/dreams/44688\",\"12:40 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/dreams/44693\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/dreams/44700\",\"5:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/dreams/44707\",\"8:00 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Sep 16",
+      "title": "Dreams",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/dreams/44689\",\"12:40 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/dreams/44694\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/dreams/44701\",\"5:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/dreams/44708\",\"8:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Sep 17",
+      "title": "Dreams",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/dreams/44690\",\"12:40 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/dreams/44695\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/dreams/44702\",\"5:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/dreams/44709\",\"8:00 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Sep 18",
+      "title": "Dreams",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/dreams/44691\",\"12:40 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/dreams/44696\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/dreams/44703\",\"5:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/dreams/44710\",\"8:00 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Sep 19",
+      "title": "Predators",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44713\",\"12:20 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44714\",\"2:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44715\",\"4:40 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44716\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Sep 20",
+      "title": "Predators",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44723\",\"12:20 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44742\",\"2:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44743\",\"4:40 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44717\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Sep 21",
+      "title": "Predators",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44724\",\"12:20 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44744\",\"2:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44745\",\"4:40 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44718\",\"6:50 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44729\",\"9:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Sep 22",
+      "title": "Predators",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44725\",\"12:20 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44734\",\"2:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44738\",\"4:40 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44719\",\"6:50 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44730\",\"9:00 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Sep 23",
+      "title": "Predators",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44726\",\"12:20 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44735\",\"2:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44739\",\"4:40 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44720\",\"6:50 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44731\",\"9:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Sep 24",
+      "title": "Predators",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44727\",\"12:20 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44736\",\"2:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44740\",\"4:40 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44721\",\"6:50 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44732\",\"9:00 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Sep 25",
+      "title": "Predators",
+      "theater": "Film Forum",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44728\",\"12:20 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44737\",\"2:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44741\",\"4:40 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44722\",\"6:50 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/predators/44733\",\"9:00 PM\")"
+      ]
+    }
+  ]
+}
