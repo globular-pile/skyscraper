@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-07-29T22:12:54.384132",
+  "lastUpdated": "2025-07-30T11:10:38.416802",
   "movies": [
     {
       "date": "Wed, Jul 30",
@@ -161,9 +161,33 @@
     {
       "date": "Wed, Jul 30",
       "title": "Rachel Getting Married - 35MM",
-      "theater": "Roxy Cinema",
+      "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6511?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"9:15 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Jul 30",
+      "title": "Shortbus",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=48744\",\"7:15 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Jul 30",
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=48762\",\"9:30 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Jul 30",
+      "title": "Saving Face",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=48771\",\"5:00 PM\")"
       ]
     },
     {
@@ -326,7 +350,7 @@
     {
       "date": "Thu, Jul 31",
       "title": "Rachel Getting Married - 35MM",
-      "theater": "Roxy Cinema",
+      "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6493?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"5:30 PM\")"
       ]
@@ -334,7 +358,7 @@
     {
       "date": "Thu, Jul 31",
       "title": "Christiane F. (New 4K Restoration)",
-      "theater": "Roxy Cinema",
+      "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6512?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"7:45 PM\")"
       ]
@@ -342,9 +366,33 @@
     {
       "date": "Thu, Jul 31",
       "title": "Breathless - 35MM | This is Cin\u00e9matographe",
-      "theater": "Roxy Cinema",
+      "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6573?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"10:15 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Jul 31",
+      "title": "Vanilla Sky",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=48749\",\"9:10 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Jul 31",
+      "title": "Birth",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=48765\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Jul 31",
+      "title": "Brother to Brother",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=48768\",\"5:00 PM\")"
       ]
     },
     {
@@ -502,7 +550,7 @@
     {
       "date": "Fri, Aug 1",
       "title": "Speed Racer - 35MM",
-      "theater": "Roxy Cinema",
+      "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6515?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"7:00 PM\")"
       ]
@@ -510,7 +558,7 @@
     {
       "date": "Fri, Aug 1",
       "title": "Christiane F. (New 4K Restoration)",
-      "theater": "Roxy Cinema",
+      "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6516?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"9:45 PM\")"
       ]
@@ -518,7 +566,7 @@
     {
       "date": "Fri, Aug 1",
       "title": "Holiday",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1314/seats\",\"11:10 AM\")"
       ]
@@ -526,7 +574,7 @@
     {
       "date": "Fri, Aug 1",
       "title": "Kind Hearts and Coronets",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1315/seats\",\"1:35 PM\")"
       ]
@@ -534,7 +582,7 @@
     {
       "date": "Fri, Aug 1",
       "title": "American Psycho",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1316/seats\",\"4:10 PM\")"
       ]
@@ -542,7 +590,7 @@
     {
       "date": "Fri, Aug 1",
       "title": "La r\u00e8gle du jeu",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1317/seats\",\"6:45 PM\")"
       ]
@@ -550,7 +598,7 @@
     {
       "date": "Fri, Aug 1",
       "title": "A New Leaf",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1318/seats\",\"9:20 PM\")"
       ]
@@ -710,7 +758,7 @@
     {
       "date": "Sat, Aug 2",
       "title": "On the Silver Globe",
-      "theater": "Roxy Cinema",
+      "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6518?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"4:30 PM\")"
       ]
@@ -718,7 +766,7 @@
     {
       "date": "Sat, Aug 2",
       "title": "Speed Racer - 35MM",
-      "theater": "Roxy Cinema",
+      "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"http://ticketing.uswest.veezi.com/purchase/6520?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"9:45 PM\")"
       ]
@@ -726,7 +774,7 @@
     {
       "date": "Sat, Aug 2",
       "title": "The Black Pirate",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1164/seats\",\"12:00 PM\")"
       ]
@@ -734,7 +782,7 @@
     {
       "date": "Sat, Aug 2",
       "title": "American Psycho",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1319/seats\",\"9:30 PM\")"
       ]
@@ -902,7 +950,7 @@
     {
       "date": "Sun, Aug 3",
       "title": "Speed Racer - 35MM",
-      "theater": "Roxy Cinema",
+      "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6523?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"7:30 PM\")"
       ]
@@ -910,7 +958,7 @@
     {
       "date": "Sun, Aug 3",
       "title": "The Women",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1165/seats\",\"12:00 PM\")"
       ]
@@ -918,7 +966,7 @@
     {
       "date": "Sun, Aug 3",
       "title": "The Landlord",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1320/seats\",\"3:20 PM\")"
       ]
@@ -926,7 +974,7 @@
     {
       "date": "Sun, Aug 3",
       "title": "Kind Hearts and Coronets",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1321/seats\",\"6:05 PM\")"
       ]
@@ -934,7 +982,7 @@
     {
       "date": "Sun, Aug 3",
       "title": "Holiday",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1322/seats\",\"8:45 PM\")"
       ]
@@ -1070,7 +1118,7 @@
     {
       "date": "Mon, Aug 4",
       "title": "Speed Racer - 35MM",
-      "theater": "Roxy Cinema",
+      "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6532?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"9:00 PM\")"
       ]
@@ -1078,7 +1126,7 @@
     {
       "date": "Mon, Aug 4",
       "title": "La r\u00e8gle du jeu",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1323/seats\",\"11:00 AM\")"
       ]
@@ -1086,7 +1134,7 @@
     {
       "date": "Mon, Aug 4",
       "title": "American Psycho",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1324/seats\",\"1:35 PM\")"
       ]
@@ -1094,7 +1142,7 @@
     {
       "date": "Mon, Aug 4",
       "title": "Holiday",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1325/seats\",\"4:05 PM\")"
       ]
@@ -1102,7 +1150,7 @@
     {
       "date": "Mon, Aug 4",
       "title": "Divorce Italian Style",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1326/seats\",\"6:45 PM\")"
       ]
@@ -1110,7 +1158,7 @@
     {
       "date": "Mon, Aug 4",
       "title": "Kind Hearts and Coronets",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1327/seats\",\"9:20 PM\")"
       ]
@@ -1254,7 +1302,7 @@
     {
       "date": "Tue, Aug 5",
       "title": "Confessions of a Teenage Drama Queen - 35MM | Shot By...",
-      "theater": "Roxy Cinema",
+      "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6533?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"7:00 PM\")"
       ]
@@ -1374,7 +1422,7 @@
     {
       "date": "Wed, Aug 6",
       "title": "Confessions of a Teenage Drama Queen - 35MM | Shot By...",
-      "theater": "Roxy Cinema",
+      "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6536?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"9:15 PM\")"
       ]
@@ -1382,7 +1430,7 @@
     {
       "date": "Wed, Aug 6",
       "title": "Holiday",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1328/seats\",\"1:45 PM\")"
       ]
@@ -1390,7 +1438,7 @@
     {
       "date": "Wed, Aug 6",
       "title": "La r\u00e8gle du jeu",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1329/seats\",\"4:10 PM\")"
       ]
@@ -1398,7 +1446,7 @@
     {
       "date": "Wed, Aug 6",
       "title": "The Women",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1166/seats\",\"7:00 PM\")"
       ]
@@ -1406,7 +1454,7 @@
     {
       "date": "Wed, Aug 6",
       "title": "A New Leaf",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1330/seats\",\"10:00 PM\")"
       ]
@@ -1550,7 +1598,7 @@
     {
       "date": "Thu, Aug 7",
       "title": "Kind Hearts and Coronets",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1332/seats\",\"11:00 AM\")"
       ]
@@ -1558,7 +1606,7 @@
     {
       "date": "Thu, Aug 7",
       "title": "La r\u00e8gle du jeu",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1333/seats\",\"1:35 PM\")"
       ]
@@ -1566,7 +1614,7 @@
     {
       "date": "Thu, Aug 7",
       "title": "A New Leaf",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1331/seats\",\"4:10 PM\")"
       ]
@@ -1574,7 +1622,7 @@
     {
       "date": "Thu, Aug 7",
       "title": "Holiday",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1334/seats\",\"6:45 PM\")"
       ]
@@ -1582,7 +1630,7 @@
     {
       "date": "Thu, Aug 7",
       "title": "American Psycho",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1335/seats\",\"9:10 PM\")"
       ]
@@ -1692,7 +1740,7 @@
     {
       "date": "Fri, Aug 8",
       "title": "Speed Racer - 35MM",
-      "theater": "Roxy Cinema",
+      "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6539?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"4:30 PM\")"
       ]
@@ -1700,15 +1748,24 @@
     {
       "date": "Fri, Aug 8",
       "title": "Angelheaded Hipster: The Songs of Marc Bolan & T. Rex + Q&A",
-      "theater": "Roxy Cinema",
+      "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6540?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"7:15 PM\")"
       ]
     },
     {
       "date": "Fri, Aug 8",
+      "title": "A Man and a Woman ",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49371\",\"5:00 PM\")",
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49371\",\"7:15 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8",
       "title": "La Dolce Vita",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1336/seats\",\"10:00 AM\")"
       ]
@@ -1716,7 +1773,7 @@
     {
       "date": "Fri, Aug 8",
       "title": "The Discreet Charm of the Bourgeoisie",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1337/seats\",\"1:40 PM\")"
       ]
@@ -1724,7 +1781,7 @@
     {
       "date": "Fri, Aug 8",
       "title": "A Night at the Opera",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1338/seats\",\"4:15 PM\")"
       ]
@@ -1732,7 +1789,7 @@
     {
       "date": "Fri, Aug 8",
       "title": "Mon Oncle",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1339/seats\",\"6:40 PM\")"
       ]
@@ -1740,7 +1797,7 @@
     {
       "date": "Fri, Aug 8",
       "title": "Auntie Mame",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1340/seats\",\"9:30 PM\")"
       ]
@@ -1883,7 +1940,7 @@
     {
       "date": "Sat, Aug 9",
       "title": "Angelheaded Hipster: The Songs of Marc Bolan & T. Rex + Q&A",
-      "theater": "Roxy Cinema",
+      "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6544?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"7:00 PM\")"
       ]
@@ -1891,15 +1948,47 @@
     {
       "date": "Sat, Aug 9",
       "title": "Brain Dead Studios presents: Alien",
-      "theater": "Roxy Cinema",
+      "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6568?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"9:30 PM\")"
       ]
     },
     {
       "date": "Sat, Aug 9",
+      "title": "Compensation",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49249\",\"2:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "His Motorbike, Her Island",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49348\",\"4:15 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "A Woman is a Woman",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49351\",\"6:15 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "Picnic at Hanging Rock",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49354\",\"8:15 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
       "title": "Mon Oncle",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1341/seats\",\"10:30 AM\")"
       ]
@@ -1907,7 +1996,7 @@
     {
       "date": "Sat, Aug 9",
       "title": "The Discreet Charm of the Bourgeoisie",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1342/seats\",\"1:15 PM\")"
       ]
@@ -1915,7 +2004,7 @@
     {
       "date": "Sat, Aug 9",
       "title": "A Night at the Opera",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1343/seats\",\"3:50 PM\")"
       ]
@@ -1923,7 +2012,7 @@
     {
       "date": "Sat, Aug 9",
       "title": "The Philadelphia Story",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1344/seats\",\"6:30 PM\")"
       ]
@@ -1931,7 +2020,7 @@
     {
       "date": "Sat, Aug 9",
       "title": "Arthur",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1345/seats\",\"9:30 PM\")"
       ]
@@ -2073,7 +2162,7 @@
     {
       "date": "Sun, Aug 10",
       "title": "Angelheaded Hipster: The Songs of Marc Bolan & T. Rex",
-      "theater": "Roxy Cinema",
+      "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6546?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"3:00 PM\")"
       ]
@@ -2081,15 +2170,39 @@
     {
       "date": "Sun, Aug 10",
       "title": "Husbands - 35MM",
-      "theater": "Roxy Cinema",
+      "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6548?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"7:45 PM\")"
       ]
     },
     {
       "date": "Sun, Aug 10",
+      "title": "Batang West Side",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49357\",\"1:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
+      "title": "Killer of Sheep",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49359\",\"7:15 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
+      "title": "Videodrome (Director's Cut)",
+      "theater": "Paris",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1354/seats\",\"12:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
       "title": "My Fair Lady",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1346/seats\",\"2:30 PM\")"
       ]
@@ -2097,7 +2210,7 @@
     {
       "date": "Sun, Aug 10",
       "title": "La Dolce Vita",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1347/seats\",\"6:10 PM\")"
       ]
@@ -2105,7 +2218,7 @@
     {
       "date": "Sun, Aug 10",
       "title": "A Night at the Opera",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1348/seats\",\"9:50 PM\")"
       ]
@@ -2159,15 +2272,39 @@
     {
       "date": "Mon, Aug 11",
       "title": "Angelheaded Hipster: The Songs of Marc Bolan & T. Rex",
-      "theater": "Roxy Cinema",
+      "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6549?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"7:00 PM\")"
       ]
     },
     {
       "date": "Mon, Aug 11",
+      "title": "Compensation",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49249\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 11",
+      "title": "Picnic at Hanging Rock",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49354\",\"9:15 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 11",
+      "title": "Withnail and I",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49362\",\"4:30 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 11",
       "title": "A Night at the Opera",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1349/seats\",\"10:10 AM\")"
       ]
@@ -2175,7 +2312,7 @@
     {
       "date": "Mon, Aug 11",
       "title": "My Fair Lady",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1350/seats\",\"12:35 PM\")"
       ]
@@ -2183,15 +2320,23 @@
     {
       "date": "Mon, Aug 11",
       "title": "Mon Oncle",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1351/seats\",\"4:15 PM\")"
       ]
     },
     {
       "date": "Mon, Aug 11",
+      "title": "eXistenZ",
+      "theater": "Paris",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1355/seats\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 11",
       "title": "The Discreet Charm of the Bourgeoisie",
-      "theater": "Paris Theater",
+      "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1352/seats\",\"9:40 PM\")"
       ]
@@ -2245,9 +2390,25 @@
     {
       "date": "Tue, Aug 12",
       "title": "Husbands - 35MM",
-      "theater": "Roxy Cinema",
+      "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6525?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"6:30 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 12",
+      "title": "Love & Pop",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49365\",\"4:30 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 12",
+      "title": "Central Park",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49368\",\"7:00 PM\")"
       ]
     },
     {
@@ -2292,9 +2453,33 @@
     {
       "date": "Wed, Aug 13",
       "title": "Husbands - 35MM",
-      "theater": "Roxy Cinema",
+      "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6553?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"6:30 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 13",
+      "title": "His Motorbike, Her Island",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49348\",\"9:30 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 13",
+      "title": "Killer of Sheep",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49359\",\"5:15 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 13",
+      "title": "Love & Pop",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49365\",\"7:00 PM\")"
       ]
     },
     {
@@ -2334,6 +2519,30 @@
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10704\",\"6:30 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 14",
+      "title": "A Woman is a Woman",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49351\",\"7:30 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 14",
+      "title": "Withnail and I",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49362\",\"9:30 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 14",
+      "title": "Central Park",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49368\",\"4:00 PM\")"
       ]
     },
     {
@@ -2464,9 +2673,25 @@
     {
       "date": "Fri, Aug 15",
       "title": "Mixed Blood (New 4K Restoration)",
-      "theater": "Roxy Cinema",
+      "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6551?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"7:15 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 15",
+      "title": "Ivan\u2019s Childhood",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49375\",\"5:00 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 15",
+      "title": "Stalker",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49378\",\"7:15 PM\")"
       ]
     },
     {
@@ -2629,9 +2854,33 @@
     {
       "date": "Sat, Aug 16",
       "title": "Mixed Blood (New 4K Restoration)",
-      "theater": "Roxy Cinema",
+      "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6556?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"9:45 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "The Sacrifice",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49381\",\"1:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "The Steamroller and the Violin + Voyage in Time",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49384\",\"4:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "Solaris",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49387\",\"7:15 PM\")"
       ]
     },
     {
@@ -2794,7 +3043,7 @@
     {
       "date": "Sun, Aug 17",
       "title": "Husbands - 35MM",
-      "theater": "Roxy Cinema",
+      "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6557?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"3:00 PM\")"
       ]
@@ -2802,9 +3051,41 @@
     {
       "date": "Sun, Aug 17",
       "title": "Mixed Blood (New 4K Restoration)",
-      "theater": "Roxy Cinema",
+      "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6559?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"8:45 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "Solaris",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49387\",\"7:25 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "Mirror",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49390\",\"1:30 AM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "Andrei Rublev",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49393\",\"3:50 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "Neptune Frost",
+      "theater": "Paris",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1304/seats\",\"12:00 PM\")"
       ]
     },
     {
@@ -2873,6 +3154,22 @@
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10785\",\"6:30 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 18",
+      "title": "Ivan\u2019s Childhood",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49375\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 18",
+      "title": "Nostalghia",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49396\",\"9:15 PM\")"
       ]
     },
     {
@@ -2945,6 +3242,22 @@
       ]
     },
     {
+      "date": "Tue, Aug 19",
+      "title": "The Sacrifice",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49381\",\"5:00 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 19",
+      "title": "The Steamroller and the Violin + Voyage in Time",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49384\",\"8:00 PM\")"
+      ]
+    },
+    {
       "date": "Wed, Aug 20",
       "title": "An Officer And A Spy",
       "theater": "Film Forum",
@@ -2994,6 +3307,30 @@
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10711\",\"4:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 20",
+      "title": "Andrei Rublev",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49393\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 20",
+      "title": "Nostalghia",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49396\",\"4:30 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 20",
+      "title": "Tetsuo: the Iron Man",
+      "theater": "Paris",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1305/seats\",\"7:00 PM\")"
       ]
     },
     {
@@ -3047,6 +3384,22 @@
       "theater": "Film Forum",
       "showtimes": [
         "=HYPERLINK(\"https://my.filmforum.org/blue-steel-wia/45007\",\"8:35 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 21",
+      "title": "Stalker",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49378\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 21",
+      "title": "Mirror",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49390\",\"4:30 PM\")"
       ]
     },
     {
@@ -3143,6 +3496,30 @@
       "theater": "Film Forum",
       "showtimes": [
         "=HYPERLINK(\"https://my.filmforum.org/terminator-2-wia/45009\",\"8:10 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
+      "title": "Summer with Monika",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49506\",\"5:00 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
+      "title": "Summer 1993",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49509\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
+      "title": "A Tale of Summer",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49512\",\"9:00 PM\")"
       ]
     },
     {
@@ -3258,6 +3635,30 @@
       ]
     },
     {
+      "date": "Sat, Aug 23",
+      "title": " Front Row",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49515\",\"2:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
+      "title": "A Brighter Summer Day",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49518\",\"4:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
+      "title": "Aftersun",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49520\",\"8:30 PM\")"
+      ]
+    },
+    {
       "date": "Sun, Aug 24",
       "title": "House of Hummingbird",
       "theater": "Metrograph",
@@ -3370,6 +3771,46 @@
       ]
     },
     {
+      "date": "Sun, Aug 24",
+      "title": "The Little Girl Who Sold the Sun + A Short Film About Kids",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49523\",\"2:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "Call Me By Your Name",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49526\",\"3:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "The Last Summer of La Boyita",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49532\",\"8:45 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "Kikujiro",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49529\",\"6:15 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "World on a Wire",
+      "theater": "Paris",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1306/seats\",\"11:00 AM\")"
+      ]
+    },
+    {
       "date": "Mon, Aug 25",
       "title": "Johnny Guitar",
       "theater": "Film Forum",
@@ -3402,6 +3843,30 @@
       ]
     },
     {
+      "date": "Mon, Aug 25",
+      "title": "Aftersun",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49520\",\"5:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 25",
+      "title": "The Last Summer of La Boyita",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49532\",\"7:15 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 25",
+      "title": "Do the Right Thing",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49535\",\"9:15 PM\")"
+      ]
+    },
+    {
       "date": "Tue, Aug 26",
       "title": "Gun Crazy",
       "theater": "Film Forum",
@@ -3431,6 +3896,30 @@
       "theater": "Film Forum",
       "showtimes": [
         "=HYPERLINK(\"https://my.filmforum.org/kill-bill-vol-2-wia/45024\",\"3:00 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 26",
+      "title": "Summer 1993",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49509\",\"9:30 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 26",
+      "title": "A Tale of Summer",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49512\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 26",
+      "title": "The Little Girl Who Sold the Sun + A Short Film About Kids",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49523\",\"5:30 PM\")"
       ]
     },
     {
@@ -3474,6 +3963,38 @@
       ]
     },
     {
+      "date": "Wed, Aug 27",
+      "title": "Summer with Monika",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49506\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 27",
+      "title": " Front Row",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49515\",\"5:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 27",
+      "title": "Kikujiro",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49529\",\"9:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 27",
+      "title": "Ghost in the Shell",
+      "theater": "Paris",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1309/seats\",\"7:00 PM\")"
+      ]
+    },
+    {
       "date": "Thu, Aug 28",
       "title": "Irma Vep",
       "theater": "Film Forum",
@@ -3503,6 +4024,22 @@
       "theater": "Film Forum",
       "showtimes": [
         "=HYPERLINK(\"https://my.filmforum.org/set-it-off-wia/45032\",\"6:00 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 28",
+      "title": "Call Me By Your Name",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49526\",\"5:00 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 28",
+      "title": "Do the Right Thing",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49535\",\"7:45 PM\")"
       ]
     },
     {
