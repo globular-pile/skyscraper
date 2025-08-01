@@ -1,12 +1,11 @@
 {
-  "lastUpdated": "2025-08-01T16:13:51.811472",
+  "lastUpdated": "2025-08-01T16:30:47.280845",
   "movies": [
     {
       "date": "Fri, Aug 1",
       "title": "Kill The Jockey",
       "theater": "Film Forum",
       "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45211\",\"4:30 PM\")",
         "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45212\",\"8:50 PM\")"
       ]
     },
@@ -97,6 +96,22 @@
       "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1318/seats\",\"9:20 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2",
+      "title": "This Long Century presents: Amiel Courtin-Wilson",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27548\",\"2:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2",
+      "title": "Passages",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27551\",\"6:30 PM\")"
       ]
     },
     {
@@ -325,6 +340,38 @@
     },
     {
       "date": "Mon, Aug 4",
+      "title": "Punch-Drunk Love",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27662\",\"4:40 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Party Girl",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27665\",\"4:45 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Still Life [35mm]",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27663\",\"6:45 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Twin Peaks circa 2017 || Parts 1-3",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27677\",\"9:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
       "title": "Kill The Jockey",
       "theater": "Film Forum",
       "showtimes": [
@@ -461,6 +508,30 @@
     },
     {
       "date": "Tue, Aug 5",
+      "title": "Taxi Tehran",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27668\",\"4:00 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "A Woman is a Woman",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27672\",\"4:10 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "Climax",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27671\",\"10:20 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
       "title": "Kill The Jockey",
       "theater": "Film Forum",
       "showtimes": [
@@ -545,6 +616,22 @@
       "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6533?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "2046 [4K DCP]",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27675\",\"4:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "Twin Peaks circa 2017 || Parts 7-9",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27678\",\"9:15 PM\")"
       ]
     },
     {
@@ -649,6 +736,14 @@
       "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1330/seats\",\"10:00 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "Twin Peaks circa 2017 || Parts 16-18",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27688\",\"9:00 PM\")"
       ]
     },
     {
@@ -773,6 +868,14 @@
     },
     {
       "date": "Fri, Aug 8",
+      "title": "Suspended Time",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27568\",\"6:00 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8",
       "title": "An Officer And A Spy",
       "theater": "Film Forum",
       "showtimes": [
@@ -880,6 +983,22 @@
       "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1340/seats\",\"9:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "Zola",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27576\",\"5:15 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "Belly [DCP]",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27582\",\"10:30 PM\")"
       ]
     },
     {
@@ -1019,6 +1138,14 @@
     },
     {
       "date": "Sun, Aug 10",
+      "title": "Four Adventures of Reinette and Mirabelle",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27585\",\"11:00 AM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
       "title": "An Officer And A Spy",
       "theater": "Film Forum",
       "showtimes": [
@@ -1125,6 +1252,25 @@
       "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1348/seats\",\"9:50 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10Sunday",
+      "title": "Nashville",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27647\",\"11:30 AM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27588\",\"1:45 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27630\",\"3:10 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10Sunday",
+      "title": "Belly [35mm]",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27652\",\"7:30 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27591\",\"9:30 PM\")"
       ]
     },
     {
@@ -1575,6 +1721,117 @@
       ]
     },
     {
+      "date": "Fri, Aug 15Friday",
+      "title": "A River Called Titas",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27645\",\"2:20 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27629\",\"3:00 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 15Friday",
+      "title": "Whisky",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27649\",\"1:00 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27636\",\"6:10 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 15Friday",
+      "title": "Summer Hours",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27656\",\"5:35 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27631\",\"6:15 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 15Friday",
+      "title": "Clouds of Sils Maria",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27644\",\"5:25 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27635\",\"8:15 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 15Friday",
+      "title": "Natural Born Killers",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27632\",\"8:20 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27653\",\"9:35 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 15Friday",
+      "title": "Battle Royale",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27650\",\"2:40 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27633\",\"10:45 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 15Friday",
+      "title": "Requiem for a Dream",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27639\",\"5:10 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27634\",\"10:50 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "Late August, Early September",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27637\",\"12:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "The Girl Can't Help It",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27646\",\"12:15 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "Hard to Be a God",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27640\",\"7:20 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "Madame X: An Absolute Ruler",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27643\",\"8:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "Possession",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27641\",\"10:45 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "Querelle",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27642\",\"10:50 PM\")"
+      ]
+    },
+    {
       "date": "Sat, Aug 16",
       "title": "An Officer And A Spy",
       "theater": "Film Forum",
@@ -1681,6 +1938,47 @@
       "theater": "BAM",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49387\",\"7:15 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16Saturday",
+      "title": "Happiness",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27638\",\"2:15 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27657\",\"3:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "Boyfriends and Girlfriends",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27648\",\"11:00 AM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "Hedwig and the Angry Inch",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27651\",\"5:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "Shortbus",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27655\",\"7:35 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "Made in Hong Kong",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27654\",\"9:45 PM\")"
       ]
     },
     {
@@ -1970,6 +2268,67 @@
       ]
     },
     {
+      "date": "Fri, Aug 1Friday",
+      "title": "Nostalghia",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27676\",\"6:40 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1Friday",
+      "title": "Desperately Seeking Susan: 40th Anniversary",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27556\",\"10:35 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1Friday",
+      "title": "Harvest",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27546\",\"12:00 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27669\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27561\",\"6:00 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27680\",\"7:00 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27684\",\"7:40 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27667\",\"9:15 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1Friday",
+      "title": "Taxi zum Klo",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27666\",\"7:00 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27670\",\"8:20 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27552\",\"8:25 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27566\",\"8:30 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27540\",\"8:40 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27681\",\"9:45 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27685\",\"10:15 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1Friday",
+      "title": "Holy Motors",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27553\",\"10:25 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27541\",\"10:45 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 1Friday",
+      "title": "Stranger Than Paradise",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27554\",\"2:35 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27543\",\"11:00 PM\")"
+      ]
+    },
+    {
       "date": "Wed, Aug 20",
       "title": "An Officer And A Spy",
       "theater": "Film Forum",
@@ -2132,6 +2491,22 @@
     },
     {
       "date": "Fri, Aug 22",
+      "title": "All About Lily Chou-Chou",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27689\",\"3:20 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
+      "title": "ACE Presents: Wet Hot American Summer",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27695\",\"7:30 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
       "title": "Lady Snowblood",
       "theater": "Film Forum",
       "showtimes": [
@@ -2184,6 +2559,68 @@
       "theater": "BAM",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49512\",\"9:00 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 22Friday",
+      "title": "Days of Heaven",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27707\",\"2:20 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27693\",\"3:20 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 22Friday",
+      "title": "Come Drink with Me",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27699\",\"4:45 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27694\",\"5:25 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 22Friday",
+      "title": "Pripyat",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27702\",\"12:00 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27690\",\"6:10 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 22Friday",
+      "title": "Spacked Out",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27712\",\"7:45 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27691\",\"8:15 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 22Friday",
+      "title": "Burst City",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27713\",\"9:40 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27692\",\"10:10 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 22Friday",
+      "title": "Titane",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27696\",\"10:15 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27705\",\"10:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
+      "title": "Apocalypse Now: Redux",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27700\",\"6:45 PM\")"
       ]
     },
     {
@@ -2240,6 +2677,68 @@
       "theater": "BAM",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49520\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 23Saturday",
+      "title": "Pauline at the Beach",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27697\",\"12:00 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27708\",\"7:40 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 23Saturday",
+      "title": "Once Upon a Time in China",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27706\",\"11:40 AM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27698\",\"2:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 23Saturday",
+      "title": "House of Hummingbird",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27715\",\"11:35 AM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27714\",\"2:10 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 23Saturday",
+      "title": "The Mouth Agape",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27710\",\"2:30 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27703\",\"5:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 23Saturday",
+      "title": "Dilwale Dulhania Le Jayenge",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27711\",\"4:15 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27704\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 23Saturday",
+      "title": "The Grandmaster",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27709\",\"9:45 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27701\",\"10:40 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "Les Destinees Sentimentales",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27716\",\"4:15 PM\")"
       ]
     },
     {
@@ -2615,6 +3114,34 @@
       ]
     },
     {
+      "date": "Sat, Aug 2Saturday",
+      "title": "Out of Sight",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27547\",\"12:00 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27686\",\"4:15 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27564\",\"9:50 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2Saturday",
+      "title": "3 Faces",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27558\",\"12:00 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27550\",\"4:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2Saturday",
+      "title": "I'm Not There",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27679\",\"4:15 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27549\",\"4:40 PM\")"
+      ]
+    },
+    {
       "date": "Sat, Aug 30",
       "title": "Sanatorium Under The Sign Of",
       "theater": "Film Forum",
@@ -2724,6 +3251,158 @@
       "theater": "Film Forum",
       "showtimes": [
         "=HYPERLINK(\"https://my.filmforum.org/crouching-tiger-hidden-dragon-wia/45042\",\"5:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3Sunday",
+      "title": "The Good, the Bad and the Ugly",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27557\",\"11:45 AM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27574\",\"11:45 AM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3Sunday",
+      "title": "No Bears",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27559\",\"2:00 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27682\",\"3:40 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3Sunday",
+      "title": "A Brighter Summer Day",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27562\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27673\",\"6:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3Sunday",
+      "title": "The Masque Of The Red Death",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27560\",\"4:10 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27683\",\"5:50 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3Sunday",
+      "title": "Office Killer",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27563\",\"7:30 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27674\",\"10:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3Sunday",
+      "title": "Suspiria [4K DCP]",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27687\",\"6:50 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27661\",\"10:30 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8Friday",
+      "title": "Kundun",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27584\",\"11:00 AM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27567\",\"3:20 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8Friday",
+      "title": "Better Days",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27625\",\"12:00 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27624\",\"3:30 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8Friday",
+      "title": "The Green Room",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27573\",\"6:10 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27579\",\"6:50 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8Friday",
+      "title": "Non-Fiction",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27593\",\"7:25 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27572\",\"8:10 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8Friday",
+      "title": "One Hour Photo",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27569\",\"8:15 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27583\",\"10:35 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8Friday",
+      "title": "School in the Crosshairs",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27592\",\"9:35 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27570\",\"10:15 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8Friday",
+      "title": "Mala Noche",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27577\",\"5:00 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27571\",\"10:20 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9Saturday",
+      "title": "How Green Was My Valley",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27586\",\"1:00 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27578\",\"2:40 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9Saturday",
+      "title": "Far From Heaven",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27575\",\"3:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9Saturday",
+      "title": "Instrument",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27587\",\"3:20 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27581\",\"7:40 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9Saturday",
+      "title": "Macumba",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27594\",\"5:35 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27580\",\"8:45 PM\")"
       ]
     },
     {
@@ -3057,1078 +3736,6 @@
         "=HYPERLINK(\"https://my.filmforum.org/predators/44741\",\"4:40 PM\")",
         "=HYPERLINK(\"https://my.filmforum.org/predators/44722\",\"6:50 PM\")",
         "=HYPERLINK(\"https://my.filmforum.org/predators/44733\",\"9:00 PM\")"
-      ]
-    },
-    {
-      "date": "FriAugust 1",
-      "title": "Taxi zum Klo",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27540\",\"8:40 PM\")"
-      ]
-    },
-    {
-      "date": "FriAugust 1",
-      "title": "Holy Motors",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27541\",\"10:45 PM\")"
-      ]
-    },
-    {
-      "date": "FriAugust 1",
-      "title": "Stranger Than Paradise",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27543\",\"11:00 PM\")"
-      ]
-    },
-    {
-      "date": "FriAugust 15",
-      "title": "Nashville",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27630\",\"3:10 PM\")"
-      ]
-    },
-    {
-      "date": "FriAugust 15",
-      "title": "A River Called Titas",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27629\",\"3:00 PM\")"
-      ]
-    },
-    {
-      "date": "FriAugust 15",
-      "title": "Whisky",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27636\",\"6:10 PM\")"
-      ]
-    },
-    {
-      "date": "FriAugust 15",
-      "title": "Summer Hours",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27631\",\"6:15 PM\")"
-      ]
-    },
-    {
-      "date": "FriAugust 15",
-      "title": "Clouds of Sils Maria",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27635\",\"8:15 PM\")"
-      ]
-    },
-    {
-      "date": "FriAugust 15",
-      "title": "Natural Born Killers",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27632\",\"8:20 PM\")"
-      ]
-    },
-    {
-      "date": "FriAugust 15",
-      "title": "Battle Royale",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27633\",\"10:45 PM\")"
-      ]
-    },
-    {
-      "date": "FriAugust 15",
-      "title": "Requiem for a Dream",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27634\",\"10:50 PM\")"
-      ]
-    },
-    {
-      "date": "FriAugust 22",
-      "title": "All About Lily Chou-Chou",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27689\",\"3:20 PM\")"
-      ]
-    },
-    {
-      "date": "FriAugust 22",
-      "title": "Days of Heaven",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27693\",\"3:20 PM\")"
-      ]
-    },
-    {
-      "date": "FriAugust 22",
-      "title": "Come Drink with Me",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27694\",\"5:25 PM\")"
-      ]
-    },
-    {
-      "date": "FriAugust 22",
-      "title": "Pripyat",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27690\",\"6:10 PM\")"
-      ]
-    },
-    {
-      "date": "FriAugust 22",
-      "title": "ACE Presents: Wet Hot American Summer",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27695\",\"7:30 PM\")"
-      ]
-    },
-    {
-      "date": "FriAugust 22",
-      "title": "Spacked Out",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27691\",\"8:15 PM\")"
-      ]
-    },
-    {
-      "date": "FriAugust 22",
-      "title": "Burst City",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27692\",\"10:10 PM\")"
-      ]
-    },
-    {
-      "date": "FriAugust 22",
-      "title": "Titane",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27696\",\"10:15 PM\")"
-      ]
-    },
-    {
-      "date": "FriAugust 8",
-      "title": "Kundun",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27567\",\"3:20 PM\")"
-      ]
-    },
-    {
-      "date": "FriAugust 8",
-      "title": "Better Days",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27624\",\"3:30 PM\")"
-      ]
-    },
-    {
-      "date": "FriAugust 8",
-      "title": "Suspended Time",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27568\",\"6:00 PM\")"
-      ]
-    },
-    {
-      "date": "FriAugust 8",
-      "title": "The Green Room",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27573\",\"6:10 PM\")"
-      ]
-    },
-    {
-      "date": "FriAugust 8",
-      "title": "Non-Fiction",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27572\",\"8:10 PM\")"
-      ]
-    },
-    {
-      "date": "FriAugust 8",
-      "title": "One Hour Photo",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27569\",\"8:15 PM\")"
-      ]
-    },
-    {
-      "date": "FriAugust 8",
-      "title": "School in the Crosshairs",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27570\",\"10:15 PM\")"
-      ]
-    },
-    {
-      "date": "FriAugust 8",
-      "title": "Mala Noche",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27571\",\"10:20 PM\")"
-      ]
-    },
-    {
-      "date": "MonAugust 4",
-      "title": "Harvest",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27667\",\"9:15 PM\")"
-      ]
-    },
-    {
-      "date": "MonAugust 4",
-      "title": "Taxi zum Klo",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27666\",\"7:00 PM\")"
-      ]
-    },
-    {
-      "date": "MonAugust 4",
-      "title": "Punch-Drunk Love",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27662\",\"4:40 PM\")"
-      ]
-    },
-    {
-      "date": "MonAugust 4",
-      "title": "Party Girl",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27665\",\"4:45 PM\")"
-      ]
-    },
-    {
-      "date": "MonAugust 4",
-      "title": "Still Life [35mm]",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27663\",\"6:45 PM\")"
-      ]
-    },
-    {
-      "date": "MonAugust 4",
-      "title": "Twin Peaks circa 2017 || Parts 1-3",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27677\",\"9:00 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 16",
-      "title": "A River Called Titas",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27645\",\"2:20 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 16",
-      "title": "Clouds of Sils Maria",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27644\",\"5:25 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 16",
-      "title": "Requiem for a Dream",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27639\",\"5:10 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 16",
-      "title": "Late August, Early September",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27637\",\"12:00 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 16",
-      "title": "The Girl Can't Help It",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27646\",\"12:15 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 16",
-      "title": "Happiness",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27638\",\"2:15 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 16",
-      "title": "Hard to Be a God",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27640\",\"7:20 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 16",
-      "title": "Madame X: An Absolute Ruler",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27643\",\"8:00 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 16",
-      "title": "Possession",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27641\",\"10:45 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 16",
-      "title": "Querelle",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27642\",\"10:50 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 2",
-      "title": "Desperately Seeking Susan: 40th Anniversary",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27556\",\"10:35 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 2",
-      "title": "Harvest",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27546\",\"12:00 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 2",
-      "title": "Taxi zum Klo",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27552\",\"8:25 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 2",
-      "title": "Holy Motors",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27553\",\"10:25 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 2",
-      "title": "Stranger Than Paradise",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27554\",\"2:35 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 2",
-      "title": "Out of Sight",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27547\",\"12:00 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 2",
-      "title": "This Long Century presents: Amiel Courtin-Wilson",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27548\",\"2:30 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 2",
-      "title": "3 Faces",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27550\",\"4:30 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 2",
-      "title": "I'm Not There",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27549\",\"4:40 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 2",
-      "title": "Passages",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27551\",\"6:30 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 23",
-      "title": "Come Drink with Me",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27699\",\"4:45 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 23",
-      "title": "Pripyat",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27702\",\"12:00 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 23",
-      "title": "Titane",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27705\",\"10:30 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 23",
-      "title": "Pauline at the Beach",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27697\",\"12:00 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 23",
-      "title": "Once Upon a Time in China",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27698\",\"2:00 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 23",
-      "title": "House of Hummingbird",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27714\",\"2:10 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 23",
-      "title": "The Mouth Agape",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27703\",\"5:00 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 23",
-      "title": "Apocalypse Now: Redux",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27700\",\"6:45 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 23",
-      "title": "Dilwale Dulhania Le Jayenge",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27704\",\"7:00 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 23",
-      "title": "The Grandmaster",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27701\",\"10:40 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 9",
-      "title": "The Good, the Bad and the Ugly",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27574\",\"11:45 AM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 9",
-      "title": "Better Days",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27625\",\"12:00 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 9",
-      "title": "The Green Room",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27579\",\"6:50 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 9",
-      "title": "One Hour Photo",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27583\",\"10:35 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 9",
-      "title": "Mala Noche",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27577\",\"5:00 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 9",
-      "title": "How Green Was My Valley",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27578\",\"2:40 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 9",
-      "title": "Far From Heaven",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27575\",\"3:00 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 9",
-      "title": "Zola",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27576\",\"5:15 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 9",
-      "title": "Instrument",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27581\",\"7:40 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 9",
-      "title": "Macumba",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27580\",\"8:45 PM\")"
-      ]
-    },
-    {
-      "date": "SaturAugust 9",
-      "title": "Belly [DCP]",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27582\",\"10:30 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 10",
-      "title": "Kundun",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27584\",\"11:00 AM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 10",
-      "title": "Non-Fiction",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27593\",\"7:25 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 10",
-      "title": "School in the Crosshairs",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27592\",\"9:35 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 10",
-      "title": "How Green Was My Valley",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27586\",\"1:00 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 10",
-      "title": "Instrument",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27587\",\"3:20 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 10",
-      "title": "Macumba",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27594\",\"5:35 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 10",
-      "title": "Four Adventures of Reinette and Mirabelle",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27585\",\"11:00 AM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 10",
-      "title": "Nashville",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27588\",\"1:45 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 10",
-      "title": "Belly [35mm]",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27591\",\"9:30 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 17",
-      "title": "Nashville",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27647\",\"11:30 AM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 17",
-      "title": "Belly [35mm]",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27652\",\"7:30 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 17",
-      "title": "Whisky",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27649\",\"1:00 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 17",
-      "title": "Summer Hours",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27656\",\"5:35 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 17",
-      "title": "Natural Born Killers",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27653\",\"9:35 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 17",
-      "title": "Battle Royale",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27650\",\"2:40 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 17",
-      "title": "Happiness",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27657\",\"3:00 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 17",
-      "title": "Boyfriends and Girlfriends",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27648\",\"11:00 AM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 17",
-      "title": "Hedwig and the Angry Inch",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27651\",\"5:00 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 17",
-      "title": "Shortbus",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27655\",\"7:35 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 17",
-      "title": "Made in Hong Kong",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27654\",\"9:45 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 24",
-      "title": "Days of Heaven",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27707\",\"2:20 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 24",
-      "title": "Spacked Out",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27712\",\"7:45 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 24",
-      "title": "Burst City",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27713\",\"9:40 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 24",
-      "title": "Pauline at the Beach",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27708\",\"7:40 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 24",
-      "title": "Once Upon a Time in China",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27706\",\"11:40 AM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 24",
-      "title": "House of Hummingbird",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27715\",\"11:35 AM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 24",
-      "title": "The Mouth Agape",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27710\",\"2:30 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 24",
-      "title": "Dilwale Dulhania Le Jayenge",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27711\",\"4:15 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 24",
-      "title": "The Grandmaster",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27709\",\"9:45 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 24",
-      "title": "Les Destinees Sentimentales",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27716\",\"4:15 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 3",
-      "title": "Harvest",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27561\",\"6:00 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 3",
-      "title": "Taxi zum Klo",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27566\",\"8:30 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 3",
-      "title": "Out of Sight",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27564\",\"9:50 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 3",
-      "title": "3 Faces",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27558\",\"12:00 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 3",
-      "title": "The Good, the Bad and the Ugly",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27557\",\"11:45 AM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 3",
-      "title": "No Bears",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27559\",\"2:00 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 3",
-      "title": "A Brighter Summer Day",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27562\",\"3:00 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 3",
-      "title": "The Masque Of The Red Death",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27560\",\"4:10 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 3",
-      "title": "Office Killer",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27563\",\"7:30 PM\")"
-      ]
-    },
-    {
-      "date": "SunAugust 3",
-      "title": "Suspiria [4K DCP]",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27661\",\"10:30 PM\")"
-      ]
-    },
-    {
-      "date": "ThursAugust 7",
-      "title": "Harvest",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27684\",\"7:40 PM\")"
-      ]
-    },
-    {
-      "date": "ThursAugust 7",
-      "title": "Taxi zum Klo",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27685\",\"10:15 PM\")"
-      ]
-    },
-    {
-      "date": "ThursAugust 7",
-      "title": "Out of Sight",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27686\",\"4:15 PM\")"
-      ]
-    },
-    {
-      "date": "ThursAugust 7",
-      "title": "No Bears",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27682\",\"3:40 PM\")"
-      ]
-    },
-    {
-      "date": "ThursAugust 7",
-      "title": "The Masque Of The Red Death",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27683\",\"5:50 PM\")"
-      ]
-    },
-    {
-      "date": "ThursAugust 7",
-      "title": "Suspiria [4K DCP]",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27687\",\"6:50 PM\")"
-      ]
-    },
-    {
-      "date": "ThursAugust 7",
-      "title": "Twin Peaks circa 2017 || Parts 16-18",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27688\",\"9:00 PM\")"
-      ]
-    },
-    {
-      "date": "TuesAugust 5",
-      "title": "Harvest",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27669\",\"5:45 PM\")"
-      ]
-    },
-    {
-      "date": "TuesAugust 5",
-      "title": "Taxi zum Klo",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27670\",\"8:20 PM\")"
-      ]
-    },
-    {
-      "date": "TuesAugust 5",
-      "title": "A Brighter Summer Day",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27673\",\"6:00 PM\")"
-      ]
-    },
-    {
-      "date": "TuesAugust 5",
-      "title": "Office Killer",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27674\",\"10:30 PM\")"
-      ]
-    },
-    {
-      "date": "TuesAugust 5",
-      "title": "Taxi Tehran",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27668\",\"4:00 PM\")"
-      ]
-    },
-    {
-      "date": "TuesAugust 5",
-      "title": "A Woman is a Woman",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27672\",\"4:10 PM\")"
-      ]
-    },
-    {
-      "date": "TuesAugust 5",
-      "title": "Climax",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27671\",\"10:20 PM\")"
-      ]
-    },
-    {
-      "date": "WednesAugust 6",
-      "title": "Nostalghia",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27676\",\"6:40 PM\")"
-      ]
-    },
-    {
-      "date": "WednesAugust 6",
-      "title": "Harvest",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27680\",\"7:00 PM\")"
-      ]
-    },
-    {
-      "date": "WednesAugust 6",
-      "title": "Taxi zum Klo",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27681\",\"9:45 PM\")"
-      ]
-    },
-    {
-      "date": "WednesAugust 6",
-      "title": "I'm Not There",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27679\",\"4:15 PM\")"
-      ]
-    },
-    {
-      "date": "WednesAugust 6",
-      "title": "2046 [4K DCP]",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27675\",\"4:00 PM\")"
-      ]
-    },
-    {
-      "date": "WednesAugust 6",
-      "title": "Twin Peaks circa 2017 || Parts 7-9",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27678\",\"9:15 PM\")"
       ]
     }
   ]
