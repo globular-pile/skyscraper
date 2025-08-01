@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-08-01T17:51:36.896804",
+  "lastUpdated": "2025-08-01T18:16:53.834738",
   "movies": [
     {
       "date": "Fri, Aug 1",
-      "title": "Beau Geste. 1926. Directed by Herbert Brenon",
+      "title": "Beau Geste",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10737\",\"7:00 PM\")"
@@ -59,7 +59,15 @@
     },
     {
       "date": "Sat, Aug 2",
-      "title": "Saxophon-Susi (Miss Saxophone).1928. Directed by Karel Lama\u010d\nKo-Ko's Magic. 1928. Directed by Dave Fleischer",
+      "title": "Desperately Seeking Susan",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27556\",\"10:35 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2",
+      "title": "Saxophon-Susi (Miss Saxophone)",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10738\",\"7:00 PM\")"
@@ -99,7 +107,7 @@
     },
     {
       "date": "Sun, Aug 3",
-      "title": "Street Angel. 1928. Directed by Frank Borzage\nKo-Ko's Hot Dog. 1928. Directed by Dave Fleischer",
+      "title": "Street Angel",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10739\",\"4:00 PM\")"
@@ -179,7 +187,7 @@
     },
     {
       "date": "Mon, Aug 4",
-      "title": "Die Stra\u00dfe (The Street). 1923. Directed by Karl Grune",
+      "title": "Die Stra\u00dfe (The Street)",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10740\",\"7:00 PM\")"
@@ -267,7 +275,7 @@
     },
     {
       "date": "Tue, Aug 5",
-      "title": "Memory Lane. 1926. Directed by John M. Stahl\nDog Heaven. 1927. Directed by RobertA. McGowan (as Anthony Mack)",
+      "title": "Memory Lane",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10741\",\"7:00 PM\")"
@@ -355,7 +363,7 @@
     },
     {
       "date": "Thu, Aug 7",
-      "title": "The Man Who Would Be King.1975. Directed by John Huston",
+      "title": "The Man Who Would Be King",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10699\",\"7:00 PM\")"
@@ -411,7 +419,7 @@
     },
     {
       "date": "Fri, Aug 8",
-      "title": "Hamlet at Elsinore. 1965. Directed by Philip Saville",
+      "title": "Hamlet at Elsinore",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10784\",\"4:00 PM\")"
@@ -419,7 +427,7 @@
     },
     {
       "date": "Fri, Aug 8",
-      "title": "Alfie. 1966. Directed by Lewis Gilbert",
+      "title": "Alfie",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10700\",\"7:30 PM\")"
@@ -516,7 +524,7 @@
     },
     {
       "date": "Sat, Aug 9",
-      "title": "The Ipcress File. 1965. Directed by Sidney J. Furie",
+      "title": "The Ipcress File",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10701\",\"1:30 PM\")"
@@ -524,7 +532,7 @@
     },
     {
       "date": "Sat, Aug 9",
-      "title": "Funeral in Berlin. 1966. Directed by Guy Hamilton",
+      "title": "Funeral in Berlin",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10778\",\"4:00 PM\")"
@@ -532,7 +540,7 @@
     },
     {
       "date": "Sat, Aug 9",
-      "title": "Billion Dollar Brain. 1967. Directed by Ken Russell",
+      "title": "Billion Dollar Brain",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10781\",\"7:00 PM\")"
@@ -636,7 +644,7 @@
     },
     {
       "date": "Sun, Aug 10",
-      "title": "X Y & Zee. 1972. Directed by Brian G. Hutton",
+      "title": "X Y & Zee",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10779\",\"1:30 PM\")"
@@ -644,7 +652,7 @@
     },
     {
       "date": "Sun, Aug 10",
-      "title": "Zulu. 1964. Directed by Cy Endfield",
+      "title": "Zulu",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10702\",\"4:00 PM\")"
@@ -735,7 +743,7 @@
     },
     {
       "date": "Mon, Aug 11",
-      "title": "X Y & Zee. 1972. Directed by Brian G. Hutton",
+      "title": "X Y & Zee",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10779\",\"4:00 PM\")"
@@ -743,7 +751,7 @@
     },
     {
       "date": "Mon, Aug 11",
-      "title": "The Romantic Englishwoman.1975. Directed by Joseph Losey",
+      "title": "The Romantic Englishwoman",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10703\",\"7:00 PM\")"
@@ -831,7 +839,7 @@
     },
     {
       "date": "Tue, Aug 12",
-      "title": "The Man Who Would Be King.1975. Directed by John Huston",
+      "title": "The Man Who Would Be King",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10699\",\"4:00 PM\")"
@@ -839,7 +847,7 @@
     },
     {
       "date": "Tue, Aug 12",
-      "title": "Zulu. 1964. Directed by Cy Endfield",
+      "title": "Zulu",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10702\",\"7:00 PM\")"
@@ -879,7 +887,7 @@
     },
     {
       "date": "Wed, Aug 13",
-      "title": "The Last Valley. 1971. Writtenand directed by James Clavell",
+      "title": "The Last Valley",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10704\",\"4:00 PM\")"
@@ -887,7 +895,7 @@
     },
     {
       "date": "Wed, Aug 13",
-      "title": "Hamlet at Elsinore. 1965. Directed by Philip Saville",
+      "title": "Hamlet at Elsinore",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10784\",\"7:00 PM\")"
@@ -927,7 +935,7 @@
     },
     {
       "date": "Thu, Aug 14",
-      "title": "The Wilby Conspiracy. 1975. Directed by Ralph Nelson",
+      "title": "The Wilby Conspiracy",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10785\",\"4:00 PM\")"
@@ -935,7 +943,7 @@
     },
     {
       "date": "Thu, Aug 14",
-      "title": "The Last Valley. 1971. Writtenand directed by James Clavell",
+      "title": "The Last Valley",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10704\",\"6:30 PM\")"
@@ -983,7 +991,7 @@
     },
     {
       "date": "Fri, Aug 15",
-      "title": "Pulp. 1972. Written and directed by Mike Hodges",
+      "title": "Pulp",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10705\",\"4:00 PM\")"
@@ -991,7 +999,7 @@
     },
     {
       "date": "Fri, Aug 15",
-      "title": "Get Carter. 1971. Directed by Mike Hodges",
+      "title": "Get Carter",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10707\",\"6:30 PM\")"
@@ -1126,7 +1134,7 @@
     },
     {
       "date": "Sat, Aug 16",
-      "title": "Educating Rita. 1983. Directed by Lewis Gilbert",
+      "title": "Educating Rita",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10708\",\"1:30 PM\")"
@@ -1134,7 +1142,7 @@
     },
     {
       "date": "Sat, Aug 16",
-      "title": "Alfie. 1966. Directed by Lewis Gilbert",
+      "title": "Alfie",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10700\",\"4:00 PM\")"
@@ -1142,7 +1150,7 @@
     },
     {
       "date": "Sat, Aug 16",
-      "title": "The Italian Job. 1969. Directed by Peter Collinson",
+      "title": "The Italian Job",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10709\",\"6:30 PM\")"
@@ -1233,7 +1241,7 @@
     },
     {
       "date": "Sun, Aug 17",
-      "title": "Get Carter. 1971. Directed by Mike Hodges",
+      "title": "Get Carter",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10707\",\"1:30 PM\")"
@@ -1241,7 +1249,7 @@
     },
     {
       "date": "Sun, Aug 17",
-      "title": "Pulp. 1972. Written and directed by Mike Hodges",
+      "title": "Pulp",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10705\",\"4:00 PM\")"
@@ -1297,7 +1305,7 @@
     },
     {
       "date": "Mon, Aug 18",
-      "title": "Children of Men. 2006. Directed by Alfonso Cuar\u00f3n",
+      "title": "Children of Men",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10710\",\"4:00 PM\")"
@@ -1305,7 +1313,7 @@
     },
     {
       "date": "Mon, Aug 18",
-      "title": "The Wilby Conspiracy. 1975. Directed by Ralph Nelson",
+      "title": "The Wilby Conspiracy",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10785\",\"6:30 PM\")"
@@ -1329,7 +1337,7 @@
     },
     {
       "date": "Tue, Aug 19",
-      "title": "The Romantic Englishwoman.1975. Directed by Joseph Losey",
+      "title": "The Romantic Englishwoman",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10703\",\"4:00 PM\")"
@@ -1337,7 +1345,7 @@
     },
     {
       "date": "Tue, Aug 19",
-      "title": "Children of Men. 2006. Directed by Alfonso Cuar\u00f3n",
+      "title": "Children of Men",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10710\",\"7:00 PM\")"
@@ -1357,14 +1365,6 @@
       "theater": "BAM",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49384\",\"8:00 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 1Friday",
-      "title": "Desperately Seeking Susan",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27556\",\"10:35 PM\")"
       ]
     },
     {
@@ -1414,7 +1414,7 @@
     },
     {
       "date": "Wed, Aug 20",
-      "title": "Hannah and Her Sisters. 1986.Written and directed by Woody Allen",
+      "title": "Hannah and Her Sisters",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10711\",\"4:00 PM\")"
@@ -1422,7 +1422,7 @@
     },
     {
       "date": "Wed, Aug 20",
-      "title": "Educating Rita. 1983. Directed by Lewis Gilbert",
+      "title": "Educating Rita",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10708\",\"7:00 PM\")"
@@ -1454,7 +1454,7 @@
     },
     {
       "date": "Thu, Aug 21",
-      "title": "The Italian Job. 1969. Directed by Peter Collinson",
+      "title": "The Italian Job",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10709\",\"4:00 PM\")"
