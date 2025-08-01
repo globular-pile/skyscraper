@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2025-08-01T17:28:04.922756",
+  "lastUpdated": "2025-08-01T17:51:36.896804",
   "movies": [
     {
       "date": "Fri, Aug 1",
-      "title": "Beau Geste",
+      "title": "Beau Geste. 1926. Directed by Herbert Brenon",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10737\",\"7:00 PM\")"
@@ -19,7 +19,7 @@
     },
     {
       "date": "Fri, Aug 1",
-      "title": "Christiane F. (New 4K Restoration) (1981)",
+      "title": "Christiane F. (1981)",
       "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6516?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"9:45 PM\")"
@@ -43,7 +43,7 @@
     },
     {
       "date": "Sat, Aug 2",
-      "title": "This Long Century presents: Amiel Courtin-Wilson",
+      "title": "Amiel Courtin-Wilson",
       "theater": "Metrograph",
       "showtimes": [
         "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27548\",\"2:30 PM\")"
@@ -59,7 +59,7 @@
     },
     {
       "date": "Sat, Aug 2",
-      "title": "Saxophon-Susi (Miss Saxophone)",
+      "title": "Saxophon-Susi (Miss Saxophone).1928. Directed by Karel Lama\u010d\nKo-Ko's Magic. 1928. Directed by Dave Fleischer",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10738\",\"7:00 PM\")"
@@ -99,7 +99,7 @@
     },
     {
       "date": "Sun, Aug 3",
-      "title": "Street Angel",
+      "title": "Street Angel. 1928. Directed by Frank Borzage\nKo-Ko's Hot Dog. 1928. Directed by Dave Fleischer",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10739\",\"4:00 PM\")"
@@ -179,7 +179,7 @@
     },
     {
       "date": "Mon, Aug 4",
-      "title": "Die Stra\u00dfe (The Street)",
+      "title": "Die Stra\u00dfe (The Street). 1923. Directed by Karl Grune",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10740\",\"7:00 PM\")"
@@ -267,7 +267,7 @@
     },
     {
       "date": "Tue, Aug 5",
-      "title": "Memory Lane",
+      "title": "Memory Lane. 1926. Directed by John M. Stahl\nDog Heaven. 1927. Directed by RobertA. McGowan (as Anthony Mack)",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10741\",\"7:00 PM\")"
@@ -355,7 +355,7 @@
     },
     {
       "date": "Thu, Aug 7",
-      "title": "The Man Who Would Be King",
+      "title": "The Man Who Would Be King.1975. Directed by John Huston",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10699\",\"7:00 PM\")"
@@ -411,7 +411,7 @@
     },
     {
       "date": "Fri, Aug 8",
-      "title": "Hamlet at Elsinore",
+      "title": "Hamlet at Elsinore. 1965. Directed by Philip Saville",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10784\",\"4:00 PM\")"
@@ -419,7 +419,7 @@
     },
     {
       "date": "Fri, Aug 8",
-      "title": "Alfie",
+      "title": "Alfie. 1966. Directed by Lewis Gilbert",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10700\",\"7:30 PM\")"
@@ -443,7 +443,7 @@
     },
     {
       "date": "Fri, Aug 8",
-      "title": "Christiane F. (New 4K Restoration) (1981)",
+      "title": "Christiane F. (1981)",
       "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6578?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"9:45 PM\")"
@@ -516,7 +516,7 @@
     },
     {
       "date": "Sat, Aug 9",
-      "title": "The Ipcress File",
+      "title": "The Ipcress File. 1965. Directed by Sidney J. Furie",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10701\",\"1:30 PM\")"
@@ -524,7 +524,7 @@
     },
     {
       "date": "Sat, Aug 9",
-      "title": "Funeral in Berlin",
+      "title": "Funeral in Berlin. 1966. Directed by Guy Hamilton",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10778\",\"4:00 PM\")"
@@ -532,7 +532,7 @@
     },
     {
       "date": "Sat, Aug 9",
-      "title": "Billion Dollar Brain",
+      "title": "Billion Dollar Brain. 1967. Directed by Ken Russell",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10781\",\"7:00 PM\")"
@@ -548,7 +548,7 @@
     },
     {
       "date": "Sat, Aug 9",
-      "title": "Brain Dead Studios presents: Alien (1979)",
+      "title": "Alien (1979)",
       "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6568?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"9:30 PM\")"
@@ -636,7 +636,7 @@
     },
     {
       "date": "Sun, Aug 10",
-      "title": "X Y & Zee",
+      "title": "X Y & Zee. 1972. Directed by Brian G. Hutton",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10779\",\"1:30 PM\")"
@@ -644,7 +644,7 @@
     },
     {
       "date": "Sun, Aug 10",
-      "title": "Zulu",
+      "title": "Zulu. 1964. Directed by Cy Endfield",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10702\",\"4:00 PM\")"
@@ -735,7 +735,7 @@
     },
     {
       "date": "Mon, Aug 11",
-      "title": "X Y & Zee",
+      "title": "X Y & Zee. 1972. Directed by Brian G. Hutton",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10779\",\"4:00 PM\")"
@@ -743,7 +743,7 @@
     },
     {
       "date": "Mon, Aug 11",
-      "title": "The Romantic Englishwoman",
+      "title": "The Romantic Englishwoman.1975. Directed by Joseph Losey",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10703\",\"7:00 PM\")"
@@ -831,7 +831,7 @@
     },
     {
       "date": "Tue, Aug 12",
-      "title": "The Man Who Would Be King",
+      "title": "The Man Who Would Be King.1975. Directed by John Huston",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10699\",\"4:00 PM\")"
@@ -839,7 +839,7 @@
     },
     {
       "date": "Tue, Aug 12",
-      "title": "Zulu",
+      "title": "Zulu. 1964. Directed by Cy Endfield",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10702\",\"7:00 PM\")"
@@ -855,7 +855,7 @@
     },
     {
       "date": "Tue, Aug 12",
-      "title": "Christiane F. (New 4K Restoration) (1981)",
+      "title": "Christiane F. (1981)",
       "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6575?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"9:30 PM\")"
@@ -879,7 +879,7 @@
     },
     {
       "date": "Wed, Aug 13",
-      "title": "The Last Valley",
+      "title": "The Last Valley. 1971. Writtenand directed by James Clavell",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10704\",\"4:00 PM\")"
@@ -887,7 +887,7 @@
     },
     {
       "date": "Wed, Aug 13",
-      "title": "Hamlet at Elsinore",
+      "title": "Hamlet at Elsinore. 1965. Directed by Philip Saville",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10784\",\"7:00 PM\")"
@@ -927,7 +927,7 @@
     },
     {
       "date": "Thu, Aug 14",
-      "title": "The Wilby Conspiracy",
+      "title": "The Wilby Conspiracy. 1975. Directed by Ralph Nelson",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10785\",\"4:00 PM\")"
@@ -935,7 +935,7 @@
     },
     {
       "date": "Thu, Aug 14",
-      "title": "The Last Valley",
+      "title": "The Last Valley. 1971. Writtenand directed by James Clavell",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10704\",\"6:30 PM\")"
@@ -951,7 +951,7 @@
     },
     {
       "date": "Thu, Aug 14",
-      "title": "Christiane F. (New 4K Restoration) (1981)",
+      "title": "Christiane F. (1981)",
       "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6577?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"9:45 PM\")"
@@ -983,7 +983,7 @@
     },
     {
       "date": "Fri, Aug 15",
-      "title": "Pulp",
+      "title": "Pulp. 1972. Written and directed by Mike Hodges",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10705\",\"4:00 PM\")"
@@ -991,7 +991,7 @@
     },
     {
       "date": "Fri, Aug 15",
-      "title": "Get Carter",
+      "title": "Get Carter. 1971. Directed by Mike Hodges",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10707\",\"6:30 PM\")"
@@ -999,7 +999,7 @@
     },
     {
       "date": "Fri, Aug 15",
-      "title": "Mixed Blood (New 4K Restoration) (1984)",
+      "title": "Mixed Blood (1984)",
       "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6551?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"7:15 PM\")"
@@ -1126,7 +1126,7 @@
     },
     {
       "date": "Sat, Aug 16",
-      "title": "Educating Rita",
+      "title": "Educating Rita. 1983. Directed by Lewis Gilbert",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10708\",\"1:30 PM\")"
@@ -1134,7 +1134,7 @@
     },
     {
       "date": "Sat, Aug 16",
-      "title": "Alfie",
+      "title": "Alfie. 1966. Directed by Lewis Gilbert",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10700\",\"4:00 PM\")"
@@ -1142,7 +1142,7 @@
     },
     {
       "date": "Sat, Aug 16",
-      "title": "The Italian Job",
+      "title": "The Italian Job. 1969. Directed by Peter Collinson",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10709\",\"6:30 PM\")"
@@ -1150,7 +1150,7 @@
     },
     {
       "date": "Sat, Aug 16",
-      "title": "Mixed Blood (New 4K Restoration) (1984)",
+      "title": "Mixed Blood (1984)",
       "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6556?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"9:45 PM\")"
@@ -1233,7 +1233,7 @@
     },
     {
       "date": "Sun, Aug 17",
-      "title": "Get Carter",
+      "title": "Get Carter. 1971. Directed by Mike Hodges",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10707\",\"1:30 PM\")"
@@ -1241,7 +1241,7 @@
     },
     {
       "date": "Sun, Aug 17",
-      "title": "Pulp",
+      "title": "Pulp. 1972. Written and directed by Mike Hodges",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10705\",\"4:00 PM\")"
@@ -1257,7 +1257,7 @@
     },
     {
       "date": "Sun, Aug 17",
-      "title": "Mixed Blood (New 4K Restoration) (1984)",
+      "title": "Mixed Blood (1984)",
       "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6559?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"8:45 PM\")"
@@ -1297,7 +1297,7 @@
     },
     {
       "date": "Mon, Aug 18",
-      "title": "Children of Men",
+      "title": "Children of Men. 2006. Directed by Alfonso Cuar\u00f3n",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10710\",\"4:00 PM\")"
@@ -1305,7 +1305,7 @@
     },
     {
       "date": "Mon, Aug 18",
-      "title": "The Wilby Conspiracy",
+      "title": "The Wilby Conspiracy. 1975. Directed by Ralph Nelson",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10785\",\"6:30 PM\")"
@@ -1329,7 +1329,7 @@
     },
     {
       "date": "Tue, Aug 19",
-      "title": "The Romantic Englishwoman",
+      "title": "The Romantic Englishwoman.1975. Directed by Joseph Losey",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10703\",\"4:00 PM\")"
@@ -1337,7 +1337,7 @@
     },
     {
       "date": "Tue, Aug 19",
-      "title": "Children of Men",
+      "title": "Children of Men. 2006. Directed by Alfonso Cuar\u00f3n",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10710\",\"7:00 PM\")"
@@ -1414,7 +1414,7 @@
     },
     {
       "date": "Wed, Aug 20",
-      "title": "Hannah and Her Sisters",
+      "title": "Hannah and Her Sisters. 1986.Written and directed by Woody Allen",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10711\",\"4:00 PM\")"
@@ -1422,7 +1422,7 @@
     },
     {
       "date": "Wed, Aug 20",
-      "title": "Educating Rita",
+      "title": "Educating Rita. 1983. Directed by Lewis Gilbert",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10708\",\"7:00 PM\")"
@@ -1454,7 +1454,7 @@
     },
     {
       "date": "Thu, Aug 21",
-      "title": "The Italian Job",
+      "title": "The Italian Job. 1969. Directed by Peter Collinson",
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10709\",\"4:00 PM\")"
@@ -1478,7 +1478,7 @@
     },
     {
       "date": "Fri, Aug 22",
-      "title": "ACE Presents: Wet Hot American Summer",
+      "title": "Wet Hot American Summer",
       "theater": "Metrograph",
       "showtimes": [
         "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27695\",\"7:30 PM\")"
@@ -2177,6 +2177,67 @@
       "showtimes": [
         "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27594\",\"5:35 PM\")",
         "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27580\",\"8:45 PM\")"
+      ]
+    },
+    {
+      "date": "TBD",
+      "title": "",
+      "theater": "Film Forum",
+      "showtimes": [
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)",
+        "None (SOLD OUT)"
       ]
     }
   ]
