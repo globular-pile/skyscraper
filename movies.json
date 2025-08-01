@@ -1,55 +1,6 @@
 {
-  "lastUpdated": "2025-08-01T16:30:47.280845",
+  "lastUpdated": "2025-08-01T17:09:50.650980",
   "movies": [
-    {
-      "date": "Fri, Aug 1",
-      "title": "Kill The Jockey",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45212\",\"8:50 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 1",
-      "title": "Red Beard",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/red-beard-kuro/45247\",\"4:50 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 1",
-      "title": "2000 Meters To Andriivka",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45184\",\"5:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45185\",\"7:50 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 1",
-      "title": "Hearts Of Darkness",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45232\",\"6:40 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 1",
-      "title": "Brazil - 35Mm",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44752\",\"7:00 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 1",
-      "title": "High And Low",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/high-and-low-kurosawa/45248\",\"8:25 PM\")"
-      ]
-    },
     {
       "date": "Fri, Aug 1",
       "title": "Beau Geste",
@@ -72,14 +23,6 @@
       "theater": "Roxy",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6516?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"9:45 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 1",
-      "title": "American Psycho (2000)",
-      "theater": "Paris",
-      "showtimes": [
-        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1316/seats\",\"4:10 PM\")"
       ]
     },
     {
@@ -112,70 +55,6 @@
       "theater": "Metrograph",
       "showtimes": [
         "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27551\",\"6:30 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 2",
-      "title": "Kill The Jockey",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45213\",\"12:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45214\",\"4:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45215\",\"8:50 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 2",
-      "title": "2000 Meters To Andriivka",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45186\",\"1:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45187\",\"3:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45188\",\"5:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45189\",\"7:50 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 2",
-      "title": "Hearts Of Darkness",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45233\",\"2:20 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45234\",\"6:40 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 2",
-      "title": "Brazil - 35Mm",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44759\",\"1:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44769\",\"4:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44753\",\"7:00 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 2",
-      "title": "Throne Of Blood",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/throne-of-blood-kurosawa/45249\",\"12:45 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 2",
-      "title": "Seven Samurai",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/seven-samurai-kurosawa/45251\",\"3:15 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 2",
-      "title": "Ikiru",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/ikiru-kurosawa/45252\",\"7:20 PM\")"
       ]
     },
     {
@@ -216,78 +95,6 @@
       "theater": "Paris",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1319/seats\",\"9:30 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 3",
-      "title": "Kill The Jockey",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45216\",\"12:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45217\",\"4:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45218\",\"8:50 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 3",
-      "title": "2000 Meters To Andriivka",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45190\",\"1:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45191\",\"3:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45192\",\"5:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45193\",\"7:50 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 3",
-      "title": "Hearts Of Darkness",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45235\",\"2:20 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45236\",\"6:40 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 3",
-      "title": "Brazil - 35Mm",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44760\",\"1:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44770\",\"4:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44754\",\"7:00 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 3",
-      "title": "High And Low",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/high-and-low-kurosawa/45255\",\"5:40 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 3",
-      "title": "Rashomon",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/rashomon-kurosawa/45253\",\"12:30 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 3",
-      "title": "Ran",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/ran-kuro/45254\",\"2:30 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 3",
-      "title": "Yojimbo",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/yojimbo-kurosawa/45256\",\"8:35 PM\")"
       ]
     },
     {
@@ -356,7 +163,7 @@
     },
     {
       "date": "Mon, Aug 4",
-      "title": "Still Life [35mm]",
+      "title": "Still Life",
       "theater": "Metrograph",
       "showtimes": [
         "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27663\",\"6:45 PM\")"
@@ -368,78 +175,6 @@
       "theater": "Metrograph",
       "showtimes": [
         "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27677\",\"9:00 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 4",
-      "title": "Kill The Jockey",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45219\",\"12:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45220\",\"4:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45221\",\"8:50 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 4",
-      "title": "2000 Meters To Andriivka",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45194\",\"1:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45195\",\"3:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45196\",\"5:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45197\",\"7:50 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 4",
-      "title": "Hearts Of Darkness",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45237\",\"2:20 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45238\",\"6:40 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 4",
-      "title": "Brazil - 35Mm",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44761\",\"1:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44765\",\"4:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44755\",\"7:00 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 4",
-      "title": "Throne Of Blood",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/throne-of-blood-kurosawa/45257\",\"12:30 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 4",
-      "title": "Ikiru",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/ikiru-kurosawa/45260\",\"8:00 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 4",
-      "title": "Rashomon",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/rashomon-kurosawa/45259\",\"6:00 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 4",
-      "title": "Stray Dog",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/stray-dog-kurosawa/45258\",\"2:50 PM\")"
       ]
     },
     {
@@ -532,78 +267,6 @@
     },
     {
       "date": "Tue, Aug 5",
-      "title": "Kill The Jockey",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45222\",\"12:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45223\",\"4:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45224\",\"8:50 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 5",
-      "title": "2000 Meters To Andriivka",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45198\",\"1:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45199\",\"3:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45200\",\"5:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45201\",\"7:50 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 5",
-      "title": "Hearts Of Darkness",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45239\",\"2:20 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45240\",\"6:40 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 5",
-      "title": "Brazil - 35Mm",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44762\",\"1:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44766\",\"4:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44756\",\"7:00 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 5",
-      "title": "High And Low",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/high-and-low-kurosawa/45264\",\"8:20 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 5",
-      "title": "Rashomon",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/rashomon-kurosawa/45263\",\"6:20 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 5",
-      "title": "Ran",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/ran-kuro/45262\",\"2:30 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 5",
-      "title": "Yojimbo",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/yojimbo-kurosawa/45261\",\"12:20 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 5",
       "title": "Memory Lane",
       "theater": "MoMA",
       "showtimes": [
@@ -620,10 +283,18 @@
     },
     {
       "date": "Wed, Aug 6",
-      "title": "2046 [4K DCP]",
+      "title": "2046",
       "theater": "Metrograph",
       "showtimes": [
         "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27675\",\"4:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "Nostalghia",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27676\",\"6:40 PM\")"
       ]
     },
     {
@@ -632,70 +303,6 @@
       "theater": "Metrograph",
       "showtimes": [
         "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27678\",\"9:15 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Aug 6",
-      "title": "Kill The Jockey",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45225\",\"12:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45226\",\"4:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45227\",\"8:50 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Aug 6",
-      "title": "2000 Meters To Andriivka",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45202\",\"1:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45203\",\"3:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45204\",\"5:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45205\",\"7:50 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Aug 6",
-      "title": "Hearts Of Darkness",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45241\",\"2:20 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45242\",\"6:40 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Aug 6",
-      "title": "Brazil - 35Mm",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44763\",\"1:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44767\",\"4:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44757\",\"7:00 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Aug 6",
-      "title": "Throne Of Blood",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/throne-of-blood-kurosawa/45267\",\"8:10 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Aug 6",
-      "title": "Seven Samurai",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/seven-samurai-kurosawa/45265\",\"1:00 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Aug 6",
-      "title": "Stray Dog",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/stray-dog-kurosawa/45266\",\"5:30 PM\")"
       ]
     },
     {
@@ -744,78 +351,6 @@
       "theater": "Metrograph",
       "showtimes": [
         "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27688\",\"9:00 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Aug 7",
-      "title": "Kill The Jockey",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45228\",\"12:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45229\",\"4:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/kill-the-jockey/45230\",\"8:50 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Aug 7",
-      "title": "2000 Meters To Andriivka",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45206\",\"1:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45207\",\"3:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45208\",\"5:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/2000-meters/45209\",\"7:50 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Aug 7",
-      "title": "Hearts Of Darkness",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45243\",\"2:20 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/hearts-of-darkness/45244\",\"6:40 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Aug 7",
-      "title": "Brazil - 35Mm",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44764\",\"1:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44768\",\"4:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44758\",\"7:00 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Aug 7",
-      "title": "High And Low",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/high-and-low-kurosawa/45268\",\"12:30 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Aug 7",
-      "title": "Yojimbo",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/yojimbo-kurosawa/45269\",\"3:30 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Aug 7",
-      "title": "Sanjuro",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/sanjuro-kurosawa/45270\",\"5:45 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Aug 7",
-      "title": "The Hidden Fortress",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/the-hidden-fortress-kurosawa/45271\",\"7:50 PM\")"
       ]
     },
     {
@@ -872,28 +407,6 @@
       "theater": "Metrograph",
       "showtimes": [
         "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27568\",\"6:00 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 8",
-      "title": "An Officer And A Spy",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44593\",\"12:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44607\",\"3:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44617\",\"5:45 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44631\",\"8:30 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 8",
-      "title": "Who Killed Teddy Bear?",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44870\",\"12:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44871\",\"2:40 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44872\",\"4:50 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44873\",\"7:00 PM\")"
       ]
     },
     {
@@ -995,33 +508,10 @@
     },
     {
       "date": "Sat, Aug 9",
-      "title": "Belly [DCP]",
+      "title": "Belly",
       "theater": "Metrograph",
       "showtimes": [
         "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27582\",\"10:30 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 9",
-      "title": "An Officer And A Spy",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44594\",\"12:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44645\",\"3:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44618\",\"5:45 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44632\",\"8:30 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 9",
-      "title": "Who Killed Teddy Bear?",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44885\",\"12:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44884\",\"2:40 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44883\",\"4:50 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44874\",\"7:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44877\",\"9:10 PM\")"
       ]
     },
     {
@@ -1146,36 +636,6 @@
     },
     {
       "date": "Sun, Aug 10",
-      "title": "An Officer And A Spy",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44595\",\"12:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44646\",\"3:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44619\",\"5:45 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44633\",\"8:30 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 10",
-      "title": "Who Killed Teddy Bear?",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44886\",\"12:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44882\",\"2:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44881\",\"6:10 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44878\",\"8:20 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 10",
-      "title": "Cartoons Lost And Found",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/cartoons-lost-and-found/44906\",\"4:15 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 10",
       "title": "X Y & Zee",
       "theater": "MoMA",
       "showtimes": [
@@ -1266,41 +726,11 @@
     },
     {
       "date": "Sun, Aug 10Sunday",
-      "title": "Belly [35mm]",
+      "title": "Belly",
       "theater": "Metrograph",
       "showtimes": [
         "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27652\",\"7:30 PM\")",
         "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27591\",\"9:30 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 11",
-      "title": "An Officer And A Spy",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44596\",\"12:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44608\",\"3:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44620\",\"5:45 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44634\",\"8:30 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 11",
-      "title": "Who Killed Teddy Bear?",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44887\",\"12:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44889\",\"2:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44890\",\"4:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44879\",\"8:10 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 11",
-      "title": "Musical Cartoons Before The Co",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/musical-cartoons-before-the-code/44908\",\"6:00 PM\")"
       ]
     },
     {
@@ -1401,36 +831,6 @@
     },
     {
       "date": "Tue, Aug 12",
-      "title": "An Officer And A Spy",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44597\",\"12:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44609\",\"3:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44621\",\"5:45 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44635\",\"8:30 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 12",
-      "title": "Who Killed Teddy Bear?",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44888\",\"12:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44891\",\"2:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44892\",\"4:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44880\",\"6:15 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 12",
-      "title": "Funny Pages",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/funny-pages/44904\",\"8:15 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 12",
       "title": "The Man Who Would Be King",
       "theater": "MoMA",
       "showtimes": [
@@ -1479,29 +879,6 @@
     },
     {
       "date": "Wed, Aug 13",
-      "title": "An Officer And A Spy",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44598\",\"12:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44610\",\"3:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44622\",\"5:45 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44636\",\"8:30 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Aug 13",
-      "title": "Who Killed Teddy Bear?",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44893\",\"12:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44894\",\"2:40 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44895\",\"4:50 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44896\",\"7:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44897\",\"9:10 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Aug 13",
       "title": "The Last Valley",
       "theater": "MoMA",
       "showtimes": [
@@ -1546,29 +923,6 @@
       "theater": "BAM",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49365\",\"7:00 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Aug 14",
-      "title": "An Officer And A Spy",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44599\",\"12:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44611\",\"3:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44623\",\"5:45 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44637\",\"8:30 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Aug 14",
-      "title": "Who Killed Teddy Bear?",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44898\",\"12:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44899\",\"2:40 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44900\",\"4:50 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44901\",\"7:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44902\",\"9:10 PM\")"
       ]
     },
     {
@@ -1625,59 +979,6 @@
       "theater": "BAM",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49368\",\"4:00 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 15",
-      "title": "An Officer And A Spy",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44600\",\"12:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44612\",\"3:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44624\",\"5:45 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44638\",\"8:30 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 15",
-      "title": "Crackdown: Chaps 1-3",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44747\",\"12:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44748\",\"4:20 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44909\",\"7:00 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 15",
-      "title": "Irma Vep",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/irma-vep-wia/44962\",\"1:00 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 15",
-      "title": "Gloria",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/gloria-wia/44967\",\"3:10 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 15",
-      "title": "Lady Snowblood",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/lady-snowblood-wia/44975\",\"6:00 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 15",
-      "title": "Alien",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/alien-wia/44977\",\"8:10 PM\")"
       ]
     },
     {
@@ -1833,59 +1134,6 @@
     },
     {
       "date": "Sat, Aug 16",
-      "title": "An Officer And A Spy",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44601\",\"12:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44647\",\"3:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44625\",\"5:45 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44639\",\"8:30 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
-      "title": "Crackdown: Chaps 1-3",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44910\",\"12:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44912\",\"4:20 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44911\",\"7:15 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
-      "title": "Irma Vep",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/irma-vep-wia/44963\",\"3:10 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
-      "title": "Gloria",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/gloria-wia/44968\",\"12:30 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
-      "title": "Alien",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/alien-wia/44978\",\"5:20 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
-      "title": "Aliens",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/aliens-wia/44981\",\"7:50 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
       "title": "Educating Rita",
       "theater": "MoMA",
       "showtimes": [
@@ -1983,59 +1231,6 @@
     },
     {
       "date": "Sun, Aug 17",
-      "title": "An Officer And A Spy",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44602\",\"12:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44648\",\"3:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44626\",\"5:45 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44640\",\"8:30 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "Crackdown: Chaps 1-3",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44913\",\"1:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44914\",\"5:20 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44915\",\"8:20 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "Johnny Guitar",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/johnny-guitar-wia/44983\",\"12:15 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "The Furies",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/the-furies-wia/44987\",\"2:45 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "Forty Guns",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/forty-guns-wia/44989\",\"5:10 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "A Touch Of Zen",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/a-touch-of-zen-wia/44993\",\"7:00 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
       "title": "Get Carter",
       "theater": "MoMA",
       "showtimes": [
@@ -2100,58 +1295,6 @@
     },
     {
       "date": "Mon, Aug 18",
-      "title": "An Officer And A Spy",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44603\",\"12:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44613\",\"3:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44627\",\"5:45 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44641\",\"8:30 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 18",
-      "title": "Crackdown: Chaps 1-3",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44916\",\"1:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44920\",\"6:10 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 18",
-      "title": "Johnny Guitar",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/johnny-guitar-wia/44985\",\"5:45 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 18",
-      "title": "The Furies",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/the-furies-wia/44986\",\"3:10 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 18",
-      "title": "Gun Crazy",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/gun-crazy-wia/44995\",\"12:45 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 18",
-      "title": "Kriemhild'S Revenge",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/kriemhilds-revenge-wia/44998\",\"8:00 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 18",
       "title": "Children of Men",
       "theater": "MoMA",
       "showtimes": [
@@ -2184,59 +1327,6 @@
     },
     {
       "date": "Tue, Aug 19",
-      "title": "An Officer And A Spy",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44604\",\"12:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44614\",\"3:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44628\",\"5:45 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44642\",\"8:30 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 19",
-      "title": "Crackdown: Chaps 1-3",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44918\",\"1:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44922\",\"5:20 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44924\",\"8:00 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 19",
-      "title": "Gloria",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/gloria-wia/44969\",\"12:50 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 19",
-      "title": "Alien",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/alien-wia/44976\",\"3:30 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 19",
-      "title": "Aliens",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/aliens-wia/44982\",\"5:50 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 19",
-      "title": "Ghost In The Shell",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/ghost-in-the-shell-wia/44999\",\"8:50 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 19",
       "title": "The Romantic Englishwoman",
       "theater": "MoMA",
       "showtimes": [
@@ -2265,14 +1355,6 @@
       "theater": "BAM",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49384\",\"8:00 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 1Friday",
-      "title": "Nostalghia",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27676\",\"6:40 PM\")"
       ]
     },
     {
@@ -2330,50 +1412,6 @@
     },
     {
       "date": "Wed, Aug 20",
-      "title": "An Officer And A Spy",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44605\",\"12:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44615\",\"3:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44629\",\"5:45 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44643\",\"8:30 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Aug 20",
-      "title": "Crackdown: Chaps 1-3",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44917\",\"1:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44921\",\"6:10 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Aug 20",
-      "title": "Aliens",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/aliens-wia/44979\",\"1:00 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Aug 20",
-      "title": "Forty Guns",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/forty-guns-wia/44990\",\"6:00 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Aug 20",
-      "title": "Cleopatra Jones",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/cleopatra-jones-wia/45000\",\"4:00 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Aug 20",
       "title": "Hannah and Her Sisters",
       "theater": "MoMA",
       "showtimes": [
@@ -2414,59 +1452,6 @@
     },
     {
       "date": "Thu, Aug 21",
-      "title": "An Officer And A Spy",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44606\",\"12:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44616\",\"3:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44630\",\"5:45 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44644\",\"8:30 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Aug 21",
-      "title": "Crackdown: Chaps 1-3",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44919\",\"1:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44923\",\"5:20 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/my-undesirable-friends/44925\",\"8:00 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Aug 21",
-      "title": "A Touch Of Zen",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/a-touch-of-zen-wia/44991\",\"12:15 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Aug 21",
-      "title": "Cleopatra Jones",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/cleopatra-jones-wia/45001\",\"6:35 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Aug 21",
-      "title": "The Hidden Fortress",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/the-hidden-fortress-wia/45002\",\"3:45 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Aug 21",
-      "title": "Blue Steel",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/blue-steel-wia/45007\",\"8:35 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Aug 21",
       "title": "The Italian Job",
       "theater": "MoMA",
       "showtimes": [
@@ -2503,38 +1488,6 @@
       "theater": "Metrograph",
       "showtimes": [
         "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27695\",\"7:30 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 22",
-      "title": "Lady Snowblood",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/lady-snowblood-wia/44972\",\"3:50 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 22",
-      "title": "Aliens",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/aliens-wia/44980\",\"12:50 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 22",
-      "title": "Blue Steel",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/blue-steel-wia/45008\",\"6:00 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 22",
-      "title": "Terminator 2: Judgment Day",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/terminator-2-wia/45009\",\"8:10 PM\")"
       ]
     },
     {
@@ -2625,38 +1578,6 @@
     },
     {
       "date": "Sat, Aug 23",
-      "title": "A Touch Of Zen",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/a-touch-of-zen-wia/44994\",\"2:00 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 23",
-      "title": "Terminator 2: Judgment Day",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/terminator-2-wia/45010\",\"5:30 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 23",
-      "title": "Bloody Mama",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/bloody-mama-wia/45013\",\"12:15 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 23",
-      "title": "Mad Max: Fury Road",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/mad-max-fury-road-wia/45017\",\"8:30 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 23",
       "title": " Front Row",
       "theater": "BAM",
       "showtimes": [
@@ -2743,38 +1664,6 @@
     },
     {
       "date": "Sun, Aug 24",
-      "title": "Forty Guns",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/forty-guns-wia/44988\",\"12:30 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 24",
-      "title": "Bonnie And Clyde",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/bonnie-and-clyde-wia/45019\",\"2:20 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 24",
-      "title": "Kill Bill: Vol. 1",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/kill-bill-vol-1-wia/45023\",\"4:40 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 24",
-      "title": "Kill Bill: Vol. 2",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/kill-bill-vol-2-wia/45025\",\"7:10 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 24",
       "title": "The Little Girl Who Sold the Sun + A Short Film About Kids",
       "theater": "BAM",
       "showtimes": [
@@ -2815,38 +1704,6 @@
     },
     {
       "date": "Mon, Aug 25",
-      "title": "Johnny Guitar",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/johnny-guitar-wia/44984\",\"1:00 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 25",
-      "title": "Gun Crazy",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/gun-crazy-wia/44996\",\"8:00 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 25",
-      "title": "Dragon Inn",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/dragon-inn-wia/45027\",\"3:20 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 25",
-      "title": "Silent Women In Action",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/silent-women-in-action-wia/45026\",\"6:00 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 25",
       "title": "Aftersun",
       "theater": "BAM",
       "showtimes": [
@@ -2871,38 +1728,6 @@
     },
     {
       "date": "Tue, Aug 26",
-      "title": "Gun Crazy",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/gun-crazy-wia/44997\",\"6:00 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 26",
-      "title": "Mad Max: Fury Road",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/mad-max-fury-road-wia/45016\",\"12:30 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 26",
-      "title": "Bonnie And Clyde",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/bonnie-and-clyde-wia/45020\",\"8:00 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 26",
-      "title": "Kill Bill: Vol. 2",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/kill-bill-vol-2-wia/45024\",\"3:00 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 26",
       "title": "Summer 1993",
       "theater": "BAM",
       "showtimes": [
@@ -2923,46 +1748,6 @@
       "theater": "BAM",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49523\",\"5:30 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Aug 27",
-      "title": "Lady Snowblood",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/lady-snowblood-wia/44973\",\"1:00 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Aug 27",
-      "title": "Blue Steel",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/blue-steel-wia/45006\",\"3:40 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Aug 27",
-      "title": "Filibus",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/filibus-wia/45121\",\"6:00 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Aug 27",
-      "title": "The Quay Brothers - On 35Mm",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/the-quay-brothers-on-35mm/44927\",\"7:00 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Aug 27",
-      "title": "La Femme Nikita",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/la-femme-nikita-wia/45031\",\"7:50 PM\")"
       ]
     },
     {
@@ -2999,38 +1784,6 @@
     },
     {
       "date": "Thu, Aug 28",
-      "title": "Irma Vep",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/irma-vep-wia/44965\",\"8:30 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Aug 28",
-      "title": "Gloria",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/gloria-wia/44970\",\"3:30 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Aug 28",
-      "title": "Bonnie And Clyde",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/bonnie-and-clyde-wia/45018\",\"1:00 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Aug 28",
-      "title": "Set It Off",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/set-it-off-wia/45032\",\"6:00 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Aug 28",
       "title": "Call Me By Your Name",
       "theater": "BAM",
       "showtimes": [
@@ -3043,42 +1796,6 @@
       "theater": "BAM",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49535\",\"7:45 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 29",
-      "title": "Gloria",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/gloria-wia/44971\",\"6:00 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 29",
-      "title": "Dragon Inn",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/dragon-inn-wia/45028\",\"8:30 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 29",
-      "title": "La Femme Nikita",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/la-femme-nikita-wia/45029\",\"3:30 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 29",
-      "title": "Sanatorium Under The Sign Of",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44649\",\"12:20 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44656\",\"2:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44662\",\"4:10 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44667\",\"6:10 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44674\",\"8:10 PM\")"
       ]
     },
     {
@@ -3143,50 +1860,6 @@
     },
     {
       "date": "Sat, Aug 30",
-      "title": "Sanatorium Under The Sign Of",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44650\",\"12:20 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44681\",\"2:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44683\",\"4:10 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44668\",\"6:10 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44675\",\"8:10 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 30",
-      "title": "The Big Doll House",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/the-big-doll-house-wia/45034\",\"1:00 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 30",
-      "title": "Coffy",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/coffy-wia/45036\",\"3:15 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 30",
-      "title": "Foxy Brown",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/foxy-brown-wia/45037\",\"5:20 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 30",
-      "title": "Jackie Brown",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/jackie-brown-wia/45039\",\"7:30 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 30",
       "title": "Porco Rosso",
       "theater": "BAM",
       "showtimes": [
@@ -3215,42 +1888,6 @@
       "theater": "BAM",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49637\",\"9:00 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 31",
-      "title": "Terminator 2: Judgment Day",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/terminator-2-wia/45011\",\"8:00 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 31",
-      "title": "Sanatorium Under The Sign Of",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44651\",\"12:20 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44682\",\"2:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44684\",\"4:10 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44669\",\"6:10 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44676\",\"8:10 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 31",
-      "title": "The Heroic Trio",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/the-heroic-trio-wia/45041\",\"3:30 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 31",
-      "title": "Crouching Tiger, Hidden Dragon",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/crouching-tiger-hidden-dragon-wia/45042\",\"5:30 PM\")"
       ]
     },
     {
@@ -3300,7 +1937,7 @@
     },
     {
       "date": "Sun, Aug 3Sunday",
-      "title": "Suspiria [4K DCP]",
+      "title": "Suspiria",
       "theater": "Metrograph",
       "showtimes": [
         "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27687\",\"6:50 PM\")",
@@ -3403,339 +2040,6 @@
       "showtimes": [
         "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27594\",\"5:35 PM\")",
         "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27580\",\"8:45 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Sep 1",
-      "title": "A Touch Of Zen",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/a-touch-of-zen-wia/44992\",\"2:50 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Sep 1",
-      "title": "Bloody Mama",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/bloody-mama-wia/45014\",\"6:20 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Sep 1",
-      "title": "Kill Bill: Vol. 1",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/kill-bill-vol-1-wia/45022\",\"12:30 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Sep 1",
-      "title": "Sanatorium Under The Sign Of",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44652\",\"12:20 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44658\",\"2:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44663\",\"4:10 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44670\",\"6:10 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44677\",\"8:10 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Sep 1",
-      "title": "Big Bad Mama",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/big-bad-mama-wia/45043\",\"8:20 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Sep 2",
-      "title": "Lady Snowblood",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/lady-snowblood-wia/44974\",\"1:00 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Sep 2",
-      "title": "La Femme Nikita",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/la-femme-nikita-wia/45030\",\"3:30 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Sep 2",
-      "title": "Set It Off",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/set-it-off-wia/45033\",\"8:30 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Sep 2",
-      "title": "Sanatorium Under The Sign Of",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44653\",\"12:20 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44659\",\"2:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44664\",\"4:10 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44671\",\"6:10 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44678\",\"8:10 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Sep 2",
-      "title": "The Brave One",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/the-brave-one-wia/45044\",\"6:00 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Sep 3",
-      "title": "Sanatorium Under The Sign Of",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44654\",\"12:20 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44660\",\"2:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44665\",\"4:10 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44672\",\"6:10 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44679\",\"8:10 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Sep 3",
-      "title": "The Big Doll House",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/the-big-doll-house-wia/45035\",\"1:00 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Sep 3",
-      "title": "Ms .45",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/ms-45-wia/45045\",\"3:15 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Sep 3",
-      "title": "Hanna",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/hanna-wia/45049\",\"5:40 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Sep 3",
-      "title": "The Hunger Games",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/the-hunger-games-wia/45048\",\"8:00 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Sep 4",
-      "title": "Irma Vep",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/irma-vep-wia/44966\",\"6:00 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Sep 4",
-      "title": "Sanatorium Under The Sign Of",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44655\",\"12:20 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44661\",\"2:15 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44666\",\"4:10 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44673\",\"6:10 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/sanatorium-under-the-sign/44680\",\"8:10 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Sep 4",
-      "title": "Jackie Brown",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/jackie-brown-wia/45038\",\"1:00 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Sep 4",
-      "title": "The Heroic Trio",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/the-heroic-trio-wia/45040\",\"4:10 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Sep 4",
-      "title": "Ms .45",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/ms-45-wia/45046\",\"8:10 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Sep 12",
-      "title": "Dreams",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/dreams/44685\",\"12:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/dreams/44692\",\"2:50 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/dreams/44697\",\"5:20 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Sep 13",
-      "title": "Dreams",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/dreams/44686\",\"12:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/dreams/44711\",\"2:50 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/dreams/44698\",\"5:20 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Sep 14",
-      "title": "Dreams",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/dreams/44687\",\"12:40 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/dreams/44712\",\"3:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/dreams/44699\",\"5:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/dreams/44706\",\"8:00 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Sep 15",
-      "title": "Dreams",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/dreams/44688\",\"12:40 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/dreams/44693\",\"3:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/dreams/44700\",\"5:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/dreams/44707\",\"8:00 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Sep 16",
-      "title": "Dreams",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/dreams/44689\",\"12:40 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/dreams/44694\",\"3:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/dreams/44701\",\"5:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/dreams/44708\",\"8:00 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Sep 17",
-      "title": "Dreams",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/dreams/44690\",\"12:40 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/dreams/44695\",\"3:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/dreams/44702\",\"5:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/dreams/44709\",\"8:00 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Sep 18",
-      "title": "Dreams",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/dreams/44691\",\"12:40 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/dreams/44696\",\"3:00 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/dreams/44703\",\"5:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/dreams/44710\",\"8:00 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Sep 19",
-      "title": "Predators",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44713\",\"12:20 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44714\",\"2:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44715\",\"4:40 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44716\",\"7:00 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Sep 20",
-      "title": "Predators",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44723\",\"12:20 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44742\",\"2:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44743\",\"4:40 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44717\",\"7:00 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Sep 21",
-      "title": "Predators",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44724\",\"12:20 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44744\",\"2:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44745\",\"4:40 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44718\",\"6:50 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44729\",\"9:00 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Sep 22",
-      "title": "Predators",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44725\",\"12:20 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44734\",\"2:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44738\",\"4:40 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44719\",\"6:50 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44730\",\"9:00 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Sep 23",
-      "title": "Predators",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44726\",\"12:20 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44735\",\"2:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44739\",\"4:40 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44720\",\"6:50 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44731\",\"9:00 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Sep 24",
-      "title": "Predators",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44727\",\"12:20 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44736\",\"2:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44740\",\"4:40 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44721\",\"6:50 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44732\",\"9:00 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Sep 25",
-      "title": "Predators",
-      "theater": "Film Forum",
-      "showtimes": [
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44728\",\"12:20 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44737\",\"2:30 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44741\",\"4:40 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44722\",\"6:50 PM\")",
-        "=HYPERLINK(\"https://my.filmforum.org/predators/44733\",\"9:00 PM\")"
       ]
     }
   ]
