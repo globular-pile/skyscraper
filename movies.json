@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-02T02:02:06.058874",
+  "lastUpdated": "2025-08-02T14:41:19.528393",
   "movies": [
     {
       "date": "Sat, Aug 2",
@@ -21,18 +21,9 @@
     },
     {
       "date": "Sat, Aug 2",
-      "title": "The Black Pirate (1926)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/the-black-pirate/",
-      "showtimes": [
-        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1164/seats\",\"12:00 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 2",
       "title": "American Psycho (2000)",
       "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/search/american+psycho+2000/",
+      "letterboxdURL": "https://letterboxd.com/film/american-psycho/",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1319/seats\",\"9:30 PM\")"
       ]
@@ -68,7 +59,7 @@
       "date": "Sun, Aug 3",
       "title": "Kind Hearts and Coronets (1949)",
       "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/kind-hearts-and-coronets/",
+      "letterboxdURL": "https://letterboxd.com/search/kind+hearts+and+coronets+1949/",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1321/seats\",\"6:05 PM\")"
       ]
@@ -77,7 +68,7 @@
       "date": "Sun, Aug 3",
       "title": "Holiday (1938)",
       "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/search/holiday+1938/",
+      "letterboxdURL": "https://letterboxd.com/film/holiday/",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1322/seats\",\"8:45 PM\")"
       ]
@@ -86,7 +77,7 @@
       "date": "Mon, Aug 4",
       "title": "Breathless (1983)",
       "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/search/breathless+1983/",
+      "letterboxdURL": "https://letterboxd.com/film/breathless-1983/",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6574?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"7:00 PM\")"
       ]
@@ -131,7 +122,7 @@
       "date": "Mon, Aug 4",
       "title": "Divorce Italian Style (1961)",
       "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/divorce-italian-style/",
+      "letterboxdURL": "https://letterboxd.com/search/divorce+italian+style+1961/",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1326/seats\",\"6:45 PM\")"
       ]
