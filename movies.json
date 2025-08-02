@@ -1,46 +1,6 @@
 {
-  "lastUpdated": "2025-08-01T18:47:45.707588",
+  "lastUpdated": "2025-08-02T00:10:06.262180",
   "movies": [
-    {
-      "date": "Fri, Aug 1",
-      "title": "Beau Geste",
-      "theater": "MoMA",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10737\",\"7:00 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 1",
-      "title": "Speed Racer (2008)",
-      "theater": "Roxy",
-      "showtimes": [
-        "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6515?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"7:00 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 1",
-      "title": "Christiane F. (1981)",
-      "theater": "Roxy",
-      "showtimes": [
-        "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6516?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"9:45 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 1",
-      "title": "La r\u00e8gle du jeu (1950)",
-      "theater": "Paris",
-      "showtimes": [
-        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1317/seats\",\"6:45 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 1",
-      "title": "A New Leaf (1971)",
-      "theater": "Paris",
-      "showtimes": [
-        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1318/seats\",\"9:20 PM\")"
-      ]
-    },
     {
       "date": "Sat, Aug 2",
       "title": "Amiel Courtin-Wilson",
@@ -51,10 +11,26 @@
     },
     {
       "date": "Sat, Aug 2",
+      "title": "Stranger Than Paradise",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27554\",\"2:35 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2",
       "title": "Passages",
       "theater": "Metrograph",
       "showtimes": [
         "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27551\",\"6:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2",
+      "title": "Holy Motors",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27553\",\"10:25 PM\")"
       ]
     },
     {
@@ -1368,51 +1344,6 @@
       ]
     },
     {
-      "date": "Fri, Aug 1Friday",
-      "title": "Harvest",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27546\",\"12:00 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27669\",\"5:45 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27561\",\"6:00 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27680\",\"7:00 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27684\",\"7:40 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27667\",\"9:15 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 1Friday",
-      "title": "Taxi zum Klo",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27666\",\"7:00 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27670\",\"8:20 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27552\",\"8:25 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27566\",\"8:30 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27540\",\"8:40 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27681\",\"9:45 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27685\",\"10:15 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 1Friday",
-      "title": "Holy Motors",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27553\",\"10:25 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27541\",\"10:45 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 1Friday",
-      "title": "Stranger Than Paradise",
-      "theater": "Metrograph",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27554\",\"2:35 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27543\",\"11:00 PM\")"
-      ]
-    },
-    {
       "date": "Wed, Aug 20",
       "title": "Hannah and Her Sisters",
       "theater": "MoMA",
@@ -1458,6 +1389,14 @@
       "theater": "MoMA",
       "showtimes": [
         "=HYPERLINK(\"https://www.moma.org/calendar/events/10709\",\"4:00 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 21",
+      "title": "The Quiet American",
+      "theater": "MoMA",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10712\",\"6:30 PM\")"
       ]
     },
     {
@@ -1898,6 +1837,19 @@
     },
     {
       "date": "Sat, Aug 2Saturday",
+      "title": "Harvest",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27546\",\"12:00 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27669\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27561\",\"6:00 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27680\",\"7:00 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27684\",\"7:40 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27667\",\"9:15 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2Saturday",
       "title": "Out of Sight",
       "theater": "Metrograph",
       "showtimes": [
@@ -1922,6 +1874,19 @@
       "showtimes": [
         "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27679\",\"4:15 PM\")",
         "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27549\",\"4:40 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 2Saturday",
+      "title": "Taxi zum Klo",
+      "theater": "Metrograph",
+      "showtimes": [
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27666\",\"7:00 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27670\",\"8:20 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27552\",\"8:25 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27566\",\"8:30 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27681\",\"9:45 PM\")",
+        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27685\",\"10:15 PM\")"
       ]
     },
     {
@@ -2016,6 +1981,38 @@
       "theater": "Metrograph",
       "showtimes": [
         "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27754\",\"11:20 AM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 31",
+      "title": "BlacKkKlansman",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49640\",\"1:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 31",
+      "title": "Desperate Living",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49648\",\"9:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 31",
+      "title": "Love & Anarchy",
+      "theater": "BAM",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49645\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 31",
+      "title": "Blade Runner: The Final Cut (1982)",
+      "theater": "Paris",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1307/seats\",\"11:00 AM\")"
       ]
     },
     {
@@ -2184,6 +2181,7 @@
       "title": "",
       "theater": "Film Forum",
       "showtimes": [
+        "None (SOLD OUT)",
         "None (SOLD OUT)",
         "None (SOLD OUT)",
         "None (SOLD OUT)",
