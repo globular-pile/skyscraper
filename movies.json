@@ -1,65 +1,11 @@
 {
-  "lastUpdated": "2025-08-02T01:08:06.849704",
+  "lastUpdated": "2025-08-02T02:02:06.058874",
   "movies": [
-    {
-      "date": "Sat, Aug 2",
-      "title": "Amiel Courtin-Wilson",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/amiel+courtin+wilson/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27548\",\"2:30 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 2",
-      "title": "Stranger Than Paradise",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/stranger-than-paradise/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27554\",\"2:35 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 2",
-      "title": "Passages",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/passages/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27551\",\"6:30 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 2",
-      "title": "Holy Motors",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/holy-motors/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27553\",\"10:25 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 2",
-      "title": "Desperately Seeking Susan",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/desperately-seeking-susan/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27556\",\"10:35 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 2",
-      "title": "Saxophon-Susi (Miss Saxophone) (1928)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/saxophon+susi+miss+saxophone+1928/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10738\",\"7:00 PM\")"
-      ]
-    },
     {
       "date": "Sat, Aug 2",
       "title": "On the Silver Globe (1988)",
       "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/search/on+the+silver+globe+1988/",
+      "letterboxdURL": "https://letterboxd.com/film/on-the-silver-globe/",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6518?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"4:30 PM\")"
       ]
@@ -68,7 +14,7 @@
       "date": "Sat, Aug 2",
       "title": "Speed Racer (2008)",
       "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/search/speed+racer+2008/",
+      "letterboxdURL": "https://letterboxd.com/film/speed-racer/",
       "showtimes": [
         "=HYPERLINK(\"http://ticketing.uswest.veezi.com/purchase/6520?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"9:45 PM\")"
       ]
@@ -77,7 +23,7 @@
       "date": "Sat, Aug 2",
       "title": "The Black Pirate (1926)",
       "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/search/the+black+pirate+1926/",
+      "letterboxdURL": "https://letterboxd.com/film/the-black-pirate/",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1164/seats\",\"12:00 PM\")"
       ]
@@ -89,15 +35,6 @@
       "letterboxdURL": "https://letterboxd.com/search/american+psycho+2000/",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1319/seats\",\"9:30 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 3",
-      "title": "Street Angel (1928)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/street+angel+1928/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10739\",\"4:00 PM\")"
       ]
     },
     {
@@ -122,7 +59,7 @@
       "date": "Sun, Aug 3",
       "title": "The Landlord (1970)",
       "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/the-landlord/",
+      "letterboxdURL": "https://letterboxd.com/search/the+landlord+1970/",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1320/seats\",\"3:20 PM\")"
       ]
@@ -131,7 +68,7 @@
       "date": "Sun, Aug 3",
       "title": "Kind Hearts and Coronets (1949)",
       "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/search/kind+hearts+and+coronets+1949/",
+      "letterboxdURL": "https://letterboxd.com/film/kind-hearts-and-coronets/",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1321/seats\",\"6:05 PM\")"
       ]
@@ -147,54 +84,9 @@
     },
     {
       "date": "Mon, Aug 4",
-      "title": "Punch-Drunk Love",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/punch+drunk+love/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27662\",\"4:40 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 4",
-      "title": "Party Girl",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/party+girl/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27665\",\"4:45 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 4",
-      "title": "Still Life",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/still+life/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27663\",\"6:45 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 4",
-      "title": "Twin Peaks circa 2017",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/twin+peaks+circa+2017/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27677\",\"9:00 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 4",
-      "title": "Die Stra\u00dfe (The Street) (1923)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/die+stra\u00dfe+the+street+1923/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10740\",\"7:00 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 4",
       "title": "Breathless (1983)",
       "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/film/breathless/",
+      "letterboxdURL": "https://letterboxd.com/search/breathless+1983/",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6574?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"7:00 PM\")"
       ]
@@ -239,7 +131,7 @@
       "date": "Mon, Aug 4",
       "title": "Divorce Italian Style (1961)",
       "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/search/divorce+italian+style+1961/",
+      "letterboxdURL": "https://letterboxd.com/film/divorce-italian-style/",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1326/seats\",\"6:45 PM\")"
       ]
@@ -255,74 +147,11 @@
     },
     {
       "date": "Tue, Aug 5",
-      "title": "Taxi Tehran",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/taxi+tehran/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27668\",\"4:00 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 5",
-      "title": "A Woman is a Woman",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/a+woman+is+a+woman/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27672\",\"4:10 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 5",
-      "title": "Climax",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/climax/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27671\",\"10:20 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 5",
-      "title": "Memory Lane (1926)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/memory+lane+1926/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10741\",\"7:00 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 5",
       "title": "Confessions of a Teenage Drama Queen (2004)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/search/confessions+of+a+teenage+drama+queen+2004/",
       "showtimes": [
         "=HYPERLINK(\"https://ticketing.uswest.veezi.com/purchase/6533?siteToken=tt17e5ajy3v48kh5b2kremvnz4\",\"7:00 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Aug 6",
-      "title": "2046",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/2046/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27675\",\"4:00 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Aug 6",
-      "title": "Nostalghia",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/nostalghia/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27676\",\"6:40 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Aug 6",
-      "title": "Twin Peaks circa 2017",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/twin+peaks+circa+2017/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27678\",\"9:15 PM\")"
       ]
     },
     {
@@ -372,24 +201,6 @@
     },
     {
       "date": "Thu, Aug 7",
-      "title": "Twin Peaks circa 2017",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/twin+peaks+circa+2017/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27688\",\"9:00 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Aug 7",
-      "title": "The Man Who Would Be King (1975)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/the+man+who+would+be+king+1975/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10699\",\"7:00 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Aug 7",
       "title": "Kind Hearts and Coronets (1949)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/search/kind+hearts+and+coronets+1949/",
@@ -431,33 +242,6 @@
       "letterboxdURL": "https://letterboxd.com/search/american+psycho+2000/",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1335/seats\",\"9:10 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 8",
-      "title": "Suspended Time",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/suspended+time/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27568\",\"6:00 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 8",
-      "title": "Hamlet at Elsinore (1965)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/hamlet+at+elsinore+1965/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10784\",\"4:00 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 8",
-      "title": "Alfie (1966)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/alfie+1966/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10700\",\"7:30 PM\")"
       ]
     },
     {
@@ -540,51 +324,6 @@
       "letterboxdURL": "https://letterboxd.com/search/auntie+mame+1958/",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1340/seats\",\"9:30 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 9",
-      "title": "Zola",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/zola/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27576\",\"5:15 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 9",
-      "title": "Belly",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/belly/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27582\",\"10:30 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 9",
-      "title": "The Ipcress File (1965)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/the+ipcress+file+1965/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10701\",\"1:30 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 9",
-      "title": "Funeral in Berlin (1966)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/funeral+in+berlin+1966/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10778\",\"4:00 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 9",
-      "title": "Billion Dollar Brain (1967)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/billion+dollar+brain+1967/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10781\",\"7:00 PM\")"
       ]
     },
     {
@@ -688,33 +427,6 @@
     },
     {
       "date": "Sun, Aug 10",
-      "title": "Four Adventures of Reinette and Mirabelle",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/four+adventures+of+reinette+and+mirabelle/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27585\",\"11:00 AM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 10",
-      "title": "X Y & Zee (1972)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/x+y+zee+1972/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10779\",\"1:30 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 10",
-      "title": "Zulu (1964)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/zulu+1964/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10702\",\"4:00 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 10",
       "title": "Angelheaded Hipster: The Songs of Marc Bolan & T. Rex (2022)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/search/angelheaded+hipster+the+songs+of+marc+bolan+t+rex+2022/",
@@ -783,45 +495,6 @@
       "letterboxdURL": "https://letterboxd.com/search/a+night+at+the+opera+1935/",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1348/seats\",\"9:50 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 10Sunday",
-      "title": "Nashville",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/nashville/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27647\",\"11:30 AM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27588\",\"1:45 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27630\",\"3:10 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 10Sunday",
-      "title": "Belly",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/belly/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27652\",\"7:30 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27591\",\"9:30 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 11",
-      "title": "X Y & Zee (1972)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/x+y+zee+1972/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10779\",\"4:00 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 11",
-      "title": "The Romantic Englishwoman (1975)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/the+romantic+englishwoman+1975/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10703\",\"7:00 PM\")"
       ]
     },
     {
@@ -916,24 +589,6 @@
     },
     {
       "date": "Tue, Aug 12",
-      "title": "The Man Who Would Be King (1975)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/the+man+who+would+be+king+1975/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10699\",\"4:00 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 12",
-      "title": "Zulu (1964)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/zulu+1964/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10702\",\"7:00 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 12",
       "title": "Husbands (1970)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/search/husbands+1970/",
@@ -970,24 +625,6 @@
     },
     {
       "date": "Wed, Aug 13",
-      "title": "The Last Valley (1971)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/the+last+valley+1971/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10704\",\"4:00 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Aug 13",
-      "title": "Hamlet at Elsinore (1965)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/hamlet+at+elsinore+1965/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10784\",\"7:00 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Aug 13",
       "title": "Husbands (1970)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/search/husbands+1970/",
@@ -1020,24 +657,6 @@
       "letterboxdURL": "https://letterboxd.com/search/love+pop/",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49365\",\"7:00 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Aug 14",
-      "title": "The Wilby Conspiracy (1975)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/the+wilby+conspiracy+1975/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10785\",\"4:00 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Aug 14",
-      "title": "The Last Valley (1971)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/the+last+valley+1971/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10704\",\"6:30 PM\")"
       ]
     },
     {
@@ -1087,24 +706,6 @@
     },
     {
       "date": "Fri, Aug 15",
-      "title": "Pulp (1972)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/pulp+1972/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10705\",\"4:00 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 15",
-      "title": "Get Carter (1971)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/get+carter+1971/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10707\",\"6:30 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 15",
       "title": "Mixed Blood (1984)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/search/mixed+blood+1984/",
@@ -1128,148 +729,6 @@
       "letterboxdURL": "https://letterboxd.com/search/stalker/",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49378\",\"7:15 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 15Friday",
-      "title": "A River Called Titas",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/a+river+called+titas/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27645\",\"2:20 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27629\",\"3:00 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 15Friday",
-      "title": "Whisky",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/whisky/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27649\",\"1:00 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27636\",\"6:10 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 15Friday",
-      "title": "Summer Hours",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/summer+hours/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27656\",\"5:35 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27631\",\"6:15 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 15Friday",
-      "title": "Clouds of Sils Maria",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/clouds+of+sils+maria/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27644\",\"5:25 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27635\",\"8:15 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 15Friday",
-      "title": "Natural Born Killers",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/natural+born+killers/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27632\",\"8:20 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27653\",\"9:35 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 15Friday",
-      "title": "Battle Royale",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/battle+royale/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27650\",\"2:40 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27633\",\"10:45 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 15Friday",
-      "title": "Requiem for a Dream",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/requiem+for+a+dream/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27639\",\"5:10 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27634\",\"10:50 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
-      "title": "Late August, Early September",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/late+august+early+september/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27637\",\"12:00 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
-      "title": "The Girl Can't Help It",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/the+girl+cant+help+it/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27646\",\"12:15 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
-      "title": "Hard to Be a God",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/hard+to+be+a+god/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27640\",\"7:20 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
-      "title": "Madame X: An Absolute Ruler",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/madame+x+an+absolute+ruler/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27643\",\"8:00 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
-      "title": "Querelle",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/querelle/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27642\",\"10:50 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
-      "title": "Educating Rita (1983)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/educating+rita+1983/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10708\",\"1:30 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
-      "title": "Alfie (1966)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/alfie+1966/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10700\",\"4:00 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
-      "title": "The Italian Job (1969)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/the+italian+job+1969/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10709\",\"6:30 PM\")"
       ]
     },
     {
@@ -1306,81 +765,6 @@
       "letterboxdURL": "https://letterboxd.com/search/solaris/",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49387\",\"7:15 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 16Saturday",
-      "title": "Happiness",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/happiness/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27638\",\"2:15 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27657\",\"3:00 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 16Saturday",
-      "title": "Possession",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/possession/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27772\",\"9:20 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27641\",\"10:45 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27751\",\"10:45 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "Boyfriends and Girlfriends",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/boyfriends+and+girlfriends/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27648\",\"11:00 AM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "Hedwig and the Angry Inch",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/hedwig+and+the+angry+inch/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27651\",\"5:00 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "Shortbus",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/shortbus/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27655\",\"7:35 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "Made in Hong Kong",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/made+in+hong+kong/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27654\",\"9:45 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "Get Carter (1971)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/get+carter+1971/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10707\",\"1:30 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "Pulp (1972)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/pulp+1972/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10705\",\"4:00 PM\")"
       ]
     },
     {
@@ -1439,24 +823,6 @@
     },
     {
       "date": "Mon, Aug 18",
-      "title": "Children of Men (2006)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/children+of+men+2006/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10710\",\"4:00 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 18",
-      "title": "The Wilby Conspiracy (1975)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/the+wilby+conspiracy+1975/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10785\",\"6:30 PM\")"
-      ]
-    },
-    {
-      "date": "Mon, Aug 18",
       "title": "Ivan\u2019s Childhood",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/search/ivans+childhood/",
@@ -1475,24 +841,6 @@
     },
     {
       "date": "Tue, Aug 19",
-      "title": "The Romantic Englishwoman (1975)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/the+romantic+englishwoman+1975/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10703\",\"4:00 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 19",
-      "title": "Children of Men (2006)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/children+of+men+2006/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10710\",\"7:00 PM\")"
-      ]
-    },
-    {
-      "date": "Tue, Aug 19",
       "title": "The Sacrifice",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/search/the+sacrifice/",
@@ -1507,24 +855,6 @@
       "letterboxdURL": "https://letterboxd.com/search/the+steamroller+and+the+violin+voyage+in+time/",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49384\",\"8:00 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Aug 20",
-      "title": "Hannah and Her Sisters (1986)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/hannah+and+her+sisters+1986/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10711\",\"4:00 PM\")"
-      ]
-    },
-    {
-      "date": "Wed, Aug 20",
-      "title": "Educating Rita (1983)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/educating+rita+1983/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10708\",\"7:00 PM\")"
       ]
     },
     {
@@ -1556,24 +886,6 @@
     },
     {
       "date": "Thu, Aug 21",
-      "title": "The Italian Job (1969)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/the+italian+job+1969/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10709\",\"4:00 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Aug 21",
-      "title": "The Quiet American (2002)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/the+quiet+american+2002/",
-      "showtimes": [
-        "=HYPERLINK(\"https://www.moma.org/calendar/events/10712\",\"6:30 PM\")"
-      ]
-    },
-    {
-      "date": "Thu, Aug 21",
       "title": "Stalker",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/search/stalker/",
@@ -1588,15 +900,6 @@
       "letterboxdURL": "https://letterboxd.com/search/mirror/",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49390\",\"4:30 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 22",
-      "title": "Wet Hot American Summer",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/wet+hot+american+summer/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27695\",\"7:30 PM\")"
       ]
     },
     {
@@ -1627,81 +930,6 @@
       ]
     },
     {
-      "date": "Fri, Aug 22Friday",
-      "title": "All About Lily Chou-Chou",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/all+about+lily+chou+chou/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27755\",\"12:00 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27745\",\"2:15 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27689\",\"3:20 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 22Friday",
-      "title": "Days of Heaven",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/days+of+heaven/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27707\",\"2:20 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27693\",\"3:20 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27735\",\"3:20 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27768\",\"5:10 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 22Friday",
-      "title": "Come Drink with Me",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/come+drink+with+me/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27699\",\"4:45 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27694\",\"5:25 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 22Friday",
-      "title": "Pripyat",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/pripyat/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27702\",\"12:00 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27690\",\"6:10 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 22Friday",
-      "title": "Spacked Out",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/spacked+out/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27747\",\"5:00 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27712\",\"7:45 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27741\",\"7:50 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27691\",\"8:15 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 22Friday",
-      "title": "Burst City",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/burst+city/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27713\",\"9:40 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27692\",\"10:10 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 22Friday",
-      "title": "Titane",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/titane/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27696\",\"10:15 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27705\",\"10:30 PM\")"
-      ]
-    },
-    {
       "date": "Sat, Aug 23",
       "title": " Front Row",
       "theater": "BAM",
@@ -1726,87 +954,6 @@
       "letterboxdURL": "https://letterboxd.com/search/aftersun/",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49520\",\"8:30 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 23Saturday",
-      "title": "Pauline at the Beach",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/pauline+at+the+beach/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27697\",\"12:00 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27708\",\"7:40 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 23Saturday",
-      "title": "Once Upon a Time in China",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/once+upon+a+time+in+china/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27706\",\"11:40 AM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27698\",\"2:00 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 23Saturday",
-      "title": "House of Hummingbird",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/house+of+hummingbird/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27715\",\"11:35 AM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27714\",\"2:10 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 23Saturday",
-      "title": "The Mouth Agape",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/the+mouth+agape/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27710\",\"2:30 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27703\",\"5:00 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 23Saturday",
-      "title": "Apocalypse Now: Redux",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/apocalypse+now+redux/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27700\",\"6:45 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27749\",\"7:00 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 23Saturday",
-      "title": "Dilwale Dulhania Le Jayenge",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/dilwale+dulhania+le+jayenge/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27711\",\"4:15 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27704\",\"7:00 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 23Saturday",
-      "title": "The Grandmaster",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/the+grandmaster/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27744\",\"12:00 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27765\",\"12:30 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27709\",\"9:45 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27701\",\"10:40 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 24",
-      "title": "Les Destinees Sentimentales",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/les+destinees+sentimentales/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27716\",\"4:15 PM\")"
       ]
     },
     {
@@ -1999,135 +1146,6 @@
       ]
     },
     {
-      "date": "Fri, Aug 29Friday",
-      "title": "La Collectionneuse",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/la+collectionneuse/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27736\",\"3:30 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27761\",\"7:45 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 29Friday",
-      "title": "Typhoon Club",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/typhoon+club/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27766\",\"2:45 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27759\",\"5:15 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27737\",\"5:20 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 29Friday",
-      "title": "The Life Aquatic with Steve Zissou",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/the+life+aquatic+with+steve+zissou/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27756\",\"2:50 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27742\",\"5:25 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 29Friday",
-      "title": "The Assassin",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/the+assassin/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27770\",\"7:10 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27738\",\"7:45 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 29Friday",
-      "title": "High Fidelity",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/high+fidelity/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27758\",\"5:20 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27740\",\"9:50 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 29Friday",
-      "title": "Mandy",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/mandy/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27762\",\"9:45 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27739\",\"10:00 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 2Saturday",
-      "title": "Harvest",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/harvest/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27546\",\"12:00 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27669\",\"5:45 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27561\",\"6:00 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27680\",\"7:00 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27684\",\"7:40 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27667\",\"9:15 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 2Saturday",
-      "title": "Out of Sight",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/out+of+sight/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27547\",\"12:00 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27686\",\"4:15 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27564\",\"9:50 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 2Saturday",
-      "title": "3 Faces",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/3+faces/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27558\",\"12:00 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27550\",\"4:30 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 2Saturday",
-      "title": "I'm Not There",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/im+not+there/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27679\",\"4:15 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27549\",\"4:40 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 2Saturday",
-      "title": "Taxi zum Klo",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/taxi+zum+klo/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27666\",\"7:00 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27670\",\"8:20 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27552\",\"8:25 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27566\",\"8:30 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27681\",\"9:45 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27685\",\"10:15 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 30",
-      "title": "Koko: A Talking Gorilla",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/koko+a+talking+gorilla/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27753\",\"6:50 PM\")"
-      ]
-    },
-    {
       "date": "Sat, Aug 30",
       "title": "Porco Rosso",
       "theater": "BAM",
@@ -2164,66 +1182,6 @@
       ]
     },
     {
-      "date": "Sat, Aug 30Saturday",
-      "title": "My Little Loves",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/my+little+loves/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27743\",\"11:50 AM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27757\",\"2:45 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 30Saturday",
-      "title": "Perceval le Gallois",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/perceval+le+gallois/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27764\",\"12:00 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27746\",\"2:15 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 30Saturday",
-      "title": "Cockfighter",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/cockfighter/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27748\",\"5:10 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27769\",\"5:15 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 30Saturday",
-      "title": "Love and Pop",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/love+and+pop/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27771\",\"7:15 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27760\",\"7:30 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27752\",\"8:35 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 30Saturday",
-      "title": "The Idiots",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/the+idiots/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27773\",\"9:30 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27750\",\"10:50 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 31",
-      "title": "Apocalypse Now: Final Cut",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/apocalypse+now+final+cut/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27754\",\"11:20 AM\")"
-      ]
-    },
-    {
       "date": "Sun, Aug 31",
       "title": "BlacKkKlansman",
       "theater": "BAM",
@@ -2257,248 +1215,6 @@
       "letterboxdURL": "https://letterboxd.com/search/blade+runner+the+final+cut+1982/",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1307/seats\",\"11:00 AM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 31Sunday",
-      "title": "Edward Scissorhands",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/edward+scissorhands/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27767\",\"2:55 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27763\",\"9:45 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 3Sunday",
-      "title": "The Good, the Bad and the Ugly",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/the+good+the+bad+and+the+ugly/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27557\",\"11:45 AM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27574\",\"11:45 AM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 3Sunday",
-      "title": "No Bears",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/no+bears/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27559\",\"2:00 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27682\",\"3:40 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 3Sunday",
-      "title": "A Brighter Summer Day",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/a+brighter+summer+day/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27562\",\"3:00 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27673\",\"6:00 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 3Sunday",
-      "title": "The Masque Of The Red Death",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/the+masque+of+the+red+death/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27560\",\"4:10 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27683\",\"5:50 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 3Sunday",
-      "title": "Office Killer",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/office+killer/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27563\",\"7:30 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27674\",\"10:30 PM\")"
-      ]
-    },
-    {
-      "date": "Sun, Aug 3Sunday",
-      "title": "Suspiria",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/suspiria/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27687\",\"6:50 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27661\",\"10:30 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 8Friday",
-      "title": "Kundun",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/kundun/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27584\",\"11:00 AM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27567\",\"3:20 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 8Friday",
-      "title": "Better Days",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/better+days/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27625\",\"12:00 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27624\",\"3:30 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 8Friday",
-      "title": "The Green Room",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/the+green+room/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27573\",\"6:10 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27579\",\"6:50 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 8Friday",
-      "title": "Non-Fiction",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/non+fiction/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27593\",\"7:25 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27572\",\"8:10 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 8Friday",
-      "title": "One Hour Photo",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/one+hour+photo/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27569\",\"8:15 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27583\",\"10:35 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 8Friday",
-      "title": "School in the Crosshairs",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/school+in+the+crosshairs/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27592\",\"9:35 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27570\",\"10:15 PM\")"
-      ]
-    },
-    {
-      "date": "Fri, Aug 8Friday",
-      "title": "Mala Noche",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/mala+noche/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27577\",\"5:00 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27571\",\"10:20 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 9Saturday",
-      "title": "How Green Was My Valley",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/how+green+was+my+valley/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27586\",\"1:00 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27578\",\"2:40 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 9Saturday",
-      "title": "Far From Heaven",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/far+from+heaven/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27575\",\"3:00 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 9Saturday",
-      "title": "Instrument",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/instrument/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27587\",\"3:20 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27581\",\"7:40 PM\")"
-      ]
-    },
-    {
-      "date": "Sat, Aug 9Saturday",
-      "title": "Macumba",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/macumba/",
-      "showtimes": [
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27594\",\"5:35 PM\")",
-        "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27580\",\"8:45 PM\")"
-      ]
-    },
-    {
-      "date": "TBD",
-      "title": "",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/search//",
-      "showtimes": [
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)",
-        "None (SOLD OUT)"
       ]
     }
   ]
