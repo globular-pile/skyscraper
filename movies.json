@@ -1,15 +1,6 @@
 {
-  "lastUpdated": "2025-08-02T23:52:47.139492",
+  "lastUpdated": "2025-08-03T00:04:05.938263",
   "movies": [
-    {
-      "date": "Sat, Aug 2",
-      "title": "Saxophon-Susi (Miss Saxophone) (1928)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/saxophon+susi+miss+saxophone+1928/",
-      "showtimes": [
-        "7:00 PM (SOLD OUT)"
-      ]
-    },
     {
       "date": "Sun, Aug 3",
       "title": "The Good, the Bad and the Ugly (1966)",
@@ -2083,6 +2074,15 @@
     },
     {
       "date": "Fri, Aug 22",
+      "title": "The Wrong Box (1966)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/the-wrong-box/",
+      "showtimes": [
+        "4:00 PM (SOLD OUT)"
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
       "title": "Summer with Monika",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/summer-with-monika/",
@@ -2925,6 +2925,33 @@
       "letterboxdURL": "https://letterboxd.com/film/edward-scissorhands/",
       "showtimes": [
         "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27767\",\"2:55 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Sep 1",
+      "title": "To Be or Not to Be",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/to-be-or-not-to-be/",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49622\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Sep 1",
+      "title": "Duck Soup",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/duck-soup/",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49619\",\"5:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Sep 1",
+      "title": "Porco Rosso",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/porco-rosso/",
+      "showtimes": [
+        "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49628\",\"9:15 PM\")"
       ]
     }
   ]
