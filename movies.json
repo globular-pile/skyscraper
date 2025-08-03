@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-03T01:17:45.444049",
+  "lastUpdated": "2025-08-03T01:42:49.644350",
   "movies": [
     {
       "date": "Sun, Aug 3",
@@ -84,11 +84,58 @@
     },
     {
       "date": "Sun, Aug 3",
+      "title": "RASHOMON (1950)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/rashomon/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/rashomon-kurosawa/45253\",\"12:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "BRAZIL (1985)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/brazil/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44760\",\"1:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44770\",\"4:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44754\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "RAN (2018)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/ran-2018/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/ran-kuro/45254\",\"2:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "HIGH AND LOW (1963)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/high-and-low/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/high-and-low-kurosawa/45255\",\"5:40 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "YOJIMBO (1970)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/yojimbo/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/yojimbo-kurosawa/45256\",\"8:35 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
       "title": "Street Angel (1928)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/street-angel/",
       "showtimes": [
-        "4:00 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10739\",\"4:00 PM\")"
       ]
     },
     {
@@ -192,11 +239,58 @@
     },
     {
       "date": "Mon, Aug 4",
+      "title": "THRONE OF BLOOD (1957)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/throne-of-blood/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/throne-of-blood-kurosawa/45257\",\"12:30 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "BRAZIL (1985)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/brazil/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44761\",\"1:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44765\",\"4:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44755\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "STRAY DOG (2018)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/stray-dog/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/stray-dog-kurosawa/45258\",\"2:50 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "RASHOMON (1950)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/rashomon/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/rashomon-kurosawa/45259\",\"6:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "IKIRU (1952)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/ikiru/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/ikiru-kurosawa/45260\",\"8:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
       "title": "Die Stra\u00dfe (The Street) (1923)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/search/die+stra\u00dfe+the+street+1923/",
       "showtimes": [
-        "7:00 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10740\",\"7:00 PM\")"
       ]
     },
     {
@@ -327,11 +421,58 @@
     },
     {
       "date": "Tue, Aug 5",
+      "title": "YOJIMBO (1970)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/yojimbo/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/yojimbo-kurosawa/45261\",\"12:20 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "BRAZIL (1985)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/brazil/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44762\",\"1:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44766\",\"4:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44756\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "RAN (2018)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/ran-2018/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/ran-kuro/45262\",\"2:30 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "RASHOMON (1950)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/search/rashomon+1950/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/rashomon-kurosawa/45263\",\"6:20 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "HIGH AND LOW (1963)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/high-and-low/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/high-and-low-kurosawa/45264\",\"8:20 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
       "title": "Memory Lane (1926)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/memory-lane-1926/",
       "showtimes": [
-        "7:00 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10741\",\"7:00 PM\")"
       ]
     },
     {
@@ -395,6 +536,44 @@
       "letterboxdURL": "https://letterboxd.com/search/twin+peaks+circa+2017+2017/",
       "showtimes": [
         "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27678\",\"9:15 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "BRAZIL (1985)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/brazil/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44763\",\"1:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44767\",\"4:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44757\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "SEVEN SAMURAI (1954)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/seven-samurai/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/seven-samurai-kurosawa/45265\",\"1:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "STRAY DOG (2018)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/stray-dog/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/stray-dog-kurosawa/45266\",\"5:30 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "THRONE OF BLOOD (1957)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/throne-of-blood/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/throne-of-blood-kurosawa/45267\",\"8:10 PM\")"
       ]
     },
     {
@@ -507,11 +686,58 @@
     },
     {
       "date": "Thu, Aug 7",
+      "title": "HIGH AND LOW (1963)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/high-and-low/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/high-and-low-kurosawa/45268\",\"12:30 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "BRAZIL (1985)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/brazil/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44764\",\"1:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44768\",\"4:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/brazil-gilliam/44758\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "YOJIMBO (1970)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/yojimbo/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/yojimbo-kurosawa/45269\",\"3:30 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "SANJURO (1962)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/sanjuro/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/sanjuro-kurosawa/45270\",\"5:45 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "THE HIDDEN FORTRESS (2001)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-hidden-fortress-2001/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/the-hidden-fortress-kurosawa/45271\",\"7:50 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
       "title": "The Man Who Would Be King (1975)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/the-man-who-would-be-king/",
       "showtimes": [
-        "7:00 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10699\",\"7:00 PM\")"
       ]
     },
     {
@@ -633,11 +859,35 @@
     },
     {
       "date": "Fri, Aug 8",
+      "title": "AN OFFICER AND A SPY (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44593\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44607\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44617\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44631\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8",
+      "title": "WHO KILLED TEDDY BEAR? (1965)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/who-killed-teddy-bear/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44870\",\"12:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44871\",\"2:40 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44872\",\"4:50 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44873\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 8",
       "title": "Hamlet at Elsinore (1965)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/hamlet-at-elsinore/",
       "showtimes": [
-        "4:00 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10784\",\"4:00 PM\")"
       ]
     },
     {
@@ -646,7 +896,7 @@
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/alfie/",
       "showtimes": [
-        "7:30 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10700\",\"7:30 PM\")"
       ]
     },
     {
@@ -753,7 +1003,7 @@
       "date": "Sat, Aug 9",
       "title": "The Green Room (1978)",
       "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/the-green-room/",
+      "letterboxdURL": "https://letterboxd.com/search/the+green+room+1978/",
       "showtimes": [
         "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27579\",\"6:50 PM\")"
       ]
@@ -832,11 +1082,36 @@
     },
     {
       "date": "Sat, Aug 9",
+      "title": "AN OFFICER AND A SPY (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44594\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44645\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44618\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44632\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "WHO KILLED TEDDY BEAR? (1965)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/who-killed-teddy-bear/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44885\",\"12:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44884\",\"2:40 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44883\",\"4:50 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44874\",\"7:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44877\",\"9:10 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
       "title": "The Ipcress File (1965)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/the-ipcress-file/",
       "showtimes": [
-        "1:30 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10701\",\"1:30 PM\")"
       ]
     },
     {
@@ -845,7 +1120,7 @@
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/funeral-in-berlin/",
       "showtimes": [
-        "4:00 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10778\",\"4:00 PM\")"
       ]
     },
     {
@@ -854,7 +1129,7 @@
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/billion-dollar-brain/",
       "showtimes": [
-        "7:00 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10781\",\"7:00 PM\")"
       ]
     },
     {
@@ -1039,11 +1314,35 @@
     },
     {
       "date": "Sun, Aug 10",
+      "title": "AN OFFICER AND A SPY (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44595\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44646\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44619\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44633\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
+      "title": "WHO KILLED TEDDY BEAR? (1965)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/who-killed-teddy-bear/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44886\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44882\",\"2:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44881\",\"6:10 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44878\",\"8:20 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
       "title": "X Y & Zee (1972)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/search/x+y+zee+1972/",
       "showtimes": [
-        "1:30 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10779\",\"1:30 PM\")"
       ]
     },
     {
@@ -1052,7 +1351,7 @@
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/zulu/",
       "showtimes": [
-        "4:00 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10702\",\"4:00 PM\")"
       ]
     },
     {
@@ -1129,11 +1428,35 @@
     },
     {
       "date": "Mon, Aug 11",
+      "title": "AN OFFICER AND A SPY (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44596\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44608\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44620\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44634\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 11",
+      "title": "WHO KILLED TEDDY BEAR? (1965)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/who-killed-teddy-bear/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44887\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44889\",\"2:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44890\",\"4:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44879\",\"8:10 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 11",
       "title": "X Y & Zee (1972)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/search/x+y+zee+1972/",
       "showtimes": [
-        "4:00 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10779\",\"4:00 PM\")"
       ]
     },
     {
@@ -1142,7 +1465,7 @@
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/the-romantic-englishwoman/",
       "showtimes": [
-        "7:00 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10703\",\"7:00 PM\")"
       ]
     },
     {
@@ -1237,11 +1560,35 @@
     },
     {
       "date": "Tue, Aug 12",
+      "title": "WHO KILLED TEDDY BEAR? (1965)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/who-killed-teddy-bear/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44888\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44891\",\"2:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44892\",\"4:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44880\",\"6:15 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 12",
+      "title": "AN OFFICER AND A SPY (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44597\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44609\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44621\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44635\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 12",
       "title": "The Man Who Would Be King (1975)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/the-man-who-would-be-king/",
       "showtimes": [
-        "4:00 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10699\",\"4:00 PM\")"
       ]
     },
     {
@@ -1250,7 +1597,7 @@
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/zulu/",
       "showtimes": [
-        "7:00 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10702\",\"7:00 PM\")"
       ]
     },
     {
@@ -1291,11 +1638,36 @@
     },
     {
       "date": "Wed, Aug 13",
+      "title": "AN OFFICER AND A SPY (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44598\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44610\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44622\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44636\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 13",
+      "title": "WHO KILLED TEDDY BEAR? (1965)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/who-killed-teddy-bear/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44893\",\"12:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44894\",\"2:40 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44895\",\"4:50 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44896\",\"7:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44897\",\"9:10 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 13",
       "title": "The Last Valley (1971)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/the-last-valley/",
       "showtimes": [
-        "4:00 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10704\",\"4:00 PM\")"
       ]
     },
     {
@@ -1304,7 +1676,16 @@
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/hamlet-at-elsinore/",
       "showtimes": [
-        "7:00 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10784\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 13",
+      "title": "Film in the Garden: The Muppets Take Manhattan",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/search/film+in+the+garden+the+muppets+take+manhattan/",
+      "showtimes": [
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10789\",\"8:00\u20139:45\u00a0p.m.\")"
       ]
     },
     {
@@ -1345,11 +1726,36 @@
     },
     {
       "date": "Thu, Aug 14",
+      "title": "AN OFFICER AND A SPY (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44599\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44611\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44623\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44637\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 14",
+      "title": "WHO KILLED TEDDY BEAR? (1965)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/who-killed-teddy-bear/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44898\",\"12:30 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44899\",\"2:40 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44900\",\"4:50 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44901\",\"7:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/who-killed-teddy-bear-35mm/44902\",\"9:10 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 14",
       "title": "The Wilby Conspiracy (1975)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/the-wilby-conspiracy/",
       "showtimes": [
-        "4:00 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10785\",\"4:00 PM\")"
       ]
     },
     {
@@ -1358,7 +1764,7 @@
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/the-last-valley/",
       "showtimes": [
-        "6:30 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10704\",\"6:30 PM\")"
       ]
     },
     {
@@ -1480,11 +1886,50 @@
     },
     {
       "date": "Fri, Aug 15",
+      "title": "AN OFFICER AND A SPY (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44600\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44612\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44624\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44638\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 15",
+      "title": "IRMA VEP (1996)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/irma-vep/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/irma-vep-wia/44962\",\"1:00 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 15",
+      "title": "LADY SNOWBLOOD (1973)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/lady-snowblood/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/lady-snowblood-wia/44975\",\"6:00 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 15",
+      "title": "ALIEN (1979)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/alien/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/alien-wia/44977\",\"8:10 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 15",
       "title": "Pulp (1972)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/pulp/",
       "showtimes": [
-        "4:00 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10705\",\"4:00 PM\")"
       ]
     },
     {
@@ -1493,7 +1938,7 @@
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/get-carter/",
       "showtimes": [
-        "6:30 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10707\",\"6:30 PM\")"
       ]
     },
     {
@@ -1615,11 +2060,50 @@
     },
     {
       "date": "Sat, Aug 16",
+      "title": "AN OFFICER AND A SPY (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44601\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44647\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44625\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44639\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "IRMA VEP (1996)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/irma-vep/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/irma-vep-wia/44963\",\"3:10 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "ALIEN (1979)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/alien/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/alien-wia/44978\",\"5:20 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "ALIENS (1986)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/aliens/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/aliens-wia/44981\",\"7:50 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
       "title": "Educating Rita (1983)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/educating-rita/",
       "showtimes": [
-        "1:30 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10708\",\"1:30 PM\")"
       ]
     },
     {
@@ -1628,7 +2112,7 @@
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/alfie/",
       "showtimes": [
-        "4:00 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10700\",\"4:00 PM\")"
       ]
     },
     {
@@ -1637,7 +2121,7 @@
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/the-italian-job/",
       "showtimes": [
-        "6:30 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10709\",\"6:30 PM\")"
       ]
     },
     {
@@ -1777,11 +2261,59 @@
     },
     {
       "date": "Sun, Aug 17",
+      "title": "AN OFFICER AND A SPY (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44602\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44648\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44626\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44640\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "JOHNNY GUITAR (1954)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/johnny-guitar/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/johnny-guitar-wia/44983\",\"12:15 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "THE FURIES (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-furies-2019/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/the-furies-wia/44987\",\"2:45 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "FORTY GUNS (1957)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/forty-guns/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/forty-guns-wia/44989\",\"5:10 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "A TOUCH OF ZEN (1970)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/a-touch-of-zen/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/a-touch-of-zen-wia/44993\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
       "title": "Get Carter (1971)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/get-carter/",
       "showtimes": [
-        "1:30 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10707\",\"1:30 PM\")"
       ]
     },
     {
@@ -1790,7 +2322,7 @@
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/pulp/",
       "showtimes": [
-        "4:00 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10705\",\"4:00 PM\")"
       ]
     },
     {
@@ -1849,11 +2381,59 @@
     },
     {
       "date": "Mon, Aug 18",
+      "title": "AN OFFICER AND A SPY (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44603\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44613\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44627\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44641\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 18",
+      "title": "GUN CRAZY (2002)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/gun-crazy/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/gun-crazy-wia/44995\",\"12:45 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 18",
+      "title": "THE FURIES (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-furies-2019/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/the-furies-wia/44986\",\"3:10 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 18",
+      "title": "JOHNNY GUITAR (1954)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/johnny-guitar/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/johnny-guitar-wia/44985\",\"5:45 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 18",
+      "title": "KRIEMHILD'S REVENGE (1924)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/kriemhilds-revenge/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/kriemhilds-revenge-wia/44998\",\"8:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 18",
       "title": "Children of Men (2006)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/children-of-men/",
       "showtimes": [
-        "4:00 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10710\",\"4:00 PM\")"
       ]
     },
     {
@@ -1862,7 +2442,7 @@
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/the-wilby-conspiracy/",
       "showtimes": [
-        "6:30 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10785\",\"6:30 PM\")"
       ]
     },
     {
@@ -1885,11 +2465,50 @@
     },
     {
       "date": "Tue, Aug 19",
+      "title": "AN OFFICER AND A SPY (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44604\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44614\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44628\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44642\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 19",
+      "title": "ALIEN (1979)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/alien/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/alien-wia/44976\",\"3:30 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 19",
+      "title": "ALIENS (1986)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/aliens/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/aliens-wia/44982\",\"5:50 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 19",
+      "title": "GHOST IN THE SHELL (1995)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/ghost-in-the-shell/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/ghost-in-the-shell-wia/44999\",\"8:50 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 19",
       "title": "The Romantic Englishwoman (1975)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/the-romantic-englishwoman/",
       "showtimes": [
-        "4:00 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10703\",\"4:00 PM\")"
       ]
     },
     {
@@ -1898,7 +2517,7 @@
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/children-of-men/",
       "showtimes": [
-        "7:00 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10710\",\"7:00 PM\")"
       ]
     },
     {
@@ -1921,11 +2540,41 @@
     },
     {
       "date": "Wed, Aug 20",
+      "title": "AN OFFICER AND A SPY (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44605\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44615\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44629\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44643\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 20",
+      "title": "ALIENS (1986)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/aliens/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/aliens-wia/44979\",\"1:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 20",
+      "title": "FORTY GUNS (1957)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/forty-guns/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/forty-guns-wia/44990\",\"6:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 20",
       "title": "Hannah and Her Sisters (1986)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/hannah-and-her-sisters/",
       "showtimes": [
-        "4:00 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10711\",\"4:00 PM\")"
       ]
     },
     {
@@ -1934,7 +2583,7 @@
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/educating-rita/",
       "showtimes": [
-        "7:00 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10708\",\"7:00 PM\")"
       ]
     },
     {
@@ -1966,11 +2615,41 @@
     },
     {
       "date": "Thu, Aug 21",
+      "title": "A TOUCH OF ZEN (1970)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/a-touch-of-zen/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/a-touch-of-zen-wia/44991\",\"12:15 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 21",
+      "title": "AN OFFICER AND A SPY (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44606\",\"12:15 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44616\",\"3:00 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44630\",\"5:45 PM\")",
+        "=HYPERLINK(\"https://my.filmforum.org/an-officer-and-a-spy/44644\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 21",
+      "title": "BLUE STEEL (1990)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/blue-steel-1990/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/blue-steel-wia/45007\",\"8:35 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 21",
       "title": "The Italian Job (1969)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/the-italian-job/",
       "showtimes": [
-        "4:00 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10709\",\"4:00 PM\")"
       ]
     },
     {
@@ -1979,7 +2658,7 @@
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/the-quiet-american/",
       "showtimes": [
-        "6:30 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10712\",\"6:30 PM\")"
       ]
     },
     {
@@ -2074,11 +2753,47 @@
     },
     {
       "date": "Fri, Aug 22",
+      "title": "ALIENS (1986)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/aliens/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/aliens-wia/44980\",\"12:50 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
+      "title": "LADY SNOWBLOOD (1973)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/lady-snowblood/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/lady-snowblood-wia/44972\",\"3:50 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
+      "title": "BLUE STEEL (1990)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/blue-steel-1990/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/blue-steel-wia/45008\",\"6:00 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
+      "title": "TERMINATOR 2: JUDGMENT DAY (1991)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/terminator-2-judgment-day/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/terminator-2-wia/45009\",\"8:10 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
       "title": "The Wrong Box (1966)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/the-wrong-box/",
       "showtimes": [
-        "4:00 PM (SOLD OUT)"
+        "=HYPERLINK(\"https://www.moma.org/calendar/events/10713\",\"4:00 PM\")"
       ]
     },
     {
@@ -2200,6 +2915,42 @@
     },
     {
       "date": "Sat, Aug 23",
+      "title": "BLOODY MAMA (1970)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/bloody-mama/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/bloody-mama-wia/45013\",\"12:15 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
+      "title": "A TOUCH OF ZEN (1970)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/a-touch-of-zen/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/a-touch-of-zen-wia/44994\",\"2:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
+      "title": "TERMINATOR 2: JUDGMENT DAY (1991)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/terminator-2-judgment-day/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/terminator-2-wia/45010\",\"5:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
+      "title": "MAD MAX: FURY ROAD (2015)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/mad-max-fury-road-2015/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/mad-max-fury-road-wia/45017\",\"8:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
       "title": " Front Row",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/front-row/",
@@ -2317,6 +3068,42 @@
     },
     {
       "date": "Sun, Aug 24",
+      "title": "FORTY GUNS (1957)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/forty-guns/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/forty-guns-wia/44988\",\"12:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "BONNIE AND CLYDE (2008)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/bonnie-and-clyde/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/bonnie-and-clyde-wia/45019\",\"2:20 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "KILL BILL: VOL. 1 (2003)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/kill-bill-vol-1/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/kill-bill-vol-1-wia/45023\",\"4:40 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "KILL BILL: VOL. 2 (2004)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/kill-bill-vol-2/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/kill-bill-vol-2-wia/45025\",\"7:10 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
       "title": "The Little Girl Who Sold the Sun + A Short Film About Kids",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/search/the+little+girl+who+sold+the+sun+a+short+film+about+kids/",
@@ -2362,6 +3149,33 @@
     },
     {
       "date": "Mon, Aug 25",
+      "title": "JOHNNY GUITAR (1954)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/johnny-guitar/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/johnny-guitar-wia/44984\",\"1:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 25",
+      "title": "DRAGON INN (1992)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/dragon-inn-1992/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/dragon-inn-wia/45027\",\"3:20 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 25",
+      "title": "GUN CRAZY (2002)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/gun-crazy/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/gun-crazy-wia/44996\",\"8:00 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Aug 25",
       "title": "Aftersun",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/aftersun/",
@@ -2389,6 +3203,42 @@
     },
     {
       "date": "Tue, Aug 26",
+      "title": "MAD MAX: FURY ROAD (2015)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/mad-max-fury-road-2015/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/mad-max-fury-road-wia/45016\",\"12:30 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 26",
+      "title": "KILL BILL: VOL. 2 (2004)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/kill-bill-vol-2/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/kill-bill-vol-2-wia/45024\",\"3:00 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 26",
+      "title": "GUN CRAZY (2002)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/gun-crazy/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/gun-crazy-wia/44997\",\"6:00 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 26",
+      "title": "BONNIE AND CLYDE (2008)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/bonnie-and-clyde/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/bonnie-and-clyde-wia/45020\",\"8:00 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Aug 26",
       "title": "Summer 1993",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/summer-1993/",
@@ -2412,6 +3262,42 @@
       "letterboxdURL": "https://letterboxd.com/search/the+little+girl+who+sold+the+sun+a+short+film+about+kids/",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49523\",\"5:30 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 27",
+      "title": "LADY SNOWBLOOD (1973)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/lady-snowblood/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/lady-snowblood-wia/44973\",\"1:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 27",
+      "title": "BLUE STEEL (1990)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/blue-steel-1990/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/blue-steel-wia/45006\",\"3:40 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 27",
+      "title": "FILIBUS (1915)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/filibus/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/filibus-wia/45121\",\"6:00 PM\")"
+      ]
+    },
+    {
+      "date": "Wed, Aug 27",
+      "title": "LA FEMME NIKITA (1990)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/la-femme-nikita/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/la-femme-nikita-wia/45031\",\"7:50 PM\")"
       ]
     },
     {
@@ -2448,6 +3334,33 @@
       "letterboxdURL": "https://letterboxd.com/film/ghost-in-the-shell/",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.paristheaternyc.com/order/showtimes/2001-1309/seats\",\"7:00 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 28",
+      "title": "BONNIE AND CLYDE (2008)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/bonnie-and-clyde/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/bonnie-and-clyde-wia/45018\",\"1:00 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 28",
+      "title": "SET IT OFF (1996)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/set-it-off/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/set-it-off-wia/45032\",\"6:00 PM\")"
+      ]
+    },
+    {
+      "date": "Thu, Aug 28",
+      "title": "IRMA VEP (1996)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/irma-vep/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/irma-vep-wia/44965\",\"8:30 PM\")"
       ]
     },
     {
@@ -2538,6 +3451,24 @@
       "letterboxdURL": "https://letterboxd.com/film/mandy-2018/",
       "showtimes": [
         "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27739\",\"10:00 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 29",
+      "title": "LA FEMME NIKITA (1990)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/la-femme-nikita/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/la-femme-nikita-wia/45029\",\"3:30 PM\")"
+      ]
+    },
+    {
+      "date": "Fri, Aug 29",
+      "title": "DRAGON INN (1992)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/dragon-inn-1992/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/dragon-inn-wia/45028\",\"8:30 PM\")"
       ]
     },
     {
@@ -2677,6 +3608,42 @@
     },
     {
       "date": "Sat, Aug 30",
+      "title": "THE BIG DOLL HOUSE (1971)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-big-doll-house/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/the-big-doll-house-wia/45034\",\"1:00 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 30",
+      "title": "COFFY (1973)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/coffy/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/coffy-wia/45036\",\"3:15 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 30",
+      "title": "FOXY BROWN (1974)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/foxy-brown/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/foxy-brown-wia/45037\",\"5:20 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 30",
+      "title": "JACKIE BROWN (1997)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/jackie-brown/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/jackie-brown-wia/45039\",\"7:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sat, Aug 30",
       "title": "Porco Rosso",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/porco-rosso/",
@@ -2799,6 +3766,33 @@
       "letterboxdURL": "https://letterboxd.com/film/edward-scissorhands/",
       "showtimes": [
         "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27763\",\"9:45 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 31",
+      "title": "THE HEROIC TRIO (1993)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-heroic-trio/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/the-heroic-trio-wia/45041\",\"3:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 31",
+      "title": "CROUCHING TIGER, HIDDEN DRAGON (2000)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/crouching-tiger-hidden-dragon/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/crouching-tiger-hidden-dragon-wia/45042\",\"5:30 PM\")"
+      ]
+    },
+    {
+      "date": "Sun, Aug 31",
+      "title": "TERMINATOR 2: JUDGMENT DAY (1991)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/terminator-2-judgment-day/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/terminator-2-wia/45011\",\"8:00 PM\")"
       ]
     },
     {
@@ -2929,6 +3923,42 @@
     },
     {
       "date": "Mon, Sep 1",
+      "title": "KILL BILL: VOL. 1 (2003)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/kill-bill-vol-1/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/kill-bill-vol-1-wia/45022\",\"12:30 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Sep 1",
+      "title": "A TOUCH OF ZEN (1970)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/a-touch-of-zen/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/a-touch-of-zen-wia/44992\",\"2:50 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Sep 1",
+      "title": "BLOODY MAMA (1970)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/bloody-mama/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/bloody-mama-wia/45014\",\"6:20 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Sep 1",
+      "title": "BIG BAD MAMA (1974)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/big-bad-mama/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/big-bad-mama-wia/45043\",\"8:20 PM\")"
+      ]
+    },
+    {
+      "date": "Mon, Sep 1",
       "title": "To Be or Not to Be",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/to-be-or-not-to-be/",
@@ -2952,6 +3982,42 @@
       "letterboxdURL": "https://letterboxd.com/film/porco-rosso/",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49628\",\"9:15 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Sep 2",
+      "title": "LADY SNOWBLOOD (1973)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/lady-snowblood/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/lady-snowblood-wia/44974\",\"1:00 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Sep 2",
+      "title": "LA FEMME NIKITA (1990)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/la-femme-nikita/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/la-femme-nikita-wia/45030\",\"3:30 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Sep 2",
+      "title": "THE BRAVE ONE (1956)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-brave-one-1956/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/the-brave-one-wia/45044\",\"6:00 PM\")"
+      ]
+    },
+    {
+      "date": "Tue, Sep 2",
+      "title": "SET IT OFF (1996)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/set-it-off/",
+      "showtimes": [
+        "=HYPERLINK(\"https://my.filmforum.org/set-it-off-wia/45033\",\"8:30 PM\")"
       ]
     }
   ]
