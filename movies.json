@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-03T00:04:05.938263",
+  "lastUpdated": "2025-08-03T00:12:50.904769",
   "movies": [
     {
       "date": "Sun, Aug 3",
@@ -2598,7 +2598,7 @@
       "date": "Sat, Aug 30",
       "title": "Spacked Out (2000)",
       "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/spacked-out/",
+      "letterboxdURL": "https://letterboxd.com/search/spacked+out+2000/",
       "showtimes": [
         "=HYPERLINK(\"https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27747\",\"5:00 PM\")"
       ]
@@ -2952,6 +2952,111 @@
       "letterboxdURL": "https://letterboxd.com/film/porco-rosso/",
       "showtimes": [
         "=HYPERLINK(\"https://tickets.bam.org/production/?pid=49628\",\"9:15 PM\")"
+      ]
+    },
+    {
+      "date": "MON, 2025",
+      "title": "Terry Gilliam\u2019s BRAZIL (1985)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/search/terry+gilliams+brazil+1985/",
+      "showtimes": [
+        "=HYPERLINK(\"https://filmforum.org/film/brazil\",\"7:00(35mm)\")",
+        "=HYPERLINK(\"https://filmforum.org/film/brazil\",\"1:00\")",
+        "=HYPERLINK(\"https://filmforum.org/film/brazil\",\"4:00\")"
+      ]
+    },
+    {
+      "date": "MON, 2025",
+      "title": "HEARTS OF DARKNESS: A FILMMAKER\u2019S APOCALYPSE (1991)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/hearts-of-darkness-a-filmmakers-apocalypse/",
+      "showtimes": [
+        "=HYPERLINK(\"https://filmforum.org/film/hearts-of-darkness\",\"2:20\")",
+        "=HYPERLINK(\"https://filmforum.org/film/hearts-of-darkness\",\"6:40\")"
+      ]
+    },
+    {
+      "date": "SUN, 2025",
+      "title": "Terry Gilliam\u2019s BRAZIL (1985)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/search/terry+gilliams+brazil+1985/",
+      "showtimes": [
+        "=HYPERLINK(\"https://filmforum.org/film/brazil\",\"7:00(35mm)\")",
+        "=HYPERLINK(\"https://filmforum.org/film/brazil\",\"1:00\")",
+        "=HYPERLINK(\"https://filmforum.org/film/brazil\",\"4:00\")"
+      ]
+    },
+    {
+      "date": "SUN, 2025",
+      "title": "HEARTS OF DARKNESS: A FILMMAKER\u2019S APOCALYPSE (1991)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/hearts-of-darkness-a-filmmakers-apocalypse/",
+      "showtimes": [
+        "=HYPERLINK(\"https://filmforum.org/film/hearts-of-darkness\",\"2:20\")",
+        "=HYPERLINK(\"https://filmforum.org/film/hearts-of-darkness\",\"6:40\")"
+      ]
+    },
+    {
+      "date": "THU, 2025",
+      "title": "Terry Gilliam\u2019s BRAZIL (1985)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/search/terry+gilliams+brazil+1985/",
+      "showtimes": [
+        "=HYPERLINK(\"https://filmforum.org/film/brazil\",\"7:00(35mm)\")",
+        "=HYPERLINK(\"https://filmforum.org/film/brazil\",\"1:00\")",
+        "=HYPERLINK(\"https://filmforum.org/film/brazil\",\"4:00\")"
+      ]
+    },
+    {
+      "date": "THU, 2025",
+      "title": "HEARTS OF DARKNESS: A FILMMAKER\u2019S APOCALYPSE (1991)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/hearts-of-darkness-a-filmmakers-apocalypse/",
+      "showtimes": [
+        "=HYPERLINK(\"https://filmforum.org/film/hearts-of-darkness\",\"2:20\")",
+        "=HYPERLINK(\"https://filmforum.org/film/hearts-of-darkness\",\"6:40\")"
+      ]
+    },
+    {
+      "date": "TUE, 2025",
+      "title": "Terry Gilliam\u2019s BRAZIL (1985)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/search/terry+gilliams+brazil+1985/",
+      "showtimes": [
+        "=HYPERLINK(\"https://filmforum.org/film/brazil\",\"4:00(35mm)\")",
+        "=HYPERLINK(\"https://filmforum.org/film/brazil\",\"1:00\")",
+        "=HYPERLINK(\"https://filmforum.org/film/brazil\",\"7:00\")"
+      ]
+    },
+    {
+      "date": "TUE, 2025",
+      "title": "HEARTS OF DARKNESS: A FILMMAKER\u2019S APOCALYPSE (1991)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/hearts-of-darkness-a-filmmakers-apocalypse/",
+      "showtimes": [
+        "=HYPERLINK(\"https://filmforum.org/film/hearts-of-darkness\",\"2:20\")",
+        "=HYPERLINK(\"https://filmforum.org/film/hearts-of-darkness\",\"6:40\")"
+      ]
+    },
+    {
+      "date": "WED, 2025",
+      "title": "Terry Gilliam\u2019s BRAZIL (1985)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/search/terry+gilliams+brazil+1985/",
+      "showtimes": [
+        "=HYPERLINK(\"https://filmforum.org/film/brazil\",\"7:00(35mm)\")",
+        "=HYPERLINK(\"https://filmforum.org/film/brazil\",\"1:00\")",
+        "=HYPERLINK(\"https://filmforum.org/film/brazil\",\"4:00\")"
+      ]
+    },
+    {
+      "date": "WED, 2025",
+      "title": "HEARTS OF DARKNESS: A FILMMAKER\u2019S APOCALYPSE (1991)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/hearts-of-darkness-a-filmmakers-apocalypse/",
+      "showtimes": [
+        "=HYPERLINK(\"https://filmforum.org/film/hearts-of-darkness\",\"2:20\")",
+        "=HYPERLINK(\"https://filmforum.org/film/hearts-of-darkness\",\"6:40\")"
       ]
     }
   ]
