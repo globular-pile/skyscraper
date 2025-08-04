@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-03T23:41:55.032403",
+  "lastUpdated": "2025-08-04T00:11:42.275247",
   "movies": [
     {
       "date": "Sun, Aug 3",
@@ -90,43 +90,7 @@
       ]
     },
     {
-      "date": "Fri, Aug 3",
-      "title": "Street Angel (1928)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/street-angel/",
-      "showtimes": [
-        {
-          "time": "4:00 p.m.",
-          "link": "https://www.moma.org/calendar/events/10739"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Aug 3",
-      "title": "The Sparrow in the Chimney (2024)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-sparrow-in-the-chimney/",
-      "showtimes": [
-        {
-          "time": "2pm",
-          "link": "https://tickets.bam.org/production/?pid=49223"
-        },
-        {
-          "time": "7pm",
-          "link": "https://tickets.bam.org/production/?pid=49223"
-        },
-        {
-          "time": "4:30pm",
-          "link": "https://tickets.bam.org/production/?pid=49223"
-        },
-        {
-          "time": "9:30pm",
-          "link": "https://tickets.bam.org/production/?pid=49223"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Aug 4",
+      "date": "Mon, Aug 4",
       "title": "American Psycho (2000)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/american-psycho/",
@@ -182,7 +146,7 @@
       ]
     },
     {
-      "date": "Sat, Aug 4",
+      "date": "Mon, Aug 4",
       "title": "Breathless - 35MM | This is Cin\u00e9matographe (1983)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/search/Breathless%20-%2035MM+1983/",
@@ -194,7 +158,7 @@
       ]
     },
     {
-      "date": "Sat, Aug 4",
+      "date": "Mon, Aug 4",
       "title": "Die Stra\u00dfe (The Street) (1923)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/search/Die%20Stra%C3%9Fe%20%28The%20Street%29+1923/",
@@ -206,7 +170,7 @@
       ]
     },
     {
-      "date": "Sat, Aug 4",
+      "date": "Mon, Aug 4",
       "title": "Divorce Italian Style (1961)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/divorce-italian-style/",
@@ -230,7 +194,7 @@
       ]
     },
     {
-      "date": "Sat, Aug 4",
+      "date": "Mon, Aug 4",
       "title": "Holiday (1938)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/holiday/",
@@ -318,7 +282,7 @@
       ]
     },
     {
-      "date": "Sat, Aug 4",
+      "date": "Mon, Aug 4",
       "title": "Kind Hearts and Coronets (1949)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/kind-hearts-and-coronets/",
@@ -330,7 +294,7 @@
       ]
     },
     {
-      "date": "Sat, Aug 4",
+      "date": "Mon, Aug 4",
       "title": "La r\u00e8gle du jeu (1950)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/search/La%20r%C3%A8gle%20du%20jeu+1950/",
@@ -422,7 +386,7 @@
       ]
     },
     {
-      "date": "Sat, Aug 4",
+      "date": "Mon, Aug 4",
       "title": "Speed Racer - 35MM (2008)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/search/Speed%20Racer%20-%2035MM+2008/",
@@ -470,7 +434,7 @@
       ]
     },
     {
-      "date": "Sat, Aug 4",
+      "date": "Mon, Aug 4",
       "title": "The Sparrow in the Chimney (2024)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/the-sparrow-in-the-chimney/",
@@ -594,7 +558,7 @@
       ]
     },
     {
-      "date": "Sun, Aug 5",
+      "date": "Tue, Aug 5",
       "title": "Confessions of a Teenage Drama Queen - 35MM | Shot By... (2004)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/search/Confessions%20of%20a%20Teenage%20Drama%20Queen%20-%2035MM+2004/",
@@ -698,7 +662,7 @@
       ]
     },
     {
-      "date": "Sun, Aug 5",
+      "date": "Tue, Aug 5",
       "title": "Memory Lane (1926)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/memory-lane-1926/",
@@ -790,7 +754,7 @@
       ]
     },
     {
-      "date": "Sun, Aug 5",
+      "date": "Tue, Aug 5",
       "title": "The Sparrow in the Chimney (2024)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/the-sparrow-in-the-chimney/",
@@ -834,7 +798,7 @@
       ]
     },
     {
-      "date": "Mon, Aug 6",
+      "date": "Wed, Aug 6",
       "title": "A New Leaf (1971)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/a-new-leaf/",
@@ -890,7 +854,7 @@
       ]
     },
     {
-      "date": "Mon, Aug 6",
+      "date": "Wed, Aug 6",
       "title": "Holiday (1938)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/holiday/",
@@ -958,7 +922,7 @@
       ]
     },
     {
-      "date": "Mon, Aug 6",
+      "date": "Wed, Aug 6",
       "title": "Ivy Wolk and Mackenzie Thomas present: Confessions of a Teenage Drama Queen - 35MM | Shot By... (2004)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/search/Confessions%20of%20a%20Teenage%20Drama%20Queen%20-%2035MM+2004/",
@@ -990,7 +954,7 @@
       ]
     },
     {
-      "date": "Mon, Aug 6",
+      "date": "Wed, Aug 6",
       "title": "La r\u00e8gle du jeu (1950)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/search/La%20r%C3%A8gle%20du%20jeu+1950/",
@@ -1086,7 +1050,7 @@
       ]
     },
     {
-      "date": "Mon, Aug 6",
+      "date": "Wed, Aug 6",
       "title": "The Sparrow in the Chimney (2024)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/the-sparrow-in-the-chimney/",
@@ -1106,7 +1070,7 @@
       ]
     },
     {
-      "date": "Mon, Aug 6",
+      "date": "Wed, Aug 6",
       "title": "The Women (1939)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/the-women/",
@@ -1142,7 +1106,7 @@
       ]
     },
     {
-      "date": "Tue, Aug 7",
+      "date": "Thu, Aug 7",
       "title": "A New Leaf (1971)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/a-new-leaf/",
@@ -1154,7 +1118,7 @@
       ]
     },
     {
-      "date": "Tue, Aug 7",
+      "date": "Thu, Aug 7",
       "title": "Afternoons of Solitude (2024)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/film/afternoons-of-solitude/",
@@ -1166,7 +1130,7 @@
       ]
     },
     {
-      "date": "Tue, Aug 7",
+      "date": "Thu, Aug 7",
       "title": "American Psycho (2000)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/american-psycho/",
@@ -1246,7 +1210,7 @@
       ]
     },
     {
-      "date": "Tue, Aug 7",
+      "date": "Thu, Aug 7",
       "title": "Holiday (1938)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/holiday/",
@@ -1310,7 +1274,7 @@
       ]
     },
     {
-      "date": "Tue, Aug 7",
+      "date": "Thu, Aug 7",
       "title": "Kind Hearts and Coronets (1949)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/kind-hearts-and-coronets/",
@@ -1322,7 +1286,7 @@
       ]
     },
     {
-      "date": "Tue, Aug 7",
+      "date": "Thu, Aug 7",
       "title": "La r\u00e8gle du jeu (1950)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/search/La%20r%C3%A8gle%20du%20jeu+1950/",
@@ -1402,7 +1366,7 @@
       ]
     },
     {
-      "date": "Tue, Aug 7",
+      "date": "Thu, Aug 7",
       "title": "Speed Racer - 35MM (2008)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/search/Speed%20Racer%20-%2035MM+2008/",
@@ -1450,7 +1414,7 @@
       ]
     },
     {
-      "date": "Tue, Aug 7",
+      "date": "Thu, Aug 7",
       "title": "The Man Who Would Be King (1975)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/the-man-who-would-be-king/",
@@ -1474,7 +1438,7 @@
       ]
     },
     {
-      "date": "Tue, Aug 7",
+      "date": "Thu, Aug 7",
       "title": "The Sparrow in the Chimney (2024)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/the-sparrow-in-the-chimney/",
@@ -1518,7 +1482,7 @@
       ]
     },
     {
-      "date": "Wed, Aug 8",
+      "date": "Fri, Aug 8",
       "title": "A Man and a Woman  (2016)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/a-man-and-a-woman-2016/",
@@ -1534,7 +1498,7 @@
       ]
     },
     {
-      "date": "Wed, Aug 8",
+      "date": "Fri, Aug 8",
       "title": "A Night at the Opera (1935)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/a-night-at-the-opera/",
@@ -1546,7 +1510,7 @@
       ]
     },
     {
-      "date": "Wed, Aug 8",
+      "date": "Fri, Aug 8",
       "title": "Alfie (1966)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/alfie/",
@@ -1582,7 +1546,7 @@
       ]
     },
     {
-      "date": "Wed, Aug 8",
+      "date": "Fri, Aug 8",
       "title": "Angelheaded Hipster: The Songs of Marc Bolan & T. Rex + Q&A (2022)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/search/Angelheaded%20Hipster%3A%20The%20Songs%20of%20Marc%20Bolan%20%26%20T.%20Rex%20%2B%20Q%26A+2022/",
@@ -1594,7 +1558,7 @@
       ]
     },
     {
-      "date": "Wed, Aug 8",
+      "date": "Fri, Aug 8",
       "title": "Auntie Mame (1958)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/auntie-mame/",
@@ -1618,7 +1582,7 @@
       ]
     },
     {
-      "date": "Wed, Aug 8",
+      "date": "Fri, Aug 8",
       "title": "Christiane F. (New 4K Restoration) (1981)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/film/christiane-f/",
@@ -1630,7 +1594,7 @@
       ]
     },
     {
-      "date": "Wed, Aug 8",
+      "date": "Fri, Aug 8",
       "title": "Hamlet at Elsinore (1965)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/hamlet-at-elsinore/",
@@ -1654,7 +1618,7 @@
       ]
     },
     {
-      "date": "Wed, Aug 8",
+      "date": "Fri, Aug 8",
       "title": "La Dolce Vita (1961)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/la-dolce-vita-1961/",
@@ -1678,7 +1642,7 @@
       ]
     },
     {
-      "date": "Wed, Aug 8",
+      "date": "Fri, Aug 8",
       "title": "Mon Oncle (1958)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/mon-oncle/",
@@ -1726,7 +1690,7 @@
       ]
     },
     {
-      "date": "Wed, Aug 8",
+      "date": "Fri, Aug 8",
       "title": "Speed Racer - 35MM (2008)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/search/Speed%20Racer%20-%2035MM+2008/",
@@ -1750,7 +1714,7 @@
       ]
     },
     {
-      "date": "Wed, Aug 8",
+      "date": "Fri, Aug 8",
       "title": "The Discreet Charm of the Bourgeoisie (1972)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/the-discreet-charm-of-the-bourgeoisie/",
@@ -1822,7 +1786,7 @@
       ]
     },
     {
-      "date": "Thu, Aug 9",
+      "date": "Sat, Aug 9",
       "title": "A Night at the Opera (1935)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/a-night-at-the-opera/",
@@ -1834,7 +1798,7 @@
       ]
     },
     {
-      "date": "Thu, Aug 9",
+      "date": "Sat, Aug 9",
       "title": "A Woman is a Woman (2019)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/a-woman-is-a-woman/",
@@ -1870,7 +1834,7 @@
       ]
     },
     {
-      "date": "Thu, Aug 9",
+      "date": "Sat, Aug 9",
       "title": "Angelheaded Hipster: The Songs of Marc Bolan & T. Rex + Q&A (2022)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/search/Angelheaded%20Hipster%3A%20The%20Songs%20of%20Marc%20Bolan%20%26%20T.%20Rex%20%2B%20Q%26A+2022/",
@@ -1882,7 +1846,7 @@
       ]
     },
     {
-      "date": "Thu, Aug 9",
+      "date": "Sat, Aug 9",
       "title": "Arthur (1981)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/arthur-1981/",
@@ -1918,7 +1882,7 @@
       ]
     },
     {
-      "date": "Thu, Aug 9",
+      "date": "Sat, Aug 9",
       "title": "Billion Dollar Brain (1967)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/billion-dollar-brain/",
@@ -1930,7 +1894,7 @@
       ]
     },
     {
-      "date": "Thu, Aug 9",
+      "date": "Sat, Aug 9",
       "title": "Brain Dead Studios presents: Alien (1979)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/film/alien/",
@@ -1942,7 +1906,7 @@
       ]
     },
     {
-      "date": "Thu, Aug 9",
+      "date": "Sat, Aug 9",
       "title": "Compensation (1999)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/compensation-1999/",
@@ -1966,7 +1930,7 @@
       ]
     },
     {
-      "date": "Thu, Aug 9",
+      "date": "Sat, Aug 9",
       "title": "Funeral in Berlin (1966)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/funeral-in-berlin/",
@@ -1978,7 +1942,7 @@
       ]
     },
     {
-      "date": "Thu, Aug 9",
+      "date": "Sat, Aug 9",
       "title": "His Motorbike, Her Island (1986)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/his-motorbike-her-island/",
@@ -2038,7 +2002,7 @@
       ]
     },
     {
-      "date": "Thu, Aug 9",
+      "date": "Sat, Aug 9",
       "title": "Mon Oncle (1958)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/mon-oncle/",
@@ -2050,7 +2014,7 @@
       ]
     },
     {
-      "date": "Thu, Aug 9",
+      "date": "Sat, Aug 9",
       "title": "No Other Land (2024)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/film/no-other-land/",
@@ -2074,7 +2038,7 @@
       ]
     },
     {
-      "date": "Thu, Aug 9",
+      "date": "Sat, Aug 9",
       "title": "Picnic at Hanging Rock (1975)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/picnic-at-hanging-rock/",
@@ -2086,7 +2050,7 @@
       ]
     },
     {
-      "date": "Thu, Aug 9",
+      "date": "Sat, Aug 9",
       "title": "The Discreet Charm of the Bourgeoisie (1972)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/the-discreet-charm-of-the-bourgeoisie/",
@@ -2122,7 +2086,7 @@
       ]
     },
     {
-      "date": "Thu, Aug 9",
+      "date": "Sat, Aug 9",
       "title": "The Ipcress File (1965)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/the-ipcress-file/",
@@ -2158,7 +2122,7 @@
       ]
     },
     {
-      "date": "Thu, Aug 9",
+      "date": "Sat, Aug 9",
       "title": "The Philadelphia Story (1940)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/the-philadelphia-story/",
@@ -2210,7 +2174,7 @@
       ]
     },
     {
-      "date": "Fri, Aug 10",
+      "date": "Sun, Aug 10",
       "title": "A Night at the Opera (1935)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/a-night-at-the-opera/",
@@ -2246,7 +2210,7 @@
       ]
     },
     {
-      "date": "Fri, Aug 10",
+      "date": "Sun, Aug 10",
       "title": "Angelheaded Hipster: The Songs of Marc Bolan & T. Rex + Q&A (2022)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/search/Angelheaded%20Hipster%3A%20The%20Songs%20of%20Marc%20Bolan%20%26%20T.%20Rex%20%2B%20Q%26A+2022/",
@@ -2258,7 +2222,7 @@
       ]
     },
     {
-      "date": "Fri, Aug 10",
+      "date": "Sun, Aug 10",
       "title": "Batang West Side (2001)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/batang-west-side/",
@@ -2306,7 +2270,7 @@
       ]
     },
     {
-      "date": "Fri, Aug 10",
+      "date": "Sun, Aug 10",
       "title": "Husbands - 35MM (1970)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/search/Husbands%20-%2035MM+1970/",
@@ -2330,7 +2294,7 @@
       ]
     },
     {
-      "date": "Fri, Aug 10",
+      "date": "Sun, Aug 10",
       "title": "Killer of Sheep (1978)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/killer-of-sheep/",
@@ -2354,7 +2318,7 @@
       ]
     },
     {
-      "date": "Fri, Aug 10",
+      "date": "Sun, Aug 10",
       "title": "La Dolce Vita (1961)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/la-dolce-vita-1961/",
@@ -2378,7 +2342,7 @@
       ]
     },
     {
-      "date": "Fri, Aug 10",
+      "date": "Sun, Aug 10",
       "title": "My Fair Lady (1964)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/my-fair-lady/",
@@ -2402,7 +2366,7 @@
       ]
     },
     {
-      "date": "Fri, Aug 10",
+      "date": "Sun, Aug 10",
       "title": "No Other Land (2024)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/film/no-other-land/",
@@ -2438,7 +2402,7 @@
       ]
     },
     {
-      "date": "Fri, Aug 10",
+      "date": "Sun, Aug 10",
       "title": "Videodrome (Director's Cut) (1983)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/search/Videodrome%20%28Director%27s%20Cut%29+1983/",
@@ -2474,7 +2438,7 @@
       ]
     },
     {
-      "date": "Fri, Aug 10",
+      "date": "Sun, Aug 10",
       "title": "X Y & Zee (1972)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/search/X%20Y%20%26%20Zee+1972/",
@@ -2486,7 +2450,7 @@
       ]
     },
     {
-      "date": "Fri, Aug 10",
+      "date": "Sun, Aug 10",
       "title": "Zulu (1964)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/zulu/",
@@ -2498,7 +2462,7 @@
       ]
     },
     {
-      "date": "Sat, Aug 11",
+      "date": "Mon, Aug 11",
       "title": "A Night at the Opera (1935)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/a-night-at-the-opera/",
@@ -2534,7 +2498,7 @@
       ]
     },
     {
-      "date": "Sat, Aug 11",
+      "date": "Mon, Aug 11",
       "title": "Angelheaded Hipster: The Songs of Marc Bolan & T. Rex + Q&A (2022)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/search/Angelheaded%20Hipster%3A%20The%20Songs%20of%20Marc%20Bolan%20%26%20T.%20Rex%20%2B%20Q%26A+2022/",
@@ -2546,7 +2510,7 @@
       ]
     },
     {
-      "date": "Sat, Aug 11",
+      "date": "Mon, Aug 11",
       "title": "Compensation (1999)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/compensation-1999/",
@@ -2558,7 +2522,7 @@
       ]
     },
     {
-      "date": "Sat, Aug 11",
+      "date": "Mon, Aug 11",
       "title": "Mon Oncle (1958)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/mon-oncle/",
@@ -2570,7 +2534,7 @@
       ]
     },
     {
-      "date": "Sat, Aug 11",
+      "date": "Mon, Aug 11",
       "title": "My Fair Lady (1964)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/my-fair-lady/",
@@ -2582,7 +2546,7 @@
       ]
     },
     {
-      "date": "Sat, Aug 11",
+      "date": "Mon, Aug 11",
       "title": "Picnic at Hanging Rock (1975)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/picnic-at-hanging-rock/",
@@ -2594,7 +2558,7 @@
       ]
     },
     {
-      "date": "Sat, Aug 11",
+      "date": "Mon, Aug 11",
       "title": "The Discreet Charm of the Bourgeoisie (1972)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/the-discreet-charm-of-the-bourgeoisie/",
@@ -2606,7 +2570,7 @@
       ]
     },
     {
-      "date": "Sat, Aug 11",
+      "date": "Mon, Aug 11",
       "title": "The Loss of Sexual Innocence - 35MM (1998)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/search/The%20Loss%20of%20Sexual%20Innocence%20-%2035MM+1998/",
@@ -2618,7 +2582,7 @@
       ]
     },
     {
-      "date": "Sat, Aug 11",
+      "date": "Mon, Aug 11",
       "title": "The Romantic Englishwoman (1975)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/the-romantic-englishwoman/",
@@ -2654,7 +2618,7 @@
       ]
     },
     {
-      "date": "Sat, Aug 11",
+      "date": "Mon, Aug 11",
       "title": "Withnail and I (1987)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/withnail-and-i/",
@@ -2666,7 +2630,7 @@
       ]
     },
     {
-      "date": "Sat, Aug 11",
+      "date": "Mon, Aug 11",
       "title": "X Y & Zee (1972)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/search/X%20Y%20%26%20Zee+1972/",
@@ -2678,7 +2642,7 @@
       ]
     },
     {
-      "date": "Sat, Aug 11",
+      "date": "Mon, Aug 11",
       "title": "eXistenZ (1999)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/existenz/",
@@ -2714,7 +2678,7 @@
       ]
     },
     {
-      "date": "Sun, Aug 12",
+      "date": "Tue, Aug 12",
       "title": "Central Park (2004)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/central-park/",
@@ -2726,7 +2690,7 @@
       ]
     },
     {
-      "date": "Sun, Aug 12",
+      "date": "Tue, Aug 12",
       "title": "Christiane F. (New 4K Restoration) (1981)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/film/christiane-f/",
@@ -2738,7 +2702,7 @@
       ]
     },
     {
-      "date": "Sun, Aug 12",
+      "date": "Tue, Aug 12",
       "title": "Husbands - 35MM (1970)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/search/Husbands%20-%2035MM+1970/",
@@ -2750,7 +2714,7 @@
       ]
     },
     {
-      "date": "Sun, Aug 12",
+      "date": "Tue, Aug 12",
       "title": "Love & Pop (1990)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/love-pop/",
@@ -2762,7 +2726,7 @@
       ]
     },
     {
-      "date": "Sun, Aug 12",
+      "date": "Tue, Aug 12",
       "title": "The Man Who Would Be King (1975)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/the-man-who-would-be-king/",
@@ -2798,7 +2762,7 @@
       ]
     },
     {
-      "date": "Sun, Aug 12",
+      "date": "Tue, Aug 12",
       "title": "Zulu (1964)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/zulu/",
@@ -2810,7 +2774,7 @@
       ]
     },
     {
-      "date": "Mon, Aug 13",
+      "date": "Wed, Aug 13",
       "title": "Afternoons of Solitude (2024)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/film/afternoons-of-solitude/",
@@ -2846,7 +2810,7 @@
       ]
     },
     {
-      "date": "Mon, Aug 13",
+      "date": "Wed, Aug 13",
       "title": "Hamlet at Elsinore (1965)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/hamlet-at-elsinore/",
@@ -2858,7 +2822,7 @@
       ]
     },
     {
-      "date": "Mon, Aug 13",
+      "date": "Wed, Aug 13",
       "title": "His Motorbike, Her Island (1986)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/his-motorbike-her-island/",
@@ -2870,7 +2834,7 @@
       ]
     },
     {
-      "date": "Mon, Aug 13",
+      "date": "Wed, Aug 13",
       "title": "Husbands - 35MM (1970)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/search/Husbands%20-%2035MM+1970/",
@@ -2882,7 +2846,7 @@
       ]
     },
     {
-      "date": "Mon, Aug 13",
+      "date": "Wed, Aug 13",
       "title": "Killer of Sheep (1978)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/killer-of-sheep/",
@@ -2894,7 +2858,7 @@
       ]
     },
     {
-      "date": "Mon, Aug 13",
+      "date": "Wed, Aug 13",
       "title": "Love & Pop (1990)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/love-pop/",
@@ -2906,7 +2870,7 @@
       ]
     },
     {
-      "date": "Mon, Aug 13",
+      "date": "Wed, Aug 13",
       "title": "The Last Valley (1971)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/the-last-valley/",
@@ -2946,7 +2910,7 @@
       ]
     },
     {
-      "date": "Tue, Aug 14",
+      "date": "Thu, Aug 14",
       "title": "A Woman is a Woman (2019)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/a-woman-is-a-woman/",
@@ -2982,7 +2946,7 @@
       ]
     },
     {
-      "date": "Tue, Aug 14",
+      "date": "Thu, Aug 14",
       "title": "Ben and Suzanne, A Reunion in 4 Parts + Q&A (2024)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/search/Ben%20and%20Suzanne%2C%20A%20Reunion%20in%204%20Parts%20%2B%20Q%26A+2024/",
@@ -2994,7 +2958,7 @@
       ]
     },
     {
-      "date": "Tue, Aug 14",
+      "date": "Thu, Aug 14",
       "title": "Central Park (2004)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/central-park/",
@@ -3006,7 +2970,7 @@
       ]
     },
     {
-      "date": "Tue, Aug 14",
+      "date": "Thu, Aug 14",
       "title": "Christiane F. (New 4K Restoration) (1981)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/film/christiane-f/",
@@ -3018,7 +2982,7 @@
       ]
     },
     {
-      "date": "Tue, Aug 14",
+      "date": "Thu, Aug 14",
       "title": "The Last Valley (1971)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/the-last-valley/",
@@ -3030,7 +2994,7 @@
       ]
     },
     {
-      "date": "Tue, Aug 14",
+      "date": "Thu, Aug 14",
       "title": "The Loss of Sexual Innocence - 35MM (1998)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/search/The%20Loss%20of%20Sexual%20Innocence%20-%2035MM+1998/",
@@ -3042,7 +3006,7 @@
       ]
     },
     {
-      "date": "Tue, Aug 14",
+      "date": "Thu, Aug 14",
       "title": "The Wilby Conspiracy (1975)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/the-wilby-conspiracy/",
@@ -3082,7 +3046,7 @@
       ]
     },
     {
-      "date": "Tue, Aug 14",
+      "date": "Thu, Aug 14",
       "title": "Withnail and I (1987)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/withnail-and-i/",
@@ -3166,7 +3130,7 @@
       ]
     },
     {
-      "date": "Wed, Aug 15",
+      "date": "Fri, Aug 15",
       "title": "Get Carter (1971)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/get-carter/",
@@ -3202,7 +3166,7 @@
       ]
     },
     {
-      "date": "Wed, Aug 15",
+      "date": "Fri, Aug 15",
       "title": "Ivan\u2019s Childhood (1962)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/ivans-childhood/",
@@ -3226,7 +3190,7 @@
       ]
     },
     {
-      "date": "Wed, Aug 15",
+      "date": "Fri, Aug 15",
       "title": "Mixed Blood (New 4K Restoration) (1984)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/film/mixed-blood/",
@@ -3282,7 +3246,7 @@
       ]
     },
     {
-      "date": "Wed, Aug 15",
+      "date": "Fri, Aug 15",
       "title": "Pulp (1972)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/pulp/",
@@ -3306,7 +3270,7 @@
       ]
     },
     {
-      "date": "Wed, Aug 15",
+      "date": "Fri, Aug 15",
       "title": "Stalker (2023)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/stalker-2023/",
@@ -3354,7 +3318,7 @@
       ]
     },
     {
-      "date": "Thu, Aug 16",
+      "date": "Sat, Aug 16",
       "title": "Alfie (1966)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/alfie/",
@@ -3426,7 +3390,7 @@
       ]
     },
     {
-      "date": "Thu, Aug 16",
+      "date": "Sat, Aug 16",
       "title": "Educating Rita (1983)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/educating-rita/",
@@ -3510,7 +3474,7 @@
       ]
     },
     {
-      "date": "Thu, Aug 16",
+      "date": "Sat, Aug 16",
       "title": "Mixed Blood (New 4K Restoration) (1984)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/film/mixed-blood/",
@@ -3578,7 +3542,7 @@
       ]
     },
     {
-      "date": "Thu, Aug 16",
+      "date": "Sat, Aug 16",
       "title": "Solaris (2002)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/solaris-2002/",
@@ -3602,7 +3566,7 @@
       ]
     },
     {
-      "date": "Thu, Aug 16",
+      "date": "Sat, Aug 16",
       "title": "The Italian Job (1969)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/the-italian-job/",
@@ -3614,7 +3578,7 @@
       ]
     },
     {
-      "date": "Thu, Aug 16",
+      "date": "Sat, Aug 16",
       "title": "The Sacrifice (1909)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/the-sacrifice-1909/",
@@ -3662,7 +3626,7 @@
       ]
     },
     {
-      "date": "Fri, Aug 17",
+      "date": "Sun, Aug 17",
       "title": "Andrei Rublev (1966)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/andrei-rublev/",
@@ -3710,7 +3674,7 @@
       ]
     },
     {
-      "date": "Fri, Aug 17",
+      "date": "Sun, Aug 17",
       "title": "Cinema Tehran presents: The Music Room by Satyajit Ray (1958)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/search/The%20Music%20Room%20by%20Satyajit%20Ray+1958/",
@@ -3734,7 +3698,7 @@
       ]
     },
     {
-      "date": "Fri, Aug 17",
+      "date": "Sun, Aug 17",
       "title": "Get Carter (1971)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/get-carter/",
@@ -3770,7 +3734,7 @@
       ]
     },
     {
-      "date": "Fri, Aug 17",
+      "date": "Sun, Aug 17",
       "title": "Husbands - 35MM (1970)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/search/Husbands%20-%2035MM+1970/",
@@ -3806,7 +3770,7 @@
       ]
     },
     {
-      "date": "Fri, Aug 17",
+      "date": "Sun, Aug 17",
       "title": "Mirror (2009)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/mirror-2009/",
@@ -3862,7 +3826,7 @@
       ]
     },
     {
-      "date": "Fri, Aug 17",
+      "date": "Sun, Aug 17",
       "title": "Neptune Frost (2022)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/neptune-frost/",
@@ -3874,7 +3838,7 @@
       ]
     },
     {
-      "date": "Fri, Aug 17",
+      "date": "Sun, Aug 17",
       "title": "Pulp (1972)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/pulp/",
@@ -3898,7 +3862,7 @@
       ]
     },
     {
-      "date": "Fri, Aug 17",
+      "date": "Sun, Aug 17",
       "title": "Solaris (2002)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/solaris-2002/",
@@ -3970,7 +3934,7 @@
       ]
     },
     {
-      "date": "Sat, Aug 18",
+      "date": "Mon, Aug 18",
       "title": "Children of Men (2006)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/children-of-men/",
@@ -3994,7 +3958,7 @@
       ]
     },
     {
-      "date": "Sat, Aug 18",
+      "date": "Mon, Aug 18",
       "title": "Ivan\u2019s Childhood (1962)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/ivans-childhood/",
@@ -4046,7 +4010,7 @@
       ]
     },
     {
-      "date": "Sat, Aug 18",
+      "date": "Mon, Aug 18",
       "title": "Nostalghia (1984)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/nostalghia/",
@@ -4070,7 +4034,7 @@
       ]
     },
     {
-      "date": "Sat, Aug 18",
+      "date": "Mon, Aug 18",
       "title": "The Wilby Conspiracy (1975)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/the-wilby-conspiracy/",
@@ -4130,7 +4094,7 @@
       ]
     },
     {
-      "date": "Sun, Aug 19",
+      "date": "Tue, Aug 19",
       "title": "Children of Men (2006)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/children-of-men/",
@@ -4186,7 +4150,7 @@
       ]
     },
     {
-      "date": "Sun, Aug 19",
+      "date": "Tue, Aug 19",
       "title": "The Romantic Englishwoman (1975)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/the-romantic-englishwoman/",
@@ -4198,7 +4162,7 @@
       ]
     },
     {
-      "date": "Sun, Aug 19",
+      "date": "Tue, Aug 19",
       "title": "The Sacrifice (1909)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/the-sacrifice-1909/",
@@ -4246,7 +4210,7 @@
       ]
     },
     {
-      "date": "Mon, Aug 20",
+      "date": "Wed, Aug 20",
       "title": "Andrei Rublev (1966)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/andrei-rublev/",
@@ -4258,7 +4222,7 @@
       ]
     },
     {
-      "date": "Mon, Aug 20",
+      "date": "Wed, Aug 20",
       "title": "Educating Rita (1983)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/educating-rita/",
@@ -4282,7 +4246,7 @@
       ]
     },
     {
-      "date": "Mon, Aug 20",
+      "date": "Wed, Aug 20",
       "title": "Hannah and Her Sisters (1986)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/hannah-and-her-sisters/",
@@ -4310,7 +4274,7 @@
       ]
     },
     {
-      "date": "Mon, Aug 20",
+      "date": "Wed, Aug 20",
       "title": "Nostalghia (1984)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/nostalghia/",
@@ -4322,7 +4286,7 @@
       ]
     },
     {
-      "date": "Mon, Aug 20",
+      "date": "Wed, Aug 20",
       "title": "Tetsuo: the Iron Man (1989)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/tetsuo-the-iron-man/",
@@ -4382,7 +4346,7 @@
       ]
     },
     {
-      "date": "Tue, Aug 21",
+      "date": "Thu, Aug 21",
       "title": "Mirror (2009)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/mirror-2009/",
@@ -4414,7 +4378,7 @@
       ]
     },
     {
-      "date": "Tue, Aug 21",
+      "date": "Thu, Aug 21",
       "title": "Stalker (2023)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/stalker-2023/",
@@ -4426,7 +4390,7 @@
       ]
     },
     {
-      "date": "Tue, Aug 21",
+      "date": "Thu, Aug 21",
       "title": "The Italian Job (1969)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/the-italian-job/",
@@ -4438,7 +4402,7 @@
       ]
     },
     {
-      "date": "Tue, Aug 21",
+      "date": "Thu, Aug 21",
       "title": "The Quiet American (2002)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/the-quiet-american/",
@@ -4450,7 +4414,7 @@
       ]
     },
     {
-      "date": "Wed, Aug 22",
+      "date": "Fri, Aug 22",
       "title": "A Tale of Summer (2005)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/a-tale-of-summer/",
@@ -4547,6 +4511,18 @@
     },
     {
       "date": "Fri, Aug 22",
+      "title": "Dirty Rotten Scoundrels (1988)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/dirty-rotten-scoundrels/",
+      "showtimes": [
+        {
+          "time": "7:00 p.m.",
+          "link": "https://www.moma.org/calendar/events/10714"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
       "title": "Lady Snowblood (1973)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/lady-snowblood/",
@@ -4582,7 +4558,7 @@
       ]
     },
     {
-      "date": "Wed, Aug 22",
+      "date": "Fri, Aug 22",
       "title": "Summer 1993 (1994)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/summer-1993-1994/",
@@ -4594,7 +4570,7 @@
       ]
     },
     {
-      "date": "Wed, Aug 22",
+      "date": "Fri, Aug 22",
       "title": "Summer with Monika (1953)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/summer-with-monika/",
@@ -4618,7 +4594,7 @@
       ]
     },
     {
-      "date": "Wed, Aug 22",
+      "date": "Fri, Aug 22",
       "title": "The Wrong Box (1966)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/the-wrong-box/",
@@ -4642,7 +4618,7 @@
       ]
     },
     {
-      "date": "Thu, Aug 23",
+      "date": "Sat, Aug 23",
       "title": " Front Row (2024)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/front-row-2024/",
@@ -4654,7 +4630,7 @@
       ]
     },
     {
-      "date": "Thu, Aug 23",
+      "date": "Sat, Aug 23",
       "title": "A Brighter Summer Day (1991)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/a-brighter-summer-day/",
@@ -4678,7 +4654,7 @@
       ]
     },
     {
-      "date": "Thu, Aug 23",
+      "date": "Sat, Aug 23",
       "title": "Aftersun (2022)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/aftersun-2022/",
@@ -4870,7 +4846,7 @@
       ]
     },
     {
-      "date": "Fri, Aug 24",
+      "date": "Sun, Aug 24",
       "title": "Call Me By Your Name (2017)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/call-me-by-your-name/",
@@ -4930,7 +4906,7 @@
       ]
     },
     {
-      "date": "Fri, Aug 24",
+      "date": "Sun, Aug 24",
       "title": "Kikujiro (1999)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/kikujiro/",
@@ -5026,7 +5002,7 @@
       ]
     },
     {
-      "date": "Fri, Aug 24",
+      "date": "Sun, Aug 24",
       "title": "The Last Summer of La Boyita (2009)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/the-last-summer-of-la-boyita/",
@@ -5050,7 +5026,7 @@
       ]
     },
     {
-      "date": "Fri, Aug 24",
+      "date": "Sun, Aug 24",
       "title": "World on a Wire (1973)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/world-on-a-wire-1973/",
@@ -5062,7 +5038,7 @@
       ]
     },
     {
-      "date": "Sat, Aug 25",
+      "date": "Mon, Aug 25",
       "title": "Aftersun (2022)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/aftersun-2022/",
@@ -5074,7 +5050,7 @@
       ]
     },
     {
-      "date": "Sat, Aug 25",
+      "date": "Mon, Aug 25",
       "title": "Do the Right Thing (1989)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/do-the-right-thing/",
@@ -5122,7 +5098,7 @@
       ]
     },
     {
-      "date": "Sat, Aug 25",
+      "date": "Mon, Aug 25",
       "title": "The Last Summer of La Boyita (2009)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/the-last-summer-of-la-boyita/",
@@ -5134,7 +5110,7 @@
       ]
     },
     {
-      "date": "Sun, Aug 26",
+      "date": "Tue, Aug 26",
       "title": "A Tale of Summer (2005)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/a-tale-of-summer/",
@@ -5194,7 +5170,7 @@
       ]
     },
     {
-      "date": "Sun, Aug 26",
+      "date": "Tue, Aug 26",
       "title": "Summer 1993 (1994)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/summer-1993-1994/",
@@ -5206,7 +5182,7 @@
       ]
     },
     {
-      "date": "Mon, Aug 27",
+      "date": "Wed, Aug 27",
       "title": " Front Row (2024)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/front-row-2024/",
@@ -5242,7 +5218,7 @@
       ]
     },
     {
-      "date": "Mon, Aug 27",
+      "date": "Wed, Aug 27",
       "title": "Ghost in the Shell (1995)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/ghost-in-the-shell/",
@@ -5254,7 +5230,7 @@
       ]
     },
     {
-      "date": "Mon, Aug 27",
+      "date": "Wed, Aug 27",
       "title": "Kikujiro (1999)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/kikujiro/",
@@ -5290,7 +5266,7 @@
       ]
     },
     {
-      "date": "Mon, Aug 27",
+      "date": "Wed, Aug 27",
       "title": "Summer with Monika (1953)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/summer-with-monika/",
@@ -5314,7 +5290,7 @@
       ]
     },
     {
-      "date": "Tue, Aug 28",
+      "date": "Thu, Aug 28",
       "title": "Call Me By Your Name (2017)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/call-me-by-your-name/",
@@ -5326,7 +5302,7 @@
       ]
     },
     {
-      "date": "Tue, Aug 28",
+      "date": "Thu, Aug 28",
       "title": "Do the Right Thing (1989)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/do-the-right-thing/",
@@ -5374,7 +5350,7 @@
       ]
     },
     {
-      "date": "Wed, Aug 29",
+      "date": "Fri, Aug 29",
       "title": "Close Encounters of the Third Kind (1977)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/close-encounters-of-the-third-kind/",
@@ -5410,7 +5386,7 @@
       ]
     },
     {
-      "date": "Wed, Aug 29",
+      "date": "Fri, Aug 29",
       "title": "Duck Soup (1933)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/duck-soup-1933/",
@@ -5506,7 +5482,7 @@
       ]
     },
     {
-      "date": "Wed, Aug 29",
+      "date": "Fri, Aug 29",
       "title": "The Great Dictator (1940)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/the-great-dictator/",
@@ -5530,7 +5506,7 @@
       ]
     },
     {
-      "date": "Wed, Aug 29",
+      "date": "Fri, Aug 29",
       "title": "To Be or Not to Be (1942)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/to-be-or-not-to-be/",
@@ -5602,7 +5578,7 @@
       ]
     },
     {
-      "date": "Thu, Aug 30",
+      "date": "Sat, Aug 30",
       "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/",
@@ -5686,7 +5662,7 @@
       ]
     },
     {
-      "date": "Thu, Aug 30",
+      "date": "Sat, Aug 30",
       "title": "Porco Rosso (1992)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/porco-rosso/",
@@ -5722,7 +5698,7 @@
       ]
     },
     {
-      "date": "Thu, Aug 30",
+      "date": "Sat, Aug 30",
       "title": "Starship Troopers  (1997)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/starship-troopers/",
@@ -5746,7 +5722,7 @@
       ]
     },
     {
-      "date": "Thu, Aug 30",
+      "date": "Sat, Aug 30",
       "title": "The Grand Budapest Hotel (2014)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/the-grand-budapest-hotel-2014/",
@@ -5806,7 +5782,7 @@
       ]
     },
     {
-      "date": "Fri, Aug 31",
+      "date": "Sun, Aug 31",
       "title": "BlacKkKlansman (2018)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/blackkklansman/",
@@ -5818,7 +5794,7 @@
       ]
     },
     {
-      "date": "Fri, Aug 31",
+      "date": "Sun, Aug 31",
       "title": "Blade Runner: The Final Cut (1982)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/blade-runner-the-final-cut/",
@@ -5842,7 +5818,7 @@
       ]
     },
     {
-      "date": "Fri, Aug 31",
+      "date": "Sun, Aug 31",
       "title": "Desperate Living (1977)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/desperate-living/",
@@ -5890,7 +5866,7 @@
       ]
     },
     {
-      "date": "Fri, Aug 31",
+      "date": "Sun, Aug 31",
       "title": "Love & Anarchy (1973)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/search/Love%20%26%20Anarchy+1973/",
@@ -6046,7 +6022,7 @@
       ]
     },
     {
-      "date": "Sat, Sep 1",
+      "date": "Mon, Sep 1",
       "title": "Duck Soup (1933)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/duck-soup-1933/",
@@ -6106,7 +6082,7 @@
       ]
     },
     {
-      "date": "Sat, Sep 1",
+      "date": "Mon, Sep 1",
       "title": "Porco Rosso (1992)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/porco-rosso/",
@@ -6166,7 +6142,7 @@
       ]
     },
     {
-      "date": "Sat, Sep 1",
+      "date": "Mon, Sep 1",
       "title": "To Be or Not to Be (1942)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/to-be-or-not-to-be/",
@@ -6186,6 +6162,18 @@
         {
           "time": "2:45pm",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27766"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Sep 2",
+      "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/",
+      "showtimes": [
+        {
+          "time": "9:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49631"
         }
       ]
     },
@@ -6234,6 +6222,78 @@
         {
           "time": "6:00PM",
           "link": "https://my.filmforum.org/the-brave-one-wia/45044"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Sep 2",
+      "title": "The Grand Budapest Hotel (2014)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/the-grand-budapest-hotel-2014/",
+      "showtimes": [
+        {
+          "time": "4:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49637"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Sep 2",
+      "title": "The Organizer (2017)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/the-organizer-2017/",
+      "showtimes": [
+        {
+          "time": "6:45pm",
+          "link": "https://tickets.bam.org/production/?pid=49652"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Sep 3",
+      "title": "Hanna (2011)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/hanna/",
+      "showtimes": [
+        {
+          "time": "5:40PM",
+          "link": "https://my.filmforum.org/hanna-wia/45049"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Sep 3",
+      "title": "Ms .45 (1981)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/ms-45/",
+      "showtimes": [
+        {
+          "time": "3:15PM",
+          "link": "https://my.filmforum.org/ms-45-wia/45045"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Sep 3",
+      "title": "The Big Doll House (1971)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-big-doll-house/",
+      "showtimes": [
+        {
+          "time": "1:00PM",
+          "link": "https://my.filmforum.org/the-big-doll-house-wia/45035"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Sep 3",
+      "title": "The Hunger Games (2012)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-hunger-games/",
+      "showtimes": [
+        {
+          "time": "8:00PM",
+          "link": "https://my.filmforum.org/the-hunger-games-wia/45048"
         }
       ]
     }
