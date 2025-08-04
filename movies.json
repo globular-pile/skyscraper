@@ -1,6 +1,94 @@
 {
-  "lastUpdated": "2025-08-03T22:55:01.815425",
+  "lastUpdated": "2025-08-03T23:23:41.240971",
   "movies": [
+    {
+      "date": "Sun, Aug 3",
+      "title": "Annette (2021)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/annette/",
+      "showtimes": [
+        {
+          "time": "6:50 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507601~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "Holy Motors (2012)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/holy-motors/",
+      "showtimes": [
+        {
+          "time": "12:45 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507613~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/search/In%20the%20Mood%20for%20Love%20%2B%20In%20the%20Mood%20for%20Love%202001+2000/",
+      "showtimes": [
+        {
+          "time": "11:15 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=511156~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "4:20 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510486~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:25 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510487~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "It's Not Me + Boy Meets Girl (1984)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/search/It%27s%20Not%20Me%20%2B%20Boy%20Meets%20Girl+1984/",
+      "showtimes": [
+        {
+          "time": "3:50 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507619~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "Mauvais Sang (1986)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/mauvais-sang/",
+      "showtimes": [
+        {
+          "time": "9:50 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507625~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 3",
+      "title": "Night of the Juggler (1980)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/night-of-the-juggler/",
+      "showtimes": [
+        {
+          "time": "1:50 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510527~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "7:00 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510528~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:45 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510537~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
     {
       "date": "Sun, Aug 3",
       "title": "Street Angel (1928)",
@@ -46,6 +134,30 @@
         {
           "time": "1:35 PM",
           "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1324/seats"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Annette (2021)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/annette/",
+      "showtimes": [
+        {
+          "time": "10:45 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507602~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Boy Meets Girl (1984)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/boy-meets-girl/",
+      "showtimes": [
+        {
+          "time": "9:55 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507607~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -131,6 +243,18 @@
     },
     {
       "date": "Mon, Aug 4",
+      "title": "Holy Motors (2012)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/holy-motors/",
+      "showtimes": [
+        {
+          "time": "7:15 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507614~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
       "title": "Ikiru (1952)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/ikiru/",
@@ -138,6 +262,38 @@
         {
           "time": "8:00PM",
           "link": "https://my.filmforum.org/ikiru-kurosawa/45260"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/search/In%20the%20Mood%20for%20Love%20%2B%20In%20the%20Mood%20for%20Love%202001+2000/",
+      "showtimes": [
+        {
+          "time": "11:15 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510488~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "4:20 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510489~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:25 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510490~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "It's Not Me + Boy Meets Girl (1984)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/search/It%27s%20Not%20Me%20%2B%20Boy%20Meets%20Girl+1984/",
+      "showtimes": [
+        {
+          "time": "4:10 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507620~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -182,6 +338,50 @@
         {
           "time": "11:00 AM",
           "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1323/seats"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Maborosi (1995)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/maborosi/",
+      "showtimes": [
+        {
+          "time": "7:00 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510273~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Mauvais Sang (1986)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/mauvais-sang/",
+      "showtimes": [
+        {
+          "time": "1:45 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507626~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Night of the Juggler (1980)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/night-of-the-juggler/",
+      "showtimes": [
+        {
+          "time": "1:50 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510529~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "7:20 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510536~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:45 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510538~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -339,6 +539,30 @@
     },
     {
       "date": "Tue, Aug 5",
+      "title": "Annette (2021)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/annette/",
+      "showtimes": [
+        {
+          "time": "4:05 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507603~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "Boy Meets Girl (1984)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/boy-meets-girl/",
+      "showtimes": [
+        {
+          "time": "1:35 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507608~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
       "title": "Brazil (1985)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/brazil/",
@@ -407,6 +631,42 @@
     },
     {
       "date": "Tue, Aug 5",
+      "title": "Holy Motors (2012)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/holy-motors/",
+      "showtimes": [
+        {
+          "time": "11:00 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507615~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:40 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510350~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/search/In%20the%20Mood%20for%20Love%20%2B%20In%20the%20Mood%20for%20Love%202001+2000/",
+      "showtimes": [
+        {
+          "time": "11:15 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510491~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "4:20 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510482~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:25 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510483~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
       "title": "Kill The Jockey (2024)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/kill-the-jockey-2024/",
@@ -427,6 +687,18 @@
     },
     {
       "date": "Tue, Aug 5",
+      "title": "Mauvais Sang (1986)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/mauvais-sang/",
+      "showtimes": [
+        {
+          "time": "7:15 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507627~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
       "title": "Memory Lane (1926)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/memory-lane-1926/",
@@ -434,6 +706,26 @@
         {
           "time": "7:00 p.m.",
           "link": "https://www.moma.org/calendar/events/10741"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "Night of the Juggler (1980)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/night-of-the-juggler/",
+      "showtimes": [
+        {
+          "time": "1:50 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510524~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "7:00 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510539~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:45 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510540~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -555,6 +847,18 @@
     },
     {
       "date": "Wed, Aug 6",
+      "title": "Annette (2021)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/annette/",
+      "showtimes": [
+        {
+          "time": "1:10 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507604~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
       "title": "Brazil (1985)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/brazil/",
@@ -599,6 +903,18 @@
     },
     {
       "date": "Wed, Aug 6",
+      "title": "Holy Motors (2012)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/holy-motors/",
+      "showtimes": [
+        {
+          "time": "4:10 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507616~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
       "title": "I'm Not There (2007)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/im-not-there-2007/",
@@ -606,6 +922,38 @@
         {
           "time": "4:15pm",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27679"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/search/In%20the%20Mood%20for%20Love%20%2B%20In%20the%20Mood%20for%20Love%202001+2000/",
+      "showtimes": [
+        {
+          "time": "11:15 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510492~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "4:20 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510493~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:25 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510494~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "It's Not Me + Boy Meets Girl (1984)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/search/It%27s%20Not%20Me%20%2B%20Boy%20Meets%20Girl+1984/",
+      "showtimes": [
+        {
+          "time": "6:50 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507621~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -650,6 +998,42 @@
         {
           "time": "4:10 PM",
           "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1329/seats"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "Mauvais Sang (1986)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/mauvais-sang/",
+      "showtimes": [
+        {
+          "time": "10:45 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507628~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:55 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507629~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "Night of the Juggler (1980)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/night-of-the-juggler/",
+      "showtimes": [
+        {
+          "time": "1:50 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510530~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "7:00 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510531~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:45 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510541~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -795,6 +1179,30 @@
     },
     {
       "date": "Thu, Aug 7",
+      "title": "Annette (2021)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/annette/",
+      "showtimes": [
+        {
+          "time": "10:45 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507605~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "Boy Meets Girl (1984)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/boy-meets-girl/",
+      "showtimes": [
+        {
+          "time": "9:50 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507609~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
       "title": "Brazil (1985)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/brazil/",
@@ -851,6 +1259,38 @@
     },
     {
       "date": "Thu, Aug 7",
+      "title": "Holy Motors (2012)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/holy-motors/",
+      "showtimes": [
+        {
+          "time": "1:45 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507617~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/search/In%20the%20Mood%20for%20Love%20%2B%20In%20the%20Mood%20for%20Love%202001+2000/",
+      "showtimes": [
+        {
+          "time": "11:15 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510495~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "4:20 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510496~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:55 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510497~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
       "title": "Kill The Jockey (2024)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/kill-the-jockey-2024/",
@@ -890,6 +1330,38 @@
         {
           "time": "1:35 PM",
           "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1333/seats"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "Mauvais Sang (1986)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/mauvais-sang/",
+      "showtimes": [
+        {
+          "time": "4:20 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507630~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "Night of the Juggler (1980)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/night-of-the-juggler/",
+      "showtimes": [
+        {
+          "time": "1:50 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510532~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "7:00 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510533~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:45 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510542~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -1303,6 +1775,30 @@
     },
     {
       "date": "Fri, Aug 8",
+      "title": "The Lovers on the Bridge (1991)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/the-lovers-on-the-bridge/",
+      "showtimes": [
+        {
+          "time": "12:40 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=504463~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "3:35 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=504470~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=504477~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:25 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=504484~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Fri, Aug 8",
       "title": "Who Killed Teddy Bear? (1965)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/who-killed-teddy-bear/",
@@ -1634,6 +2130,30 @@
         {
           "time": "1:30 p.m.",
           "link": "https://www.moma.org/calendar/events/10701"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "The Lovers on the Bridge (1991)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/the-lovers-on-the-bridge/",
+      "showtimes": [
+        {
+          "time": "12:40 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=504464~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "3:35 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=504471~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=504478~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:25 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=504485~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
