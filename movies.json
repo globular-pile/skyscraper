@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-04T02:09:58.327273",
+  "lastUpdated": "2025-08-04T02:28:58.330477",
   "movies": [
     {
       "date": "Mon, Aug 4",
@@ -334,6 +334,18 @@
         {
           "time": "4:10pm",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27672"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "Barefoot Gen (1983)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/barefoot-gen/",
+      "showtimes": [
+        {
+          "time": "9:30 pm",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19480919/"
         }
       ]
     },
@@ -674,6 +686,18 @@
         {
           "time": "4:15pm",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27679"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "In My Skin (2002)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/in-my-skin/",
+      "showtimes": [
+        {
+          "time": "7:00 pm",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19320430/"
         }
       ]
     },
@@ -1083,6 +1107,18 @@
     },
     {
       "date": "Thu, Aug 7",
+      "title": "The Image (1975)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/the-image-1975/",
+      "showtimes": [
+        {
+          "time": "9:15 pm",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19434806/"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
       "title": "The Masque Of The Red Death (1964)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/the-masque-of-the-red-death/",
@@ -1370,6 +1406,18 @@
         {
           "time": "4:30PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6539?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Aug 8",
+      "title": "The City of Lost Children (1995)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/the-city-of-lost-children/",
+      "showtimes": [
+        {
+          "time": "11:55 pm",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19292643/"
         }
       ]
     },
@@ -1670,6 +1718,18 @@
         {
           "time": "8:15pm",
           "link": "https://tickets.bam.org/production/?pid=49354"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "The City of Lost Children (1995)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/the-city-of-lost-children/",
+      "showtimes": [
+        {
+          "time": "11:55 pm",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19292646/"
         }
       ]
     },
@@ -2311,6 +2371,18 @@
     },
     {
       "date": "Tue, Aug 12",
+      "title": "Friday (1995)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/search/Friday+1995/",
+      "showtimes": [
+        {
+          "time": "9:30 pm",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19292653/"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 12",
       "title": "Funny Pages (1999)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/funny-pages/",
@@ -2422,6 +2494,18 @@
         {
           "time": "9:15 pm",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19290126/"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 13",
+      "title": "Clockwatchers (1997)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/clockwatchers/",
+      "showtimes": [
+        {
+          "time": "7:00 pm",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19424507/"
         }
       ]
     },
@@ -2607,6 +2691,18 @@
     },
     {
       "date": "Thu, Aug 14",
+      "title": "The Naked Prey (1966)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/the-naked-prey/",
+      "showtimes": [
+        {
+          "time": "9:30 pm",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/18879261/"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 14",
       "title": "Weapons (1958)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/weapons/",
@@ -2662,6 +2758,18 @@
         {
           "time": "9:30pm",
           "link": "https://tickets.bam.org/production/?pid=49362"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Aug 15",
+      "title": "12 Monkeys (1995)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/12-monkeys/",
+      "showtimes": [
+        {
+          "time": "11:55 pm",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19292668/"
         }
       ]
     },
@@ -2866,6 +2974,30 @@
         {
           "time": "6:10pm",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27636"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "12 Monkeys (1995)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/search/12%20Monkeys+1995/",
+      "showtimes": [
+        {
+          "time": "11:55 pm",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19292669/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "A Goofy Movie (1995)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/a-goofy-movie-1995/",
+      "showtimes": [
+        {
+          "time": "11:00 am",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19292681/"
         }
       ]
     },
@@ -3106,6 +3238,18 @@
         {
           "time": "1:30pm",
           "link": "https://tickets.bam.org/production/?pid=49381"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "A Goofy Movie (1995)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/a-goofy-movie-1995/",
+      "showtimes": [
+        {
+          "time": "11:00 am",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19292680/"
         }
       ]
     },
@@ -3579,6 +3723,18 @@
     },
     {
       "date": "Tue, Aug 19",
+      "title": "Mighty Morphin Power Rangers: The Movie (1995)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/mighty-morphin-power-rangers-the-movie/",
+      "showtimes": [
+        {
+          "time": "9:15 pm",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19292688/"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 19",
       "title": "The Sacrifice (1909)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/the-sacrifice-1909/",
@@ -3663,6 +3819,18 @@
     },
     {
       "date": "Wed, Aug 20",
+      "title": "Leaving Las Vegas (1995)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/leaving-las-vegas/",
+      "showtimes": [
+        {
+          "time": "9:30 pm",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19292689/"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 20",
       "title": "Nostalghia (1983)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/nostalghia/",
@@ -3742,6 +3910,18 @@
         {
           "time": "8:35PM",
           "link": "https://my.filmforum.org/blue-steel-wia/45007"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 21",
+      "title": "Cannibal Hookers (1987)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/cannibal-hookers/",
+      "showtimes": [
+        {
+          "time": "9:30 pm",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19200826/"
         }
       ]
     },
@@ -3951,6 +4131,18 @@
     },
     {
       "date": "Fri, Aug 22",
+      "title": "The Addiction (1995)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/the-addiction/",
+      "showtimes": [
+        {
+          "time": "11:55 pm",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19292691/"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
       "title": "Titane (2021)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/titane/",
@@ -4059,6 +4251,30 @@
     },
     {
       "date": "Sat, Aug 23",
+      "title": "Hackers (1995)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/hackers/",
+      "showtimes": [
+        {
+          "time": "11:15 am",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19292703/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
+      "title": "Hearts of Darkness: A Filmmaker\u2019s Apocalypse (1991)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/hearts-of-darkness-a-filmmakers-apocalypse/",
+      "showtimes": [
+        {
+          "time": "11:00 am",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19570446/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
       "title": "House of Hummingbird (2019)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/house-of-hummingbird/",
@@ -4126,6 +4342,18 @@
         {
           "time": "5:30PM",
           "link": "https://my.filmforum.org/terminator-2-wia/45010"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
+      "title": "The Addiction (1995)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/the-addiction/",
+      "showtimes": [
+        {
+          "time": "11:55 pm",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19292700/"
         }
       ]
     },
@@ -4246,6 +4474,30 @@
         {
           "time": "12:30PM",
           "link": "https://my.filmforum.org/forty-guns-wia/44988"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "Hackers (1995)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/hackers/",
+      "showtimes": [
+        {
+          "time": "11:15 am",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19292705/"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "Hearts of Darkness: A Filmmaker\u2019s Apocalypse (1991)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/hearts-of-darkness-a-filmmakers-apocalypse/",
+      "showtimes": [
+        {
+          "time": "11:00 am",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19570447/"
         }
       ]
     },
@@ -4419,6 +4671,18 @@
     },
     {
       "date": "Mon, Aug 25",
+      "title": "Breaking Glass (1980)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/breaking-glass/",
+      "showtimes": [
+        {
+          "time": "9:30 pm",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19606023/"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 25",
       "title": "Do the Right Thing (1970)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/do-the-right-thing/",
@@ -4574,6 +4838,18 @@
       ]
     },
     {
+      "date": "Tue, Aug 26",
+      "title": "The Shadow (1994)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/the-shadow-1994/",
+      "showtimes": [
+        {
+          "time": "9:30 pm",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19606254/"
+        }
+      ]
+    },
+    {
       "date": "Wed, Aug 27",
       "title": " Front Row (1968)",
       "theater": "BAM",
@@ -4606,6 +4882,18 @@
         {
           "time": "8:45 pm",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19290160/"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 27",
+      "title": "Fast Times at Ridgemont High (1982)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/fast-times-at-ridgemont-high/",
+      "showtimes": [
+        {
+          "time": "7:00 pm",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19524858/"
         }
       ]
     },
@@ -4863,6 +5151,18 @@
     },
     {
       "date": "Fri, Aug 29",
+      "title": "Se7en (1995)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/se7en/",
+      "showtimes": [
+        {
+          "time": "11:55 pm",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19292718/"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Aug 29",
       "title": "Spacked Out (2000)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/spacked-out/",
@@ -4995,6 +5295,18 @@
     },
     {
       "date": "Sat, Aug 30",
+      "title": "Fallen Angels (1995)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/fallen-angels/",
+      "showtimes": [
+        {
+          "time": "11:00 am",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19292724/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 30",
       "title": "Foxy Brown (1974)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/foxy-brown/",
@@ -5086,6 +5398,18 @@
         {
           "time": "10:45pm",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27751"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 30",
+      "title": "Se7en (1995)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/se7en/",
+      "showtimes": [
+        {
+          "time": "11:55 pm",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19292721/"
         }
       ]
     },
@@ -5271,6 +5595,18 @@
     },
     {
       "date": "Sun, Aug 31",
+      "title": "Fallen Angels (1995)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/fallen-angels/",
+      "showtimes": [
+        {
+          "time": "11:00 am",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19292725/"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 31",
       "title": "High Fidelity (2000)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/high-fidelity/",
@@ -5369,7 +5705,7 @@
       "date": "Sun, Aug 31",
       "title": "The Baby-Sitters Club (1995)",
       "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/the-baby-sitters-club/",
+      "letterboxdURL": "https://letterboxd.com/search/The%20Baby-Sitters%20Club+1995/",
       "showtimes": [
         {
           "time": "12:15 pm",
@@ -5746,6 +6082,18 @@
         {
           "time": "8:00PM",
           "link": "https://my.filmforum.org/the-hunger-games-wia/45048"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Sep 11",
+      "title": "Island of the Blue Dolphins (1964)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/island-of-the-blue-dolphins/",
+      "showtimes": [
+        {
+          "time": "9:30 pm",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19422556/"
         }
       ]
     }
