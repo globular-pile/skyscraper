@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-04T01:27:21.825993",
+  "lastUpdated": "2025-08-04T02:01:28.979653",
   "movies": [
     {
       "date": "Mon, Aug 4",
@@ -15,7 +15,7 @@
     },
     {
       "date": "Mon, Aug 4",
-      "title": "Brazil (1985)",
+      "title": "Brazil (1931)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/brazil/",
       "showtimes": [
@@ -37,7 +37,7 @@
       "date": "Mon, Aug 4",
       "title": "Breathless - 35MM | This is Cin\u00e9matographe (1983)",
       "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/film/breathless-1983/",
+      "letterboxdURL": "https://letterboxd.com/search/Breathless%20%7C%20This%20is%20Cin%C3%A9matographe+1983/",
       "showtimes": [
         {
           "time": "7:00PM",
@@ -59,9 +59,41 @@
     },
     {
       "date": "Mon, Aug 4",
-      "title": "Holiday (1938)",
+      "title": "Eddington (2008)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/eddington/",
+      "showtimes": [
+        {
+          "time": "4:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49147"
+        },
+        {
+          "time": "7:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49147"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Hearts Of Darkness (1960)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/hearts-of-darkness/",
+      "showtimes": [
+        {
+          "time": "2:20PM",
+          "link": "https://my.filmforum.org/hearts-of-darkness/45237"
+        },
+        {
+          "time": "6:40PM",
+          "link": "https://my.filmforum.org/hearts-of-darkness/45238"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Holiday (1930)",
       "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/holiday/",
+      "letterboxdURL": "https://letterboxd.com/film/holiday-1930/",
       "showtimes": [
         {
           "time": "4:05 PM",
@@ -71,7 +103,7 @@
     },
     {
       "date": "Mon, Aug 4",
-      "title": "Ikiru (1952)",
+      "title": "Ikiru (1941)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/ikiru/",
       "showtimes": [
@@ -95,13 +127,25 @@
     },
     {
       "date": "Mon, Aug 4",
-      "title": "La r\u00e8gle du jeu (1950)",
+      "title": "La r\u00e8gle du jeu (1939)",
       "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/search/La%20r%C3%A8gle%20du%20jeu+1950/",
+      "letterboxdURL": "https://letterboxd.com/search/La%20r%C3%A8gle%20du%20jeu+1939/",
       "showtimes": [
         {
           "time": "11:00 AM",
           "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1323/seats"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Oh, Hi! (2017)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/oh-hi/",
+      "showtimes": [
+        {
+          "time": "4:40pm",
+          "link": "https://tickets.bam.org/production/?pid=49470"
         }
       ]
     },
@@ -131,13 +175,29 @@
     },
     {
       "date": "Mon, Aug 4",
-      "title": "Rashomon (1950)",
+      "title": "Rashomon (1911)",
       "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/rashomon/",
+      "letterboxdURL": "https://letterboxd.com/film/rashomon-1911/",
       "showtimes": [
         {
           "time": "6:00PM",
           "link": "https://my.filmforum.org/rashomon-kurosawa/45259"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
+      "title": "Sorry, Baby (1999)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/sorry-baby/",
+      "showtimes": [
+        {
+          "time": "6:50pm",
+          "link": "https://tickets.bam.org/production/?pid=49445"
+        },
+        {
+          "time": "9:10pm",
+          "link": "https://tickets.bam.org/production/?pid=49445"
         }
       ]
     },
@@ -167,7 +227,7 @@
     },
     {
       "date": "Mon, Aug 4",
-      "title": "Stray Dog (2018)",
+      "title": "Stray Dog (1949)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/stray-dog/",
       "showtimes": [
@@ -191,6 +251,26 @@
     },
     {
       "date": "Mon, Aug 4",
+      "title": "The Sparrow in the Chimney (1980)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/the-sparrow-in-the-chimney/",
+      "showtimes": [
+        {
+          "time": "7pm",
+          "link": "https://tickets.bam.org/production/?pid=49223"
+        },
+        {
+          "time": "4:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49223"
+        },
+        {
+          "time": "9:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49223"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
       "title": "Throne Of Blood (1957)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/throne-of-blood/",
@@ -203,9 +283,29 @@
     },
     {
       "date": "Mon, Aug 4",
+      "title": "Together (1918)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/together-1918/",
+      "showtimes": [
+        {
+          "time": "4:50pm",
+          "link": "https://tickets.bam.org/production/?pid=49146"
+        },
+        {
+          "time": "7:10pm",
+          "link": "https://tickets.bam.org/production/?pid=49146"
+        },
+        {
+          "time": "9:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49146"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 4",
       "title": "Twin Peaks circa 2017 || Parts 1-3 (2017)",
       "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/Twin%20Peaks%20circa%202017+2017/",
+      "letterboxdURL": "https://letterboxd.com/search/Twin%20Peaks%20circa%202017%20%7C%7C%20Parts%201-3+2017/",
       "showtimes": [
         {
           "time": "9:00pm",
@@ -239,7 +339,7 @@
     },
     {
       "date": "Tue, Aug 5",
-      "title": "Brazil (1985)",
+      "title": "Brazil (1931)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/brazil/",
       "showtimes": [
@@ -273,7 +373,7 @@
       "date": "Tue, Aug 5",
       "title": "Confessions of a Teenage Drama Queen - 35MM | Shot By... (2004)",
       "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/film/confessions-of-a-teenage-drama-queen/",
+      "letterboxdURL": "https://letterboxd.com/search/Confessions%20of%20a%20Teenage%20Drama%20Queen%20%7C%20Shot%20By...+2004/",
       "showtimes": [
         {
           "time": "7:00PM",
@@ -283,7 +383,39 @@
     },
     {
       "date": "Tue, Aug 5",
-      "title": "High And Low (1963)",
+      "title": "Eddington (2008)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/eddington/",
+      "showtimes": [
+        {
+          "time": "4:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49147"
+        },
+        {
+          "time": "7:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49147"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "Hearts Of Darkness (1960)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/hearts-of-darkness/",
+      "showtimes": [
+        {
+          "time": "2:20PM",
+          "link": "https://my.filmforum.org/hearts-of-darkness/45239"
+        },
+        {
+          "time": "6:40PM",
+          "link": "https://my.filmforum.org/hearts-of-darkness/45240"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "High And Low (1932)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/high-and-low/",
       "showtimes": [
@@ -307,9 +439,21 @@
     },
     {
       "date": "Tue, Aug 5",
-      "title": "Ran (2018)",
+      "title": "Oh, Hi! (2017)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/oh-hi/",
+      "showtimes": [
+        {
+          "time": "4:40pm",
+          "link": "https://tickets.bam.org/production/?pid=49470"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "Ran (1972)",
       "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/ran-2018/",
+      "letterboxdURL": "https://letterboxd.com/film/ran/",
       "showtimes": [
         {
           "time": "2:30PM",
@@ -319,13 +463,29 @@
     },
     {
       "date": "Tue, Aug 5",
-      "title": "Rashomon (1950)",
+      "title": "Rashomon (1911)",
       "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/rashomon/",
+      "letterboxdURL": "https://letterboxd.com/film/rashomon-1911/",
       "showtimes": [
         {
           "time": "6:20PM",
           "link": "https://my.filmforum.org/rashomon-kurosawa/45263"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "Sorry, Baby (1999)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/sorry-baby/",
+      "showtimes": [
+        {
+          "time": "6:50pm",
+          "link": "https://tickets.bam.org/production/?pid=49445"
+        },
+        {
+          "time": "9:10pm",
+          "link": "https://tickets.bam.org/production/?pid=49445"
         }
       ]
     },
@@ -355,7 +515,47 @@
     },
     {
       "date": "Tue, Aug 5",
-      "title": "Yojimbo (1970)",
+      "title": "The Sparrow in the Chimney (1980)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/the-sparrow-in-the-chimney/",
+      "showtimes": [
+        {
+          "time": "7pm",
+          "link": "https://tickets.bam.org/production/?pid=49223"
+        },
+        {
+          "time": "4:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49223"
+        },
+        {
+          "time": "9:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49223"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "Together (1918)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/together-1918/",
+      "showtimes": [
+        {
+          "time": "4:50pm",
+          "link": "https://tickets.bam.org/production/?pid=49146"
+        },
+        {
+          "time": "7:10pm",
+          "link": "https://tickets.bam.org/production/?pid=49146"
+        },
+        {
+          "time": "9:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49146"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
+      "title": "Yojimbo (1950)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/yojimbo/",
       "showtimes": [
@@ -391,7 +591,7 @@
     },
     {
       "date": "Wed, Aug 6",
-      "title": "Brazil (1985)",
+      "title": "Brazil (1931)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/brazil/",
       "showtimes": [
@@ -411,9 +611,41 @@
     },
     {
       "date": "Wed, Aug 6",
-      "title": "Holiday (1938)",
+      "title": "Eddington (2008)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/eddington/",
+      "showtimes": [
+        {
+          "time": "4:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49147"
+        },
+        {
+          "time": "7:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49147"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "Hearts Of Darkness (1960)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/hearts-of-darkness/",
+      "showtimes": [
+        {
+          "time": "2:20PM",
+          "link": "https://my.filmforum.org/hearts-of-darkness/45241"
+        },
+        {
+          "time": "6:40PM",
+          "link": "https://my.filmforum.org/hearts-of-darkness/45242"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "Holiday (1930)",
       "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/holiday/",
+      "letterboxdURL": "https://letterboxd.com/film/holiday-1930/",
       "showtimes": [
         {
           "time": "1:45 PM",
@@ -437,7 +669,7 @@
       "date": "Wed, Aug 6",
       "title": "Ivy Wolk and Mackenzie Thomas present: Confessions of a Teenage Drama Queen - 35MM | Shot By... (2004)",
       "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/film/confessions-of-a-teenage-drama-queen/",
+      "letterboxdURL": "https://letterboxd.com/search/Confessions%20of%20a%20Teenage%20Drama%20Queen%20%7C%20Shot%20By...+2004/",
       "showtimes": [
         {
           "time": "9:15PM",
@@ -447,9 +679,9 @@
     },
     {
       "date": "Wed, Aug 6",
-      "title": "La r\u00e8gle du jeu (1950)",
+      "title": "La r\u00e8gle du jeu (1939)",
       "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/search/La%20r%C3%A8gle%20du%20jeu+1950/",
+      "letterboxdURL": "https://letterboxd.com/search/La%20r%C3%A8gle%20du%20jeu+1939/",
       "showtimes": [
         {
           "time": "4:10 PM",
@@ -471,6 +703,18 @@
     },
     {
       "date": "Wed, Aug 6",
+      "title": "Oh, Hi! (2017)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/oh-hi/",
+      "showtimes": [
+        {
+          "time": "4:40pm",
+          "link": "https://tickets.bam.org/production/?pid=49470"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
       "title": "Seven Samurai (1954)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/seven-samurai/",
@@ -483,7 +727,23 @@
     },
     {
       "date": "Wed, Aug 6",
-      "title": "Stray Dog (2018)",
+      "title": "Sorry, Baby (1999)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/sorry-baby/",
+      "showtimes": [
+        {
+          "time": "6:50pm",
+          "link": "https://tickets.bam.org/production/?pid=49445"
+        },
+        {
+          "time": "9:10pm",
+          "link": "https://tickets.bam.org/production/?pid=49445"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "Stray Dog (1949)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/stray-dog/",
       "showtimes": [
@@ -502,6 +762,26 @@
         {
           "time": "9:45pm",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27681"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "The Sparrow in the Chimney (1980)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/the-sparrow-in-the-chimney/",
+      "showtimes": [
+        {
+          "time": "7pm",
+          "link": "https://tickets.bam.org/production/?pid=49223"
+        },
+        {
+          "time": "4:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49223"
+        },
+        {
+          "time": "9:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49223"
         }
       ]
     },
@@ -531,9 +811,29 @@
     },
     {
       "date": "Wed, Aug 6",
+      "title": "Together (1918)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/together-1918/",
+      "showtimes": [
+        {
+          "time": "4:50pm",
+          "link": "https://tickets.bam.org/production/?pid=49146"
+        },
+        {
+          "time": "7:10pm",
+          "link": "https://tickets.bam.org/production/?pid=49146"
+        },
+        {
+          "time": "9:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49146"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
       "title": "Twin Peaks circa 2017 || Parts 7-9 (2017)",
       "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/Twin%20Peaks%20circa%202017+2017/",
+      "letterboxdURL": "https://letterboxd.com/search/Twin%20Peaks%20circa%202017%20%7C%7C%20Parts%207-9+2017/",
       "showtimes": [
         {
           "time": "9:15pm",
@@ -567,7 +867,7 @@
     },
     {
       "date": "Thu, Aug 7",
-      "title": "Brazil (1985)",
+      "title": "Brazil (1931)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/brazil/",
       "showtimes": [
@@ -587,7 +887,35 @@
     },
     {
       "date": "Thu, Aug 7",
-      "title": "High And Low (1963)",
+      "title": "Eddington (2008)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/eddington/",
+      "showtimes": [
+        {
+          "time": "7:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49147"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "Hearts Of Darkness (1960)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/hearts-of-darkness/",
+      "showtimes": [
+        {
+          "time": "2:20PM",
+          "link": "https://my.filmforum.org/hearts-of-darkness/45243"
+        },
+        {
+          "time": "6:40PM",
+          "link": "https://my.filmforum.org/hearts-of-darkness/45244"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "High And Low (1932)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/high-and-low/",
       "showtimes": [
@@ -599,9 +927,9 @@
     },
     {
       "date": "Thu, Aug 7",
-      "title": "Holiday (1938)",
+      "title": "Holiday (1930)",
       "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/holiday/",
+      "letterboxdURL": "https://letterboxd.com/film/holiday-1930/",
       "showtimes": [
         {
           "time": "6:45 PM",
@@ -623,9 +951,9 @@
     },
     {
       "date": "Thu, Aug 7",
-      "title": "La r\u00e8gle du jeu (1950)",
+      "title": "La r\u00e8gle du jeu (1939)",
       "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/search/La%20r%C3%A8gle%20du%20jeu+1950/",
+      "letterboxdURL": "https://letterboxd.com/search/La%20r%C3%A8gle%20du%20jeu+1939/",
       "showtimes": [
         {
           "time": "1:35 PM",
@@ -671,6 +999,18 @@
     },
     {
       "date": "Thu, Aug 7",
+      "title": "Sorry, Baby (1999)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/sorry-baby/",
+      "showtimes": [
+        {
+          "time": "4:40pm",
+          "link": "https://tickets.bam.org/production/?pid=49445"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
       "title": "Speed Racer - 35MM (2008)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/film/speed-racer/",
@@ -707,9 +1047,9 @@
     },
     {
       "date": "Thu, Aug 7",
-      "title": "The Hidden Fortress (2001)",
+      "title": "The Hidden Fortress (1958)",
       "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/the-hidden-fortress-2001/",
+      "letterboxdURL": "https://letterboxd.com/film/the-hidden-fortress/",
       "showtimes": [
         {
           "time": "7:50PM",
@@ -731,9 +1071,49 @@
     },
     {
       "date": "Thu, Aug 7",
+      "title": "The Sparrow in the Chimney (1980)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/the-sparrow-in-the-chimney/",
+      "showtimes": [
+        {
+          "time": "7pm",
+          "link": "https://tickets.bam.org/production/?pid=49223"
+        },
+        {
+          "time": "4:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49223"
+        },
+        {
+          "time": "9:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49223"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "Together (1918)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/together-1918/",
+      "showtimes": [
+        {
+          "time": "4:50pm",
+          "link": "https://tickets.bam.org/production/?pid=49146"
+        },
+        {
+          "time": "7:10pm",
+          "link": "https://tickets.bam.org/production/?pid=49146"
+        },
+        {
+          "time": "9:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49146"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
       "title": "Twin Peaks circa 2017 || Parts 16-18 (2017)",
       "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/Twin%20Peaks%20circa%202017+2017/",
+      "letterboxdURL": "https://letterboxd.com/search/Twin%20Peaks%20circa%202017%20%7C%7C%20Parts%2016-18+2017/",
       "showtimes": [
         {
           "time": "9:00pm",
@@ -743,7 +1123,27 @@
     },
     {
       "date": "Thu, Aug 7",
-      "title": "Yojimbo (1970)",
+      "title": "Weapons (1958)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/weapons/",
+      "showtimes": [
+        {
+          "time": "4:15pm",
+          "link": "https://tickets.bam.org/production/?pid=49618"
+        },
+        {
+          "time": "6:50pm",
+          "link": "https://tickets.bam.org/production/?pid=49618"
+        },
+        {
+          "time": "9:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49618"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
+      "title": "Yojimbo (1950)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/yojimbo/",
       "showtimes": [
@@ -755,9 +1155,9 @@
     },
     {
       "date": "Fri, Aug 8",
-      "title": "A Man and a Woman  (2016)",
+      "title": "A Man and a Woman  (1934)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/a-man-and-a-woman-2016/",
+      "letterboxdURL": "https://letterboxd.com/film/a-man-and-a-woman/",
       "showtimes": [
         {
           "time": "5pm",
@@ -809,7 +1209,7 @@
       "date": "Fri, Aug 8",
       "title": "Angelheaded Hipster: The Songs of Marc Bolan & T. Rex + Q&A (2022)",
       "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/search/Angelheaded%20Hipster%3A%20The%20Songs%20of%20Marc%20Bolan%20%26%20T.%20Rex%20%2B%20Q%26A+2022/",
+      "letterboxdURL": "https://letterboxd.com/film/angelheaded-hipster-the-songs-of-marc-bolan-t-rex/",
       "showtimes": [
         {
           "time": "7:15PM",
@@ -867,9 +1267,9 @@
     },
     {
       "date": "Fri, Aug 8",
-      "title": "La Dolce Vita (1961)",
+      "title": "La Dolce Vita (1960)",
       "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/la-dolce-vita-1961/",
+      "letterboxdURL": "https://letterboxd.com/film/la-dolce-vita-1960/",
       "showtimes": [
         {
           "time": "10:00 AM",
@@ -891,9 +1291,9 @@
     },
     {
       "date": "Fri, Aug 8",
-      "title": "Mon Oncle (1958)",
+      "title": "Mon Oncle (1917)",
       "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/mon-oncle/",
+      "letterboxdURL": "https://letterboxd.com/film/mon-oncle-1917/",
       "showtimes": [
         {
           "time": "6:40 PM",
@@ -975,6 +1375,30 @@
     },
     {
       "date": "Fri, Aug 8",
+      "title": "Weapons (1958)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/weapons/",
+      "showtimes": [
+        {
+          "time": "1:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49618"
+        },
+        {
+          "time": "4:15pm",
+          "link": "https://tickets.bam.org/production/?pid=49618"
+        },
+        {
+          "time": "6:50pm",
+          "link": "https://tickets.bam.org/production/?pid=49618"
+        },
+        {
+          "time": "9:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49618"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Aug 8",
       "title": "Who Killed Teddy Bear? (1965)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/who-killed-teddy-bear/",
@@ -1011,7 +1435,7 @@
     },
     {
       "date": "Sat, Aug 9",
-      "title": "A Woman is a Woman (2019)",
+      "title": "A Woman is a Woman (1939)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/a-woman-is-a-woman/",
       "showtimes": [
@@ -1049,7 +1473,7 @@
       "date": "Sat, Aug 9",
       "title": "Angelheaded Hipster: The Songs of Marc Bolan & T. Rex + Q&A (2022)",
       "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/search/Angelheaded%20Hipster%3A%20The%20Songs%20of%20Marc%20Bolan%20%26%20T.%20Rex%20%2B%20Q%26A+2022/",
+      "letterboxdURL": "https://letterboxd.com/film/angelheaded-hipster-the-songs-of-marc-bolan-t-rex/",
       "showtimes": [
         {
           "time": "7:00PM",
@@ -1059,9 +1483,9 @@
     },
     {
       "date": "Sat, Aug 9",
-      "title": "Arthur (1981)",
+      "title": "Arthur (1931)",
       "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/arthur-1981/",
+      "letterboxdURL": "https://letterboxd.com/film/arthur/",
       "showtimes": [
         {
           "time": "9:30 PM",
@@ -1107,9 +1531,9 @@
     },
     {
       "date": "Sat, Aug 9",
-      "title": "Compensation (1999)",
+      "title": "Compensation (1917)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/compensation-1999/",
+      "letterboxdURL": "https://letterboxd.com/film/compensation/",
       "showtimes": [
         {
           "time": "2pm",
@@ -1191,9 +1615,9 @@
     },
     {
       "date": "Sat, Aug 9",
-      "title": "Mon Oncle (1958)",
+      "title": "Mon Oncle (1917)",
       "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/mon-oncle/",
+      "letterboxdURL": "https://letterboxd.com/film/mon-oncle-1917/",
       "showtimes": [
         {
           "time": "10:30 AM",
@@ -1270,6 +1694,30 @@
         {
           "time": "6:30 PM",
           "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1344/seats"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "Weapons (1958)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/weapons/",
+      "showtimes": [
+        {
+          "time": "1:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49618"
+        },
+        {
+          "time": "4:15pm",
+          "link": "https://tickets.bam.org/production/?pid=49618"
+        },
+        {
+          "time": "6:50pm",
+          "link": "https://tickets.bam.org/production/?pid=49618"
+        },
+        {
+          "time": "9:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49618"
         }
       ]
     },
@@ -1353,7 +1801,7 @@
       "date": "Sun, Aug 10",
       "title": "Angelheaded Hipster: The Songs of Marc Bolan & T. Rex + Q&A (2022)",
       "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/search/Angelheaded%20Hipster%3A%20The%20Songs%20of%20Marc%20Bolan%20%26%20T.%20Rex%20%2B%20Q%26A+2022/",
+      "letterboxdURL": "https://letterboxd.com/film/angelheaded-hipster-the-songs-of-marc-bolan-t-rex/",
       "showtimes": [
         {
           "time": "3:00PM",
@@ -1459,9 +1907,9 @@
     },
     {
       "date": "Sun, Aug 10",
-      "title": "La Dolce Vita (1961)",
+      "title": "La Dolce Vita (1960)",
       "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/la-dolce-vita-1961/",
+      "letterboxdURL": "https://letterboxd.com/film/la-dolce-vita-1960/",
       "showtimes": [
         {
           "time": "6:10 PM",
@@ -1531,13 +1979,25 @@
     },
     {
       "date": "Sun, Aug 10",
-      "title": "Videodrome (Director's Cut) (1983)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/search/Videodrome%20%28Director%27s%20Cut%29+1983/",
+      "title": "Weapons (1958)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/weapons/",
       "showtimes": [
         {
-          "time": "12:00 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1354/seats"
+          "time": "9pm",
+          "link": "https://tickets.bam.org/production/?pid=49618"
+        },
+        {
+          "time": "1:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49618"
+        },
+        {
+          "time": "4:15pm",
+          "link": "https://tickets.bam.org/production/?pid=49618"
+        },
+        {
+          "time": "6:50pm",
+          "link": "https://tickets.bam.org/production/?pid=49618"
         }
       ]
     },
@@ -1605,7 +2065,7 @@
       "date": "Mon, Aug 11",
       "title": "Angelheaded Hipster: The Songs of Marc Bolan & T. Rex + Q&A (2022)",
       "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/search/Angelheaded%20Hipster%3A%20The%20Songs%20of%20Marc%20Bolan%20%26%20T.%20Rex%20%2B%20Q%26A+2022/",
+      "letterboxdURL": "https://letterboxd.com/film/angelheaded-hipster-the-songs-of-marc-bolan-t-rex/",
       "showtimes": [
         {
           "time": "7:00PM",
@@ -1615,9 +2075,9 @@
     },
     {
       "date": "Mon, Aug 11",
-      "title": "Compensation (1999)",
+      "title": "Compensation (1917)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/compensation-1999/",
+      "letterboxdURL": "https://letterboxd.com/film/compensation/",
       "showtimes": [
         {
           "time": "7pm",
@@ -1627,9 +2087,9 @@
     },
     {
       "date": "Mon, Aug 11",
-      "title": "Mon Oncle (1958)",
+      "title": "Mon Oncle (1917)",
       "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/mon-oncle/",
+      "letterboxdURL": "https://letterboxd.com/film/mon-oncle-1917/",
       "showtimes": [
         {
           "time": "4:15 PM",
@@ -1687,6 +2147,26 @@
     },
     {
       "date": "Mon, Aug 11",
+      "title": "Weapons (1958)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/weapons/",
+      "showtimes": [
+        {
+          "time": "4:15pm",
+          "link": "https://tickets.bam.org/production/?pid=49618"
+        },
+        {
+          "time": "6:50pm",
+          "link": "https://tickets.bam.org/production/?pid=49618"
+        },
+        {
+          "time": "9:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49618"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 11",
       "title": "Who Killed Teddy Bear? (1965)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/who-killed-teddy-bear/",
@@ -1723,7 +2203,7 @@
     },
     {
       "date": "Mon, Aug 11",
-      "title": "eXistenZ (1999)",
+      "title": "eXistenZ (1924)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/existenz/",
       "showtimes": [
@@ -1759,7 +2239,7 @@
     },
     {
       "date": "Tue, Aug 12",
-      "title": "Central Park (2004)",
+      "title": "Central Park (1900)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/central-park/",
       "showtimes": [
@@ -1783,6 +2263,18 @@
     },
     {
       "date": "Tue, Aug 12",
+      "title": "Funny Pages (1999)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/funny-pages/",
+      "showtimes": [
+        {
+          "time": "8:15PM",
+          "link": "https://my.filmforum.org/funny-pages/44904"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 12",
       "title": "Husbands - 35MM (1970)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/film/husbands/",
@@ -1795,13 +2287,33 @@
     },
     {
       "date": "Tue, Aug 12",
-      "title": "Love & Pop (1990)",
+      "title": "Love & Pop (1953)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/love-pop/",
       "showtimes": [
         {
           "time": "4:30pm",
           "link": "https://tickets.bam.org/production/?pid=49365"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 12",
+      "title": "Weapons (1958)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/weapons/",
+      "showtimes": [
+        {
+          "time": "4:15pm",
+          "link": "https://tickets.bam.org/production/?pid=49618"
+        },
+        {
+          "time": "6:50pm",
+          "link": "https://tickets.bam.org/production/?pid=49618"
+        },
+        {
+          "time": "9:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49618"
         }
       ]
     },
@@ -1891,13 +2403,33 @@
     },
     {
       "date": "Wed, Aug 13",
-      "title": "Love & Pop (1990)",
+      "title": "Love & Pop (1953)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/love-pop/",
       "showtimes": [
         {
           "time": "7pm",
           "link": "https://tickets.bam.org/production/?pid=49365"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 13",
+      "title": "Weapons (1958)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/weapons/",
+      "showtimes": [
+        {
+          "time": "4:15pm",
+          "link": "https://tickets.bam.org/production/?pid=49618"
+        },
+        {
+          "time": "6:50pm",
+          "link": "https://tickets.bam.org/production/?pid=49618"
+        },
+        {
+          "time": "9:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49618"
         }
       ]
     },
@@ -1931,7 +2463,7 @@
     },
     {
       "date": "Thu, Aug 14",
-      "title": "A Woman is a Woman (2019)",
+      "title": "A Woman is a Woman (1939)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/a-woman-is-a-woman/",
       "showtimes": [
@@ -1967,7 +2499,7 @@
     },
     {
       "date": "Thu, Aug 14",
-      "title": "Central Park (2004)",
+      "title": "Central Park (1900)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/central-park/",
       "showtimes": [
@@ -1998,6 +2530,26 @@
         {
           "time": "5:00PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6572?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 14",
+      "title": "Weapons (1958)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/weapons/",
+      "showtimes": [
+        {
+          "time": "4:15pm",
+          "link": "https://tickets.bam.org/production/?pid=49618"
+        },
+        {
+          "time": "6:50pm",
+          "link": "https://tickets.bam.org/production/?pid=49618"
+        },
+        {
+          "time": "9:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49618"
         }
       ]
     },
@@ -2115,6 +2667,18 @@
     },
     {
       "date": "Fri, Aug 15",
+      "title": "Gloria (1931)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/gloria-1931/",
+      "showtimes": [
+        {
+          "time": "3:10PM",
+          "link": "https://my.filmforum.org/gloria-wia/44967"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Aug 15",
       "title": "Irma Vep (1996)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/irma-vep/",
@@ -2199,9 +2763,9 @@
     },
     {
       "date": "Fri, Aug 15",
-      "title": "Stalker (2023)",
+      "title": "Stalker (2002)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/stalker-2023/",
+      "letterboxdURL": "https://letterboxd.com/film/stalker-2002/",
       "showtimes": [
         {
           "time": "7:15pm",
@@ -2259,9 +2823,9 @@
     },
     {
       "date": "Sat, Aug 16",
-      "title": "Aliens (1986)",
+      "title": "Aliens (1982)",
       "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/aliens/",
+      "letterboxdURL": "https://letterboxd.com/film/aliens-1982/",
       "showtimes": [
         {
           "time": "7:50PM",
@@ -2302,6 +2866,18 @@
         {
           "time": "5:25pm",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27644"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "Gloria (1931)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/gloria-1931/",
+      "showtimes": [
+        {
+          "time": "12:30PM",
+          "link": "https://my.filmforum.org/gloria-wia/44968"
         }
       ]
     },
@@ -2415,9 +2991,9 @@
     },
     {
       "date": "Sat, Aug 16",
-      "title": "Solaris (2002)",
+      "title": "Solaris (1968)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/solaris-2002/",
+      "letterboxdURL": "https://letterboxd.com/film/solaris-1968/",
       "showtimes": [
         {
           "time": "7:15pm",
@@ -2619,9 +3195,9 @@
     },
     {
       "date": "Sun, Aug 17",
-      "title": "Mirror (2009)",
+      "title": "Mirror (1969)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/mirror-2009/",
+      "letterboxdURL": "https://letterboxd.com/film/mirror-1969/",
       "showtimes": [
         {
           "time": "1:30pm",
@@ -2679,9 +3255,9 @@
     },
     {
       "date": "Sun, Aug 17",
-      "title": "Solaris (2002)",
+      "title": "Solaris (1968)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/solaris-2002/",
+      "letterboxdURL": "https://letterboxd.com/film/solaris-1968/",
       "showtimes": [
         {
           "time": "7:25pm",
@@ -2703,9 +3279,9 @@
     },
     {
       "date": "Sun, Aug 17",
-      "title": "The Furies (2019)",
+      "title": "The Furies (1930)",
       "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/the-furies-2019/",
+      "letterboxdURL": "https://letterboxd.com/film/the-furies-1930/",
       "showtimes": [
         {
           "time": "2:45PM",
@@ -2751,7 +3327,7 @@
     },
     {
       "date": "Mon, Aug 18",
-      "title": "Gun Crazy (2002)",
+      "title": "Gun Crazy (1950)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/gun-crazy/",
       "showtimes": [
@@ -2799,7 +3375,7 @@
     },
     {
       "date": "Mon, Aug 18",
-      "title": "Nostalghia (1984)",
+      "title": "Nostalghia (1983)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/nostalghia/",
       "showtimes": [
@@ -2811,9 +3387,9 @@
     },
     {
       "date": "Mon, Aug 18",
-      "title": "The Furies (2019)",
+      "title": "The Furies (1930)",
       "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/the-furies-2019/",
+      "letterboxdURL": "https://letterboxd.com/film/the-furies-1930/",
       "showtimes": [
         {
           "time": "3:10PM",
@@ -2835,9 +3411,9 @@
     },
     {
       "date": "Tue, Aug 19",
-      "title": "Aliens (1986)",
+      "title": "Aliens (1982)",
       "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/aliens/",
+      "letterboxdURL": "https://letterboxd.com/film/aliens-1982/",
       "showtimes": [
         {
           "time": "5:50PM",
@@ -2883,6 +3459,18 @@
     },
     {
       "date": "Tue, Aug 19",
+      "title": "Gloria (1931)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/gloria-1931/",
+      "showtimes": [
+        {
+          "time": "12:50PM",
+          "link": "https://my.filmforum.org/gloria-wia/44969"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 19",
       "title": "The Sacrifice (1909)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/the-sacrifice-1909/",
@@ -2895,9 +3483,9 @@
     },
     {
       "date": "Wed, Aug 20",
-      "title": "Aliens (1986)",
+      "title": "Aliens (1982)",
       "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/aliens/",
+      "letterboxdURL": "https://letterboxd.com/film/aliens-1982/",
       "showtimes": [
         {
           "time": "1:00PM",
@@ -2943,6 +3531,18 @@
     },
     {
       "date": "Wed, Aug 20",
+      "title": "Cleopatra Jones (1973)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/cleopatra-jones/",
+      "showtimes": [
+        {
+          "time": "4:00PM",
+          "link": "https://my.filmforum.org/cleopatra-jones-wia/45000"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 20",
       "title": "Forty Guns (1957)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/forty-guns/",
@@ -2955,7 +3555,7 @@
     },
     {
       "date": "Wed, Aug 20",
-      "title": "Nostalghia (1984)",
+      "title": "Nostalghia (1983)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/nostalghia/",
       "showtimes": [
@@ -3015,9 +3615,9 @@
     },
     {
       "date": "Thu, Aug 21",
-      "title": "Blue Steel (1990)",
+      "title": "Blue Steel (1934)",
       "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/blue-steel-1990/",
+      "letterboxdURL": "https://letterboxd.com/film/blue-steel/",
       "showtimes": [
         {
           "time": "8:35PM",
@@ -3027,9 +3627,21 @@
     },
     {
       "date": "Thu, Aug 21",
-      "title": "Mirror (2009)",
+      "title": "Cleopatra Jones (1973)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/cleopatra-jones/",
+      "showtimes": [
+        {
+          "time": "6:35PM",
+          "link": "https://my.filmforum.org/cleopatra-jones-wia/45001"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 21",
+      "title": "Mirror (1969)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/mirror-2009/",
+      "letterboxdURL": "https://letterboxd.com/film/mirror-1969/",
       "showtimes": [
         {
           "time": "4:30pm",
@@ -3039,9 +3651,9 @@
     },
     {
       "date": "Thu, Aug 21",
-      "title": "Stalker (2023)",
+      "title": "Stalker (2002)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/stalker-2023/",
+      "letterboxdURL": "https://letterboxd.com/film/stalker-2002/",
       "showtimes": [
         {
           "time": "7pm",
@@ -3051,7 +3663,7 @@
     },
     {
       "date": "Fri, Aug 22",
-      "title": "A Tale of Summer (2005)",
+      "title": "A Tale of Summer (1941)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/a-tale-of-summer/",
       "showtimes": [
@@ -3075,9 +3687,9 @@
     },
     {
       "date": "Fri, Aug 22",
-      "title": "Aliens (1986)",
+      "title": "Aliens (1982)",
       "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/aliens/",
+      "letterboxdURL": "https://letterboxd.com/film/aliens-1982/",
       "showtimes": [
         {
           "time": "12:50PM",
@@ -3099,9 +3711,9 @@
     },
     {
       "date": "Fri, Aug 22",
-      "title": "Blue Steel (1990)",
+      "title": "Blue Steel (1934)",
       "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/blue-steel-1990/",
+      "letterboxdURL": "https://letterboxd.com/film/blue-steel/",
       "showtimes": [
         {
           "time": "6:00PM",
@@ -3183,9 +3795,9 @@
     },
     {
       "date": "Fri, Aug 22",
-      "title": "Summer 1993 (1994)",
+      "title": "Summer 1993 (1993)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/summer-1993-1994/",
+      "letterboxdURL": "https://letterboxd.com/film/summer-1993/",
       "showtimes": [
         {
           "time": "7pm",
@@ -3231,6 +3843,18 @@
     },
     {
       "date": "Sat, Aug 23",
+      "title": " Front Row (1968)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/front-row/",
+      "showtimes": [
+        {
+          "time": "2pm",
+          "link": "https://tickets.bam.org/production/?pid=49515"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
       "title": "A Brighter Summer Day (1991)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/a-brighter-summer-day/",
@@ -3255,9 +3879,9 @@
     },
     {
       "date": "Sat, Aug 23",
-      "title": "Aftersun (2022)",
+      "title": "Aftersun (2006)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/aftersun-2022/",
+      "letterboxdURL": "https://letterboxd.com/film/aftersun-2006/",
       "showtimes": [
         {
           "time": "8:30pm",
@@ -3423,7 +4047,7 @@
     },
     {
       "date": "Sun, Aug 24",
-      "title": "Bonnie And Clyde (2008)",
+      "title": "Bonnie And Clyde (1967)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/bonnie-and-clyde/",
       "showtimes": [
@@ -3627,9 +4251,9 @@
     },
     {
       "date": "Sun, Aug 24",
-      "title": "World on a Wire (1973)",
+      "title": "World on a Wire (2010)",
       "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/world-on-a-wire-1973/",
+      "letterboxdURL": "https://letterboxd.com/film/world-on-a-wire/",
       "showtimes": [
         {
           "time": "11:00 AM",
@@ -3639,9 +4263,9 @@
     },
     {
       "date": "Mon, Aug 25",
-      "title": "Aftersun (2022)",
+      "title": "Aftersun (2006)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/aftersun-2022/",
+      "letterboxdURL": "https://letterboxd.com/film/aftersun-2006/",
       "showtimes": [
         {
           "time": "5pm",
@@ -3651,7 +4275,7 @@
     },
     {
       "date": "Mon, Aug 25",
-      "title": "Do the Right Thing (1989)",
+      "title": "Do the Right Thing (1970)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/do-the-right-thing/",
       "showtimes": [
@@ -3663,9 +4287,9 @@
     },
     {
       "date": "Mon, Aug 25",
-      "title": "Dragon Inn (1992)",
+      "title": "Dragon Inn (1967)",
       "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/dragon-inn-1992/",
+      "letterboxdURL": "https://letterboxd.com/film/dragon-inn/",
       "showtimes": [
         {
           "time": "3:20PM",
@@ -3675,7 +4299,7 @@
     },
     {
       "date": "Mon, Aug 25",
-      "title": "Gun Crazy (2002)",
+      "title": "Gun Crazy (1950)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/gun-crazy/",
       "showtimes": [
@@ -3711,7 +4335,7 @@
     },
     {
       "date": "Tue, Aug 26",
-      "title": "A Tale of Summer (2005)",
+      "title": "A Tale of Summer (1941)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/a-tale-of-summer/",
       "showtimes": [
@@ -3723,7 +4347,7 @@
     },
     {
       "date": "Tue, Aug 26",
-      "title": "Bonnie And Clyde (2008)",
+      "title": "Bonnie And Clyde (1967)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/bonnie-and-clyde/",
       "showtimes": [
@@ -3735,7 +4359,7 @@
     },
     {
       "date": "Tue, Aug 26",
-      "title": "Gun Crazy (2002)",
+      "title": "Gun Crazy (1950)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/gun-crazy/",
       "showtimes": [
@@ -3771,9 +4395,9 @@
     },
     {
       "date": "Tue, Aug 26",
-      "title": "Summer 1993 (1994)",
+      "title": "Summer 1993 (1993)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/summer-1993-1994/",
+      "letterboxdURL": "https://letterboxd.com/film/summer-1993/",
       "showtimes": [
         {
           "time": "9:30pm",
@@ -3783,9 +4407,21 @@
     },
     {
       "date": "Wed, Aug 27",
-      "title": "Blue Steel (1990)",
+      "title": " Front Row (1968)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/front-row/",
+      "showtimes": [
+        {
+          "time": "5pm",
+          "link": "https://tickets.bam.org/production/?pid=49515"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 27",
+      "title": "Blue Steel (1934)",
       "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/blue-steel-1990/",
+      "letterboxdURL": "https://letterboxd.com/film/blue-steel/",
       "showtimes": [
         {
           "time": "3:40PM",
@@ -3795,7 +4431,7 @@
     },
     {
       "date": "Wed, Aug 27",
-      "title": "Filibus (1915)",
+      "title": "Filibus (1911)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/filibus/",
       "showtimes": [
@@ -3867,7 +4503,7 @@
     },
     {
       "date": "Thu, Aug 28",
-      "title": "Bonnie And Clyde (2008)",
+      "title": "Bonnie And Clyde (1967)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/bonnie-and-clyde/",
       "showtimes": [
@@ -3891,13 +4527,25 @@
     },
     {
       "date": "Thu, Aug 28",
-      "title": "Do the Right Thing (1989)",
+      "title": "Do the Right Thing (1970)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/do-the-right-thing/",
       "showtimes": [
         {
           "time": "7:45pm",
           "link": "https://tickets.bam.org/production/?pid=49535"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 28",
+      "title": "Gloria (1931)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/gloria-1931/",
+      "showtimes": [
+        {
+          "time": "3:30PM",
+          "link": "https://my.filmforum.org/gloria-wia/44970"
         }
       ]
     },
@@ -3951,9 +4599,9 @@
     },
     {
       "date": "Fri, Aug 29",
-      "title": "Dragon Inn (1992)",
+      "title": "Dragon Inn (1967)",
       "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/dragon-inn-1992/",
+      "letterboxdURL": "https://letterboxd.com/film/dragon-inn/",
       "showtimes": [
         {
           "time": "8:30PM",
@@ -3963,13 +4611,25 @@
     },
     {
       "date": "Fri, Aug 29",
-      "title": "Duck Soup (1933)",
+      "title": "Duck Soup (1927)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/duck-soup-1933/",
+      "letterboxdURL": "https://letterboxd.com/film/duck-soup-1927/",
       "showtimes": [
         {
           "time": "9:30pm",
           "link": "https://tickets.bam.org/production/?pid=49619"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Aug 29",
+      "title": "Gloria (1931)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/gloria-1931/",
+      "showtimes": [
+        {
+          "time": "6:00PM",
+          "link": "https://my.filmforum.org/gloria-wia/44971"
         }
       ]
     },
@@ -4131,7 +4791,7 @@
     },
     {
       "date": "Sat, Aug 30",
-      "title": "Coffy (1973)",
+      "title": "Coffy (1959)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/coffy/",
       "showtimes": [
@@ -4347,18 +5007,6 @@
     },
     {
       "date": "Sun, Aug 31",
-      "title": "BlacKkKlansman (2018)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/blackkklansman/",
-      "showtimes": [
-        {
-          "time": "1:30pm",
-          "link": "https://tickets.bam.org/production/?pid=49640"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 31",
       "title": "Blade Runner: The Final Cut (1982)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/blade-runner-the-final-cut/",
@@ -4378,18 +5026,6 @@
         {
           "time": "5:30PM",
           "link": "https://my.filmforum.org/crouching-tiger-hidden-dragon-wia/45042"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 31",
-      "title": "Desperate Living (1977)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/desperate-living/",
-      "showtimes": [
-        {
-          "time": "9:30pm",
-          "link": "https://tickets.bam.org/production/?pid=49648"
         }
       ]
     },
@@ -4426,18 +5062,6 @@
         {
           "time": "7:45pm",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27761"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 31",
-      "title": "Love & Anarchy (1973)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/search/Love%20%26%20Anarchy+1973/",
-      "showtimes": [
-        {
-          "time": "7pm",
-          "link": "https://tickets.bam.org/production/?pid=49645"
         }
       ]
     },
@@ -4587,9 +5211,9 @@
     },
     {
       "date": "Mon, Sep 1",
-      "title": "Duck Soup (1933)",
+      "title": "Duck Soup (1927)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/duck-soup-1933/",
+      "letterboxdURL": "https://letterboxd.com/film/duck-soup-1927/",
       "showtimes": [
         {
           "time": "5pm",
@@ -4803,9 +5427,9 @@
     },
     {
       "date": "Tue, Sep 2",
-      "title": "The Organizer (2017)",
+      "title": "The Organizer (1929)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-organizer-2017/",
+      "letterboxdURL": "https://letterboxd.com/film/the-organizer/",
       "showtimes": [
         {
           "time": "6:45pm",
@@ -4815,7 +5439,7 @@
     },
     {
       "date": "Wed, Sep 3",
-      "title": "Hanna (2011)",
+      "title": "Hanna (1940)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/hanna/",
       "showtimes": [
@@ -4851,7 +5475,7 @@
     },
     {
       "date": "Wed, Sep 3",
-      "title": "The Hunger Games (2012)",
+      "title": "The Hunger Games (2011)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/the-hunger-games/",
       "showtimes": [
