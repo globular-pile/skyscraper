@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-04T02:01:28.979653",
+  "lastUpdated": "2025-08-04T02:09:58.327273",
   "movies": [
     {
       "date": "Mon, Aug 4",
@@ -515,6 +515,18 @@
     },
     {
       "date": "Tue, Aug 5",
+      "title": "The Man in Possession (1931)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/the-man-in-possession/",
+      "showtimes": [
+        {
+          "time": "7:15 pm",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19216365/"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 5",
       "title": "The Sparrow in the Chimney (1980)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/the-sparrow-in-the-chimney/",
@@ -674,6 +686,18 @@
         {
           "time": "9:15PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6536?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 6",
+      "title": "La haine (1995)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/la-haine/",
+      "showtimes": [
+        {
+          "time": "9:15 pm",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19290116/"
         }
       ]
     },
@@ -1847,6 +1871,18 @@
     },
     {
       "date": "Sun, Aug 10",
+      "title": "GoldenEye (1995)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/goldeneye/",
+      "showtimes": [
+        {
+          "time": "12:00 pm",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19290123/"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
       "title": "How Green Was My Valley (1941)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/how-green-was-my-valley/",
@@ -2082,6 +2118,18 @@
         {
           "time": "7pm",
           "link": "https://tickets.bam.org/production/?pid=49249"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 11",
+      "title": "Kwaidan (1964)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/kwaidan/",
+      "showtimes": [
+        {
+          "time": "8:30 pm",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19292379/"
         }
       ]
     },
@@ -2367,6 +2415,18 @@
     },
     {
       "date": "Wed, Aug 13",
+      "title": "Bad Boys (1995)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/bad-boys-1995/",
+      "showtimes": [
+        {
+          "time": "9:15 pm",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19290126/"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 13",
       "title": "His Motorbike, Her Island (1986)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/his-motorbike-her-island/",
@@ -2518,6 +2578,18 @@
         {
           "time": "9:45PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6577?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 14",
+      "title": "Punchline (1988)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/punchline/",
+      "showtimes": [
+        {
+          "time": "8:45 pm",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19216300/"
         }
       ]
     },
@@ -2955,6 +3027,18 @@
     },
     {
       "date": "Sat, Aug 16",
+      "title": "Muriel\u2019s Wedding (1994)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/muriels-wedding/",
+      "showtimes": [
+        {
+          "time": "12:00 pm",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19290128/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
       "title": "Possession (1981)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/possession/",
@@ -3375,6 +3459,18 @@
     },
     {
       "date": "Mon, Aug 18",
+      "title": "Night Train to Terror (1985)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/night-train-to-terror/",
+      "showtimes": [
+        {
+          "time": "9:15 pm",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19292415/"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 18",
       "title": "Nostalghia (1983)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/nostalghia/",
@@ -3442,6 +3538,18 @@
         {
           "time": "8:30PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44642"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 19",
+      "title": "Drive (1997) (1997)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/drive/",
+      "showtimes": [
+        {
+          "time": "9:15 pm",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19483865/"
         }
       ]
     },
@@ -3562,6 +3670,18 @@
         {
           "time": "4:30pm",
           "link": "https://tickets.bam.org/production/?pid=49396"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 20",
+      "title": "Showgirls (1995)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/showgirls/",
+      "showtimes": [
+        {
+          "time": "8:45 pm",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19290135/"
         }
       ]
     },
@@ -4046,6 +4166,18 @@
       ]
     },
     {
+      "date": "Sat, Aug 23",
+      "title": "To Wong Foo, Thanks for Everything! Julie Newmar (1995)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/to-wong-foo-thanks-for-everything-julie-newmar/",
+      "showtimes": [
+        {
+          "time": "12:00 pm",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19290153/"
+        }
+      ]
+    },
+    {
       "date": "Sun, Aug 24",
       "title": "Bonnie And Clyde (1967)",
       "theater": "Film Forum",
@@ -4251,6 +4383,18 @@
     },
     {
       "date": "Sun, Aug 24",
+      "title": "To Wong Foo, Thanks for Everything! Julie Newmar (1995)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/to-wong-foo-thanks-for-everything-julie-newmar/",
+      "showtimes": [
+        {
+          "time": "12:00 pm",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19290154/"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
       "title": "World on a Wire (2010)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/world-on-a-wire/",
@@ -4323,6 +4467,18 @@
     },
     {
       "date": "Mon, Aug 25",
+      "title": "Tales from the Hood (1995)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/tales-from-the-hood/",
+      "showtimes": [
+        {
+          "time": "9:15 pm",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19292197/"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 25",
       "title": "The Last Summer of La Boyita (2009)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/the-last-summer-of-la-boyita/",
@@ -4366,6 +4522,18 @@
         {
           "time": "6:00PM",
           "link": "https://my.filmforum.org/gun-crazy-wia/44997"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 26",
+      "title": "It\u2019s Alive III: Island of the Alive (1987)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/its-alive-iii-island-of-the-alive/",
+      "showtimes": [
+        {
+          "time": "9:15 pm",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19570443/"
         }
       ]
     },
@@ -4426,6 +4594,18 @@
         {
           "time": "3:40PM",
           "link": "https://my.filmforum.org/blue-steel-wia/45006"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 27",
+      "title": "Casino (1995)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/casino/",
+      "showtimes": [
+        {
+          "time": "8:45 pm",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19290160/"
         }
       ]
     },
@@ -4935,6 +5115,30 @@
     },
     {
       "date": "Sat, Aug 30",
+      "title": "The African Queen (1951)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/the-african-queen/",
+      "showtimes": [
+        {
+          "time": "11:00 am",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19480823/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 30",
+      "title": "The Baby-Sitters Club (1995)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/the-baby-sitters-club/",
+      "showtimes": [
+        {
+          "time": "12:15 pm",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19292133/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 30",
       "title": "The Big Doll House (1971)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/the-big-doll-house/",
@@ -5007,6 +5211,18 @@
     },
     {
       "date": "Sun, Aug 31",
+      "title": "BlacKkKlansman (2018)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/blackkklansman/",
+      "showtimes": [
+        {
+          "time": "1:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49640"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 31",
       "title": "Blade Runner: The Final Cut (1982)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/blade-runner-the-final-cut/",
@@ -5026,6 +5242,18 @@
         {
           "time": "5:30PM",
           "link": "https://my.filmforum.org/crouching-tiger-hidden-dragon-wia/45042"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 31",
+      "title": "Desperate Living (1977)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/desperate-living/",
+      "showtimes": [
+        {
+          "time": "9:30pm",
+          "link": "https://tickets.bam.org/production/?pid=49648"
         }
       ]
     },
@@ -5062,6 +5290,18 @@
         {
           "time": "7:45pm",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27761"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 31",
+      "title": "Love & Anarchy (1973)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/search/Love%20%26%20Anarchy+1973/",
+      "showtimes": [
+        {
+          "time": "7pm",
+          "link": "https://tickets.bam.org/production/?pid=49645"
         }
       ]
     },
@@ -5110,6 +5350,30 @@
         {
           "time": "8:00PM",
           "link": "https://my.filmforum.org/terminator-2-wia/45011"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 31",
+      "title": "The African Queen (1951)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/the-african-queen/",
+      "showtimes": [
+        {
+          "time": "11:00 am",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19480824/"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 31",
+      "title": "The Baby-Sitters Club (1995)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/the-baby-sitters-club/",
+      "showtimes": [
+        {
+          "time": "12:15 pm",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19292134/"
         }
       ]
     },
