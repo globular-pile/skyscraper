@@ -1,94 +1,6 @@
 {
-  "lastUpdated": "2025-08-04T00:11:42.275247",
+  "lastUpdated": "2025-08-04T01:27:21.825993",
   "movies": [
-    {
-      "date": "Sun, Aug 3",
-      "title": "Annette (2021)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/annette/",
-      "showtimes": [
-        {
-          "time": "6:50 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507601~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 3",
-      "title": "Holy Motors (2012)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/holy-motors/",
-      "showtimes": [
-        {
-          "time": "12:45 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507613~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 3",
-      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/search/In%20the%20Mood%20for%20Love%20%2B%20In%20the%20Mood%20for%20Love%202001+2000/",
-      "showtimes": [
-        {
-          "time": "11:15 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=511156~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "4:20 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510486~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:25 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510487~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 3",
-      "title": "It's Not Me + Boy Meets Girl (1984)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/search/It%27s%20Not%20Me%20%2B%20Boy%20Meets%20Girl+1984/",
-      "showtimes": [
-        {
-          "time": "3:50 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507619~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 3",
-      "title": "Mauvais Sang (1986)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/mauvais-sang/",
-      "showtimes": [
-        {
-          "time": "9:50 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507625~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 3",
-      "title": "Night of the Juggler (1980)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/night-of-the-juggler/",
-      "showtimes": [
-        {
-          "time": "1:50 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510527~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "7:00 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510528~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:45 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510537~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
     {
       "date": "Mon, Aug 4",
       "title": "American Psycho (2000)",
@@ -98,30 +10,6 @@
         {
           "time": "1:35 PM",
           "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1324/seats"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 4",
-      "title": "Annette (2021)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/annette/",
-      "showtimes": [
-        {
-          "time": "10:45 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507602~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 4",
-      "title": "Boy Meets Girl (1984)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/boy-meets-girl/",
-      "showtimes": [
-        {
-          "time": "9:55 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507607~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -149,23 +37,11 @@
       "date": "Mon, Aug 4",
       "title": "Breathless - 35MM | This is Cin\u00e9matographe (1983)",
       "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/search/Breathless%20-%2035MM+1983/",
+      "letterboxdURL": "https://letterboxd.com/film/breathless-1983/",
       "showtimes": [
         {
           "time": "7:00PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6574?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 4",
-      "title": "Die Stra\u00dfe (The Street) (1923)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/Die%20Stra%C3%9Fe%20%28The%20Street%29+1923/",
-      "showtimes": [
-        {
-          "time": "7:00 p.m.",
-          "link": "https://www.moma.org/calendar/events/10740"
         }
       ]
     },
@@ -183,18 +59,6 @@
     },
     {
       "date": "Mon, Aug 4",
-      "title": "Harvest (2024)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/harvest-2024/",
-      "showtimes": [
-        {
-          "time": "9:15pm",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27667"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 4",
       "title": "Holiday (1938)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/holiday/",
@@ -207,18 +71,6 @@
     },
     {
       "date": "Mon, Aug 4",
-      "title": "Holy Motors (2012)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/holy-motors/",
-      "showtimes": [
-        {
-          "time": "7:15 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507614~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 4",
       "title": "Ikiru (1952)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/ikiru/",
@@ -226,58 +78,6 @@
         {
           "time": "8:00PM",
           "link": "https://my.filmforum.org/ikiru-kurosawa/45260"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 4",
-      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/search/In%20the%20Mood%20for%20Love%20%2B%20In%20the%20Mood%20for%20Love%202001+2000/",
-      "showtimes": [
-        {
-          "time": "11:15 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510488~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "4:20 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510489~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:25 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510490~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 4",
-      "title": "It's Not Me + Boy Meets Girl (1984)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/search/It%27s%20Not%20Me%20%2B%20Boy%20Meets%20Girl+1984/",
-      "showtimes": [
-        {
-          "time": "4:10 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507620~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 4",
-      "title": "Kill The Jockey (2024)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/kill-the-jockey-2024/",
-      "showtimes": [
-        {
-          "time": "12:15PM",
-          "link": "https://my.filmforum.org/kill-the-jockey/45219"
-        },
-        {
-          "time": "4:30PM",
-          "link": "https://my.filmforum.org/kill-the-jockey/45220"
-        },
-        {
-          "time": "8:50PM",
-          "link": "https://my.filmforum.org/kill-the-jockey/45221"
         }
       ]
     },
@@ -302,50 +102,6 @@
         {
           "time": "11:00 AM",
           "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1323/seats"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 4",
-      "title": "Maborosi (1995)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/maborosi/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510273~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 4",
-      "title": "Mauvais Sang (1986)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/mauvais-sang/",
-      "showtimes": [
-        {
-          "time": "1:45 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507626~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 4",
-      "title": "Night of the Juggler (1980)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/night-of-the-juggler/",
-      "showtimes": [
-        {
-          "time": "1:50 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510529~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "7:20 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510536~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:45 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510538~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -389,7 +145,7 @@
       "date": "Mon, Aug 4",
       "title": "Speed Racer - 35MM (2008)",
       "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/search/Speed%20Racer%20-%2035MM+2008/",
+      "letterboxdURL": "https://letterboxd.com/film/speed-racer/",
       "showtimes": [
         {
           "time": "9:00PM",
@@ -430,26 +186,6 @@
         {
           "time": "7:00pm",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27666"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 4",
-      "title": "The Sparrow in the Chimney (2024)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-sparrow-in-the-chimney/",
-      "showtimes": [
-        {
-          "time": "7pm",
-          "link": "https://tickets.bam.org/production/?pid=49223"
-        },
-        {
-          "time": "4:30pm",
-          "link": "https://tickets.bam.org/production/?pid=49223"
-        },
-        {
-          "time": "9:30pm",
-          "link": "https://tickets.bam.org/production/?pid=49223"
         }
       ]
     },
@@ -503,30 +239,6 @@
     },
     {
       "date": "Tue, Aug 5",
-      "title": "Annette (2021)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/annette/",
-      "showtimes": [
-        {
-          "time": "4:05 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507603~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Tue, Aug 5",
-      "title": "Boy Meets Girl (1984)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/boy-meets-girl/",
-      "showtimes": [
-        {
-          "time": "1:35 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507608~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Tue, Aug 5",
       "title": "Brazil (1985)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/brazil/",
@@ -561,23 +273,11 @@
       "date": "Tue, Aug 5",
       "title": "Confessions of a Teenage Drama Queen - 35MM | Shot By... (2004)",
       "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/search/Confessions%20of%20a%20Teenage%20Drama%20Queen%20-%2035MM+2004/",
+      "letterboxdURL": "https://letterboxd.com/film/confessions-of-a-teenage-drama-queen/",
       "showtimes": [
         {
           "time": "7:00PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6533?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Aug 5",
-      "title": "Harvest (2024)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/harvest-2024/",
-      "showtimes": [
-        {
-          "time": "5:45pm",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27669"
         }
       ]
     },
@@ -590,106 +290,6 @@
         {
           "time": "8:20PM",
           "link": "https://my.filmforum.org/high-and-low-kurosawa/45264"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Aug 5",
-      "title": "Holy Motors (2012)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/holy-motors/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507615~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:40 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510350~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Tue, Aug 5",
-      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/search/In%20the%20Mood%20for%20Love%20%2B%20In%20the%20Mood%20for%20Love%202001+2000/",
-      "showtimes": [
-        {
-          "time": "11:15 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510491~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "4:20 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510482~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:25 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510483~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Tue, Aug 5",
-      "title": "Kill The Jockey (2024)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/kill-the-jockey-2024/",
-      "showtimes": [
-        {
-          "time": "12:15PM",
-          "link": "https://my.filmforum.org/kill-the-jockey/45222"
-        },
-        {
-          "time": "4:30PM",
-          "link": "https://my.filmforum.org/kill-the-jockey/45223"
-        },
-        {
-          "time": "8:50PM",
-          "link": "https://my.filmforum.org/kill-the-jockey/45224"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Aug 5",
-      "title": "Mauvais Sang (1986)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/mauvais-sang/",
-      "showtimes": [
-        {
-          "time": "7:15 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507627~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Tue, Aug 5",
-      "title": "Memory Lane (1926)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/memory-lane-1926/",
-      "showtimes": [
-        {
-          "time": "7:00 p.m.",
-          "link": "https://www.moma.org/calendar/events/10741"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Aug 5",
-      "title": "Night of the Juggler (1980)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/night-of-the-juggler/",
-      "showtimes": [
-        {
-          "time": "1:50 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510524~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "7:00 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510539~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:45 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510540~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -755,26 +355,6 @@
     },
     {
       "date": "Tue, Aug 5",
-      "title": "The Sparrow in the Chimney (2024)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-sparrow-in-the-chimney/",
-      "showtimes": [
-        {
-          "time": "7pm",
-          "link": "https://tickets.bam.org/production/?pid=49223"
-        },
-        {
-          "time": "4:30pm",
-          "link": "https://tickets.bam.org/production/?pid=49223"
-        },
-        {
-          "time": "9:30pm",
-          "link": "https://tickets.bam.org/production/?pid=49223"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Aug 5",
       "title": "Yojimbo (1970)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/yojimbo/",
@@ -811,18 +391,6 @@
     },
     {
       "date": "Wed, Aug 6",
-      "title": "Annette (2021)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/annette/",
-      "showtimes": [
-        {
-          "time": "1:10 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507604~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 6",
       "title": "Brazil (1985)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/brazil/",
@@ -843,18 +411,6 @@
     },
     {
       "date": "Wed, Aug 6",
-      "title": "Harvest (2024)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/harvest-2024/",
-      "showtimes": [
-        {
-          "time": "7:00pm",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27680"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 6",
       "title": "Holiday (1938)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/holiday/",
@@ -862,18 +418,6 @@
         {
           "time": "1:45 PM",
           "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1328/seats"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 6",
-      "title": "Holy Motors (2012)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/holy-motors/",
-      "showtimes": [
-        {
-          "time": "4:10 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507616~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -891,65 +435,13 @@
     },
     {
       "date": "Wed, Aug 6",
-      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/search/In%20the%20Mood%20for%20Love%20%2B%20In%20the%20Mood%20for%20Love%202001+2000/",
-      "showtimes": [
-        {
-          "time": "11:15 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510492~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "4:20 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510493~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:25 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510494~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 6",
-      "title": "It's Not Me + Boy Meets Girl (1984)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/search/It%27s%20Not%20Me%20%2B%20Boy%20Meets%20Girl+1984/",
-      "showtimes": [
-        {
-          "time": "6:50 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507621~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 6",
       "title": "Ivy Wolk and Mackenzie Thomas present: Confessions of a Teenage Drama Queen - 35MM | Shot By... (2004)",
       "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/search/Confessions%20of%20a%20Teenage%20Drama%20Queen%20-%2035MM+2004/",
+      "letterboxdURL": "https://letterboxd.com/film/confessions-of-a-teenage-drama-queen/",
       "showtimes": [
         {
           "time": "9:15PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6536?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 6",
-      "title": "Kill The Jockey (2024)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/kill-the-jockey-2024/",
-      "showtimes": [
-        {
-          "time": "12:15PM",
-          "link": "https://my.filmforum.org/kill-the-jockey/45225"
-        },
-        {
-          "time": "4:30PM",
-          "link": "https://my.filmforum.org/kill-the-jockey/45226"
-        },
-        {
-          "time": "8:50PM",
-          "link": "https://my.filmforum.org/kill-the-jockey/45227"
         }
       ]
     },
@@ -962,42 +454,6 @@
         {
           "time": "4:10 PM",
           "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1329/seats"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 6",
-      "title": "Mauvais Sang (1986)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/mauvais-sang/",
-      "showtimes": [
-        {
-          "time": "10:45 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507628~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:55 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507629~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 6",
-      "title": "Night of the Juggler (1980)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/night-of-the-juggler/",
-      "showtimes": [
-        {
-          "time": "1:50 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510530~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "7:00 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510531~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:45 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510541~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -1051,26 +507,6 @@
     },
     {
       "date": "Wed, Aug 6",
-      "title": "The Sparrow in the Chimney (2024)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-sparrow-in-the-chimney/",
-      "showtimes": [
-        {
-          "time": "7pm",
-          "link": "https://tickets.bam.org/production/?pid=49223"
-        },
-        {
-          "time": "4:30pm",
-          "link": "https://tickets.bam.org/production/?pid=49223"
-        },
-        {
-          "time": "9:30pm",
-          "link": "https://tickets.bam.org/production/?pid=49223"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 6",
       "title": "The Women (1939)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/the-women/",
@@ -1119,18 +555,6 @@
     },
     {
       "date": "Thu, Aug 7",
-      "title": "Afternoons of Solitude (2024)",
-      "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/film/afternoons-of-solitude/",
-      "showtimes": [
-        {
-          "time": "6:25PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/6580?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Aug 7",
       "title": "American Psycho (2000)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/american-psycho/",
@@ -1138,30 +562,6 @@
         {
           "time": "9:10 PM",
           "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1335/seats"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Aug 7",
-      "title": "Annette (2021)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/annette/",
-      "showtimes": [
-        {
-          "time": "10:45 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507605~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Thu, Aug 7",
-      "title": "Boy Meets Girl (1984)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/boy-meets-girl/",
-      "showtimes": [
-        {
-          "time": "9:50 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507609~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -1182,18 +582,6 @@
         {
           "time": "7:00PM",
           "link": "https://my.filmforum.org/brazil-gilliam/44758"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Aug 7",
-      "title": "Harvest (2024)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/harvest-2024/",
-      "showtimes": [
-        {
-          "time": "7:40pm",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27684"
         }
       ]
     },
@@ -1223,58 +611,6 @@
     },
     {
       "date": "Thu, Aug 7",
-      "title": "Holy Motors (2012)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/holy-motors/",
-      "showtimes": [
-        {
-          "time": "1:45 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507617~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Thu, Aug 7",
-      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/search/In%20the%20Mood%20for%20Love%20%2B%20In%20the%20Mood%20for%20Love%202001+2000/",
-      "showtimes": [
-        {
-          "time": "11:15 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510495~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "4:20 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510496~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:55 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510497~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Thu, Aug 7",
-      "title": "Kill The Jockey (2024)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/kill-the-jockey-2024/",
-      "showtimes": [
-        {
-          "time": "12:15PM",
-          "link": "https://my.filmforum.org/kill-the-jockey/45228"
-        },
-        {
-          "time": "4:30PM",
-          "link": "https://my.filmforum.org/kill-the-jockey/45229"
-        },
-        {
-          "time": "8:50PM",
-          "link": "https://my.filmforum.org/kill-the-jockey/45230"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Aug 7",
       "title": "Kind Hearts and Coronets (1949)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/kind-hearts-and-coronets/",
@@ -1294,38 +630,6 @@
         {
           "time": "1:35 PM",
           "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1333/seats"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Aug 7",
-      "title": "Mauvais Sang (1986)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/mauvais-sang/",
-      "showtimes": [
-        {
-          "time": "4:20 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=507630~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Thu, Aug 7",
-      "title": "Night of the Juggler (1980)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/night-of-the-juggler/",
-      "showtimes": [
-        {
-          "time": "1:50 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510532~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "7:00 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510533~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:45 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510542~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -1369,7 +673,7 @@
       "date": "Thu, Aug 7",
       "title": "Speed Racer - 35MM (2008)",
       "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/search/Speed%20Racer%20-%2035MM+2008/",
+      "letterboxdURL": "https://letterboxd.com/film/speed-racer/",
       "showtimes": [
         {
           "time": "4:00PM",
@@ -1415,18 +719,6 @@
     },
     {
       "date": "Thu, Aug 7",
-      "title": "The Man Who Would Be King (1975)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/the-man-who-would-be-king/",
-      "showtimes": [
-        {
-          "time": "7:00 p.m.",
-          "link": "https://www.moma.org/calendar/events/10699"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Aug 7",
       "title": "The Masque Of The Red Death (1964)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/the-masque-of-the-red-death/",
@@ -1434,26 +726,6 @@
         {
           "time": "5:50pm",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27683"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Aug 7",
-      "title": "The Sparrow in the Chimney (2024)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-sparrow-in-the-chimney/",
-      "showtimes": [
-        {
-          "time": "7pm",
-          "link": "https://tickets.bam.org/production/?pid=49223"
-        },
-        {
-          "time": "4:30pm",
-          "link": "https://tickets.bam.org/production/?pid=49223"
-        },
-        {
-          "time": "9:30pm",
-          "link": "https://tickets.bam.org/production/?pid=49223"
         }
       ]
     },
@@ -1506,18 +778,6 @@
         {
           "time": "4:15 PM",
           "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1338/seats"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Aug 8",
-      "title": "Alfie (1966)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/alfie/",
-      "showtimes": [
-        {
-          "time": "7:30 p.m.",
-          "link": "https://www.moma.org/calendar/events/10700"
         }
       ]
     },
@@ -1590,18 +850,6 @@
         {
           "time": "9:45PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6578?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Aug 8",
-      "title": "Hamlet at Elsinore (1965)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/hamlet-at-elsinore/",
-      "showtimes": [
-        {
-          "time": "4:00 p.m.",
-          "link": "https://www.moma.org/calendar/events/10784"
         }
       ]
     },
@@ -1693,23 +941,11 @@
       "date": "Fri, Aug 8",
       "title": "Speed Racer - 35MM (2008)",
       "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/search/Speed%20Racer%20-%2035MM+2008/",
+      "letterboxdURL": "https://letterboxd.com/film/speed-racer/",
       "showtimes": [
         {
           "time": "4:30PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6539?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Aug 8",
-      "title": "Suspended Time (2024)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/suspended-time/",
-      "showtimes": [
-        {
-          "time": "6:00pm",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27568"
         }
       ]
     },
@@ -1734,30 +970,6 @@
         {
           "time": "6:10pm",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27573"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Aug 8",
-      "title": "The Lovers on the Bridge (1991)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/the-lovers-on-the-bridge/",
-      "showtimes": [
-        {
-          "time": "12:40 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=504463~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "3:35 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=504470~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "6:30 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=504477~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:25 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=504484~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -1883,18 +1095,6 @@
     },
     {
       "date": "Sat, Aug 9",
-      "title": "Billion Dollar Brain (1967)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/billion-dollar-brain/",
-      "showtimes": [
-        {
-          "time": "7:00 p.m.",
-          "link": "https://www.moma.org/calendar/events/10781"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Aug 9",
       "title": "Brain Dead Studios presents: Alien (1979)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/film/alien/",
@@ -1926,18 +1126,6 @@
         {
           "time": "3:00pm",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27575"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Aug 9",
-      "title": "Funeral in Berlin (1966)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/funeral-in-berlin/",
-      "showtimes": [
-        {
-          "time": "4:00 p.m.",
-          "link": "https://www.moma.org/calendar/events/10778"
         }
       ]
     },
@@ -2015,18 +1203,6 @@
     },
     {
       "date": "Sat, Aug 9",
-      "title": "No Other Land (2024)",
-      "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/film/no-other-land/",
-      "showtimes": [
-        {
-          "time": "3:00PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/6542?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Aug 9",
       "title": "One Hour Photo (2002)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/one-hour-photo/",
@@ -2082,42 +1258,6 @@
         {
           "time": "6:50pm",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27579"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Aug 9",
-      "title": "The Ipcress File (1965)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/the-ipcress-file/",
-      "showtimes": [
-        {
-          "time": "1:30 p.m.",
-          "link": "https://www.moma.org/calendar/events/10701"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Aug 9",
-      "title": "The Lovers on the Bridge (1991)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/the-lovers-on-the-bridge/",
-      "showtimes": [
-        {
-          "time": "12:40 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=504464~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "3:35 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=504471~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "6:30 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=504478~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:25 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=504485~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -2273,7 +1413,7 @@
       "date": "Sun, Aug 10",
       "title": "Husbands - 35MM (1970)",
       "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/search/Husbands%20-%2035MM+1970/",
+      "letterboxdURL": "https://letterboxd.com/film/husbands/",
       "showtimes": [
         {
           "time": "7:45PM",
@@ -2367,18 +1507,6 @@
     },
     {
       "date": "Sun, Aug 10",
-      "title": "No Other Land (2024)",
-      "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/film/no-other-land/",
-      "showtimes": [
-        {
-          "time": "5:30PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/6582?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 10",
       "title": "Non-Fiction (2018)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/non-fiction/",
@@ -2434,30 +1562,6 @@
         {
           "time": "8:20PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44878"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 10",
-      "title": "X Y & Zee (1972)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/X%20Y%20%26%20Zee+1972/",
-      "showtimes": [
-        {
-          "time": "1:30 p.m.",
-          "link": "https://www.moma.org/calendar/events/10779"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 10",
-      "title": "Zulu (1964)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/zulu/",
-      "showtimes": [
-        {
-          "time": "4:00 p.m.",
-          "link": "https://www.moma.org/calendar/events/10702"
         }
       ]
     },
@@ -2573,23 +1677,11 @@
       "date": "Mon, Aug 11",
       "title": "The Loss of Sexual Innocence - 35MM (1998)",
       "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/search/The%20Loss%20of%20Sexual%20Innocence%20-%2035MM+1998/",
+      "letterboxdURL": "https://letterboxd.com/film/the-loss-of-sexual-innocence/",
       "showtimes": [
         {
           "time": "9:30PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6569?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 11",
-      "title": "The Romantic Englishwoman (1975)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/the-romantic-englishwoman/",
-      "showtimes": [
-        {
-          "time": "7:00 p.m.",
-          "link": "https://www.moma.org/calendar/events/10703"
         }
       ]
     },
@@ -2626,18 +1718,6 @@
         {
           "time": "4:30pm",
           "link": "https://tickets.bam.org/production/?pid=49362"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 11",
-      "title": "X Y & Zee (1972)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/X%20Y%20%26%20Zee+1972/",
-      "showtimes": [
-        {
-          "time": "4:00 p.m.",
-          "link": "https://www.moma.org/calendar/events/10779"
         }
       ]
     },
@@ -2705,7 +1785,7 @@
       "date": "Tue, Aug 12",
       "title": "Husbands - 35MM (1970)",
       "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/search/Husbands%20-%2035MM+1970/",
+      "letterboxdURL": "https://letterboxd.com/film/husbands/",
       "showtimes": [
         {
           "time": "6:30PM",
@@ -2722,18 +1802,6 @@
         {
           "time": "4:30pm",
           "link": "https://tickets.bam.org/production/?pid=49365"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Aug 12",
-      "title": "The Man Who Would Be King (1975)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/the-man-who-would-be-king/",
-      "showtimes": [
-        {
-          "time": "4:00 p.m.",
-          "link": "https://www.moma.org/calendar/events/10699"
         }
       ]
     },
@@ -2758,30 +1826,6 @@
         {
           "time": "6:15PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44880"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Aug 12",
-      "title": "Zulu (1964)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/zulu/",
-      "showtimes": [
-        {
-          "time": "7:00 p.m.",
-          "link": "https://www.moma.org/calendar/events/10702"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 13",
-      "title": "Afternoons of Solitude (2024)",
-      "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/film/afternoons-of-solitude/",
-      "showtimes": [
-        {
-          "time": "9:30PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/6576?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
     },
@@ -2811,18 +1855,6 @@
     },
     {
       "date": "Wed, Aug 13",
-      "title": "Hamlet at Elsinore (1965)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/hamlet-at-elsinore/",
-      "showtimes": [
-        {
-          "time": "7:00 p.m.",
-          "link": "https://www.moma.org/calendar/events/10784"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 13",
       "title": "His Motorbike, Her Island (1986)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/his-motorbike-her-island/",
@@ -2837,7 +1869,7 @@
       "date": "Wed, Aug 13",
       "title": "Husbands - 35MM (1970)",
       "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/search/Husbands%20-%2035MM+1970/",
+      "letterboxdURL": "https://letterboxd.com/film/husbands/",
       "showtimes": [
         {
           "time": "6:30PM",
@@ -2866,18 +1898,6 @@
         {
           "time": "7pm",
           "link": "https://tickets.bam.org/production/?pid=49365"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 13",
-      "title": "The Last Valley (1971)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/the-last-valley/",
-      "showtimes": [
-        {
-          "time": "4:00 p.m.",
-          "link": "https://www.moma.org/calendar/events/10704"
         }
       ]
     },
@@ -2947,18 +1967,6 @@
     },
     {
       "date": "Thu, Aug 14",
-      "title": "Ben and Suzanne, A Reunion in 4 Parts + Q&A (2024)",
-      "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/search/Ben%20and%20Suzanne%2C%20A%20Reunion%20in%204%20Parts%20%2B%20Q%26A+2024/",
-      "showtimes": [
-        {
-          "time": "7:00PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/6562?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Aug 14",
       "title": "Central Park (2004)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/central-park/",
@@ -2983,37 +1991,13 @@
     },
     {
       "date": "Thu, Aug 14",
-      "title": "The Last Valley (1971)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/the-last-valley/",
-      "showtimes": [
-        {
-          "time": "6:30 p.m.",
-          "link": "https://www.moma.org/calendar/events/10704"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Aug 14",
       "title": "The Loss of Sexual Innocence - 35MM (1998)",
       "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/search/The%20Loss%20of%20Sexual%20Innocence%20-%2035MM+1998/",
+      "letterboxdURL": "https://letterboxd.com/film/the-loss-of-sexual-innocence/",
       "showtimes": [
         {
           "time": "5:00PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6572?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Aug 14",
-      "title": "The Wilby Conspiracy (1975)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/the-wilby-conspiracy/",
-      "showtimes": [
-        {
-          "time": "4:00 p.m.",
-          "link": "https://www.moma.org/calendar/events/10785"
         }
       ]
     },
@@ -3131,30 +2115,6 @@
     },
     {
       "date": "Fri, Aug 15",
-      "title": "Get Carter (1971)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/get-carter/",
-      "showtimes": [
-        {
-          "time": "6:30 p.m.",
-          "link": "https://www.moma.org/calendar/events/10707"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Aug 15",
-      "title": "Gloria (2024)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/gloria-2024/",
-      "showtimes": [
-        {
-          "time": "3:10PM",
-          "link": "https://my.filmforum.org/gloria-wia/44967"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Aug 15",
       "title": "Irma Vep (1996)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/irma-vep/",
@@ -3203,26 +2163,6 @@
     },
     {
       "date": "Fri, Aug 15",
-      "title": "My Undesirable Friends (2024)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/search/My%20Undesirable%20Friends+2024/",
-      "showtimes": [
-        {
-          "time": "12:15PM",
-          "link": "https://my.filmforum.org/my-undesirable-friends/44747"
-        },
-        {
-          "time": "4:20PM",
-          "link": "https://my.filmforum.org/my-undesirable-friends/44748"
-        },
-        {
-          "time": "7:00PM",
-          "link": "https://my.filmforum.org/my-undesirable-friends/44909"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Aug 15",
       "title": "Nashville (1975)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/nashville/",
@@ -3242,18 +2182,6 @@
         {
           "time": "8:20pm",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27632"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Aug 15",
-      "title": "Pulp (1972)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/pulp/",
-      "showtimes": [
-        {
-          "time": "4:00 p.m.",
-          "link": "https://www.moma.org/calendar/events/10705"
         }
       ]
     },
@@ -3319,18 +2247,6 @@
     },
     {
       "date": "Sat, Aug 16",
-      "title": "Alfie (1966)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/alfie/",
-      "showtimes": [
-        {
-          "time": "4:00 p.m.",
-          "link": "https://www.moma.org/calendar/events/10700"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
       "title": "Alien (1979)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/alien/",
@@ -3386,30 +2302,6 @@
         {
           "time": "5:25pm",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27644"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
-      "title": "Educating Rita (1983)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/educating-rita/",
-      "showtimes": [
-        {
-          "time": "1:30 p.m.",
-          "link": "https://www.moma.org/calendar/events/10708"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
-      "title": "Gloria (2024)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/gloria-2024/",
-      "showtimes": [
-        {
-          "time": "12:30PM",
-          "link": "https://my.filmforum.org/gloria-wia/44968"
         }
       ]
     },
@@ -3487,26 +2379,6 @@
     },
     {
       "date": "Sat, Aug 16",
-      "title": "My Undesirable Friends (2024)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/search/My%20Undesirable%20Friends+2024/",
-      "showtimes": [
-        {
-          "time": "12:15PM",
-          "link": "https://my.filmforum.org/my-undesirable-friends/44910"
-        },
-        {
-          "time": "4:20PM",
-          "link": "https://my.filmforum.org/my-undesirable-friends/44912"
-        },
-        {
-          "time": "7:15PM",
-          "link": "https://my.filmforum.org/my-undesirable-friends/44911"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
       "title": "Possession (1981)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/possession/",
@@ -3562,18 +2434,6 @@
         {
           "time": "12:15pm",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27646"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
-      "title": "The Italian Job (1969)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/the-italian-job/",
-      "showtimes": [
-        {
-          "time": "6:30 p.m.",
-          "link": "https://www.moma.org/calendar/events/10709"
         }
       ]
     },
@@ -3699,18 +2559,6 @@
     },
     {
       "date": "Sun, Aug 17",
-      "title": "Get Carter (1971)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/get-carter/",
-      "showtimes": [
-        {
-          "time": "1:30 p.m.",
-          "link": "https://www.moma.org/calendar/events/10707"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
       "title": "Happiness (1998)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/happiness/",
@@ -3737,7 +2585,7 @@
       "date": "Sun, Aug 17",
       "title": "Husbands - 35MM (1970)",
       "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/search/Husbands%20-%2035MM+1970/",
+      "letterboxdURL": "https://letterboxd.com/film/husbands/",
       "showtimes": [
         {
           "time": "3:00PM",
@@ -3783,26 +2631,6 @@
     },
     {
       "date": "Sun, Aug 17",
-      "title": "My Undesirable Friends (2024)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/search/My%20Undesirable%20Friends+2024/",
-      "showtimes": [
-        {
-          "time": "1:15PM",
-          "link": "https://my.filmforum.org/my-undesirable-friends/44913"
-        },
-        {
-          "time": "5:20PM",
-          "link": "https://my.filmforum.org/my-undesirable-friends/44914"
-        },
-        {
-          "time": "8:20PM",
-          "link": "https://my.filmforum.org/my-undesirable-friends/44915"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
       "title": "Nashville (1975)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/nashville/",
@@ -3834,18 +2662,6 @@
         {
           "time": "12:00 PM",
           "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1304/seats"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "Pulp (1972)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/pulp/",
-      "showtimes": [
-        {
-          "time": "4:00 p.m.",
-          "link": "https://www.moma.org/calendar/events/10705"
         }
       ]
     },
@@ -3935,18 +2751,6 @@
     },
     {
       "date": "Mon, Aug 18",
-      "title": "Children of Men (2006)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/children-of-men/",
-      "showtimes": [
-        {
-          "time": "4:00 p.m.",
-          "link": "https://www.moma.org/calendar/events/10710"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 18",
       "title": "Gun Crazy (2002)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/gun-crazy/",
@@ -3995,22 +2799,6 @@
     },
     {
       "date": "Mon, Aug 18",
-      "title": "My Undesirable Friends (2024)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/search/My%20Undesirable%20Friends+2024/",
-      "showtimes": [
-        {
-          "time": "1:15PM",
-          "link": "https://my.filmforum.org/my-undesirable-friends/44916"
-        },
-        {
-          "time": "6:10PM",
-          "link": "https://my.filmforum.org/my-undesirable-friends/44920"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 18",
       "title": "Nostalghia (1984)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/nostalghia/",
@@ -4030,18 +2818,6 @@
         {
           "time": "3:10PM",
           "link": "https://my.filmforum.org/the-furies-wia/44986"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 18",
-      "title": "The Wilby Conspiracy (1975)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/the-wilby-conspiracy/",
-      "showtimes": [
-        {
-          "time": "6:30 p.m.",
-          "link": "https://www.moma.org/calendar/events/10785"
         }
       ]
     },
@@ -4095,18 +2871,6 @@
     },
     {
       "date": "Tue, Aug 19",
-      "title": "Children of Men (2006)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/children-of-men/",
-      "showtimes": [
-        {
-          "time": "7:00 p.m.",
-          "link": "https://www.moma.org/calendar/events/10710"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Aug 19",
       "title": "Ghost In The Shell (1995)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/ghost-in-the-shell/",
@@ -4114,50 +2878,6 @@
         {
           "time": "8:50PM",
           "link": "https://my.filmforum.org/ghost-in-the-shell-wia/44999"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Aug 19",
-      "title": "Gloria (2024)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/gloria-2024/",
-      "showtimes": [
-        {
-          "time": "12:50PM",
-          "link": "https://my.filmforum.org/gloria-wia/44969"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Aug 19",
-      "title": "My Undesirable Friends (2024)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/search/My%20Undesirable%20Friends+2024/",
-      "showtimes": [
-        {
-          "time": "1:15PM",
-          "link": "https://my.filmforum.org/my-undesirable-friends/44918"
-        },
-        {
-          "time": "5:20PM",
-          "link": "https://my.filmforum.org/my-undesirable-friends/44922"
-        },
-        {
-          "time": "8:00PM",
-          "link": "https://my.filmforum.org/my-undesirable-friends/44924"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Aug 19",
-      "title": "The Romantic Englishwoman (1975)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/the-romantic-englishwoman/",
-      "showtimes": [
-        {
-          "time": "4:00 p.m.",
-          "link": "https://www.moma.org/calendar/events/10703"
         }
       ]
     },
@@ -4223,18 +2943,6 @@
     },
     {
       "date": "Wed, Aug 20",
-      "title": "Educating Rita (1983)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/educating-rita/",
-      "showtimes": [
-        {
-          "time": "7:00 p.m.",
-          "link": "https://www.moma.org/calendar/events/10708"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 20",
       "title": "Forty Guns (1957)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/forty-guns/",
@@ -4242,34 +2950,6 @@
         {
           "time": "6:00PM",
           "link": "https://my.filmforum.org/forty-guns-wia/44990"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 20",
-      "title": "Hannah and Her Sisters (1986)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/hannah-and-her-sisters/",
-      "showtimes": [
-        {
-          "time": "4:00 p.m.",
-          "link": "https://www.moma.org/calendar/events/10711"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 20",
-      "title": "My Undesirable Friends (2024)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/search/My%20Undesirable%20Friends+2024/",
-      "showtimes": [
-        {
-          "time": "1:15PM",
-          "link": "https://my.filmforum.org/my-undesirable-friends/44917"
-        },
-        {
-          "time": "6:10PM",
-          "link": "https://my.filmforum.org/my-undesirable-friends/44921"
         }
       ]
     },
@@ -4359,26 +3039,6 @@
     },
     {
       "date": "Thu, Aug 21",
-      "title": "My Undesirable Friends (2024)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/search/My%20Undesirable%20Friends+2024/",
-      "showtimes": [
-        {
-          "time": "1:15PM",
-          "link": "https://my.filmforum.org/my-undesirable-friends/44919"
-        },
-        {
-          "time": "5:20PM",
-          "link": "https://my.filmforum.org/my-undesirable-friends/44923"
-        },
-        {
-          "time": "8:00PM",
-          "link": "https://my.filmforum.org/my-undesirable-friends/44925"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Aug 21",
       "title": "Stalker (2023)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/stalker-2023/",
@@ -4386,30 +3046,6 @@
         {
           "time": "7pm",
           "link": "https://tickets.bam.org/production/?pid=49378"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Aug 21",
-      "title": "The Italian Job (1969)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/the-italian-job/",
-      "showtimes": [
-        {
-          "time": "4:00 p.m.",
-          "link": "https://www.moma.org/calendar/events/10709"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Aug 21",
-      "title": "The Quiet American (2002)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/the-quiet-american/",
-      "showtimes": [
-        {
-          "time": "6:30 p.m.",
-          "link": "https://www.moma.org/calendar/events/10712"
         }
       ]
     },
@@ -4511,18 +3147,6 @@
     },
     {
       "date": "Fri, Aug 22",
-      "title": "Dirty Rotten Scoundrels (1988)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/dirty-rotten-scoundrels/",
-      "showtimes": [
-        {
-          "time": "7:00 p.m.",
-          "link": "https://www.moma.org/calendar/events/10714"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Aug 22",
       "title": "Lady Snowblood (1973)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/lady-snowblood/",
@@ -4595,18 +3219,6 @@
     },
     {
       "date": "Fri, Aug 22",
-      "title": "The Wrong Box (1966)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/the-wrong-box/",
-      "showtimes": [
-        {
-          "time": "4:00 p.m.",
-          "link": "https://www.moma.org/calendar/events/10713"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Aug 22",
       "title": "Titane (2021)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/titane/",
@@ -4614,18 +3226,6 @@
         {
           "time": "10:15pm",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27696"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Aug 23",
-      "title": " Front Row (2024)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/front-row-2024/",
-      "showtimes": [
-        {
-          "time": "2pm",
-          "link": "https://tickets.bam.org/production/?pid=49515"
         }
       ]
     },
@@ -5183,18 +3783,6 @@
     },
     {
       "date": "Wed, Aug 27",
-      "title": " Front Row (2024)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/front-row-2024/",
-      "showtimes": [
-        {
-          "time": "5pm",
-          "link": "https://tickets.bam.org/production/?pid=49515"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 27",
       "title": "Blue Steel (1990)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/blue-steel-1990/",
@@ -5315,18 +3903,6 @@
     },
     {
       "date": "Thu, Aug 28",
-      "title": "Gloria (2024)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/gloria-2024/",
-      "showtimes": [
-        {
-          "time": "3:30PM",
-          "link": "https://my.filmforum.org/gloria-wia/44970"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Aug 28",
       "title": "Irma Vep (1996)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/irma-vep/",
@@ -5394,18 +3970,6 @@
         {
           "time": "9:30pm",
           "link": "https://tickets.bam.org/production/?pid=49619"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Aug 29",
-      "title": "Gloria (2024)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/gloria-2024/",
-      "showtimes": [
-        {
-          "time": "6:00PM",
-          "link": "https://my.filmforum.org/gloria-wia/44971"
         }
       ]
     },
