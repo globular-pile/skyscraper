@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-06T08:13:20.617981",
+  "lastUpdated": "2025-08-06T08:53:26.446028",
   "movies": [
     {
       "date": "Fri, Aug 1",
@@ -212,15 +212,15 @@
       "letterboxdURL": "https://letterboxd.com/film/brazil/",
       "showtimes": [
         {
-          "time": "1:00PM",
+          "time": "1:00 PM",
           "link": "https://my.filmforum.org/brazil-gilliam/44763"
         },
         {
-          "time": "4:00PM",
+          "time": "4:00 PM",
           "link": "https://my.filmforum.org/brazil-gilliam/44767"
         },
         {
-          "time": "7:00PM",
+          "time": "7:00 PM",
           "link": "https://my.filmforum.org/brazil-gilliam/44757"
         }
       ]
@@ -248,11 +248,11 @@
       "letterboxdURL": "https://letterboxd.com/film/hearts-of-darkness/",
       "showtimes": [
         {
-          "time": "2:20PM",
+          "time": "2:20 PM",
           "link": "https://my.filmforum.org/hearts-of-darkness/45241"
         },
         {
-          "time": "6:40PM",
+          "time": "6:40 PM",
           "link": "https://my.filmforum.org/hearts-of-darkness/45242"
         }
       ]
@@ -276,7 +276,7 @@
       "letterboxdURL": "https://letterboxd.com/film/confessions-of-a-teenage-drama-queen/",
       "showtimes": [
         {
-          "time": "9:15PM",
+          "time": "9:15 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6536?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
@@ -324,7 +324,7 @@
       "letterboxdURL": "https://letterboxd.com/film/seven-samurai/",
       "showtimes": [
         {
-          "time": "1:00PM",
+          "time": "1:00 PM",
           "link": "https://my.filmforum.org/seven-samurai-kurosawa/45265"
         }
       ]
@@ -336,7 +336,7 @@
       "letterboxdURL": "https://letterboxd.com/film/stray-dog/",
       "showtimes": [
         {
-          "time": "5:30PM",
+          "time": "5:30 PM",
           "link": "https://my.filmforum.org/stray-dog-kurosawa/45266"
         }
       ]
@@ -396,7 +396,7 @@
       "letterboxdURL": "https://letterboxd.com/film/throne-of-blood/",
       "showtimes": [
         {
-          "time": "8:10PM",
+          "time": "8:10 PM",
           "link": "https://my.filmforum.org/throne-of-blood-kurosawa/45267"
         }
       ]
@@ -432,15 +432,15 @@
       "letterboxdURL": "https://letterboxd.com/film/brazil/",
       "showtimes": [
         {
-          "time": "1:00PM",
+          "time": "1:00 PM",
           "link": "https://my.filmforum.org/brazil-gilliam/44764"
         },
         {
-          "time": "4:00PM",
+          "time": "4:00 PM",
           "link": "https://my.filmforum.org/brazil-gilliam/44768"
         },
         {
-          "time": "7:00PM",
+          "time": "7:00 PM",
           "link": "https://my.filmforum.org/brazil-gilliam/44758"
         }
       ]
@@ -468,11 +468,11 @@
       "letterboxdURL": "https://letterboxd.com/film/hearts-of-darkness/",
       "showtimes": [
         {
-          "time": "2:20PM",
+          "time": "2:20 PM",
           "link": "https://my.filmforum.org/hearts-of-darkness/45243"
         },
         {
-          "time": "6:40PM",
+          "time": "6:40 PM",
           "link": "https://my.filmforum.org/hearts-of-darkness/45244"
         }
       ]
@@ -484,7 +484,7 @@
       "letterboxdURL": "https://letterboxd.com/film/high-and-low/",
       "showtimes": [
         {
-          "time": "12:30PM",
+          "time": "12:30 PM",
           "link": "https://my.filmforum.org/high-and-low-kurosawa/45268"
         }
       ]
@@ -532,7 +532,7 @@
       "letterboxdURL": "https://letterboxd.com/film/sanjuro/",
       "showtimes": [
         {
-          "time": "5:45PM",
+          "time": "5:45 PM",
           "link": "https://my.filmforum.org/sanjuro-kurosawa/45270"
         }
       ]
@@ -544,7 +544,7 @@
       "letterboxdURL": "https://letterboxd.com/film/speed-racer/",
       "showtimes": [
         {
-          "time": "4:00PM",
+          "time": "4:00 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6584?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
@@ -580,7 +580,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-hidden-fortress/",
       "showtimes": [
         {
-          "time": "7:50PM",
+          "time": "7:50 PM",
           "link": "https://my.filmforum.org/the-hidden-fortress-kurosawa/45271"
         }
       ]
@@ -592,7 +592,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-image-1975/",
       "showtimes": [
         {
-          "time": "9:15 pm",
+          "time": "9:15 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19434806/"
         }
       ]
@@ -604,7 +604,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-man-who-would-be-king/",
       "showtimes": [
         {
-          "time": "7:00 p.m.",
+          "time": "7:00 PM",
           "link": "https://www.moma.org/calendar/events/10699"
         }
       ]
@@ -628,7 +628,7 @@
       "letterboxdURL": "https://letterboxd.com/film/yojimbo/",
       "showtimes": [
         {
-          "time": "3:30PM",
+          "time": "3:30 PM",
           "link": "https://my.filmforum.org/yojimbo-kurosawa/45269"
         }
       ]
@@ -640,11 +640,11 @@
       "letterboxdURL": "https://letterboxd.com/film/a-man-and-a-woman/",
       "showtimes": [
         {
-          "time": "5pm",
+          "time": "5:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49371"
         },
         {
-          "time": "7:15pm",
+          "time": "7:15 PM",
           "link": "https://tickets.bam.org/production/?pid=49371"
         }
       ]
@@ -668,7 +668,7 @@
       "letterboxdURL": "https://letterboxd.com/film/alfie/",
       "showtimes": [
         {
-          "time": "7:30 p.m.",
+          "time": "7:30 PM",
           "link": "https://www.moma.org/calendar/events/10700"
         }
       ]
@@ -680,19 +680,19 @@
       "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
       "showtimes": [
         {
-          "time": "12:15PM",
+          "time": "12:15 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44593"
         },
         {
-          "time": "3:00PM",
+          "time": "3:00 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44607"
         },
         {
-          "time": "5:45PM",
+          "time": "5:45 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44617"
         },
         {
-          "time": "8:30PM",
+          "time": "8:30 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44631"
         }
       ]
@@ -716,7 +716,7 @@
       "letterboxdURL": "https://letterboxd.com/film/angelheaded-hipster-the-songs-of-marc-bolan-t-rex/",
       "showtimes": [
         {
-          "time": "7:15PM",
+          "time": "7:15 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6540?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
@@ -740,7 +740,7 @@
       "letterboxdURL": "https://letterboxd.com/film/brazil/",
       "showtimes": [
         {
-          "time": "5:45PM",
+          "time": "5:45 PM",
           "link": "https://my.filmforum.org/brazil-gilliam/45274"
         }
       ]
@@ -776,7 +776,7 @@
       "letterboxdURL": "https://letterboxd.com/film/christiane-f/",
       "showtimes": [
         {
-          "time": "9:45PM",
+          "time": "9:45 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6578?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
@@ -788,7 +788,7 @@
       "letterboxdURL": "https://letterboxd.com/film/hamlet-at-elsinore/",
       "showtimes": [
         {
-          "time": "4:00 p.m.",
+          "time": "4:00 PM",
           "link": "https://www.moma.org/calendar/events/10784"
         }
       ]
@@ -836,7 +836,7 @@
       "letterboxdURL": "https://letterboxd.com/film/sanjuro/",
       "showtimes": [
         {
-          "time": "12:45PM",
+          "time": "12:45 PM",
           "link": "https://my.filmforum.org/sanjuro-kurosawa/45306"
         }
       ]
@@ -848,7 +848,7 @@
       "letterboxdURL": "https://letterboxd.com/film/speed-racer/",
       "showtimes": [
         {
-          "time": "4:30PM",
+          "time": "4:30 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6539?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
@@ -872,7 +872,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-city-of-lost-children/",
       "showtimes": [
         {
-          "time": "11:55 pm",
+          "time": "11:55 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19292643/"
         }
       ]
@@ -896,7 +896,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-hidden-fortress/",
       "showtimes": [
         {
-          "time": "2:50PM",
+          "time": "2:50 PM",
           "link": "https://my.filmforum.org/the-hidden-fortress-kurosawa/45307"
         }
       ]
@@ -920,19 +920,19 @@
       "letterboxdURL": "https://letterboxd.com/film/who-killed-teddy-bear/",
       "showtimes": [
         {
-          "time": "12:30PM",
+          "time": "12:30 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44870"
         },
         {
-          "time": "2:40PM",
+          "time": "2:40 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44871"
         },
         {
-          "time": "4:50PM",
+          "time": "4:50 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44872"
         },
         {
-          "time": "7:00PM",
+          "time": "7:00 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44873"
         }
       ]
@@ -944,7 +944,7 @@
       "letterboxdURL": "https://letterboxd.com/film/yojimbo/",
       "showtimes": [
         {
-          "time": "8:40PM",
+          "time": "8:40 PM",
           "link": "https://my.filmforum.org/yojimbo-kurosawa/45308"
         }
       ]
@@ -980,7 +980,7 @@
       "letterboxdURL": "https://letterboxd.com/film/a-woman-is-a-woman/",
       "showtimes": [
         {
-          "time": "6:15pm",
+          "time": "6:15 PM",
           "link": "https://tickets.bam.org/production/?pid=49351"
         }
       ]
@@ -992,19 +992,19 @@
       "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
       "showtimes": [
         {
-          "time": "12:15PM",
+          "time": "12:15 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44594"
         },
         {
-          "time": "3:00PM",
+          "time": "3:00 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44645"
         },
         {
-          "time": "5:45PM",
+          "time": "5:45 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44618"
         },
         {
-          "time": "8:30PM",
+          "time": "8:30 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44632"
         }
       ]
@@ -1016,7 +1016,7 @@
       "letterboxdURL": "https://letterboxd.com/film/angelheaded-hipster-the-songs-of-marc-bolan-t-rex/",
       "showtimes": [
         {
-          "time": "7:00PM",
+          "time": "7:00 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6544?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
@@ -1040,7 +1040,7 @@
       "letterboxdURL": "https://letterboxd.com/film/billion-dollar-brain/",
       "showtimes": [
         {
-          "time": "7:00 p.m.",
+          "time": "7:00 PM",
           "link": "https://www.moma.org/calendar/events/10781"
         }
       ]
@@ -1052,7 +1052,7 @@
       "letterboxdURL": "https://letterboxd.com/film/alien/",
       "showtimes": [
         {
-          "time": "9:30PM",
+          "time": "9:30 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6568?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
@@ -1064,7 +1064,7 @@
       "letterboxdURL": "https://letterboxd.com/film/brazil/",
       "showtimes": [
         {
-          "time": "5:15PM",
+          "time": "5:15 PM",
           "link": "https://my.filmforum.org/brazil-gilliam/45275"
         }
       ]
@@ -1112,7 +1112,7 @@
       "letterboxdURL": "https://letterboxd.com/film/compensation-1999/",
       "showtimes": [
         {
-          "time": "2pm",
+          "time": "2:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49249"
         }
       ]
@@ -1124,7 +1124,7 @@
       "letterboxdURL": "https://letterboxd.com/film/funeral-in-berlin/",
       "showtimes": [
         {
-          "time": "4:00 p.m.",
+          "time": "4:00 PM",
           "link": "https://www.moma.org/calendar/events/10778"
         }
       ]
@@ -1136,7 +1136,7 @@
       "letterboxdURL": "https://letterboxd.com/film/high-and-low/",
       "showtimes": [
         {
-          "time": "8:10PM",
+          "time": "8:10 PM",
           "link": "https://my.filmforum.org/high-and-low-kurosawa/45312"
         }
       ]
@@ -1148,7 +1148,7 @@
       "letterboxdURL": "https://letterboxd.com/film/his-motorbike-her-island/",
       "showtimes": [
         {
-          "time": "4:15pm",
+          "time": "4:15 PM",
           "link": "https://tickets.bam.org/production/?pid=49348"
         }
       ]
@@ -1196,7 +1196,7 @@
       "letterboxdURL": "https://letterboxd.com/film/picnic-at-hanging-rock/",
       "showtimes": [
         {
-          "time": "8:15pm",
+          "time": "8:15 PM",
           "link": "https://tickets.bam.org/production/?pid=49354"
         }
       ]
@@ -1208,7 +1208,7 @@
       "letterboxdURL": "https://letterboxd.com/film/ran-1985/",
       "showtimes": [
         {
-          "time": "2:00PM",
+          "time": "2:00 PM",
           "link": "https://my.filmforum.org/ran-kuro/45310"
         }
       ]
@@ -1232,7 +1232,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-city-of-lost-children/",
       "showtimes": [
         {
-          "time": "11:55 pm",
+          "time": "11:55 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19292646/"
         }
       ]
@@ -1268,7 +1268,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-ipcress-file/",
       "showtimes": [
         {
-          "time": "1:30 p.m.",
+          "time": "1:30 PM",
           "link": "https://www.moma.org/calendar/events/10701"
         }
       ]
@@ -1304,23 +1304,23 @@
       "letterboxdURL": "https://letterboxd.com/film/who-killed-teddy-bear/",
       "showtimes": [
         {
-          "time": "12:30PM",
+          "time": "12:30 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44885"
         },
         {
-          "time": "2:40PM",
+          "time": "2:40 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44884"
         },
         {
-          "time": "4:50PM",
+          "time": "4:50 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44883"
         },
         {
-          "time": "7:00PM",
+          "time": "7:00 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44874"
         },
         {
-          "time": "9:10PM",
+          "time": "9:10 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44877"
         }
       ]
@@ -1344,19 +1344,19 @@
       "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
       "showtimes": [
         {
-          "time": "12:15PM",
+          "time": "12:15 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44595"
         },
         {
-          "time": "3:00PM",
+          "time": "3:00 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44646"
         },
         {
-          "time": "5:45PM",
+          "time": "5:45 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44619"
         },
         {
-          "time": "8:30PM",
+          "time": "8:30 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44633"
         }
       ]
@@ -1368,7 +1368,7 @@
       "letterboxdURL": "https://letterboxd.com/film/angelheaded-hipster-the-songs-of-marc-bolan-t-rex/",
       "showtimes": [
         {
-          "time": "3:00PM",
+          "time": "3:00 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6546?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
@@ -1380,7 +1380,7 @@
       "letterboxdURL": "https://letterboxd.com/film/batang-west-side/",
       "showtimes": [
         {
-          "time": "1:30pm",
+          "time": "1:30 PM",
           "link": "https://tickets.bam.org/production/?pid=49357"
         }
       ]
@@ -1416,7 +1416,7 @@
       "letterboxdURL": "https://letterboxd.com/film/goldeneye/",
       "showtimes": [
         {
-          "time": "12:00 pm",
+          "time": "12:00 PM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19290123/"
         }
       ]
@@ -1428,7 +1428,7 @@
       "letterboxdURL": "https://letterboxd.com/film/husbands/",
       "showtimes": [
         {
-          "time": "7:45PM",
+          "time": "7:45 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6548?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
@@ -1440,7 +1440,7 @@
       "letterboxdURL": "https://letterboxd.com/film/killer-of-sheep/",
       "showtimes": [
         {
-          "time": "7:15pm",
+          "time": "7:15 PM",
           "link": "https://tickets.bam.org/production/?pid=49359"
         }
       ]
@@ -1500,7 +1500,7 @@
       "letterboxdURL": "https://letterboxd.com/film/rashomon/",
       "showtimes": [
         {
-          "time": "6:20PM",
+          "time": "6:20 PM",
           "link": "https://my.filmforum.org/rashomon-kurosawa/45319"
         }
       ]
@@ -1512,7 +1512,7 @@
       "letterboxdURL": "https://letterboxd.com/film/seven-samurai/",
       "showtimes": [
         {
-          "time": "12:15PM",
+          "time": "12:15 PM",
           "link": "https://my.filmforum.org/seven-samurai-kurosawa/45314"
         }
       ]
@@ -1536,7 +1536,7 @@
       "letterboxdURL": "https://letterboxd.com/film/stray-dog/",
       "showtimes": [
         {
-          "time": "8:20PM",
+          "time": "8:20 PM",
           "link": "https://my.filmforum.org/stray-dog-kurosawa/45320"
         }
       ]
@@ -1572,23 +1572,23 @@
       "letterboxdURL": "https://letterboxd.com/film/who-killed-teddy-bear/",
       "showtimes": [
         {
-          "time": "12:15PM",
+          "time": "12:15 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44886"
         },
         {
-          "time": "2:15PM",
+          "time": "2:15 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44882"
         },
         {
-          "time": "4:10PM",
+          "time": "4:10 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/45272"
         },
         {
-          "time": "6:10PM",
+          "time": "6:10 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44881"
         },
         {
-          "time": "8:20PM",
+          "time": "8:20 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44878"
         }
       ]
@@ -1600,7 +1600,7 @@
       "letterboxdURL": "https://letterboxd.com/search/X%20Y%20%26%20Zee+1972/",
       "showtimes": [
         {
-          "time": "1:30 p.m.",
+          "time": "1:30 PM",
           "link": "https://www.moma.org/calendar/events/10779"
         }
       ]
@@ -1612,7 +1612,7 @@
       "letterboxdURL": "https://letterboxd.com/film/zulu/",
       "showtimes": [
         {
-          "time": "4:00 p.m.",
+          "time": "4:00 PM",
           "link": "https://www.moma.org/calendar/events/10702"
         }
       ]
@@ -1636,19 +1636,19 @@
       "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
       "showtimes": [
         {
-          "time": "12:15PM",
+          "time": "12:15 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44596"
         },
         {
-          "time": "3:00PM",
+          "time": "3:00 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44608"
         },
         {
-          "time": "5:45PM",
+          "time": "5:45 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44620"
         },
         {
-          "time": "8:30PM",
+          "time": "8:30 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44634"
         }
       ]
@@ -1660,7 +1660,7 @@
       "letterboxdURL": "https://letterboxd.com/film/angelheaded-hipster-the-songs-of-marc-bolan-t-rex/",
       "showtimes": [
         {
-          "time": "7:00PM",
+          "time": "7:00 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6549?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
@@ -1696,7 +1696,7 @@
       "letterboxdURL": "https://letterboxd.com/film/compensation-1999/",
       "showtimes": [
         {
-          "time": "7pm",
+          "time": "7:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49249"
         }
       ]
@@ -1708,7 +1708,7 @@
       "letterboxdURL": "https://letterboxd.com/film/ikiru/",
       "showtimes": [
         {
-          "time": "1:00PM",
+          "time": "1:00 PM",
           "link": "https://my.filmforum.org/ikiru-kurosawa/45322"
         }
       ]
@@ -1720,7 +1720,7 @@
       "letterboxdURL": "https://letterboxd.com/film/kwaidan/",
       "showtimes": [
         {
-          "time": "8:30 pm",
+          "time": "8:30 PM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19292379/"
         }
       ]
@@ -1768,7 +1768,7 @@
       "letterboxdURL": "https://letterboxd.com/film/picnic-at-hanging-rock/",
       "showtimes": [
         {
-          "time": "9:15pm",
+          "time": "9:15 PM",
           "link": "https://tickets.bam.org/production/?pid=49354"
         }
       ]
@@ -1780,7 +1780,7 @@
       "letterboxdURL": "https://letterboxd.com/film/rashomon/",
       "showtimes": [
         {
-          "time": "4:00PM",
+          "time": "4:00 PM",
           "link": "https://my.filmforum.org/rashomon-kurosawa/45317"
         }
       ]
@@ -1816,7 +1816,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-loss-of-sexual-innocence/",
       "showtimes": [
         {
-          "time": "9:30PM",
+          "time": "9:30 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6569?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
@@ -1840,7 +1840,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-romantic-englishwoman/",
       "showtimes": [
         {
-          "time": "7:00 p.m.",
+          "time": "7:00 PM",
           "link": "https://www.moma.org/calendar/events/10703"
         }
       ]
@@ -1852,7 +1852,7 @@
       "letterboxdURL": "https://letterboxd.com/film/throne-of-blood/",
       "showtimes": [
         {
-          "time": "8:00PM",
+          "time": "8:00 PM",
           "link": "https://my.filmforum.org/throne-of-blood-kurosawa/45323"
         }
       ]
@@ -1864,23 +1864,23 @@
       "letterboxdURL": "https://letterboxd.com/film/who-killed-teddy-bear/",
       "showtimes": [
         {
-          "time": "12:15PM",
+          "time": "12:15 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44887"
         },
         {
-          "time": "2:15PM",
+          "time": "2:15 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44889"
         },
         {
-          "time": "4:15PM",
+          "time": "4:15 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44890"
         },
         {
-          "time": "6:15PM",
+          "time": "6:15 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/45273"
         },
         {
-          "time": "8:10PM",
+          "time": "8:10 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44879"
         }
       ]
@@ -1892,7 +1892,7 @@
       "letterboxdURL": "https://letterboxd.com/film/withnail-and-i/",
       "showtimes": [
         {
-          "time": "4:30pm",
+          "time": "4:30 PM",
           "link": "https://tickets.bam.org/production/?pid=49362"
         }
       ]
@@ -1904,7 +1904,7 @@
       "letterboxdURL": "https://letterboxd.com/search/X%20Y%20%26%20Zee+1972/",
       "showtimes": [
         {
-          "time": "4:00 p.m.",
+          "time": "4:00 PM",
           "link": "https://www.moma.org/calendar/events/10779"
         }
       ]
@@ -1928,19 +1928,19 @@
       "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
       "showtimes": [
         {
-          "time": "12:15PM",
+          "time": "12:15 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44597"
         },
         {
-          "time": "3:00PM",
+          "time": "3:00 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44609"
         },
         {
-          "time": "5:45PM",
+          "time": "5:45 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44621"
         },
         {
-          "time": "8:30PM",
+          "time": "8:30 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44635"
         }
       ]
@@ -1976,7 +1976,7 @@
       "letterboxdURL": "https://letterboxd.com/film/brazil/",
       "showtimes": [
         {
-          "time": "5:30PM",
+          "time": "5:30 PM",
           "link": "https://my.filmforum.org/brazil-gilliam/45276"
         }
       ]
@@ -2012,7 +2012,7 @@
       "letterboxdURL": "https://letterboxd.com/film/central-park/",
       "showtimes": [
         {
-          "time": "7pm",
+          "time": "7:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49368"
         }
       ]
@@ -2024,7 +2024,7 @@
       "letterboxdURL": "https://letterboxd.com/film/christiane-f/",
       "showtimes": [
         {
-          "time": "9:30PM",
+          "time": "9:30 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6575?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
@@ -2036,7 +2036,7 @@
       "letterboxdURL": "https://letterboxd.com/film/friday/",
       "showtimes": [
         {
-          "time": "9:30 pm",
+          "time": "9:30 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19292653/"
         }
       ]
@@ -2048,7 +2048,7 @@
       "letterboxdURL": "https://letterboxd.com/film/funny-pages-2022/",
       "showtimes": [
         {
-          "time": "8:15PM",
+          "time": "8:15 PM",
           "link": "https://my.filmforum.org/funny-pages/44904"
         }
       ]
@@ -2060,7 +2060,7 @@
       "letterboxdURL": "https://letterboxd.com/film/husbands/",
       "showtimes": [
         {
-          "time": "6:30PM",
+          "time": "6:30 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6525?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
@@ -2108,7 +2108,7 @@
       "letterboxdURL": "https://letterboxd.com/film/seven-samurai/",
       "showtimes": [
         {
-          "time": "1:00PM",
+          "time": "1:00 PM",
           "link": "https://my.filmforum.org/seven-samurai-kurosawa/45315"
         }
       ]
@@ -2132,7 +2132,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-man-who-would-be-king/",
       "showtimes": [
         {
-          "time": "4:00 p.m.",
+          "time": "4:00 PM",
           "link": "https://www.moma.org/calendar/events/10699"
         }
       ]
@@ -2180,19 +2180,19 @@
       "letterboxdURL": "https://letterboxd.com/film/who-killed-teddy-bear/",
       "showtimes": [
         {
-          "time": "12:15PM",
+          "time": "12:15 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44888"
         },
         {
-          "time": "2:15PM",
+          "time": "2:15 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44891"
         },
         {
-          "time": "4:15PM",
+          "time": "4:15 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44892"
         },
         {
-          "time": "6:15PM",
+          "time": "6:15 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44880"
         }
       ]
@@ -2204,7 +2204,7 @@
       "letterboxdURL": "https://letterboxd.com/film/yojimbo/",
       "showtimes": [
         {
-          "time": "8:30PM",
+          "time": "8:30 PM",
           "link": "https://my.filmforum.org/yojimbo-kurosawa/45309"
         }
       ]
@@ -2216,7 +2216,7 @@
       "letterboxdURL": "https://letterboxd.com/film/zulu/",
       "showtimes": [
         {
-          "time": "7:00 p.m.",
+          "time": "7:00 PM",
           "link": "https://www.moma.org/calendar/events/10702"
         }
       ]
@@ -2240,19 +2240,19 @@
       "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
       "showtimes": [
         {
-          "time": "12:15PM",
+          "time": "12:15 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44598"
         },
         {
-          "time": "3:00PM",
+          "time": "3:00 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44610"
         },
         {
-          "time": "5:45PM",
+          "time": "5:45 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44622"
         },
         {
-          "time": "8:30PM",
+          "time": "8:30 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44636"
         }
       ]
@@ -2264,7 +2264,7 @@
       "letterboxdURL": "https://letterboxd.com/film/bad-boys-1995/",
       "showtimes": [
         {
-          "time": "9:15 pm",
+          "time": "9:15 PM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19290126/"
         }
       ]
@@ -2276,7 +2276,7 @@
       "letterboxdURL": "https://letterboxd.com/film/brazil/",
       "showtimes": [
         {
-          "time": "5:15PM",
+          "time": "5:15 PM",
           "link": "https://my.filmforum.org/brazil-gilliam/45277"
         }
       ]
@@ -2312,7 +2312,7 @@
       "letterboxdURL": "https://letterboxd.com/film/clockwatchers/",
       "showtimes": [
         {
-          "time": "7:00 pm",
+          "time": "7:00 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19424507/"
         }
       ]
@@ -2324,7 +2324,7 @@
       "letterboxdURL": "https://letterboxd.com/film/hamlet-at-elsinore/",
       "showtimes": [
         {
-          "time": "7:00 p.m.",
+          "time": "7:00 PM",
           "link": "https://www.moma.org/calendar/events/10784"
         }
       ]
@@ -2336,7 +2336,7 @@
       "letterboxdURL": "https://letterboxd.com/film/high-and-low/",
       "showtimes": [
         {
-          "time": "8:10PM",
+          "time": "8:10 PM",
           "link": "https://my.filmforum.org/high-and-low-kurosawa/45313"
         }
       ]
@@ -2348,7 +2348,7 @@
       "letterboxdURL": "https://letterboxd.com/film/his-motorbike-her-island/",
       "showtimes": [
         {
-          "time": "9:30pm",
+          "time": "9:30 PM",
           "link": "https://tickets.bam.org/production/?pid=49348"
         }
       ]
@@ -2360,7 +2360,7 @@
       "letterboxdURL": "https://letterboxd.com/film/husbands/",
       "showtimes": [
         {
-          "time": "6:30PM",
+          "time": "6:30 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6553?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
@@ -2384,7 +2384,7 @@
       "letterboxdURL": "https://letterboxd.com/film/killer-of-sheep/",
       "showtimes": [
         {
-          "time": "5:15pm",
+          "time": "5:15 PM",
           "link": "https://tickets.bam.org/production/?pid=49359"
         }
       ]
@@ -2432,7 +2432,7 @@
       "letterboxdURL": "https://letterboxd.com/film/ran-1985/",
       "showtimes": [
         {
-          "time": "2:00PM",
+          "time": "2:00 PM",
           "link": "https://my.filmforum.org/ran-kuro/45311"
         }
       ]
@@ -2456,7 +2456,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-last-valley/",
       "showtimes": [
         {
-          "time": "4:00 p.m.",
+          "time": "4:00 PM",
           "link": "https://www.moma.org/calendar/events/10704"
         }
       ]
@@ -2468,23 +2468,23 @@
       "letterboxdURL": "https://letterboxd.com/film/who-killed-teddy-bear/",
       "showtimes": [
         {
-          "time": "12:30PM",
+          "time": "12:30 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44893"
         },
         {
-          "time": "2:40PM",
+          "time": "2:40 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44894"
         },
         {
-          "time": "4:50PM",
+          "time": "4:50 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44895"
         },
         {
-          "time": "7:00PM",
+          "time": "7:00 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44896"
         },
         {
-          "time": "9:10PM",
+          "time": "9:10 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44897"
         }
       ]
@@ -2496,7 +2496,7 @@
       "letterboxdURL": "https://letterboxd.com/film/a-woman-is-a-woman/",
       "showtimes": [
         {
-          "time": "7:30pm",
+          "time": "7:30 PM",
           "link": "https://tickets.bam.org/production/?pid=49351"
         }
       ]
@@ -2508,19 +2508,19 @@
       "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
       "showtimes": [
         {
-          "time": "12:15PM",
+          "time": "12:15 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44599"
         },
         {
-          "time": "3:00PM",
+          "time": "3:00 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44611"
         },
         {
-          "time": "5:45PM",
+          "time": "5:45 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44623"
         },
         {
-          "time": "8:30PM",
+          "time": "8:30 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44637"
         }
       ]
@@ -2580,7 +2580,7 @@
       "letterboxdURL": "https://letterboxd.com/film/central-park/",
       "showtimes": [
         {
-          "time": "4pm",
+          "time": "4:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49368"
         }
       ]
@@ -2592,7 +2592,7 @@
       "letterboxdURL": "https://letterboxd.com/film/christiane-f/",
       "showtimes": [
         {
-          "time": "9:45PM",
+          "time": "9:45 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6577?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
@@ -2604,7 +2604,7 @@
       "letterboxdURL": "https://letterboxd.com/film/punchline/",
       "showtimes": [
         {
-          "time": "8:45 pm",
+          "time": "8:45 PM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19216300/"
         }
       ]
@@ -2616,7 +2616,7 @@
       "letterboxdURL": "https://letterboxd.com/film/rashomon/",
       "showtimes": [
         {
-          "time": "1:30PM",
+          "time": "1:30 PM",
           "link": "https://my.filmforum.org/rashomon-kurosawa/45318"
         }
       ]
@@ -2628,7 +2628,7 @@
       "letterboxdURL": "https://letterboxd.com/film/seven-samurai/",
       "showtimes": [
         {
-          "time": "6:30PM",
+          "time": "6:30 PM",
           "link": "https://my.filmforum.org/seven-samurai-kurosawa/45316"
         }
       ]
@@ -2640,7 +2640,7 @@
       "letterboxdURL": "https://letterboxd.com/film/stray-dog/",
       "showtimes": [
         {
-          "time": "3:40PM",
+          "time": "3:40 PM",
           "link": "https://my.filmforum.org/stray-dog-kurosawa/45321"
         }
       ]
@@ -2664,7 +2664,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-last-valley/",
       "showtimes": [
         {
-          "time": "6:30 p.m.",
+          "time": "6:30 PM",
           "link": "https://www.moma.org/calendar/events/10704"
         }
       ]
@@ -2676,7 +2676,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-loss-of-sexual-innocence/",
       "showtimes": [
         {
-          "time": "5:00PM",
+          "time": "5:00 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6572?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
@@ -2688,7 +2688,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-naked-prey/",
       "showtimes": [
         {
-          "time": "9:30 pm",
+          "time": "9:30 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/18879261/"
         }
       ]
@@ -2736,7 +2736,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-wilby-conspiracy/",
       "showtimes": [
         {
-          "time": "4:00 p.m.",
+          "time": "4:00 PM",
           "link": "https://www.moma.org/calendar/events/10785"
         }
       ]
@@ -2748,23 +2748,23 @@
       "letterboxdURL": "https://letterboxd.com/film/who-killed-teddy-bear/",
       "showtimes": [
         {
-          "time": "12:30PM",
+          "time": "12:30 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44898"
         },
         {
-          "time": "2:40PM",
+          "time": "2:40 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44899"
         },
         {
-          "time": "4:50PM",
+          "time": "4:50 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44900"
         },
         {
-          "time": "7:00PM",
+          "time": "7:00 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44901"
         },
         {
-          "time": "9:10PM",
+          "time": "9:10 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44902"
         }
       ]
@@ -2776,7 +2776,7 @@
       "letterboxdURL": "https://letterboxd.com/film/withnail-and-i/",
       "showtimes": [
         {
-          "time": "9:30pm",
+          "time": "9:30 PM",
           "link": "https://tickets.bam.org/production/?pid=49362"
         }
       ]
@@ -2788,7 +2788,7 @@
       "letterboxdURL": "https://letterboxd.com/film/12-monkeys/",
       "showtimes": [
         {
-          "time": "11:55 pm",
+          "time": "11:55 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19292668/"
         }
       ]
@@ -2800,19 +2800,19 @@
       "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
       "showtimes": [
         {
-          "time": "12:15PM",
+          "time": "12:15 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44600"
         },
         {
-          "time": "3:00PM",
+          "time": "3:00 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44612"
         },
         {
-          "time": "5:45PM",
+          "time": "5:45 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44624"
         },
         {
-          "time": "8:30PM",
+          "time": "8:30 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44638"
         }
       ]
@@ -2836,7 +2836,7 @@
       "letterboxdURL": "https://letterboxd.com/film/get-carter/",
       "showtimes": [
         {
-          "time": "6:30 p.m.",
+          "time": "6:30 PM",
           "link": "https://www.moma.org/calendar/events/10707"
         }
       ]
@@ -2860,7 +2860,7 @@
       "letterboxdURL": "https://letterboxd.com/film/irma-vep/",
       "showtimes": [
         {
-          "time": "1:00PM",
+          "time": "1:00 PM",
           "link": "https://my.filmforum.org/irma-vep-wia/44962"
         }
       ]
@@ -2872,7 +2872,7 @@
       "letterboxdURL": "https://letterboxd.com/film/ivans-childhood/",
       "showtimes": [
         {
-          "time": "5pm",
+          "time": "5:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49375"
         }
       ]
@@ -2884,7 +2884,7 @@
       "letterboxdURL": "https://letterboxd.com/film/lady-snowblood/",
       "showtimes": [
         {
-          "time": "6:00PM",
+          "time": "6:00 PM",
           "link": "https://my.filmforum.org/lady-snowblood-wia/44975"
         }
       ]
@@ -2896,7 +2896,7 @@
       "letterboxdURL": "https://letterboxd.com/film/mixed-blood/",
       "showtimes": [
         {
-          "time": "7:15PM",
+          "time": "7:15 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6551?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
@@ -2908,7 +2908,7 @@
       "letterboxdURL": "https://letterboxd.com/film/pulp/",
       "showtimes": [
         {
-          "time": "4:00 p.m.",
+          "time": "4:00 PM",
           "link": "https://www.moma.org/calendar/events/10705"
         }
       ]
@@ -2920,7 +2920,7 @@
       "letterboxdURL": "https://letterboxd.com/film/stalker-2020/",
       "showtimes": [
         {
-          "time": "7:15pm",
+          "time": "7:15 PM",
           "link": "https://tickets.bam.org/production/?pid=49378"
         }
       ]
@@ -2968,7 +2968,7 @@
       "letterboxdURL": "https://letterboxd.com/film/12-monkeys/",
       "showtimes": [
         {
-          "time": "11:55 pm",
+          "time": "11:55 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19292669/"
         }
       ]
@@ -2980,7 +2980,7 @@
       "letterboxdURL": "https://letterboxd.com/film/a-goofy-movie-1995/",
       "showtimes": [
         {
-          "time": "11:00 am",
+          "time": "11:00 AM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19292681/"
         }
       ]
@@ -2992,7 +2992,7 @@
       "letterboxdURL": "https://letterboxd.com/film/alfie/",
       "showtimes": [
         {
-          "time": "4:00 p.m.",
+          "time": "4:00 PM",
           "link": "https://www.moma.org/calendar/events/10700"
         }
       ]
@@ -3004,7 +3004,7 @@
       "letterboxdURL": "https://letterboxd.com/film/aliens/",
       "showtimes": [
         {
-          "time": "7:50PM",
+          "time": "7:50 PM",
           "link": "https://my.filmforum.org/aliens-wia/44981"
         }
       ]
@@ -3016,19 +3016,19 @@
       "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
       "showtimes": [
         {
-          "time": "12:15PM",
+          "time": "12:15 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44601"
         },
         {
-          "time": "3:00PM",
+          "time": "3:00 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44647"
         },
         {
-          "time": "5:45PM",
+          "time": "5:45 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44625"
         },
         {
-          "time": "8:30PM",
+          "time": "8:30 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44639"
         }
       ]
@@ -3040,7 +3040,7 @@
       "letterboxdURL": "https://letterboxd.com/film/educating-rita/",
       "showtimes": [
         {
-          "time": "1:30 p.m.",
+          "time": "1:30 PM",
           "link": "https://www.moma.org/calendar/events/10708"
         }
       ]
@@ -3052,7 +3052,7 @@
       "letterboxdURL": "https://letterboxd.com/film/irma-vep/",
       "showtimes": [
         {
-          "time": "3:10PM",
+          "time": "3:10 PM",
           "link": "https://my.filmforum.org/irma-vep-wia/44963"
         }
       ]
@@ -3064,7 +3064,7 @@
       "letterboxdURL": "https://letterboxd.com/film/mixed-blood/",
       "showtimes": [
         {
-          "time": "9:45PM",
+          "time": "9:45 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6556?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
@@ -3076,7 +3076,7 @@
       "letterboxdURL": "https://letterboxd.com/film/muriels-wedding/",
       "showtimes": [
         {
-          "time": "12:00 pm",
+          "time": "12:00 PM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19290128/"
         }
       ]
@@ -3100,7 +3100,7 @@
       "letterboxdURL": "https://letterboxd.com/film/solaris/",
       "showtimes": [
         {
-          "time": "7:15pm",
+          "time": "7:15 PM",
           "link": "https://tickets.bam.org/production/?pid=49387"
         }
       ]
@@ -3136,7 +3136,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-italian-job/",
       "showtimes": [
         {
-          "time": "6:30 p.m.",
+          "time": "6:30 PM",
           "link": "https://www.moma.org/calendar/events/10709"
         }
       ]
@@ -3148,7 +3148,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-sacrifice-2022/",
       "showtimes": [
         {
-          "time": "1:30pm",
+          "time": "1:30 PM",
           "link": "https://tickets.bam.org/production/?pid=49381"
         }
       ]
@@ -3172,7 +3172,7 @@
       "letterboxdURL": "https://letterboxd.com/film/a-goofy-movie-1995/",
       "showtimes": [
         {
-          "time": "11:00 am",
+          "time": "11:00 AM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19292680/"
         }
       ]
@@ -3184,7 +3184,7 @@
       "letterboxdURL": "https://letterboxd.com/film/a-touch-of-zen/",
       "showtimes": [
         {
-          "time": "7:00PM",
+          "time": "7:00 PM",
           "link": "https://my.filmforum.org/a-touch-of-zen-wia/44993"
         }
       ]
@@ -3196,19 +3196,19 @@
       "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
       "showtimes": [
         {
-          "time": "12:15PM",
+          "time": "12:15 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44602"
         },
         {
-          "time": "3:00PM",
+          "time": "3:00 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44648"
         },
         {
-          "time": "5:45PM",
+          "time": "5:45 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44626"
         },
         {
-          "time": "8:30PM",
+          "time": "8:30 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44640"
         }
       ]
@@ -3220,7 +3220,7 @@
       "letterboxdURL": "https://letterboxd.com/film/andrei-rublev/",
       "showtimes": [
         {
-          "time": "3:50pm",
+          "time": "3:50 PM",
           "link": "https://tickets.bam.org/production/?pid=49393"
         }
       ]
@@ -3232,7 +3232,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-music-room/",
       "showtimes": [
         {
-          "time": "9:00PM",
+          "time": "9:00 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6583?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
@@ -3244,7 +3244,7 @@
       "letterboxdURL": "https://letterboxd.com/film/forty-guns/",
       "showtimes": [
         {
-          "time": "5:10PM",
+          "time": "5:10 PM",
           "link": "https://my.filmforum.org/forty-guns-wia/44989"
         }
       ]
@@ -3256,7 +3256,7 @@
       "letterboxdURL": "https://letterboxd.com/film/get-carter/",
       "showtimes": [
         {
-          "time": "1:30 p.m.",
+          "time": "1:30 PM",
           "link": "https://www.moma.org/calendar/events/10707"
         }
       ]
@@ -3268,7 +3268,7 @@
       "letterboxdURL": "https://letterboxd.com/film/husbands/",
       "showtimes": [
         {
-          "time": "3:00PM",
+          "time": "3:00 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6557?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
@@ -3280,7 +3280,7 @@
       "letterboxdURL": "https://letterboxd.com/film/johnny-guitar/",
       "showtimes": [
         {
-          "time": "12:15PM",
+          "time": "12:15 PM",
           "link": "https://my.filmforum.org/johnny-guitar-wia/44983"
         }
       ]
@@ -3304,7 +3304,7 @@
       "letterboxdURL": "https://letterboxd.com/film/mirror-2017/",
       "showtimes": [
         {
-          "time": "1:30pm",
+          "time": "1:30 PM",
           "link": "https://tickets.bam.org/production/?pid=49390"
         }
       ]
@@ -3328,7 +3328,7 @@
       "letterboxdURL": "https://letterboxd.com/film/pulp/",
       "showtimes": [
         {
-          "time": "4:00 p.m.",
+          "time": "4:00 PM",
           "link": "https://www.moma.org/calendar/events/10705"
         }
       ]
@@ -3352,7 +3352,7 @@
       "letterboxdURL": "https://letterboxd.com/film/solaris/",
       "showtimes": [
         {
-          "time": "7:25pm",
+          "time": "7:25 PM",
           "link": "https://tickets.bam.org/production/?pid=49387"
         }
       ]
@@ -3388,19 +3388,19 @@
       "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
       "showtimes": [
         {
-          "time": "12:15PM",
+          "time": "12:15 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44603"
         },
         {
-          "time": "3:00PM",
+          "time": "3:00 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44613"
         },
         {
-          "time": "5:45PM",
+          "time": "5:45 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44627"
         },
         {
-          "time": "8:30PM",
+          "time": "8:30 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44641"
         }
       ]
@@ -3412,7 +3412,7 @@
       "letterboxdURL": "https://letterboxd.com/film/children-of-men/",
       "showtimes": [
         {
-          "time": "4:00 p.m.",
+          "time": "4:00 PM",
           "link": "https://www.moma.org/calendar/events/10710"
         }
       ]
@@ -3424,7 +3424,7 @@
       "letterboxdURL": "https://letterboxd.com/film/gun-crazy/",
       "showtimes": [
         {
-          "time": "12:45PM",
+          "time": "12:45 PM",
           "link": "https://my.filmforum.org/gun-crazy-wia/44995"
         }
       ]
@@ -3436,7 +3436,7 @@
       "letterboxdURL": "https://letterboxd.com/film/ivans-childhood/",
       "showtimes": [
         {
-          "time": "7pm",
+          "time": "7:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49375"
         }
       ]
@@ -3448,7 +3448,7 @@
       "letterboxdURL": "https://letterboxd.com/film/johnny-guitar/",
       "showtimes": [
         {
-          "time": "5:45PM",
+          "time": "5:45 PM",
           "link": "https://my.filmforum.org/johnny-guitar-wia/44985"
         }
       ]
@@ -3460,7 +3460,7 @@
       "letterboxdURL": "https://letterboxd.com/film/kriemhilds-revenge/",
       "showtimes": [
         {
-          "time": "8:00PM",
+          "time": "8:00 PM",
           "link": "https://my.filmforum.org/kriemhilds-revenge-wia/44998"
         }
       ]
@@ -3472,7 +3472,7 @@
       "letterboxdURL": "https://letterboxd.com/film/night-train-to-terror/",
       "showtimes": [
         {
-          "time": "9:15 pm",
+          "time": "9:15 PM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19292415/"
         }
       ]
@@ -3496,7 +3496,7 @@
       "letterboxdURL": "https://letterboxd.com/film/nostalghia/",
       "showtimes": [
         {
-          "time": "9:15pm",
+          "time": "9:15 PM",
           "link": "https://tickets.bam.org/production/?pid=49396"
         }
       ]
@@ -3544,7 +3544,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-wilby-conspiracy/",
       "showtimes": [
         {
-          "time": "6:30 p.m.",
+          "time": "6:30 PM",
           "link": "https://www.moma.org/calendar/events/10785"
         }
       ]
@@ -3556,7 +3556,7 @@
       "letterboxdURL": "https://letterboxd.com/film/aliens/",
       "showtimes": [
         {
-          "time": "5:50PM",
+          "time": "5:50 PM",
           "link": "https://my.filmforum.org/aliens-wia/44982"
         }
       ]
@@ -3568,19 +3568,19 @@
       "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
       "showtimes": [
         {
-          "time": "12:15PM",
+          "time": "12:15 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44604"
         },
         {
-          "time": "3:00PM",
+          "time": "3:00 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44614"
         },
         {
-          "time": "5:45PM",
+          "time": "5:45 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44628"
         },
         {
-          "time": "8:30PM",
+          "time": "8:30 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44642"
         }
       ]
@@ -3604,7 +3604,7 @@
       "letterboxdURL": "https://letterboxd.com/film/children-of-men/",
       "showtimes": [
         {
-          "time": "7:00 p.m.",
+          "time": "7:00 PM",
           "link": "https://www.moma.org/calendar/events/10710"
         }
       ]
@@ -3616,7 +3616,7 @@
       "letterboxdURL": "https://letterboxd.com/film/drive/",
       "showtimes": [
         {
-          "time": "9:15 pm",
+          "time": "9:15 PM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19483865/"
         }
       ]
@@ -3628,7 +3628,7 @@
       "letterboxdURL": "https://letterboxd.com/film/ghost-in-the-shell/",
       "showtimes": [
         {
-          "time": "8:50PM",
+          "time": "8:50 PM",
           "link": "https://my.filmforum.org/ghost-in-the-shell-wia/44999"
         }
       ]
@@ -3652,7 +3652,7 @@
       "letterboxdURL": "https://letterboxd.com/film/mighty-morphin-power-rangers-the-movie/",
       "showtimes": [
         {
-          "time": "9:15 pm",
+          "time": "9:15 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19679076/"
         }
       ]
@@ -3688,7 +3688,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-romantic-englishwoman/",
       "showtimes": [
         {
-          "time": "4:00 p.m.",
+          "time": "4:00 PM",
           "link": "https://www.moma.org/calendar/events/10703"
         }
       ]
@@ -3700,7 +3700,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-sacrifice-2022/",
       "showtimes": [
         {
-          "time": "5pm",
+          "time": "5:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49381"
         }
       ]
@@ -3712,7 +3712,7 @@
       "letterboxdURL": "https://letterboxd.com/film/aliens/",
       "showtimes": [
         {
-          "time": "1:00PM",
+          "time": "1:00 PM",
           "link": "https://my.filmforum.org/aliens-wia/44979"
         }
       ]
@@ -3724,19 +3724,19 @@
       "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
       "showtimes": [
         {
-          "time": "12:15PM",
+          "time": "12:15 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44605"
         },
         {
-          "time": "3:00PM",
+          "time": "3:00 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44615"
         },
         {
-          "time": "5:45PM",
+          "time": "5:45 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44629"
         },
         {
-          "time": "8:30PM",
+          "time": "8:30 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44643"
         }
       ]
@@ -3748,7 +3748,7 @@
       "letterboxdURL": "https://letterboxd.com/film/andrei-rublev/",
       "showtimes": [
         {
-          "time": "7pm",
+          "time": "7:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49393"
         }
       ]
@@ -3760,7 +3760,7 @@
       "letterboxdURL": "https://letterboxd.com/film/cleopatra-jones/",
       "showtimes": [
         {
-          "time": "4:00PM",
+          "time": "4:00 PM",
           "link": "https://my.filmforum.org/cleopatra-jones-wia/45000"
         }
       ]
@@ -3772,7 +3772,7 @@
       "letterboxdURL": "https://letterboxd.com/film/educating-rita/",
       "showtimes": [
         {
-          "time": "7:00 p.m.",
+          "time": "7:00 PM",
           "link": "https://www.moma.org/calendar/events/10708"
         }
       ]
@@ -3784,7 +3784,7 @@
       "letterboxdURL": "https://letterboxd.com/film/forty-guns/",
       "showtimes": [
         {
-          "time": "6:00PM",
+          "time": "6:00 PM",
           "link": "https://my.filmforum.org/forty-guns-wia/44990"
         }
       ]
@@ -3796,7 +3796,7 @@
       "letterboxdURL": "https://letterboxd.com/film/hannah-and-her-sisters/",
       "showtimes": [
         {
-          "time": "4:00 p.m.",
+          "time": "4:00 PM",
           "link": "https://www.moma.org/calendar/events/10711"
         }
       ]
@@ -3808,7 +3808,7 @@
       "letterboxdURL": "https://letterboxd.com/film/leaving-las-vegas/",
       "showtimes": [
         {
-          "time": "9:30 pm",
+          "time": "9:30 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19292689/"
         }
       ]
@@ -3820,7 +3820,7 @@
       "letterboxdURL": "https://letterboxd.com/film/nostalghia/",
       "showtimes": [
         {
-          "time": "4:30pm",
+          "time": "4:30 PM",
           "link": "https://tickets.bam.org/production/?pid=49396"
         }
       ]
@@ -3832,7 +3832,7 @@
       "letterboxdURL": "https://letterboxd.com/film/showgirls/",
       "showtimes": [
         {
-          "time": "8:45 pm",
+          "time": "8:45 PM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19290135/"
         }
       ]
@@ -3880,7 +3880,7 @@
       "letterboxdURL": "https://letterboxd.com/film/a-touch-of-zen/",
       "showtimes": [
         {
-          "time": "12:15PM",
+          "time": "12:15 PM",
           "link": "https://my.filmforum.org/a-touch-of-zen-wia/44991"
         }
       ]
@@ -3892,19 +3892,19 @@
       "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
       "showtimes": [
         {
-          "time": "12:15PM",
+          "time": "12:15 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44606"
         },
         {
-          "time": "3:00PM",
+          "time": "3:00 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44616"
         },
         {
-          "time": "5:45PM",
+          "time": "5:45 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44630"
         },
         {
-          "time": "8:30PM",
+          "time": "8:30 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44644"
         }
       ]
@@ -3916,7 +3916,7 @@
       "letterboxdURL": "https://letterboxd.com/film/blue-steel-1990/",
       "showtimes": [
         {
-          "time": "8:35PM",
+          "time": "8:35 PM",
           "link": "https://my.filmforum.org/blue-steel-wia/45007"
         }
       ]
@@ -3928,7 +3928,7 @@
       "letterboxdURL": "https://letterboxd.com/film/cannibal-hookers/",
       "showtimes": [
         {
-          "time": "9:30 pm",
+          "time": "9:30 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19200826/"
         }
       ]
@@ -3940,7 +3940,7 @@
       "letterboxdURL": "https://letterboxd.com/film/cleopatra-jones/",
       "showtimes": [
         {
-          "time": "6:35PM",
+          "time": "6:35 PM",
           "link": "https://my.filmforum.org/cleopatra-jones-wia/45001"
         }
       ]
@@ -3964,7 +3964,7 @@
       "letterboxdURL": "https://letterboxd.com/film/mirror-2017/",
       "showtimes": [
         {
-          "time": "4:30pm",
+          "time": "4:30 PM",
           "link": "https://tickets.bam.org/production/?pid=49390"
         }
       ]
@@ -3976,7 +3976,7 @@
       "letterboxdURL": "https://letterboxd.com/film/stalker-2020/",
       "showtimes": [
         {
-          "time": "7pm",
+          "time": "7:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49378"
         }
       ]
@@ -4024,7 +4024,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-italian-job/",
       "showtimes": [
         {
-          "time": "4:00 p.m.",
+          "time": "4:00 PM",
           "link": "https://www.moma.org/calendar/events/10709"
         }
       ]
@@ -4036,7 +4036,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-quiet-american/",
       "showtimes": [
         {
-          "time": "6:30 p.m.",
+          "time": "6:30 PM",
           "link": "https://www.moma.org/calendar/events/10712"
         }
       ]
@@ -4048,7 +4048,7 @@
       "letterboxdURL": "https://letterboxd.com/film/a-tale-of-summer/",
       "showtimes": [
         {
-          "time": "9pm",
+          "time": "9:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49512"
         }
       ]
@@ -4060,7 +4060,7 @@
       "letterboxdURL": "https://letterboxd.com/film/aliens/",
       "showtimes": [
         {
-          "time": "12:50PM",
+          "time": "12:50 PM",
           "link": "https://my.filmforum.org/aliens-wia/44980"
         }
       ]
@@ -4072,7 +4072,7 @@
       "letterboxdURL": "https://letterboxd.com/film/blue-steel-1990/",
       "showtimes": [
         {
-          "time": "6:00PM",
+          "time": "6:00 PM",
           "link": "https://my.filmforum.org/blue-steel-wia/45008"
         }
       ]
@@ -4084,7 +4084,7 @@
       "letterboxdURL": "https://letterboxd.com/film/dirty-rotten-scoundrels/",
       "showtimes": [
         {
-          "time": "7:00 p.m.",
+          "time": "7:00 PM",
           "link": "https://www.moma.org/calendar/events/10714"
         }
       ]
@@ -4096,7 +4096,7 @@
       "letterboxdURL": "https://letterboxd.com/film/lady-snowblood/",
       "showtimes": [
         {
-          "time": "3:50PM",
+          "time": "3:50 PM",
           "link": "https://my.filmforum.org/lady-snowblood-wia/44972"
         }
       ]
@@ -4108,7 +4108,7 @@
       "letterboxdURL": "https://letterboxd.com/film/summer-1993/",
       "showtimes": [
         {
-          "time": "7pm",
+          "time": "7:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49509"
         }
       ]
@@ -4120,7 +4120,7 @@
       "letterboxdURL": "https://letterboxd.com/film/summer-with-monika/",
       "showtimes": [
         {
-          "time": "5pm",
+          "time": "5:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49506"
         }
       ]
@@ -4132,7 +4132,7 @@
       "letterboxdURL": "https://letterboxd.com/film/terminator-2-judgment-day/",
       "showtimes": [
         {
-          "time": "8:10PM",
+          "time": "8:10 PM",
           "link": "https://my.filmforum.org/terminator-2-wia/45009"
         }
       ]
@@ -4144,7 +4144,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-addiction/",
       "showtimes": [
         {
-          "time": "11:55 pm",
+          "time": "11:55 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19292691/"
         }
       ]
@@ -4176,7 +4176,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-wrong-box/",
       "showtimes": [
         {
-          "time": "4:00 p.m.",
+          "time": "4:00 PM",
           "link": "https://www.moma.org/calendar/events/10713"
         }
       ]
@@ -4188,7 +4188,7 @@
       "letterboxdURL": "https://letterboxd.com/film/a-brighter-summer-day/",
       "showtimes": [
         {
-          "time": "4pm",
+          "time": "4:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49518"
         }
       ]
@@ -4200,7 +4200,7 @@
       "letterboxdURL": "https://letterboxd.com/film/a-touch-of-zen/",
       "showtimes": [
         {
-          "time": "2:00PM",
+          "time": "2:00 PM",
           "link": "https://my.filmforum.org/a-touch-of-zen-wia/44994"
         }
       ]
@@ -4212,7 +4212,7 @@
       "letterboxdURL": "https://letterboxd.com/film/aftersun-2022/",
       "showtimes": [
         {
-          "time": "8:30pm",
+          "time": "8:30 PM",
           "link": "https://tickets.bam.org/production/?pid=49520"
         }
       ]
@@ -4224,7 +4224,7 @@
       "letterboxdURL": "https://letterboxd.com/film/bloody-mama/",
       "showtimes": [
         {
-          "time": "12:15PM",
+          "time": "12:15 PM",
           "link": "https://my.filmforum.org/bloody-mama-wia/45013"
         }
       ]
@@ -4236,7 +4236,7 @@
       "letterboxdURL": "https://letterboxd.com/film/dirty-rotten-scoundrels/",
       "showtimes": [
         {
-          "time": "1:30 p.m.",
+          "time": "1:30 PM",
           "link": "https://www.moma.org/calendar/events/10714"
         }
       ]
@@ -4248,7 +4248,7 @@
       "letterboxdURL": "https://letterboxd.com/film/hackers/",
       "showtimes": [
         {
-          "time": "11:15 am",
+          "time": "11:15 AM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19292703/"
         }
       ]
@@ -4260,7 +4260,7 @@
       "letterboxdURL": "https://letterboxd.com/film/hearts-of-darkness-a-filmmakers-apocalypse/",
       "showtimes": [
         {
-          "time": "11:00 am",
+          "time": "11:00 AM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19570446/"
         }
       ]
@@ -4272,7 +4272,7 @@
       "letterboxdURL": "https://letterboxd.com/film/mad-max-fury-road-2015/",
       "showtimes": [
         {
-          "time": "8:30PM",
+          "time": "8:30 PM",
           "link": "https://my.filmforum.org/mad-max-fury-road-wia/45017"
         }
       ]
@@ -4284,7 +4284,7 @@
       "letterboxdURL": "https://letterboxd.com/film/terminator-2-judgment-day/",
       "showtimes": [
         {
-          "time": "5:30PM",
+          "time": "5:30 PM",
           "link": "https://my.filmforum.org/terminator-2-wia/45010"
         }
       ]
@@ -4296,7 +4296,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-addiction/",
       "showtimes": [
         {
-          "time": "11:55 pm",
+          "time": "11:55 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19292700/"
         }
       ]
@@ -4328,7 +4328,7 @@
       "letterboxdURL": "https://letterboxd.com/film/to-wong-foo-thanks-for-everything-julie-newmar/",
       "showtimes": [
         {
-          "time": "12:00 pm",
+          "time": "12:00 PM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19290153/"
         }
       ]
@@ -4340,7 +4340,7 @@
       "letterboxdURL": "https://letterboxd.com/film/youth-2015/",
       "showtimes": [
         {
-          "time": "4:00 p.m.",
+          "time": "4:00 PM",
           "link": "https://www.moma.org/calendar/events/10715"
         }
       ]
@@ -4352,7 +4352,7 @@
       "letterboxdURL": "https://letterboxd.com/film/bonnie-and-clyde/",
       "showtimes": [
         {
-          "time": "2:20PM",
+          "time": "2:20 PM",
           "link": "https://my.filmforum.org/bonnie-and-clyde-wia/45019"
         }
       ]
@@ -4364,7 +4364,7 @@
       "letterboxdURL": "https://letterboxd.com/film/call-me/",
       "showtimes": [
         {
-          "time": "3:30pm",
+          "time": "3:30 PM",
           "link": "https://tickets.bam.org/production/?pid=49526"
         }
       ]
@@ -4376,7 +4376,7 @@
       "letterboxdURL": "https://letterboxd.com/film/forty-guns/",
       "showtimes": [
         {
-          "time": "12:30PM",
+          "time": "12:30 PM",
           "link": "https://my.filmforum.org/forty-guns-wia/44988"
         }
       ]
@@ -4388,7 +4388,7 @@
       "letterboxdURL": "https://letterboxd.com/film/hackers/",
       "showtimes": [
         {
-          "time": "11:15 am",
+          "time": "11:15 AM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19292705/"
         }
       ]
@@ -4400,7 +4400,7 @@
       "letterboxdURL": "https://letterboxd.com/film/hearts-of-darkness-a-filmmakers-apocalypse/",
       "showtimes": [
         {
-          "time": "11:00 am",
+          "time": "11:00 AM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19570447/"
         }
       ]
@@ -4412,7 +4412,7 @@
       "letterboxdURL": "https://letterboxd.com/film/kikujiro/",
       "showtimes": [
         {
-          "time": "6:15pm",
+          "time": "6:15 PM",
           "link": "https://tickets.bam.org/production/?pid=49529"
         }
       ]
@@ -4424,7 +4424,7 @@
       "letterboxdURL": "https://letterboxd.com/film/kill-bill-vol-1/",
       "showtimes": [
         {
-          "time": "4:40PM",
+          "time": "4:40 PM",
           "link": "https://my.filmforum.org/kill-bill-vol-1-wia/45023"
         }
       ]
@@ -4436,7 +4436,7 @@
       "letterboxdURL": "https://letterboxd.com/film/kill-bill-vol-2/",
       "showtimes": [
         {
-          "time": "7:10PM",
+          "time": "7:10 PM",
           "link": "https://my.filmforum.org/kill-bill-vol-2-wia/45025"
         }
       ]
@@ -4468,7 +4468,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-last-summer-of-la-boyita/",
       "showtimes": [
         {
-          "time": "8:45pm",
+          "time": "8:45 PM",
           "link": "https://tickets.bam.org/production/?pid=49532"
         }
       ]
@@ -4480,7 +4480,7 @@
       "letterboxdURL": "https://letterboxd.com/film/to-wong-foo-thanks-for-everything-julie-newmar/",
       "showtimes": [
         {
-          "time": "12:00 pm",
+          "time": "12:00 PM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19290154/"
         }
       ]
@@ -4504,7 +4504,7 @@
       "letterboxdURL": "https://letterboxd.com/film/aftersun-2022/",
       "showtimes": [
         {
-          "time": "5pm",
+          "time": "5:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49520"
         }
       ]
@@ -4516,7 +4516,7 @@
       "letterboxdURL": "https://letterboxd.com/film/breaking-glass/",
       "showtimes": [
         {
-          "time": "9:30 pm",
+          "time": "9:30 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19606023/"
         }
       ]
@@ -4528,7 +4528,7 @@
       "letterboxdURL": "https://letterboxd.com/film/do-the-right-thing/",
       "showtimes": [
         {
-          "time": "9:15pm",
+          "time": "9:15 PM",
           "link": "https://tickets.bam.org/production/?pid=49535"
         }
       ]
@@ -4540,7 +4540,7 @@
       "letterboxdURL": "https://letterboxd.com/film/dragon-inn/",
       "showtimes": [
         {
-          "time": "3:20PM",
+          "time": "3:20 PM",
           "link": "https://my.filmforum.org/dragon-inn-wia/45027"
         }
       ]
@@ -4552,7 +4552,7 @@
       "letterboxdURL": "https://letterboxd.com/film/gun-crazy/",
       "showtimes": [
         {
-          "time": "8:00PM",
+          "time": "8:00 PM",
           "link": "https://my.filmforum.org/gun-crazy-wia/44996"
         }
       ]
@@ -4564,7 +4564,7 @@
       "letterboxdURL": "https://letterboxd.com/film/johnny-guitar/",
       "showtimes": [
         {
-          "time": "1:00PM",
+          "time": "1:00 PM",
           "link": "https://my.filmforum.org/johnny-guitar-wia/44984"
         }
       ]
@@ -4576,7 +4576,7 @@
       "letterboxdURL": "https://letterboxd.com/film/tales-from-the-hood/",
       "showtimes": [
         {
-          "time": "9:15 pm",
+          "time": "9:15 PM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19292197/"
         }
       ]
@@ -4608,7 +4608,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-last-summer-of-la-boyita/",
       "showtimes": [
         {
-          "time": "7:15pm",
+          "time": "7:15 PM",
           "link": "https://tickets.bam.org/production/?pid=49532"
         }
       ]
@@ -4620,7 +4620,7 @@
       "letterboxdURL": "https://letterboxd.com/film/a-tale-of-summer/",
       "showtimes": [
         {
-          "time": "7pm",
+          "time": "7:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49512"
         }
       ]
@@ -4632,7 +4632,7 @@
       "letterboxdURL": "https://letterboxd.com/film/bonnie-and-clyde/",
       "showtimes": [
         {
-          "time": "8:00PM",
+          "time": "8:00 PM",
           "link": "https://my.filmforum.org/bonnie-and-clyde-wia/45020"
         }
       ]
@@ -4644,7 +4644,7 @@
       "letterboxdURL": "https://letterboxd.com/film/gun-crazy/",
       "showtimes": [
         {
-          "time": "6:00PM",
+          "time": "6:00 PM",
           "link": "https://my.filmforum.org/gun-crazy-wia/44997"
         }
       ]
@@ -4656,7 +4656,7 @@
       "letterboxdURL": "https://letterboxd.com/film/its-alive-iii-island-of-the-alive/",
       "showtimes": [
         {
-          "time": "9:15 pm",
+          "time": "9:15 PM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19570443/"
         }
       ]
@@ -4668,7 +4668,7 @@
       "letterboxdURL": "https://letterboxd.com/film/kill-bill-vol-2/",
       "showtimes": [
         {
-          "time": "3:00PM",
+          "time": "3:00 PM",
           "link": "https://my.filmforum.org/kill-bill-vol-2-wia/45024"
         }
       ]
@@ -4680,7 +4680,7 @@
       "letterboxdURL": "https://letterboxd.com/film/mad-max-fury-road-2015/",
       "showtimes": [
         {
-          "time": "12:30PM",
+          "time": "12:30 PM",
           "link": "https://my.filmforum.org/mad-max-fury-road-wia/45016"
         }
       ]
@@ -4692,7 +4692,7 @@
       "letterboxdURL": "https://letterboxd.com/film/summer-1993/",
       "showtimes": [
         {
-          "time": "9:30pm",
+          "time": "9:30 PM",
           "link": "https://tickets.bam.org/production/?pid=49509"
         }
       ]
@@ -4724,7 +4724,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-shadow-1994/",
       "showtimes": [
         {
-          "time": "9:30 pm",
+          "time": "9:30 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19606254/"
         }
       ]
@@ -4736,7 +4736,7 @@
       "letterboxdURL": "https://letterboxd.com/film/blue-steel-1990/",
       "showtimes": [
         {
-          "time": "3:40PM",
+          "time": "3:40 PM",
           "link": "https://my.filmforum.org/blue-steel-wia/45006"
         }
       ]
@@ -4748,7 +4748,7 @@
       "letterboxdURL": "https://letterboxd.com/film/casino/",
       "showtimes": [
         {
-          "time": "8:45 pm",
+          "time": "8:45 PM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19290160/"
         }
       ]
@@ -4760,7 +4760,7 @@
       "letterboxdURL": "https://letterboxd.com/film/fast-times-at-ridgemont-high/",
       "showtimes": [
         {
-          "time": "7:00 pm",
+          "time": "7:00 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19524858/"
         }
       ]
@@ -4772,7 +4772,7 @@
       "letterboxdURL": "https://letterboxd.com/film/filibus/",
       "showtimes": [
         {
-          "time": "6:00PM",
+          "time": "6:00 PM",
           "link": "https://my.filmforum.org/filibus-wia/45121"
         }
       ]
@@ -4796,7 +4796,7 @@
       "letterboxdURL": "https://letterboxd.com/film/kikujiro/",
       "showtimes": [
         {
-          "time": "9pm",
+          "time": "9:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49529"
         }
       ]
@@ -4808,7 +4808,7 @@
       "letterboxdURL": "https://letterboxd.com/film/la-femme-nikita/",
       "showtimes": [
         {
-          "time": "7:50PM",
+          "time": "7:50 PM",
           "link": "https://my.filmforum.org/la-femme-nikita-wia/45031"
         }
       ]
@@ -4820,7 +4820,7 @@
       "letterboxdURL": "https://letterboxd.com/film/lady-snowblood/",
       "showtimes": [
         {
-          "time": "1:00PM",
+          "time": "1:00 PM",
           "link": "https://my.filmforum.org/lady-snowblood-wia/44973"
         }
       ]
@@ -4844,7 +4844,7 @@
       "letterboxdURL": "https://letterboxd.com/film/summer-with-monika/",
       "showtimes": [
         {
-          "time": "7pm",
+          "time": "7:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49506"
         }
       ]
@@ -4888,7 +4888,7 @@
       "letterboxdURL": "https://letterboxd.com/film/bonnie-and-clyde/",
       "showtimes": [
         {
-          "time": "1:00PM",
+          "time": "1:00 PM",
           "link": "https://my.filmforum.org/bonnie-and-clyde-wia/45018"
         }
       ]
@@ -4900,7 +4900,7 @@
       "letterboxdURL": "https://letterboxd.com/film/call-me/",
       "showtimes": [
         {
-          "time": "5pm",
+          "time": "5:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49526"
         }
       ]
@@ -4912,7 +4912,7 @@
       "letterboxdURL": "https://letterboxd.com/film/do-the-right-thing/",
       "showtimes": [
         {
-          "time": "7:45pm",
+          "time": "7:45 PM",
           "link": "https://tickets.bam.org/production/?pid=49535"
         }
       ]
@@ -4924,7 +4924,7 @@
       "letterboxdURL": "https://letterboxd.com/film/irma-vep/",
       "showtimes": [
         {
-          "time": "8:30PM",
+          "time": "8:30 PM",
           "link": "https://my.filmforum.org/irma-vep-wia/44965"
         }
       ]
@@ -4936,7 +4936,7 @@
       "letterboxdURL": "https://letterboxd.com/film/set-it-off/",
       "showtimes": [
         {
-          "time": "6:00PM",
+          "time": "6:00 PM",
           "link": "https://my.filmforum.org/set-it-off-wia/45032"
         }
       ]
@@ -5004,7 +5004,7 @@
       "letterboxdURL": "https://letterboxd.com/film/dragon-inn/",
       "showtimes": [
         {
-          "time": "8:30PM",
+          "time": "8:30 PM",
           "link": "https://my.filmforum.org/dragon-inn-wia/45028"
         }
       ]
@@ -5016,7 +5016,7 @@
       "letterboxdURL": "https://letterboxd.com/film/duck-soup-1933/",
       "showtimes": [
         {
-          "time": "9:30pm",
+          "time": "9:30 PM",
           "link": "https://tickets.bam.org/production/?pid=49619"
         }
       ]
@@ -5028,7 +5028,7 @@
       "letterboxdURL": "https://letterboxd.com/film/la-femme-nikita/",
       "showtimes": [
         {
-          "time": "3:30PM",
+          "time": "3:30 PM",
           "link": "https://my.filmforum.org/la-femme-nikita-wia/45029"
         }
       ]
@@ -5040,7 +5040,7 @@
       "letterboxdURL": "https://letterboxd.com/film/se7en/",
       "showtimes": [
         {
-          "time": "11:55 pm",
+          "time": "11:55 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19292718/"
         }
       ]
@@ -5088,7 +5088,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-great-dictator/",
       "showtimes": [
         {
-          "time": "6:45pm",
+          "time": "6:45 PM",
           "link": "https://tickets.bam.org/production/?pid=49625"
         }
       ]
@@ -5100,7 +5100,7 @@
       "letterboxdURL": "https://letterboxd.com/film/to-be-or-not-to-be-1983/",
       "showtimes": [
         {
-          "time": "4:30pm",
+          "time": "4:30 PM",
           "link": "https://tickets.bam.org/production/?pid=49622"
         }
       ]
@@ -5112,7 +5112,7 @@
       "letterboxdURL": "https://letterboxd.com/film/coffy/",
       "showtimes": [
         {
-          "time": "3:15PM",
+          "time": "3:15 PM",
           "link": "https://my.filmforum.org/coffy-wia/45036"
         }
       ]
@@ -5124,7 +5124,7 @@
       "letterboxdURL": "https://letterboxd.com/film/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/",
       "showtimes": [
         {
-          "time": "4pm",
+          "time": "4:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49631"
         }
       ]
@@ -5136,7 +5136,7 @@
       "letterboxdURL": "https://letterboxd.com/film/fallen-angels/",
       "showtimes": [
         {
-          "time": "11:00 am",
+          "time": "11:00 AM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19292724/"
         }
       ]
@@ -5148,7 +5148,7 @@
       "letterboxdURL": "https://letterboxd.com/film/foxy-brown/",
       "showtimes": [
         {
-          "time": "5:20PM",
+          "time": "5:20 PM",
           "link": "https://my.filmforum.org/foxy-brown-wia/45037"
         }
       ]
@@ -5160,7 +5160,7 @@
       "letterboxdURL": "https://letterboxd.com/film/jackie-brown/",
       "showtimes": [
         {
-          "time": "7:30PM",
+          "time": "7:30 PM",
           "link": "https://my.filmforum.org/jackie-brown-wia/45039"
         }
       ]
@@ -5172,7 +5172,7 @@
       "letterboxdURL": "https://letterboxd.com/film/porco-rosso/",
       "showtimes": [
         {
-          "time": "2pm",
+          "time": "2:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49628"
         }
       ]
@@ -5184,7 +5184,7 @@
       "letterboxdURL": "https://letterboxd.com/film/se7en/",
       "showtimes": [
         {
-          "time": "11:55 pm",
+          "time": "11:55 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19292721/"
         }
       ]
@@ -5208,7 +5208,7 @@
       "letterboxdURL": "https://letterboxd.com/film/starship-troopers/",
       "showtimes": [
         {
-          "time": "6:15pm",
+          "time": "6:15 PM",
           "link": "https://tickets.bam.org/production/?pid=49634"
         }
       ]
@@ -5244,7 +5244,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-african-queen/",
       "showtimes": [
         {
-          "time": "11:00 am",
+          "time": "11:00 AM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19480823/"
         }
       ]
@@ -5256,7 +5256,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-baby-sitters-club/",
       "showtimes": [
         {
-          "time": "12:15 pm",
+          "time": "12:15 PM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19292133/"
         }
       ]
@@ -5268,7 +5268,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-big-doll-house/",
       "showtimes": [
         {
-          "time": "1:00PM",
+          "time": "1:00 PM",
           "link": "https://my.filmforum.org/the-big-doll-house-wia/45034"
         }
       ]
@@ -5292,7 +5292,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-grand-budapest-hotel-2014/",
       "showtimes": [
         {
-          "time": "9pm",
+          "time": "9:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49637"
         }
       ]
@@ -5316,7 +5316,7 @@
       "letterboxdURL": "https://letterboxd.com/film/blackkklansman/",
       "showtimes": [
         {
-          "time": "1:30pm",
+          "time": "1:30 PM",
           "link": "https://tickets.bam.org/production/?pid=49640"
         }
       ]
@@ -5340,7 +5340,7 @@
       "letterboxdURL": "https://letterboxd.com/film/crouching-tiger-hidden-dragon/",
       "showtimes": [
         {
-          "time": "5:30PM",
+          "time": "5:30 PM",
           "link": "https://my.filmforum.org/crouching-tiger-hidden-dragon-wia/45042"
         }
       ]
@@ -5352,7 +5352,7 @@
       "letterboxdURL": "https://letterboxd.com/film/desperate-living/",
       "showtimes": [
         {
-          "time": "9:30pm",
+          "time": "9:30 PM",
           "link": "https://tickets.bam.org/production/?pid=49648"
         }
       ]
@@ -5364,7 +5364,7 @@
       "letterboxdURL": "https://letterboxd.com/film/fallen-angels/",
       "showtimes": [
         {
-          "time": "11:00 am",
+          "time": "11:00 AM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19292725/"
         }
       ]
@@ -5376,7 +5376,7 @@
       "letterboxdURL": "https://letterboxd.com/search/Love%20%26%20Anarchy+1973/",
       "showtimes": [
         {
-          "time": "7pm",
+          "time": "7:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49645"
         }
       ]
@@ -5412,7 +5412,7 @@
       "letterboxdURL": "https://letterboxd.com/film/terminator-2-judgment-day/",
       "showtimes": [
         {
-          "time": "8:00PM",
+          "time": "8:00 PM",
           "link": "https://my.filmforum.org/terminator-2-wia/45011"
         }
       ]
@@ -5424,7 +5424,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-african-queen/",
       "showtimes": [
         {
-          "time": "11:00 am",
+          "time": "11:00 AM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19480824/"
         }
       ]
@@ -5436,7 +5436,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-baby-sitters-club/",
       "showtimes": [
         {
-          "time": "12:15 pm",
+          "time": "12:15 PM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19292134/"
         }
       ]
@@ -5460,7 +5460,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-heroic-trio/",
       "showtimes": [
         {
-          "time": "3:30PM",
+          "time": "3:30 PM",
           "link": "https://my.filmforum.org/the-heroic-trio-wia/45041"
         }
       ]
@@ -5472,7 +5472,7 @@
       "letterboxdURL": "https://letterboxd.com/film/a-touch-of-zen/",
       "showtimes": [
         {
-          "time": "2:50PM",
+          "time": "2:50 PM",
           "link": "https://my.filmforum.org/a-touch-of-zen-wia/44992"
         }
       ]
@@ -5484,7 +5484,7 @@
       "letterboxdURL": "https://letterboxd.com/film/big-bad-mama/",
       "showtimes": [
         {
-          "time": "8:20PM",
+          "time": "8:20 PM",
           "link": "https://my.filmforum.org/big-bad-mama-wia/45043"
         }
       ]
@@ -5496,7 +5496,7 @@
       "letterboxdURL": "https://letterboxd.com/film/bloody-mama/",
       "showtimes": [
         {
-          "time": "6:20PM",
+          "time": "6:20 PM",
           "link": "https://my.filmforum.org/bloody-mama-wia/45014"
         }
       ]
@@ -5508,7 +5508,7 @@
       "letterboxdURL": "https://letterboxd.com/film/duck-soup-1933/",
       "showtimes": [
         {
-          "time": "5pm",
+          "time": "5:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49619"
         }
       ]
@@ -5520,7 +5520,7 @@
       "letterboxdURL": "https://letterboxd.com/film/kill-bill-vol-1/",
       "showtimes": [
         {
-          "time": "12:30PM",
+          "time": "12:30 PM",
           "link": "https://my.filmforum.org/kill-bill-vol-1-wia/45022"
         }
       ]
@@ -5532,7 +5532,7 @@
       "letterboxdURL": "https://letterboxd.com/film/porco-rosso/",
       "showtimes": [
         {
-          "time": "9:15pm",
+          "time": "9:15 PM",
           "link": "https://tickets.bam.org/production/?pid=49628"
         }
       ]
@@ -5568,7 +5568,7 @@
       "letterboxdURL": "https://letterboxd.com/film/to-be-or-not-to-be-1983/",
       "showtimes": [
         {
-          "time": "7pm",
+          "time": "7:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49622"
         }
       ]
@@ -5580,7 +5580,7 @@
       "letterboxdURL": "https://letterboxd.com/film/blonde-venus/",
       "showtimes": [
         {
-          "time": "7:15 pm",
+          "time": "7:15 PM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19676699/"
         }
       ]
@@ -5592,7 +5592,7 @@
       "letterboxdURL": "https://letterboxd.com/film/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/",
       "showtimes": [
         {
-          "time": "9:30pm",
+          "time": "9:30 PM",
           "link": "https://tickets.bam.org/production/?pid=49631"
         }
       ]
@@ -5604,7 +5604,7 @@
       "letterboxdURL": "https://letterboxd.com/film/la-femme-nikita/",
       "showtimes": [
         {
-          "time": "3:30PM",
+          "time": "3:30 PM",
           "link": "https://my.filmforum.org/la-femme-nikita-wia/45030"
         }
       ]
@@ -5616,7 +5616,7 @@
       "letterboxdURL": "https://letterboxd.com/film/lady-snowblood/",
       "showtimes": [
         {
-          "time": "1:00PM",
+          "time": "1:00 PM",
           "link": "https://my.filmforum.org/lady-snowblood-wia/44974"
         }
       ]
@@ -5628,7 +5628,7 @@
       "letterboxdURL": "https://letterboxd.com/film/set-it-off/",
       "showtimes": [
         {
-          "time": "8:30PM",
+          "time": "8:30 PM",
           "link": "https://my.filmforum.org/set-it-off-wia/45033"
         }
       ]
@@ -5664,7 +5664,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-brave-one/",
       "showtimes": [
         {
-          "time": "6:00PM",
+          "time": "6:00 PM",
           "link": "https://my.filmforum.org/the-brave-one-wia/45044"
         }
       ]
@@ -5676,7 +5676,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-grand-budapest-hotel-2014/",
       "showtimes": [
         {
-          "time": "4:30pm",
+          "time": "4:30 PM",
           "link": "https://tickets.bam.org/production/?pid=49637"
         }
       ]
@@ -5688,7 +5688,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-organizer/",
       "showtimes": [
         {
-          "time": "6:45pm",
+          "time": "6:45 PM",
           "link": "https://tickets.bam.org/production/?pid=49652"
         }
       ]
@@ -5700,7 +5700,7 @@
       "letterboxdURL": "https://letterboxd.com/film/blackkklansman/",
       "showtimes": [
         {
-          "time": "4pm",
+          "time": "4:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49640"
         }
       ]
@@ -5724,7 +5724,7 @@
       "letterboxdURL": "https://letterboxd.com/film/hanna/",
       "showtimes": [
         {
-          "time": "5:40PM",
+          "time": "5:40 PM",
           "link": "https://my.filmforum.org/hanna-wia/45049"
         }
       ]
@@ -5736,7 +5736,7 @@
       "letterboxdURL": "https://letterboxd.com/search/Love%20%26%20Anarchy+1973/",
       "showtimes": [
         {
-          "time": "9:30pm",
+          "time": "9:30 PM",
           "link": "https://tickets.bam.org/production/?pid=49645"
         }
       ]
@@ -5748,7 +5748,7 @@
       "letterboxdURL": "https://letterboxd.com/film/ms-45/",
       "showtimes": [
         {
-          "time": "3:15PM",
+          "time": "3:15 PM",
           "link": "https://my.filmforum.org/ms-45-wia/45045"
         }
       ]
@@ -5784,7 +5784,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-big-doll-house/",
       "showtimes": [
         {
-          "time": "1:00PM",
+          "time": "1:00 PM",
           "link": "https://my.filmforum.org/the-big-doll-house-wia/45035"
         }
       ]
@@ -5796,7 +5796,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-hunger-games/",
       "showtimes": [
         {
-          "time": "8:00PM",
+          "time": "8:00 PM",
           "link": "https://my.filmforum.org/the-hunger-games-wia/45048"
         }
       ]
@@ -5808,7 +5808,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-organizer/",
       "showtimes": [
         {
-          "time": "6:45pm",
+          "time": "6:45 PM",
           "link": "https://tickets.bam.org/production/?pid=49652"
         }
       ]
@@ -5820,7 +5820,7 @@
       "letterboxdURL": "https://letterboxd.com/film/desperate-living/",
       "showtimes": [
         {
-          "time": "7pm",
+          "time": "7:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49648"
         }
       ]
@@ -5832,7 +5832,7 @@
       "letterboxdURL": "https://letterboxd.com/film/irma-vep/",
       "showtimes": [
         {
-          "time": "6:00PM",
+          "time": "6:00 PM",
           "link": "https://my.filmforum.org/irma-vep-wia/44966"
         }
       ]
@@ -5844,7 +5844,7 @@
       "letterboxdURL": "https://letterboxd.com/film/jackie-brown/",
       "showtimes": [
         {
-          "time": "1:00PM",
+          "time": "1:00 PM",
           "link": "https://my.filmforum.org/jackie-brown-wia/45038"
         }
       ]
@@ -5856,7 +5856,7 @@
       "letterboxdURL": "https://letterboxd.com/film/ms-45/",
       "showtimes": [
         {
-          "time": "8:10PM",
+          "time": "8:10 PM",
           "link": "https://my.filmforum.org/ms-45-wia/45046"
         }
       ]
@@ -5868,7 +5868,7 @@
       "letterboxdURL": "https://letterboxd.com/film/starship-troopers/",
       "showtimes": [
         {
-          "time": "4:15pm",
+          "time": "4:15 PM",
           "link": "https://tickets.bam.org/production/?pid=49634"
         }
       ]
@@ -5904,7 +5904,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-great-dictator/",
       "showtimes": [
         {
-          "time": "9pm",
+          "time": "9:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49625"
         }
       ]
@@ -5916,7 +5916,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-heroic-trio/",
       "showtimes": [
         {
-          "time": "4:10PM",
+          "time": "4:10 PM",
           "link": "https://my.filmforum.org/the-heroic-trio-wia/45040"
         }
       ]
@@ -5928,7 +5928,7 @@
       "letterboxdURL": "https://letterboxd.com/film/island-of-the-blue-dolphins/",
       "showtimes": [
         {
-          "time": "9:30 pm",
+          "time": "9:30 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19422556/"
         }
       ]
@@ -5940,7 +5940,7 @@
       "letterboxdURL": "https://letterboxd.com/film/escaflowne-the-movie-2000/",
       "showtimes": [
         {
-          "time": "9:30 pm",
+          "time": "9:30 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19676711/"
         }
       ]
@@ -5952,7 +5952,7 @@
       "letterboxdURL": "https://letterboxd.com/film/orlando/",
       "showtimes": [
         {
-          "time": "7:15 pm",
+          "time": "7:15 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19678918/"
         }
       ]
@@ -6132,7 +6132,7 @@
       "letterboxdURL": "https://letterboxd.com/film/2046/",
       "showtimes": [
         {
-          "time": "4:00pm",
+          "time": "4:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27675"
         }
       ]
@@ -6144,7 +6144,7 @@
       "letterboxdURL": "https://letterboxd.com/film/a-river-called-titas/",
       "showtimes": [
         {
-          "time": "3:00pm",
+          "time": "3:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27629"
         }
       ]
@@ -6156,7 +6156,7 @@
       "letterboxdURL": "https://letterboxd.com/film/a-river-called-titas/",
       "showtimes": [
         {
-          "time": "2:20pm",
+          "time": "2:20 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27645"
         }
       ]
@@ -6168,7 +6168,7 @@
       "letterboxdURL": "https://letterboxd.com/film/wet-hot-american-summer/",
       "showtimes": [
         {
-          "time": "7:30pm",
+          "time": "7:30 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27695"
         }
       ]
@@ -6180,7 +6180,7 @@
       "letterboxdURL": "https://letterboxd.com/film/all-about-lily-chou-chou/",
       "showtimes": [
         {
-          "time": "3:20pm",
+          "time": "3:20 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27689"
         }
       ]
@@ -6192,7 +6192,7 @@
       "letterboxdURL": "https://letterboxd.com/film/all-about-lily-chou-chou/",
       "showtimes": [
         {
-          "time": "2:15pm",
+          "time": "2:15 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27745"
         }
       ]
@@ -6204,7 +6204,7 @@
       "letterboxdURL": "https://letterboxd.com/film/all-about-lily-chou-chou/",
       "showtimes": [
         {
-          "time": "12:00pm",
+          "time": "12:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27755"
         }
       ]
@@ -6216,7 +6216,7 @@
       "letterboxdURL": "https://letterboxd.com/film/apocalypse-now-final-cut/",
       "showtimes": [
         {
-          "time": "11:20am",
+          "time": "11:20 AM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27754"
         }
       ]
@@ -6228,7 +6228,7 @@
       "letterboxdURL": "https://letterboxd.com/film/apocalypse-now-redux-2001/",
       "showtimes": [
         {
-          "time": "6:45pm",
+          "time": "6:45 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27700"
         }
       ]
@@ -6240,7 +6240,7 @@
       "letterboxdURL": "https://letterboxd.com/film/apocalypse-now-redux-2001/",
       "showtimes": [
         {
-          "time": "7:00pm",
+          "time": "7:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27749"
         }
       ]
@@ -6252,7 +6252,7 @@
       "letterboxdURL": "https://letterboxd.com/film/battle-royale/",
       "showtimes": [
         {
-          "time": "10:45pm",
+          "time": "10:45 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27633"
         }
       ]
@@ -6264,7 +6264,7 @@
       "letterboxdURL": "https://letterboxd.com/film/battle-royale/",
       "showtimes": [
         {
-          "time": "2:40pm",
+          "time": "2:40 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27650"
         }
       ]
@@ -6276,7 +6276,7 @@
       "letterboxdURL": "https://letterboxd.com/film/belly/",
       "showtimes": [
         {
-          "time": "9:30pm",
+          "time": "9:30 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27591"
         }
       ]
@@ -6288,7 +6288,7 @@
       "letterboxdURL": "https://letterboxd.com/film/belly/",
       "showtimes": [
         {
-          "time": "7:30pm",
+          "time": "7:30 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27652"
         }
       ]
@@ -6300,7 +6300,7 @@
       "letterboxdURL": "https://letterboxd.com/film/belly/",
       "showtimes": [
         {
-          "time": "10:30pm",
+          "time": "10:30 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27582"
         }
       ]
@@ -6312,7 +6312,7 @@
       "letterboxdURL": "https://letterboxd.com/film/better-days-2019/",
       "showtimes": [
         {
-          "time": "3:30pm",
+          "time": "3:30 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27624"
         }
       ]
@@ -6324,7 +6324,7 @@
       "letterboxdURL": "https://letterboxd.com/film/better-days-2019/",
       "showtimes": [
         {
-          "time": "12:00pm",
+          "time": "12:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27625"
         }
       ]
@@ -6336,7 +6336,7 @@
       "letterboxdURL": "https://letterboxd.com/film/better-days-2019/",
       "showtimes": [
         {
-          "time": "9:00pm",
+          "time": "9:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27724"
         }
       ]
@@ -6348,7 +6348,7 @@
       "letterboxdURL": "https://letterboxd.com/film/boyfriends-and-girlfriends/",
       "showtimes": [
         {
-          "time": "11:00am",
+          "time": "11:00 AM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27648"
         }
       ]
@@ -6360,7 +6360,7 @@
       "letterboxdURL": "https://letterboxd.com/film/burst-city/",
       "showtimes": [
         {
-          "time": "10:10pm",
+          "time": "10:10 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27692"
         }
       ]
@@ -6372,7 +6372,7 @@
       "letterboxdURL": "https://letterboxd.com/film/burst-city/",
       "showtimes": [
         {
-          "time": "9:40pm",
+          "time": "9:40 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27713"
         }
       ]
@@ -6384,7 +6384,7 @@
       "letterboxdURL": "https://letterboxd.com/film/clouds-of-sils-maria/",
       "showtimes": [
         {
-          "time": "8:15pm",
+          "time": "8:15 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27635"
         }
       ]
@@ -6396,7 +6396,7 @@
       "letterboxdURL": "https://letterboxd.com/film/clouds-of-sils-maria/",
       "showtimes": [
         {
-          "time": "5:25pm",
+          "time": "5:25 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27644"
         }
       ]
@@ -6408,7 +6408,7 @@
       "letterboxdURL": "https://letterboxd.com/film/cockfighter/",
       "showtimes": [
         {
-          "time": "5:10pm",
+          "time": "5:10 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27748"
         }
       ]
@@ -6420,7 +6420,7 @@
       "letterboxdURL": "https://letterboxd.com/film/cockfighter/",
       "showtimes": [
         {
-          "time": "5:15pm",
+          "time": "5:15 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27769"
         }
       ]
@@ -6432,7 +6432,7 @@
       "letterboxdURL": "https://letterboxd.com/film/come-drink-with-me/",
       "showtimes": [
         {
-          "time": "5:25pm",
+          "time": "5:25 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27694"
         }
       ]
@@ -6444,7 +6444,7 @@
       "letterboxdURL": "https://letterboxd.com/film/come-drink-with-me/",
       "showtimes": [
         {
-          "time": "4:45pm",
+          "time": "4:45 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27699"
         }
       ]
@@ -6456,7 +6456,7 @@
       "letterboxdURL": "https://letterboxd.com/film/days-of-heaven/",
       "showtimes": [
         {
-          "time": "3:20pm",
+          "time": "3:20 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27693"
         }
       ]
@@ -6468,7 +6468,7 @@
       "letterboxdURL": "https://letterboxd.com/film/days-of-heaven/",
       "showtimes": [
         {
-          "time": "2:20pm",
+          "time": "2:20 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27707"
         }
       ]
@@ -6480,7 +6480,7 @@
       "letterboxdURL": "https://letterboxd.com/film/days-of-heaven/",
       "showtimes": [
         {
-          "time": "3:20pm",
+          "time": "3:20 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27735"
         }
       ]
@@ -6492,7 +6492,7 @@
       "letterboxdURL": "https://letterboxd.com/film/days-of-heaven/",
       "showtimes": [
         {
-          "time": "5:10pm",
+          "time": "5:10 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27768"
         }
       ]
@@ -6504,7 +6504,7 @@
       "letterboxdURL": "https://letterboxd.com/film/dilwale-dulhania-le-jayenge/",
       "showtimes": [
         {
-          "time": "7:00pm",
+          "time": "7:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27704"
         }
       ]
@@ -6516,7 +6516,7 @@
       "letterboxdURL": "https://letterboxd.com/film/dilwale-dulhania-le-jayenge/",
       "showtimes": [
         {
-          "time": "4:15pm",
+          "time": "4:15 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27711"
         }
       ]
@@ -6528,7 +6528,7 @@
       "letterboxdURL": "https://letterboxd.com/film/edward-scissorhands/",
       "showtimes": [
         {
-          "time": "9:45pm",
+          "time": "9:45 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27763"
         }
       ]
@@ -6540,7 +6540,7 @@
       "letterboxdURL": "https://letterboxd.com/film/edward-scissorhands/",
       "showtimes": [
         {
-          "time": "2:55pm",
+          "time": "2:55 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27767"
         }
       ]
@@ -6552,7 +6552,7 @@
       "letterboxdURL": "https://letterboxd.com/film/far-from-heaven/",
       "showtimes": [
         {
-          "time": "3:00pm",
+          "time": "3:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27575"
         }
       ]
@@ -6564,7 +6564,7 @@
       "letterboxdURL": "https://letterboxd.com/film/far-from-heaven/",
       "showtimes": [
         {
-          "time": "4:40pm",
+          "time": "4:40 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27729"
         }
       ]
@@ -6576,7 +6576,7 @@
       "letterboxdURL": "https://letterboxd.com/film/four-adventures-of-reinette-and-mirabelle/",
       "showtimes": [
         {
-          "time": "11:00am",
+          "time": "11:00 AM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27585"
         }
       ]
@@ -6588,7 +6588,7 @@
       "letterboxdURL": "https://letterboxd.com/film/happiness/",
       "showtimes": [
         {
-          "time": "2:15pm",
+          "time": "2:15 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27638"
         }
       ]
@@ -6600,7 +6600,7 @@
       "letterboxdURL": "https://letterboxd.com/film/happiness/",
       "showtimes": [
         {
-          "time": "3:00pm",
+          "time": "3:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27657"
         }
       ]
@@ -6612,7 +6612,7 @@
       "letterboxdURL": "https://letterboxd.com/film/hard-to-be-a-god/",
       "showtimes": [
         {
-          "time": "7:20pm",
+          "time": "7:20 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27640"
         }
       ]
@@ -6624,7 +6624,7 @@
       "letterboxdURL": "https://letterboxd.com/film/hedwig-and-the-angry-inch/",
       "showtimes": [
         {
-          "time": "5:00pm",
+          "time": "5:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27651"
         }
       ]
@@ -6636,7 +6636,7 @@
       "letterboxdURL": "https://letterboxd.com/film/high-fidelity/",
       "showtimes": [
         {
-          "time": "9:50pm",
+          "time": "9:50 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27740"
         }
       ]
@@ -6648,7 +6648,7 @@
       "letterboxdURL": "https://letterboxd.com/film/high-fidelity/",
       "showtimes": [
         {
-          "time": "5:20pm",
+          "time": "5:20 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27758"
         }
       ]
@@ -6660,7 +6660,7 @@
       "letterboxdURL": "https://letterboxd.com/film/house-of-hummingbird/",
       "showtimes": [
         {
-          "time": "2:10pm",
+          "time": "2:10 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27714"
         }
       ]
@@ -6672,7 +6672,7 @@
       "letterboxdURL": "https://letterboxd.com/film/house-of-hummingbird/",
       "showtimes": [
         {
-          "time": "11:35am",
+          "time": "11:35 AM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27715"
         }
       ]
@@ -6684,7 +6684,7 @@
       "letterboxdURL": "https://letterboxd.com/film/how-green-was-my-valley/",
       "showtimes": [
         {
-          "time": "2:40pm",
+          "time": "2:40 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27578"
         }
       ]
@@ -6696,7 +6696,7 @@
       "letterboxdURL": "https://letterboxd.com/film/how-green-was-my-valley/",
       "showtimes": [
         {
-          "time": "1:00pm",
+          "time": "1:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27586"
         }
       ]
@@ -6708,7 +6708,7 @@
       "letterboxdURL": "https://letterboxd.com/film/how-green-was-my-valley/",
       "showtimes": [
         {
-          "time": "4:45pm",
+          "time": "4:45 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27730"
         }
       ]
@@ -6720,7 +6720,7 @@
       "letterboxdURL": "https://letterboxd.com/film/im-not-there-2007/",
       "showtimes": [
         {
-          "time": "4:15pm",
+          "time": "4:15 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27679"
         }
       ]
@@ -6732,7 +6732,7 @@
       "letterboxdURL": "https://letterboxd.com/film/instrument-1999/",
       "showtimes": [
         {
-          "time": "7:40pm",
+          "time": "7:40 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27581"
         }
       ]
@@ -6744,7 +6744,7 @@
       "letterboxdURL": "https://letterboxd.com/film/instrument-1999/",
       "showtimes": [
         {
-          "time": "3:20pm",
+          "time": "3:20 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27587"
         }
       ]
@@ -6756,7 +6756,7 @@
       "letterboxdURL": "https://letterboxd.com/film/instrument-1999/",
       "showtimes": [
         {
-          "time": "7:15pm",
+          "time": "7:15 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27732"
         }
       ]
@@ -6768,7 +6768,7 @@
       "letterboxdURL": "https://letterboxd.com/film/koko-a-talking-gorilla/",
       "showtimes": [
         {
-          "time": "6:50pm",
+          "time": "6:50 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27753"
         }
       ]
@@ -6780,7 +6780,7 @@
       "letterboxdURL": "https://letterboxd.com/film/kundun/",
       "showtimes": [
         {
-          "time": "3:20pm",
+          "time": "3:20 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27567"
         }
       ]
@@ -6792,7 +6792,7 @@
       "letterboxdURL": "https://letterboxd.com/film/kundun/",
       "showtimes": [
         {
-          "time": "11:00am",
+          "time": "11:00 AM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27584"
         }
       ]
@@ -6804,7 +6804,7 @@
       "letterboxdURL": "https://letterboxd.com/film/kundun/",
       "showtimes": [
         {
-          "time": "7:00pm",
+          "time": "7:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27731"
         }
       ]
@@ -6816,7 +6816,7 @@
       "letterboxdURL": "https://letterboxd.com/film/la-collectionneuse/",
       "showtimes": [
         {
-          "time": "3:30pm",
+          "time": "3:30 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27736"
         }
       ]
@@ -6828,7 +6828,7 @@
       "letterboxdURL": "https://letterboxd.com/film/la-collectionneuse/",
       "showtimes": [
         {
-          "time": "7:45pm",
+          "time": "7:45 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27761"
         }
       ]
@@ -6840,7 +6840,7 @@
       "letterboxdURL": "https://letterboxd.com/film/late-august-early-september/",
       "showtimes": [
         {
-          "time": "12:00pm",
+          "time": "12:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27637"
         }
       ]
@@ -6852,7 +6852,7 @@
       "letterboxdURL": "https://letterboxd.com/film/les-destinees-sentimentales/",
       "showtimes": [
         {
-          "time": "4:15pm",
+          "time": "4:15 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27716"
         }
       ]
@@ -6864,7 +6864,7 @@
       "letterboxdURL": "https://letterboxd.com/search/Love%20and%20Pop+1998/",
       "showtimes": [
         {
-          "time": "8:35pm",
+          "time": "8:35 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27752"
         }
       ]
@@ -6876,7 +6876,7 @@
       "letterboxdURL": "https://letterboxd.com/search/Love%20and%20Pop+1998/",
       "showtimes": [
         {
-          "time": "7:30pm",
+          "time": "7:30 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27760"
         }
       ]
@@ -6888,7 +6888,7 @@
       "letterboxdURL": "https://letterboxd.com/search/Love%20and%20Pop+1998/",
       "showtimes": [
         {
-          "time": "7:15pm",
+          "time": "7:15 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27771"
         }
       ]
@@ -6900,7 +6900,7 @@
       "letterboxdURL": "https://letterboxd.com/film/macumba-1982/",
       "showtimes": [
         {
-          "time": "8:45pm",
+          "time": "8:45 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27580"
         }
       ]
@@ -6912,7 +6912,7 @@
       "letterboxdURL": "https://letterboxd.com/film/macumba-1982/",
       "showtimes": [
         {
-          "time": "5:35pm",
+          "time": "5:35 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27594"
         }
       ]
@@ -6924,7 +6924,7 @@
       "letterboxdURL": "https://letterboxd.com/film/madame-x-an-absolute-ruler/",
       "showtimes": [
         {
-          "time": "8:00pm",
+          "time": "8:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27643"
         }
       ]
@@ -6936,7 +6936,7 @@
       "letterboxdURL": "https://letterboxd.com/film/made-in-hong-kong-1997/",
       "showtimes": [
         {
-          "time": "9:45pm",
+          "time": "9:45 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27654"
         }
       ]
@@ -6948,7 +6948,7 @@
       "letterboxdURL": "https://letterboxd.com/film/mala-noche/",
       "showtimes": [
         {
-          "time": "10:20pm",
+          "time": "10:20 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27571"
         }
       ]
@@ -6960,7 +6960,7 @@
       "letterboxdURL": "https://letterboxd.com/film/mala-noche/",
       "showtimes": [
         {
-          "time": "5:00pm",
+          "time": "5:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27577"
         }
       ]
@@ -6972,7 +6972,7 @@
       "letterboxdURL": "https://letterboxd.com/film/mandy-2018/",
       "showtimes": [
         {
-          "time": "10:00pm",
+          "time": "10:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27739"
         }
       ]
@@ -6984,7 +6984,7 @@
       "letterboxdURL": "https://letterboxd.com/film/mandy-2018/",
       "showtimes": [
         {
-          "time": "9:45pm",
+          "time": "9:45 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27762"
         }
       ]
@@ -6996,7 +6996,7 @@
       "letterboxdURL": "https://letterboxd.com/film/my-little-loves/",
       "showtimes": [
         {
-          "time": "11:50am",
+          "time": "11:50 AM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27743"
         }
       ]
@@ -7008,7 +7008,7 @@
       "letterboxdURL": "https://letterboxd.com/film/my-little-loves/",
       "showtimes": [
         {
-          "time": "2:45pm",
+          "time": "2:45 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27757"
         }
       ]
@@ -7020,7 +7020,7 @@
       "letterboxdURL": "https://letterboxd.com/film/nashville/",
       "showtimes": [
         {
-          "time": "1:45pm",
+          "time": "1:45 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27588"
         }
       ]
@@ -7032,7 +7032,7 @@
       "letterboxdURL": "https://letterboxd.com/film/nashville/",
       "showtimes": [
         {
-          "time": "3:10pm",
+          "time": "3:10 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27630"
         }
       ]
@@ -7044,7 +7044,7 @@
       "letterboxdURL": "https://letterboxd.com/film/nashville/",
       "showtimes": [
         {
-          "time": "11:30am",
+          "time": "11:30 AM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27647"
         }
       ]
@@ -7056,7 +7056,7 @@
       "letterboxdURL": "https://letterboxd.com/film/natural-born-killers/",
       "showtimes": [
         {
-          "time": "8:20pm",
+          "time": "8:20 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27632"
         }
       ]
@@ -7068,7 +7068,7 @@
       "letterboxdURL": "https://letterboxd.com/film/natural-born-killers/",
       "showtimes": [
         {
-          "time": "9:35pm",
+          "time": "9:35 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27653"
         }
       ]
@@ -7080,7 +7080,7 @@
       "letterboxdURL": "https://letterboxd.com/film/no-bears/",
       "showtimes": [
         {
-          "time": "3:40pm",
+          "time": "3:40 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27682"
         }
       ]
@@ -7092,7 +7092,7 @@
       "letterboxdURL": "https://letterboxd.com/film/non-fiction/",
       "showtimes": [
         {
-          "time": "8:10pm",
+          "time": "8:10 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27572"
         }
       ]
@@ -7104,7 +7104,7 @@
       "letterboxdURL": "https://letterboxd.com/film/non-fiction/",
       "showtimes": [
         {
-          "time": "7:25pm",
+          "time": "7:25 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27593"
         }
       ]
@@ -7116,7 +7116,7 @@
       "letterboxdURL": "https://letterboxd.com/film/nostalghia/",
       "showtimes": [
         {
-          "time": "6:40pm",
+          "time": "6:40 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27676"
         }
       ]
@@ -7128,7 +7128,7 @@
       "letterboxdURL": "https://letterboxd.com/film/nostalghia/",
       "showtimes": [
         {
-          "time": "4:00pm",
+          "time": "4:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27721"
         }
       ]
@@ -7140,7 +7140,7 @@
       "letterboxdURL": "https://letterboxd.com/film/once-upon-a-time-in-china/",
       "showtimes": [
         {
-          "time": "2:00pm",
+          "time": "2:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27698"
         }
       ]
@@ -7152,7 +7152,7 @@
       "letterboxdURL": "https://letterboxd.com/film/once-upon-a-time-in-china/",
       "showtimes": [
         {
-          "time": "11:40am",
+          "time": "11:40 AM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27706"
         }
       ]
@@ -7164,7 +7164,7 @@
       "letterboxdURL": "https://letterboxd.com/film/one-hour-photo/",
       "showtimes": [
         {
-          "time": "8:15pm",
+          "time": "8:15 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27569"
         }
       ]
@@ -7176,7 +7176,7 @@
       "letterboxdURL": "https://letterboxd.com/film/one-hour-photo/",
       "showtimes": [
         {
-          "time": "10:35pm",
+          "time": "10:35 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27583"
         }
       ]
@@ -7188,7 +7188,7 @@
       "letterboxdURL": "https://letterboxd.com/film/one-hour-photo/",
       "showtimes": [
         {
-          "time": "6:45pm",
+          "time": "6:45 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27725"
         }
       ]
@@ -7200,7 +7200,7 @@
       "letterboxdURL": "https://letterboxd.com/film/out-of-sight/",
       "showtimes": [
         {
-          "time": "4:15pm",
+          "time": "4:15 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27686"
         }
       ]
@@ -7212,7 +7212,7 @@
       "letterboxdURL": "https://letterboxd.com/film/pauline-at-the-beach/",
       "showtimes": [
         {
-          "time": "12:00pm",
+          "time": "12:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27697"
         }
       ]
@@ -7224,7 +7224,7 @@
       "letterboxdURL": "https://letterboxd.com/film/pauline-at-the-beach/",
       "showtimes": [
         {
-          "time": "7:40pm",
+          "time": "7:40 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27708"
         }
       ]
@@ -7236,7 +7236,7 @@
       "letterboxdURL": "https://letterboxd.com/film/perceval-le-gallois/",
       "showtimes": [
         {
-          "time": "2:15pm",
+          "time": "2:15 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27746"
         }
       ]
@@ -7248,7 +7248,7 @@
       "letterboxdURL": "https://letterboxd.com/film/perceval-le-gallois/",
       "showtimes": [
         {
-          "time": "12:00pm",
+          "time": "12:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27764"
         }
       ]
@@ -7260,7 +7260,7 @@
       "letterboxdURL": "https://letterboxd.com/film/possession/",
       "showtimes": [
         {
-          "time": "10:45pm",
+          "time": "10:45 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27641"
         }
       ]
@@ -7272,7 +7272,7 @@
       "letterboxdURL": "https://letterboxd.com/film/possession/",
       "showtimes": [
         {
-          "time": "10:45pm",
+          "time": "10:45 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27751"
         }
       ]
@@ -7284,7 +7284,7 @@
       "letterboxdURL": "https://letterboxd.com/film/possession/",
       "showtimes": [
         {
-          "time": "9:20pm",
+          "time": "9:20 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27772"
         }
       ]
@@ -7296,7 +7296,7 @@
       "letterboxdURL": "https://letterboxd.com/film/pripyat/",
       "showtimes": [
         {
-          "time": "6:10pm",
+          "time": "6:10 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27690"
         }
       ]
@@ -7308,7 +7308,7 @@
       "letterboxdURL": "https://letterboxd.com/film/pripyat/",
       "showtimes": [
         {
-          "time": "12:00pm",
+          "time": "12:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27702"
         }
       ]
@@ -7320,7 +7320,7 @@
       "letterboxdURL": "https://letterboxd.com/film/punch-drunk-love/",
       "showtimes": [
         {
-          "time": "9:40pm",
+          "time": "9:40 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27723"
         }
       ]
@@ -7332,7 +7332,7 @@
       "letterboxdURL": "https://letterboxd.com/film/querelle/",
       "showtimes": [
         {
-          "time": "10:50pm",
+          "time": "10:50 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27642"
         }
       ]
@@ -7344,7 +7344,7 @@
       "letterboxdURL": "https://letterboxd.com/film/requiem-for-a-dream/",
       "showtimes": [
         {
-          "time": "10:50pm",
+          "time": "10:50 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27634"
         }
       ]
@@ -7356,7 +7356,7 @@
       "letterboxdURL": "https://letterboxd.com/film/requiem-for-a-dream/",
       "showtimes": [
         {
-          "time": "5:10pm",
+          "time": "5:10 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27639"
         }
       ]
@@ -7368,7 +7368,7 @@
       "letterboxdURL": "https://letterboxd.com/film/school-in-the-crosshairs/",
       "showtimes": [
         {
-          "time": "10:15pm",
+          "time": "10:15 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27570"
         }
       ]
@@ -7380,7 +7380,7 @@
       "letterboxdURL": "https://letterboxd.com/film/school-in-the-crosshairs/",
       "showtimes": [
         {
-          "time": "9:35pm",
+          "time": "9:35 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27592"
         }
       ]
@@ -7392,7 +7392,7 @@
       "letterboxdURL": "https://letterboxd.com/film/school-in-the-crosshairs/",
       "showtimes": [
         {
-          "time": "9:50pm",
+          "time": "9:50 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27734"
         }
       ]
@@ -7404,7 +7404,7 @@
       "letterboxdURL": "https://letterboxd.com/film/shortbus/",
       "showtimes": [
         {
-          "time": "7:35pm",
+          "time": "7:35 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27655"
         }
       ]
@@ -7416,7 +7416,7 @@
       "letterboxdURL": "https://letterboxd.com/film/spacked-out/",
       "showtimes": [
         {
-          "time": "8:15pm",
+          "time": "8:15 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27691"
         }
       ]
@@ -7428,7 +7428,7 @@
       "letterboxdURL": "https://letterboxd.com/film/spacked-out/",
       "showtimes": [
         {
-          "time": "7:45pm",
+          "time": "7:45 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27712"
         }
       ]
@@ -7440,7 +7440,7 @@
       "letterboxdURL": "https://letterboxd.com/film/spacked-out/",
       "showtimes": [
         {
-          "time": "7:50pm",
+          "time": "7:50 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27741"
         }
       ]
@@ -7452,7 +7452,7 @@
       "letterboxdURL": "https://letterboxd.com/film/spacked-out/",
       "showtimes": [
         {
-          "time": "5:00pm",
+          "time": "5:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27747"
         }
       ]
@@ -7464,7 +7464,7 @@
       "letterboxdURL": "https://letterboxd.com/film/summer-hours/",
       "showtimes": [
         {
-          "time": "6:15pm",
+          "time": "6:15 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27631"
         }
       ]
@@ -7476,7 +7476,7 @@
       "letterboxdURL": "https://letterboxd.com/film/summer-hours/",
       "showtimes": [
         {
-          "time": "5:35pm",
+          "time": "5:35 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27656"
         }
       ]
@@ -7488,7 +7488,7 @@
       "letterboxdURL": "https://letterboxd.com/film/suspiria/",
       "showtimes": [
         {
-          "time": "6:50pm",
+          "time": "6:50 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27687"
         }
       ]
@@ -7500,7 +7500,7 @@
       "letterboxdURL": "https://letterboxd.com/film/taxi-zum-klo/",
       "showtimes": [
         {
-          "time": "9:45pm",
+          "time": "9:45 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27681"
         }
       ]
@@ -7512,7 +7512,7 @@
       "letterboxdURL": "https://letterboxd.com/film/taxi-zum-klo/",
       "showtimes": [
         {
-          "time": "10:15pm",
+          "time": "10:15 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27685"
         }
       ]
@@ -7524,7 +7524,7 @@
       "letterboxdURL": "https://letterboxd.com/film/taxi-zum-klo/",
       "showtimes": [
         {
-          "time": "9:45pm",
+          "time": "9:45 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27774"
         }
       ]
@@ -7536,7 +7536,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-assassin-2015/",
       "showtimes": [
         {
-          "time": "7:45pm",
+          "time": "7:45 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27738"
         }
       ]
@@ -7548,7 +7548,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-assassin-2015/",
       "showtimes": [
         {
-          "time": "7:10pm",
+          "time": "7:10 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27770"
         }
       ]
@@ -7560,7 +7560,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-girl-cant-help-it/",
       "showtimes": [
         {
-          "time": "12:15pm",
+          "time": "12:15 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27646"
         }
       ]
@@ -7572,7 +7572,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-good-the-bad-and-the-ugly/",
       "showtimes": [
         {
-          "time": "11:45am",
+          "time": "11:45 AM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27574"
         }
       ]
@@ -7584,7 +7584,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-good-the-bad-and-the-ugly/",
       "showtimes": [
         {
-          "time": "6:25pm",
+          "time": "6:25 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27722"
         }
       ]
@@ -7596,7 +7596,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-grandmaster/",
       "showtimes": [
         {
-          "time": "10:40pm",
+          "time": "10:40 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27701"
         }
       ]
@@ -7608,7 +7608,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-grandmaster/",
       "showtimes": [
         {
-          "time": "9:45pm",
+          "time": "9:45 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27709"
         }
       ]
@@ -7620,7 +7620,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-grandmaster/",
       "showtimes": [
         {
-          "time": "12:00pm",
+          "time": "12:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27744"
         }
       ]
@@ -7632,7 +7632,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-grandmaster/",
       "showtimes": [
         {
-          "time": "12:30pm",
+          "time": "12:30 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27765"
         }
       ]
@@ -7644,7 +7644,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-green-room/",
       "showtimes": [
         {
-          "time": "6:10pm",
+          "time": "6:10 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27573"
         }
       ]
@@ -7656,7 +7656,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-green-room/",
       "showtimes": [
         {
-          "time": "6:50pm",
+          "time": "6:50 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27579"
         }
       ]
@@ -7668,7 +7668,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-green-room/",
       "showtimes": [
         {
-          "time": "4:30pm",
+          "time": "4:30 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27726"
         }
       ]
@@ -7680,7 +7680,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-idiots/",
       "showtimes": [
         {
-          "time": "10:50pm",
+          "time": "10:50 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27750"
         }
       ]
@@ -7692,7 +7692,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-idiots/",
       "showtimes": [
         {
-          "time": "9:30pm",
+          "time": "9:30 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27773"
         }
       ]
@@ -7704,7 +7704,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-life-aquatic-with-steve-zissou/",
       "showtimes": [
         {
-          "time": "5:25pm",
+          "time": "5:25 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27742"
         }
       ]
@@ -7716,7 +7716,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-life-aquatic-with-steve-zissou/",
       "showtimes": [
         {
-          "time": "2:50pm",
+          "time": "2:50 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27756"
         }
       ]
@@ -7728,7 +7728,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-masque-of-the-red-death/",
       "showtimes": [
         {
-          "time": "5:50pm",
+          "time": "5:50 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27683"
         }
       ]
@@ -7740,7 +7740,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-mouth-agape/",
       "showtimes": [
         {
-          "time": "5:00pm",
+          "time": "5:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27703"
         }
       ]
@@ -7752,7 +7752,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-mouth-agape/",
       "showtimes": [
         {
-          "time": "2:30pm",
+          "time": "2:30 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27710"
         }
       ]
@@ -7764,7 +7764,7 @@
       "letterboxdURL": "https://letterboxd.com/film/titane/",
       "showtimes": [
         {
-          "time": "10:15pm",
+          "time": "10:15 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27696"
         }
       ]
@@ -7776,7 +7776,7 @@
       "letterboxdURL": "https://letterboxd.com/film/titane/",
       "showtimes": [
         {
-          "time": "10:30pm",
+          "time": "10:30 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27705"
         }
       ]
@@ -7788,7 +7788,7 @@
       "letterboxdURL": "https://letterboxd.com/search/Twin%20Peaks%20circa%202017+2017/",
       "showtimes": [
         {
-          "time": "9:00pm",
+          "time": "9:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27688"
         }
       ]
@@ -7800,7 +7800,7 @@
       "letterboxdURL": "https://letterboxd.com/search/Twin%20Peaks%20circa%202017+2017/",
       "showtimes": [
         {
-          "time": "9:15pm",
+          "time": "9:15 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27678"
         }
       ]
@@ -7812,7 +7812,7 @@
       "letterboxdURL": "https://letterboxd.com/film/typhoon-club/",
       "showtimes": [
         {
-          "time": "5:20pm",
+          "time": "5:20 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27737"
         }
       ]
@@ -7824,7 +7824,7 @@
       "letterboxdURL": "https://letterboxd.com/film/typhoon-club/",
       "showtimes": [
         {
-          "time": "5:15pm",
+          "time": "5:15 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27759"
         }
       ]
@@ -7836,7 +7836,7 @@
       "letterboxdURL": "https://letterboxd.com/film/typhoon-club/",
       "showtimes": [
         {
-          "time": "2:45pm",
+          "time": "2:45 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27766"
         }
       ]
@@ -7848,7 +7848,7 @@
       "letterboxdURL": "https://letterboxd.com/film/whisky/",
       "showtimes": [
         {
-          "time": "6:10pm",
+          "time": "6:10 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27636"
         }
       ]
@@ -7860,7 +7860,7 @@
       "letterboxdURL": "https://letterboxd.com/film/whisky/",
       "showtimes": [
         {
-          "time": "1:00pm",
+          "time": "1:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27649"
         }
       ]
@@ -7872,7 +7872,7 @@
       "letterboxdURL": "https://letterboxd.com/film/zola/",
       "showtimes": [
         {
-          "time": "5:15pm",
+          "time": "5:15 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27576"
         }
       ]
