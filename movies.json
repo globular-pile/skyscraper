@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-06T01:54:01.190661",
+  "lastUpdated": "2025-08-06T08:01:04.892215",
   "movies": [
     {
       "date": "Fri, Aug 1",
@@ -3399,18 +3399,6 @@
     },
     {
       "date": "Sat, Aug 23",
-      "title": " Front Row (2019)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/front-row/",
-      "showtimes": [
-        {
-          "time": "2pm",
-          "link": "https://tickets.bam.org/production/?pid=49515"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Aug 23",
       "title": "A Brighter Summer Day (1991)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/a-brighter-summer-day/",
@@ -3874,18 +3862,6 @@
         {
           "time": "9:30 pm",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19606254/"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 27",
-      "title": " Front Row (2019)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/front-row/",
-      "showtimes": [
-        {
-          "time": "5pm",
-          "link": "https://tickets.bam.org/production/?pid=49515"
         }
       ]
     },
