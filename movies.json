@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-06T00:53:18.849061",
+  "lastUpdated": "2025-08-06T01:18:06.989967",
   "movies": [
     {
       "date": "Fri, Aug 1",
@@ -519,6 +519,18 @@
     },
     {
       "date": "Thu, Aug 7",
+      "title": "The Man Who Would Be King (1975)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/the-man-who-would-be-king/",
+      "showtimes": [
+        {
+          "time": "7:00 p.m.",
+          "link": "https://www.moma.org/calendar/events/10699"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 7",
       "title": "VENGEANCE IS MINE (2015)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/vengeance-is-mine-2015/",
@@ -566,6 +578,18 @@
         {
           "time": "4:15 PM",
           "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1338/seats"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Aug 8",
+      "title": "Alfie (1966)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/alfie/",
+      "showtimes": [
+        {
+          "time": "7:30 p.m.",
+          "link": "https://www.moma.org/calendar/events/10700"
         }
       ]
     },
@@ -638,6 +662,18 @@
         {
           "time": "9:45PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6578?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Aug 8",
+      "title": "Hamlet at Elsinore (1965)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/hamlet-at-elsinore/",
+      "showtimes": [
+        {
+          "time": "4:00 p.m.",
+          "link": "https://www.moma.org/calendar/events/10784"
         }
       ]
     },
@@ -859,6 +895,18 @@
     },
     {
       "date": "Sat, Aug 9",
+      "title": "Billion Dollar Brain (1967)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/billion-dollar-brain/",
+      "showtimes": [
+        {
+          "time": "7:00 p.m.",
+          "link": "https://www.moma.org/calendar/events/10781"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
       "title": "Brain Dead Studios presents: Alien (1979)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/film/alien/",
@@ -890,6 +938,18 @@
         {
           "time": "2pm",
           "link": "https://tickets.bam.org/production/?pid=49249"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "Funeral in Berlin (1966)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/funeral-in-berlin/",
+      "showtimes": [
+        {
+          "time": "4:00 p.m.",
+          "link": "https://www.moma.org/calendar/events/10778"
         }
       ]
     },
@@ -998,6 +1058,18 @@
         {
           "time": "1:15 PM",
           "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1342/seats"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 9",
+      "title": "The Ipcress File (1965)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/the-ipcress-file/",
+      "showtimes": [
+        {
+          "time": "1:30 p.m.",
+          "link": "https://www.moma.org/calendar/events/10701"
         }
       ]
     },
@@ -1250,6 +1322,30 @@
       ]
     },
     {
+      "date": "Sun, Aug 10",
+      "title": "X Y & Zee (1972)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/search/X%20Y%20%26%20Zee+1972/",
+      "showtimes": [
+        {
+          "time": "1:30 p.m.",
+          "link": "https://www.moma.org/calendar/events/10779"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 10",
+      "title": "Zulu (1964)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/zulu/",
+      "showtimes": [
+        {
+          "time": "4:00 p.m.",
+          "link": "https://www.moma.org/calendar/events/10702"
+        }
+      ]
+    },
+    {
       "date": "Mon, Aug 11",
       "title": "A Night at the Opera (1935)",
       "theater": "Paris",
@@ -1419,6 +1515,18 @@
     },
     {
       "date": "Mon, Aug 11",
+      "title": "The Romantic Englishwoman (1975)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/the-romantic-englishwoman/",
+      "showtimes": [
+        {
+          "time": "7:00 p.m.",
+          "link": "https://www.moma.org/calendar/events/10703"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 11",
       "title": "Throne Of Blood (1957)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/throne-of-blood/",
@@ -1466,6 +1574,18 @@
         {
           "time": "4:30pm",
           "link": "https://tickets.bam.org/production/?pid=49362"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 11",
+      "title": "X Y & Zee (1972)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/search/X%20Y%20%26%20Zee+1972/",
+      "showtimes": [
+        {
+          "time": "4:00 p.m.",
+          "link": "https://www.moma.org/calendar/events/10779"
         }
       ]
     },
@@ -1651,6 +1771,18 @@
     },
     {
       "date": "Tue, Aug 12",
+      "title": "The Man Who Would Be King (1975)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/the-man-who-would-be-king/",
+      "showtimes": [
+        {
+          "time": "4:00 p.m.",
+          "link": "https://www.moma.org/calendar/events/10699"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 12",
       "title": "The September Issue (2009)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/the-september-issue/",
@@ -1694,6 +1826,18 @@
         {
           "time": "8:30PM",
           "link": "https://my.filmforum.org/yojimbo-kurosawa/45309"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 12",
+      "title": "Zulu (1964)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/zulu/",
+      "showtimes": [
+        {
+          "time": "7:00 p.m.",
+          "link": "https://www.moma.org/calendar/events/10702"
         }
       ]
     },
@@ -1754,6 +1898,18 @@
         {
           "time": "7:00 pm",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19424507/"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 13",
+      "title": "Hamlet at Elsinore (1965)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/hamlet-at-elsinore/",
+      "showtimes": [
+        {
+          "time": "7:00 p.m.",
+          "link": "https://www.moma.org/calendar/events/10784"
         }
       ]
     },
@@ -1862,6 +2018,18 @@
         {
           "time": "9:15 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=08&year=2025#showing-59841"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 13",
+      "title": "The Last Valley (1971)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/the-last-valley/",
+      "showtimes": [
+        {
+          "time": "4:00 p.m.",
+          "link": "https://www.moma.org/calendar/events/10704"
         }
       ]
     },
@@ -2027,6 +2195,18 @@
     },
     {
       "date": "Thu, Aug 14",
+      "title": "The Last Valley (1971)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/the-last-valley/",
+      "showtimes": [
+        {
+          "time": "6:30 p.m.",
+          "link": "https://www.moma.org/calendar/events/10704"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 14",
       "title": "The Loss of Sexual Innocence - 35MM (1998)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/film/the-loss-of-sexual-innocence/",
@@ -2046,6 +2226,18 @@
         {
           "time": "9:30 pm",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/18879261/"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 14",
+      "title": "The Wilby Conspiracy (1975)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/the-wilby-conspiracy/",
+      "showtimes": [
+        {
+          "time": "4:00 p.m.",
+          "link": "https://www.moma.org/calendar/events/10785"
         }
       ]
     },
@@ -2127,6 +2319,18 @@
     },
     {
       "date": "Fri, Aug 15",
+      "title": "Get Carter (1971)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/get-carter/",
+      "showtimes": [
+        {
+          "time": "6:30 p.m.",
+          "link": "https://www.moma.org/calendar/events/10707"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Aug 15",
       "title": "HIT THE ROAD (2021)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/hit-the-road-2021/",
@@ -2187,6 +2391,18 @@
     },
     {
       "date": "Fri, Aug 15",
+      "title": "Pulp (1972)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/pulp/",
+      "showtimes": [
+        {
+          "time": "4:00 p.m.",
+          "link": "https://www.moma.org/calendar/events/10705"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Aug 15",
       "title": "Stalker (2020)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/stalker-2020/",
@@ -2235,6 +2451,18 @@
     },
     {
       "date": "Sat, Aug 16",
+      "title": "Alfie (1966)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/alfie/",
+      "showtimes": [
+        {
+          "time": "4:00 p.m.",
+          "link": "https://www.moma.org/calendar/events/10700"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
       "title": "Aliens (1986)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/aliens/",
@@ -2266,6 +2494,18 @@
         {
           "time": "8:30PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44639"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "Educating Rita (1983)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/educating-rita/",
+      "showtimes": [
+        {
+          "time": "1:30 p.m.",
+          "link": "https://www.moma.org/calendar/events/10708"
         }
       ]
     },
@@ -2326,6 +2566,18 @@
         {
           "time": "7:15pm",
           "link": "https://tickets.bam.org/production/?pid=49387"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "The Italian Job (1969)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/the-italian-job/",
+      "showtimes": [
+        {
+          "time": "6:30 p.m.",
+          "link": "https://www.moma.org/calendar/events/10709"
         }
       ]
     },
@@ -2439,6 +2691,18 @@
     },
     {
       "date": "Sun, Aug 17",
+      "title": "Get Carter (1971)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/get-carter/",
+      "showtimes": [
+        {
+          "time": "1:30 p.m.",
+          "link": "https://www.moma.org/calendar/events/10707"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
       "title": "Husbands - 35MM (1970)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/film/husbands/",
@@ -2499,6 +2763,18 @@
     },
     {
       "date": "Sun, Aug 17",
+      "title": "Pulp (1972)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/pulp/",
+      "showtimes": [
+        {
+          "time": "4:00 p.m.",
+          "link": "https://www.moma.org/calendar/events/10705"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
       "title": "Solaris (1972)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/solaris/",
@@ -2530,6 +2806,18 @@
         {
           "time": "8:30PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44641"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 18",
+      "title": "Children of Men (2006)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/children-of-men/",
+      "showtimes": [
+        {
+          "time": "4:00 p.m.",
+          "link": "https://www.moma.org/calendar/events/10710"
         }
       ]
     },
@@ -2606,6 +2894,18 @@
       ]
     },
     {
+      "date": "Mon, Aug 18",
+      "title": "The Wilby Conspiracy (1975)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/the-wilby-conspiracy/",
+      "showtimes": [
+        {
+          "time": "6:30 p.m.",
+          "link": "https://www.moma.org/calendar/events/10785"
+        }
+      ]
+    },
+    {
       "date": "Tue, Aug 19",
       "title": "Aliens (1986)",
       "theater": "Film Forum",
@@ -2643,6 +2943,18 @@
     },
     {
       "date": "Tue, Aug 19",
+      "title": "Children of Men (2006)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/children-of-men/",
+      "showtimes": [
+        {
+          "time": "7:00 p.m.",
+          "link": "https://www.moma.org/calendar/events/10710"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 19",
       "title": "Drive (1997) (1997)",
       "theater": "Nitehawk PP",
       "letterboxdURL": "https://letterboxd.com/film/drive/",
@@ -2674,6 +2986,18 @@
         {
           "time": "9:15 pm",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19679076/"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 19",
+      "title": "The Romantic Englishwoman (1975)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/the-romantic-englishwoman/",
+      "showtimes": [
+        {
+          "time": "4:00 p.m.",
+          "link": "https://www.moma.org/calendar/events/10703"
         }
       ]
     },
@@ -2751,6 +3075,18 @@
     },
     {
       "date": "Wed, Aug 20",
+      "title": "Educating Rita (1983)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/educating-rita/",
+      "showtimes": [
+        {
+          "time": "7:00 p.m.",
+          "link": "https://www.moma.org/calendar/events/10708"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 20",
       "title": "Forty Guns (1957)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/forty-guns/",
@@ -2758,6 +3094,18 @@
         {
           "time": "6:00PM",
           "link": "https://my.filmforum.org/forty-guns-wia/44990"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 20",
+      "title": "Hannah and Her Sisters (1986)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/hannah-and-her-sisters/",
+      "showtimes": [
+        {
+          "time": "4:00 p.m.",
+          "link": "https://www.moma.org/calendar/events/10711"
         }
       ]
     },
@@ -2906,6 +3254,30 @@
       ]
     },
     {
+      "date": "Thu, Aug 21",
+      "title": "The Italian Job (1969)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/the-italian-job/",
+      "showtimes": [
+        {
+          "time": "4:00 p.m.",
+          "link": "https://www.moma.org/calendar/events/10709"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 21",
+      "title": "The Quiet American (2002)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/the-quiet-american/",
+      "showtimes": [
+        {
+          "time": "6:30 p.m.",
+          "link": "https://www.moma.org/calendar/events/10712"
+        }
+      ]
+    },
+    {
       "date": "Fri, Aug 22",
       "title": "A Tale of Summer (2023)",
       "theater": "BAM",
@@ -2938,6 +3310,18 @@
         {
           "time": "6:00PM",
           "link": "https://my.filmforum.org/blue-steel-wia/45008"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
+      "title": "Dirty Rotten Scoundrels (1988)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/dirty-rotten-scoundrels/",
+      "showtimes": [
+        {
+          "time": "7:00 p.m.",
+          "link": "https://www.moma.org/calendar/events/10714"
         }
       ]
     },
@@ -3002,6 +3386,18 @@
       ]
     },
     {
+      "date": "Fri, Aug 22",
+      "title": "The Wrong Box (1966)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/the-wrong-box/",
+      "showtimes": [
+        {
+          "time": "4:00 p.m.",
+          "link": "https://www.moma.org/calendar/events/10713"
+        }
+      ]
+    },
+    {
       "date": "Sat, Aug 23",
       "title": " Front Row (2019)",
       "theater": "BAM",
@@ -3058,6 +3454,18 @@
         {
           "time": "12:15PM",
           "link": "https://my.filmforum.org/bloody-mama-wia/45013"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
+      "title": "Dirty Rotten Scoundrels (1988)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/dirty-rotten-scoundrels/",
+      "showtimes": [
+        {
+          "time": "1:30 p.m.",
+          "link": "https://www.moma.org/calendar/events/10714"
         }
       ]
     },
@@ -3130,6 +3538,18 @@
         {
           "time": "12:00 pm",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19290153/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
+      "title": "Youth (2015)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/youth-2015/",
+      "showtimes": [
+        {
+          "time": "4:00 p.m.",
+          "link": "https://www.moma.org/calendar/events/10715"
         }
       ]
     },
