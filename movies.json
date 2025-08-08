@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-08T10:20:04.170970",
+  "lastUpdated": "2025-08-08T11:31:49.707838",
   "movies": [
     {
       "date": "Fri, Aug 1",
@@ -362,18 +362,6 @@
         {
           "time": "4:00 PM",
           "link": "https://www.moma.org/calendar/events/10784"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Aug 8",
-      "title": "La Dolce Vita (1961)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/la-dolce-vita-1961/",
-      "showtimes": [
-        {
-          "time": "10:00 AM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1336/seats"
         }
       ]
     },
@@ -2678,6 +2666,18 @@
       ]
     },
     {
+      "date": "Tue, Aug 19",
+      "title": "The Sacrifice (2023)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/the-sacrifice-2023/",
+      "showtimes": [
+        {
+          "time": "5:00 PM",
+          "link": "https://tickets.bam.org/production/?pid=49381"
+        }
+      ]
+    },
+    {
       "date": "Wed, Aug 20",
       "title": "Aliens (1986)",
       "theater": "Film Forum",
@@ -3243,6 +3243,18 @@
     },
     {
       "date": "Sun, Aug 24",
+      "title": "Call Me By Your Name (2017)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/call-me/",
+      "showtimes": [
+        {
+          "time": "3:30 PM",
+          "link": "https://tickets.bam.org/production/?pid=49526"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
       "title": "Forty Guns (1957)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/forty-guns/",
@@ -3279,6 +3291,18 @@
     },
     {
       "date": "Sun, Aug 24",
+      "title": "Kikujiro (1999)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/kikujiro/",
+      "showtimes": [
+        {
+          "time": "6:15 PM",
+          "link": "https://tickets.bam.org/production/?pid=49529"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
       "title": "Kill Bill: Vol. 1 (2003)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/kill-bill-vol-1/",
@@ -3298,6 +3322,18 @@
         {
           "time": "7:10 PM",
           "link": "https://my.filmforum.org/kill-bill-vol-2-wia/45025"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "The Last Summer of La Boyita (2009)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/the-last-summer-of-la-boyita/",
+      "showtimes": [
+        {
+          "time": "8:45 PM",
+          "link": "https://tickets.bam.org/production/?pid=49532"
         }
       ]
     },
@@ -3327,6 +3363,18 @@
     },
     {
       "date": "Mon, Aug 25",
+      "title": "Aftersun (2022)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/aftersun-2022/",
+      "showtimes": [
+        {
+          "time": "5:00 PM",
+          "link": "https://tickets.bam.org/production/?pid=49520"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 25",
       "title": "Breaking Glass (1980)",
       "theater": "Nitehawk WB",
       "letterboxdURL": "https://letterboxd.com/film/breaking-glass/",
@@ -3334,6 +3382,18 @@
         {
           "time": "9:30 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19606023/"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 25",
+      "title": "Do the Right Thing (1989)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/do-the-right-thing/",
+      "showtimes": [
+        {
+          "time": "9:15 PM",
+          "link": "https://tickets.bam.org/production/?pid=49535"
         }
       ]
     },
@@ -3382,6 +3442,18 @@
         {
           "time": "9:15 PM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19292197/"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 25",
+      "title": "The Last Summer of La Boyita (2009)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/the-last-summer-of-la-boyita/",
+      "showtimes": [
+        {
+          "time": "7:15 PM",
+          "link": "https://tickets.bam.org/production/?pid=49532"
         }
       ]
     },
@@ -3639,6 +3711,30 @@
     },
     {
       "date": "Thu, Aug 28",
+      "title": "Call Me By Your Name (2017)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/call-me/",
+      "showtimes": [
+        {
+          "time": "5:00 PM",
+          "link": "https://tickets.bam.org/production/?pid=49526"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 28",
+      "title": "Do the Right Thing (1989)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/do-the-right-thing/",
+      "showtimes": [
+        {
+          "time": "7:45 PM",
+          "link": "https://tickets.bam.org/production/?pid=49535"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 28",
       "title": "Irma Vep (1996)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/irma-vep/",
@@ -3715,6 +3811,18 @@
     },
     {
       "date": "Fri, Aug 29",
+      "title": "Duck Soup (1933)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/duck-soup-1933/",
+      "showtimes": [
+        {
+          "time": "9:30 PM",
+          "link": "https://tickets.bam.org/production/?pid=49619"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Aug 29",
       "title": "La Femme Nikita (1990)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/la-femme-nikita/",
@@ -3758,6 +3866,30 @@
         {
           "time": "12:40 PM",
           "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1444/seats"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Aug 29",
+      "title": "The Great Dictator (1940)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/the-great-dictator/",
+      "showtimes": [
+        {
+          "time": "6:45 PM",
+          "link": "https://tickets.bam.org/production/?pid=49625"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Aug 29",
+      "title": "To Be or Not to Be (1983)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/to-be-or-not-to-be-1983/",
+      "showtimes": [
+        {
+          "time": "4:30 PM",
+          "link": "https://tickets.bam.org/production/?pid=49622"
         }
       ]
     },
@@ -4003,6 +4135,18 @@
     },
     {
       "date": "Sun, Aug 31",
+      "title": "BlacKkKlansman (2018)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/blackkklansman/",
+      "showtimes": [
+        {
+          "time": "1:30 PM",
+          "link": "https://tickets.bam.org/production/?pid=49640"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 31",
       "title": "Blade Runner 2049 (2017)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/blade-runner-2049/",
@@ -4027,6 +4171,18 @@
     },
     {
       "date": "Sun, Aug 31",
+      "title": "Brazil  (1985)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/brazil/",
+      "showtimes": [
+        {
+          "time": "4:15 PM",
+          "link": "https://tickets.bam.org/production/?pid=49643"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 31",
       "title": "Crouching Tiger, Hidden Dragon (2000)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/crouching-tiger-hidden-dragon/",
@@ -4039,6 +4195,18 @@
     },
     {
       "date": "Sun, Aug 31",
+      "title": "Desperate Living (1977)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/desperate-living/",
+      "showtimes": [
+        {
+          "time": "9:30 PM",
+          "link": "https://tickets.bam.org/production/?pid=49648"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 31",
       "title": "Fallen Angels (1995)",
       "theater": "Nitehawk WB",
       "letterboxdURL": "https://letterboxd.com/film/fallen-angels/",
@@ -4046,6 +4214,18 @@
         {
           "time": "11:00 AM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19292725/"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 31",
+      "title": "Love & Anarchy (1973)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/search/Love%20%26%20Anarchy+1973/",
+      "showtimes": [
+        {
+          "time": "7:00 PM",
+          "link": "https://tickets.bam.org/production/?pid=49645"
         }
       ]
     },
@@ -4171,6 +4351,18 @@
     },
     {
       "date": "Mon, Sep 1",
+      "title": "Duck Soup (1933)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/duck-soup-1933/",
+      "showtimes": [
+        {
+          "time": "5:00 PM",
+          "link": "https://tickets.bam.org/production/?pid=49619"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Sep 1",
       "title": "Ghostbusters (1984)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/ghostbusters/",
@@ -4190,6 +4382,30 @@
         {
           "time": "12:30 PM",
           "link": "https://my.filmforum.org/kill-bill-vol-1-wia/45022"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Sep 1",
+      "title": "Porco Rosso (1992)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/porco-rosso/",
+      "showtimes": [
+        {
+          "time": "9:15 PM",
+          "link": "https://tickets.bam.org/production/?pid=49628"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Sep 1",
+      "title": "To Be or Not to Be (1983)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/to-be-or-not-to-be-1983/",
+      "showtimes": [
+        {
+          "time": "7:00 PM",
+          "link": "https://tickets.bam.org/production/?pid=49622"
         }
       ]
     },
@@ -4627,6 +4843,18 @@
     },
     {
       "date": "Fri, Sep 5",
+      "title": "Female Trouble (1974)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/female-trouble/",
+      "showtimes": [
+        {
+          "time": "9:00 PM",
+          "link": "https://tickets.bam.org/production/?pid=49723"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Sep 5",
       "title": "Mad Max: Fury Road (2015)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/mad-max-fury-road-2015/",
@@ -4634,6 +4862,42 @@
         {
           "time": "9:25 PM",
           "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1407/seats"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Sep 5",
+      "title": "Nashville (1975)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/nashville/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://tickets.bam.org/production/?pid=49726"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Sep 5",
+      "title": "Pee-wee's Big Adventure (1985)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/pee-wees-big-adventure/",
+      "showtimes": [
+        {
+          "time": "6:45 PM",
+          "link": "https://tickets.bam.org/production/?pid=49720"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Sep 5",
+      "title": "Playtime (1967)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/playtime/",
+      "showtimes": [
+        {
+          "time": "4:15 PM",
+          "link": "https://tickets.bam.org/production/?pid=49753"
         }
       ]
     },
