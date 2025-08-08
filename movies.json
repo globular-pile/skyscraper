@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-08T11:31:49.707838",
+  "lastUpdated": "2025-08-08T12:24:09.367594",
   "movies": [
     {
       "date": "Fri, Aug 1",
@@ -288,10 +288,6 @@
       "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
       "showtimes": [
         {
-          "time": "12:15 PM",
-          "link": "https://my.filmforum.org/an-officer-and-a-spy/44593"
-        },
-        {
           "time": "3:00 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44607"
         },
@@ -455,10 +451,6 @@
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/who-killed-teddy-bear/",
       "showtimes": [
-        {
-          "time": "12:30 PM",
-          "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44870"
-        },
         {
           "time": "2:40 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44871"
