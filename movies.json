@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-08T12:24:09.367594",
+  "lastUpdated": "2025-08-08T12:36:56.135581",
   "movies": [
     {
       "date": "Fri, Aug 1",
@@ -382,18 +382,6 @@
         {
           "time": "9:00 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=08&year=2025#showing-59697"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Aug 8",
-      "title": "Sanjuro (1962)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/sanjuro/",
-      "showtimes": [
-        {
-          "time": "12:45 PM",
-          "link": "https://my.filmforum.org/sanjuro-kurosawa/45306"
         }
       ]
     },
