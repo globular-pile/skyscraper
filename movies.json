@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-11T00:52:54.134653",
+  "lastUpdated": "2025-08-11T01:05:37.250452",
   "movies": [
     {
       "date": "Fri, Aug 1",
@@ -4590,6 +4590,30 @@
       ]
     },
     {
+      "date": "Sun Aug 17, 2025",
+      "title": "A Better Tomorrow (1986)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/a-better-tomorrow/",
+      "showtimes": [
+        {
+          "time": "4:20 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508897~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Sun Aug 17, 2025",
+      "title": "A Better Tomorrow II (1987)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/a-better-tomorrow-ii/",
+      "showtimes": [
+        {
+          "time": "6:50 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508902~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
       "date": "Sat Aug 16, 2025",
       "title": "A Better Tomorrow III: Love and Death in Saigon (1989)",
       "theater": "IFC",
@@ -4598,6 +4622,18 @@
         {
           "time": "11:05 AM",
           "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508909~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Sun Aug 17, 2025",
+      "title": "A Better Tomorrow III: Love and Death in Saigon (1989)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/a-better-tomorrow-iii-love-and-death-in-saigon/",
+      "showtimes": [
+        {
+          "time": "9:30 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508910~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -5154,6 +5190,78 @@
       ]
     },
     {
+      "date": "Mon Aug 11, 2025",
+      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/in-the-mood-for-love-2000/",
+      "showtimes": [
+        {
+          "time": "11:15 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=511576~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "4:20 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=511577~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:30 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=511573~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Tue Aug 12, 2025",
+      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/in-the-mood-for-love-2000/",
+      "showtimes": [
+        {
+          "time": "11:15 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512389~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "4:20 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=511583~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:00 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=511578~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Wed Aug 13, 2025",
+      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/in-the-mood-for-love-2000/",
+      "showtimes": [
+        {
+          "time": "4:20 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=511574~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:00 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=511582~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Thu Aug 14, 2025",
+      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/in-the-mood-for-love-2000/",
+      "showtimes": [
+        {
+          "time": "4:20 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=511575~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:30 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=511589~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
       "date": "Thursday August 14",
       "title": "Instrument (1999)",
       "theater": "Metrograph",
@@ -5382,26 +5490,6 @@
       ]
     },
     {
-      "date": "Sun Aug 10, 2025",
-      "title": "Night of the Juggler (1980)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/night-of-the-juggler/",
-      "showtimes": [
-        {
-          "time": "1:50 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=511600~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "7:00 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=511601~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:40 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=511602~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
       "date": "Mon Aug 11, 2025",
       "title": "Night of the Juggler (1980)",
       "theater": "IFC",
@@ -5566,6 +5654,18 @@
         {
           "time": "7:10 PM",
           "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508922~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Sun Aug 17, 2025",
+      "title": "Peking Opera Blues (1986)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/peking-opera-blues/",
+      "showtimes": [
+        {
+          "time": "1:45 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508923~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -5982,6 +6082,18 @@
       ]
     },
     {
+      "date": "Sun Aug 17, 2025",
+      "title": "The Killer (1989)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/the-killer-1989/",
+      "showtimes": [
+        {
+          "time": "11:05 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508916~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
       "date": "Friday August 29",
       "title": "The Life Aquatic with Steve Zissou (2004)",
       "theater": "Metrograph",
@@ -6002,30 +6114,6 @@
         {
           "time": "2:50 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27756"
-        }
-      ]
-    },
-    {
-      "date": "Sun Aug 10, 2025",
-      "title": "The Lovers on the Bridge (1991)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/the-lovers-on-the-bridge/",
-      "showtimes": [
-        {
-          "time": "12:40 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=504465~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "3:35 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=504472~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "6:30 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=504479~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:25 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=504486~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
