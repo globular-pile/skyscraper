@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-10T21:00:25.053779",
+  "lastUpdated": "2025-08-11T00:52:54.134653",
   "movies": [
     {
       "date": "Fri, Aug 1",
@@ -303,42 +303,6 @@
     },
     {
       "date": "Sun, Aug 10",
-      "title": "A Night at the Opera (1935)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/a-night-at-the-opera/",
-      "showtimes": [
-        {
-          "time": "9:50 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1348/seats"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 10",
-      "title": "Batang West Side (2001)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/batang-west-side/",
-      "showtimes": [
-        {
-          "time": "1:30 PM",
-          "link": "https://tickets.bam.org/production/?pid=49357"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 10",
-      "title": "Killer of Sheep (2019)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/killer-of-sheep/",
-      "showtimes": [
-        {
-          "time": "7:15 PM",
-          "link": "https://tickets.bam.org/production/?pid=49359"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 10",
       "title": "MILLA (2015)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/milla/",
@@ -346,30 +310,6 @@
         {
           "time": "3:00 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=08&year=2025#showing-59702"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 10",
-      "title": "X Y & Zee (1972)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/X%20Y%20%26%20Zee+1972/",
-      "showtimes": [
-        {
-          "time": "1:30 PM",
-          "link": "https://www.moma.org/calendar/events/10779"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 10",
-      "title": "Zulu (1964)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/zulu/",
-      "showtimes": [
-        {
-          "time": "4:00 PM",
-          "link": "https://www.moma.org/calendar/events/10702"
         }
       ]
     },
@@ -442,18 +382,6 @@
         {
           "time": "1:00 PM",
           "link": "https://my.filmforum.org/ikiru-kurosawa/45322"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 11",
-      "title": "Kwaidan (1964)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/kwaidan/",
-      "showtimes": [
-        {
-          "time": "8:30 PM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/19292379/"
         }
       ]
     },
@@ -1767,9 +1695,9 @@
     },
     {
       "date": "Sun, Aug 17",
-      "title": "Mirror (1992)",
+      "title": "Mirror (2020)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/mirror-1992/",
+      "letterboxdURL": "https://letterboxd.com/film/mirror-2020/",
       "showtimes": [
         {
           "time": "1:30 PM",
@@ -1851,7 +1779,7 @@
     },
     {
       "date": "Mon, Aug 18",
-      "title": "Gun Crazy (1950)",
+      "title": "Gun Crazy (1992)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/gun-crazy/",
       "showtimes": [
@@ -2223,9 +2151,9 @@
     },
     {
       "date": "Thu, Aug 21",
-      "title": "Blue Steel (1934)",
+      "title": "Blue Steel (1990)",
       "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/blue-steel/",
+      "letterboxdURL": "https://letterboxd.com/film/blue-steel-1990/",
       "showtimes": [
         {
           "time": "8:35 PM",
@@ -2259,9 +2187,9 @@
     },
     {
       "date": "Thu, Aug 21",
-      "title": "Mirror (1992)",
+      "title": "Mirror (2020)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/mirror-1992/",
+      "letterboxdURL": "https://letterboxd.com/film/mirror-2020/",
       "showtimes": [
         {
           "time": "4:30 PM",
@@ -2331,9 +2259,9 @@
     },
     {
       "date": "Fri, Aug 22",
-      "title": "Blue Steel (1934)",
+      "title": "Blue Steel (1990)",
       "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/blue-steel/",
+      "letterboxdURL": "https://letterboxd.com/film/blue-steel-1990/",
       "showtimes": [
         {
           "time": "6:00 PM",
@@ -2799,7 +2727,7 @@
     },
     {
       "date": "Mon, Aug 25",
-      "title": "Gun Crazy (1950)",
+      "title": "Gun Crazy (1992)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/gun-crazy/",
       "showtimes": [
@@ -2883,6 +2811,18 @@
     },
     {
       "date": "Tue, Aug 26",
+      "title": "Billion Dollar Brain (1967)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/billion-dollar-brain/",
+      "showtimes": [
+        {
+          "time": "7:00 PM",
+          "link": "https://www.moma.org/calendar/events/10781"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 26",
       "title": "Bonnie And Clyde (1967)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/bonnie-and-clyde/",
@@ -2907,7 +2847,7 @@
     },
     {
       "date": "Tue, Aug 26",
-      "title": "Gun Crazy (1950)",
+      "title": "Gun Crazy (1992)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/gun-crazy/",
       "showtimes": [
@@ -2991,9 +2931,9 @@
     },
     {
       "date": "Wed, Aug 27",
-      "title": "Blue Steel (1934)",
+      "title": "Blue Steel (1990)",
       "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/blue-steel/",
+      "letterboxdURL": "https://letterboxd.com/film/blue-steel-1990/",
       "showtimes": [
         {
           "time": "3:40 PM",
@@ -3010,6 +2950,18 @@
         {
           "time": "8:45 PM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19290160/"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 27",
+      "title": "Deathtrap (1982)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/deathtrap/",
+      "showtimes": [
+        {
+          "time": "4:00 PM",
+          "link": "https://www.moma.org/calendar/events/10717"
         }
       ]
     },
@@ -3979,9 +3931,9 @@
     },
     {
       "date": "Tue, Sep 2",
-      "title": "The Organizer (2017)",
+      "title": "The Organizer (1967)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-organizer-2017/",
+      "letterboxdURL": "https://letterboxd.com/film/the-organizer/",
       "showtimes": [
         {
           "time": "6:45 PM",
@@ -4099,9 +4051,9 @@
     },
     {
       "date": "Wed, Sep 3",
-      "title": "The Organizer (2017)",
+      "title": "The Organizer (1967)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-organizer-2017/",
+      "letterboxdURL": "https://letterboxd.com/film/the-organizer/",
       "showtimes": [
         {
           "time": "6:45 PM",
@@ -4542,6 +4494,42 @@
       ]
     },
     {
+      "date": "Tue, Sep 9",
+      "title": "A Place in the Sun (1951)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/a-place-in-the-sun/",
+      "showtimes": [
+        {
+          "time": "4:00 PM",
+          "link": "https://tickets.bam.org/production/?pid=49751"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Sep 9",
+      "title": "Playtime (1967)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/playtime/",
+      "showtimes": [
+        {
+          "time": "6:45 PM",
+          "link": "https://tickets.bam.org/production/?pid=49753"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Sep 9",
+      "title": "The Misfits (2021)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/the-misfits-2021/",
+      "showtimes": [
+        {
+          "time": "9:20 PM",
+          "link": "https://tickets.bam.org/production/?pid=49743"
+        }
+      ]
+    },
+    {
       "date": "Thu, Sep 11",
       "title": "Island of the Blue Dolphins (1964)",
       "theater": "Nitehawk WB",
@@ -4790,18 +4778,6 @@
         {
           "time": "2:40 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27650"
-        }
-      ]
-    },
-    {
-      "date": "Sunday August 10",
-      "title": "Belly [35mm] (1998)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/belly/",
-      "showtimes": [
-        {
-          "time": "9:30 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27591"
         }
       ]
     },
@@ -5174,98 +5150,6 @@
         {
           "time": "4:45 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27730"
-        }
-      ]
-    },
-    {
-      "date": "Sun Aug 10, 2025",
-      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/in-the-mood-for-love-2000/",
-      "showtimes": [
-        {
-          "time": "11:15 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=511586~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "4:20 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=511572~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:30 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=511587~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Mon Aug 11, 2025",
-      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/in-the-mood-for-love-2000/",
-      "showtimes": [
-        {
-          "time": "11:15 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=511576~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "4:20 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=511577~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:30 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=511573~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Tue Aug 12, 2025",
-      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/in-the-mood-for-love-2000/",
-      "showtimes": [
-        {
-          "time": "11:15 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512389~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "4:20 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=511583~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:00 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=511578~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Wed Aug 13, 2025",
-      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/in-the-mood-for-love-2000/",
-      "showtimes": [
-        {
-          "time": "4:20 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=511574~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:00 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=511582~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Thu Aug 14, 2025",
-      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/in-the-mood-for-love-2000/",
-      "showtimes": [
-        {
-          "time": "4:20 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=511575~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:30 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=511589~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -5814,18 +5698,6 @@
         {
           "time": "5:10 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27639"
-        }
-      ]
-    },
-    {
-      "date": "Sunday August 10",
-      "title": "School in the Crosshairs (1981)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/school-in-the-crosshairs/",
-      "showtimes": [
-        {
-          "time": "9:35 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27592"
         }
       ]
     },
