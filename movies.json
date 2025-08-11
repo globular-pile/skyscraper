@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-11T09:19:34.491953",
+  "lastUpdated": "2025-08-11T09:56:43.859333",
   "movies": [
     {
       "date": "Fri, Aug 1",
@@ -2073,7 +2073,7 @@
       "showtimes": [
         {
           "time": "9:30 PM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/19292689/"
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19771436/"
         }
       ]
     },
@@ -3835,6 +3835,18 @@
     },
     {
       "date": "Tue, Sep 2",
+      "title": "Junebug (2005)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/junebug/",
+      "showtimes": [
+        {
+          "time": "9:15 PM",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19728096/"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Sep 2",
       "title": "La Femme Nikita (1990)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/la-femme-nikita/",
@@ -4231,6 +4243,34 @@
     },
     {
       "date": "Fri, Sep 5",
+      "title": "Four Nights Of A Dreamer (1971)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/four-nights-of-a-dreamer/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/45326/45327"
+        },
+        {
+          "time": "2:30 PM",
+          "link": "https://my.filmforum.org/45326/45328"
+        },
+        {
+          "time": "4:30 PM",
+          "link": "https://my.filmforum.org/45326/45329"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://my.filmforum.org/45326/45330"
+        },
+        {
+          "time": "8:30 PM",
+          "link": "https://my.filmforum.org/45326/45331"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Sep 5",
       "title": "Mad Max: Fury Road (2015)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/mad-max-fury-road-2015/",
@@ -4291,6 +4331,18 @@
     },
     {
       "date": "Fri, Sep 5",
+      "title": "Tenebrae (1982)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/tenebrae/",
+      "showtimes": [
+        {
+          "time": "11:55 PM",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19728017/"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Sep 5",
       "title": "The Thing (1982)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/the-thing/",
@@ -4322,6 +4374,22 @@
         {
           "time": "5:30 PM",
           "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1435/seats"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Sep 6",
+      "title": "Four Nights Of A Dreamer (1971)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/four-nights-of-a-dreamer/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/45326/45332"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://my.filmforum.org/45326/45363"
         }
       ]
     },
@@ -4363,6 +4431,18 @@
     },
     {
       "date": "Sat, Sep 6",
+      "title": "Tenebrae (1982)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/tenebrae/",
+      "showtimes": [
+        {
+          "time": "11:55 PM",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19728018/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Sep 6",
       "title": "The Doors (1991)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/the-doors/",
@@ -4394,6 +4474,22 @@
         {
           "time": "7:05 PM",
           "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1412/seats"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Sep 7",
+      "title": "Four Nights Of A Dreamer (1971)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/four-nights-of-a-dreamer/",
+      "showtimes": [
+        {
+          "time": "12:45 PM",
+          "link": "https://my.filmforum.org/45326/45333"
+        },
+        {
+          "time": "6:45 PM",
+          "link": "https://my.filmforum.org/45326/45364"
         }
       ]
     },
@@ -4471,6 +4567,30 @@
     },
     {
       "date": "Mon, Sep 8",
+      "title": "Four Nights Of A Dreamer (1971)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/four-nights-of-a-dreamer/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/45326/45334"
+        },
+        {
+          "time": "2:30 PM",
+          "link": "https://my.filmforum.org/45326/45345"
+        },
+        {
+          "time": "4:30 PM",
+          "link": "https://my.filmforum.org/45326/45354"
+        },
+        {
+          "time": "8:30 PM",
+          "link": "https://my.filmforum.org/45326/45365"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Sep 8",
       "title": "S.O.B. (1981)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/sob/",
@@ -4507,6 +4627,42 @@
     },
     {
       "date": "Tue, Sep 9",
+      "title": "Feathers (2021) (2021)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/feathers-2021/",
+      "showtimes": [
+        {
+          "time": "7:00 PM",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19727960/"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Sep 9",
+      "title": "Four Nights Of A Dreamer (1971)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/four-nights-of-a-dreamer/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/45326/45335"
+        },
+        {
+          "time": "2:30 PM",
+          "link": "https://my.filmforum.org/45326/45346"
+        },
+        {
+          "time": "4:30 PM",
+          "link": "https://my.filmforum.org/45326/45355"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://my.filmforum.org/45326/45366"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Sep 9",
       "title": "Playtime (1967)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/playtime/",
@@ -4526,6 +4682,30 @@
         {
           "time": "9:20 PM",
           "link": "https://tickets.bam.org/production/?pid=49743"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Sep 10",
+      "title": "Four Nights Of A Dreamer (1971)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/four-nights-of-a-dreamer/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/45326/45336"
+        },
+        {
+          "time": "2:30 PM",
+          "link": "https://my.filmforum.org/45326/45347"
+        },
+        {
+          "time": "4:30 PM",
+          "link": "https://my.filmforum.org/45326/45356"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://my.filmforum.org/45326/45367"
         }
       ]
     },
