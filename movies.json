@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-11T01:15:46.037088",
+  "lastUpdated": "2025-08-11T08:38:18.009269",
   "movies": [
     {
       "date": "Fri, Aug 1",
@@ -315,6 +315,102 @@
     },
     {
       "date": "Mon, Aug 11",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "12:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "2:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "2:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "4:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "4:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 11",
       "title": "A Night at the Opera (1935)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/a-night-at-the-opera/",
@@ -554,6 +650,118 @@
         {
           "time": "7:00 PM",
           "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1355/seats"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 12",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "12:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "2:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "2:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "4:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "4:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
         }
       ]
     },
@@ -799,6 +1007,110 @@
     },
     {
       "date": "Wed, Aug 13",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "12:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "2:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "2:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "4:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "4:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 13",
       "title": "An Officer And A Spy (2019)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
@@ -1014,6 +1326,118 @@
         {
           "time": "9:10 PM",
           "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/44897"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 14",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "12:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "2:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "2:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "4:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "4:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
         }
       ]
     },
@@ -1251,6 +1675,58 @@
     },
     {
       "date": "Fri, Aug 15",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "1:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "9:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "9:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Aug 15",
       "title": "An Officer And A Spy (2019)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
@@ -1390,6 +1866,62 @@
         {
           "time": "11:55 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19292669/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 16",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "1:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "4:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "4:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "9:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
         }
       ]
     },
@@ -1558,6 +2090,62 @@
         {
           "time": "5:15 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=08&year=2025#showing-59768"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 17",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "1:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "9:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
         }
       ]
     },
@@ -1743,6 +2331,62 @@
     },
     {
       "date": "Mon, Aug 18",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "1:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "9:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "9:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 18",
       "title": "An Officer And A Spy (2019)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
@@ -1863,6 +2507,26 @@
     },
     {
       "date": "Tue, Aug 19",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "6:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 19",
       "title": "Aliens (1986)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/aliens/",
@@ -1923,9 +2587,9 @@
     },
     {
       "date": "Tue, Aug 19",
-      "title": "Ghost In The Shell (1995)",
+      "title": "Ghost In The Shell (2017)",
       "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/ghost-in-the-shell/",
+      "letterboxdURL": "https://letterboxd.com/film/ghost-in-the-shell-2017/",
       "showtimes": [
         {
           "time": "8:50 PM",
@@ -1966,6 +2630,26 @@
         {
           "time": "5:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49381"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 20",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "9:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "9:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
         }
       ]
     },
@@ -2115,6 +2799,22 @@
     },
     {
       "date": "Thu, Aug 21",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "6:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "9:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 21",
       "title": "A Touch Of Zen (1970)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/a-touch-of-zen/",
@@ -2230,6 +2930,50 @@
         {
           "time": "6:30 PM",
           "link": "https://www.moma.org/calendar/events/10712"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
         }
       ]
     },
@@ -2379,6 +3123,50 @@
     },
     {
       "date": "Sat, Aug 23",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "12:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
       "title": "A Touch Of Zen (1970)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/a-touch-of-zen/",
@@ -2518,6 +3306,54 @@
         {
           "time": "4:00 PM",
           "link": "https://www.moma.org/calendar/events/10715"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "1:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
         }
       ]
     },
@@ -2679,6 +3515,54 @@
     },
     {
       "date": "Mon, Aug 25",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "1:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "2:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "2:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 25",
       "title": "Aftersun (2022)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/aftersun-2022/",
@@ -2794,6 +3678,30 @@
         {
           "time": "6:30 PM",
           "link": "https://www.moma.org/calendar/events/10715"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 26",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "2:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "2:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
         }
       ]
     },
@@ -2926,6 +3834,30 @@
         {
           "time": "5:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49515"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 27",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
         }
       ]
     },
@@ -3075,6 +4007,30 @@
     },
     {
       "date": "Thu, Aug 28",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 28",
       "title": "Bonnie And Clyde (1967)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/bonnie-and-clyde/",
@@ -3154,6 +4110,58 @@
         {
           "time": "6:30 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=08&year=2025#showing-59892"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Aug 29",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "12:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "9:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "9:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
         }
       ]
     },
@@ -3278,6 +4286,58 @@
         {
           "time": "3:30 PM",
           "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1391/seats"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 30",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "12:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "2:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "2:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "9:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "9:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
         }
       ]
     },
@@ -3511,6 +4571,54 @@
     },
     {
       "date": "Sun, Aug 31",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "12:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "5:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "9:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "9:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 31",
       "title": "BlacKkKlansman (2018)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/blackkklansman/",
@@ -3674,6 +4782,70 @@
         {
           "time": "3:30 PM",
           "link": "https://my.filmforum.org/the-heroic-trio-wia/45041"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Sep 1",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "12:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "12:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "12:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "12:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "12:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "3:15 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
         }
       ]
     },
@@ -3943,6 +5115,30 @@
     },
     {
       "date": "Wed, Sep 3",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "1:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Sep 3",
       "title": "BlacKkKlansman (2018)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/blackkklansman/",
@@ -4070,6 +5266,30 @@
         {
           "time": "1:25 PM",
           "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1402/seats"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Sep 4",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "1:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:45 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
         }
       ]
     },
@@ -4219,6 +5439,26 @@
     },
     {
       "date": "Fri, Sep 5",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "4:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "7:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Sep 5",
       "title": "Female Trouble (1974)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/female-trouble/",
@@ -4315,6 +5555,26 @@
     },
     {
       "date": "Sat, Sep 6",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "4:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "7:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Sep 6",
       "title": "Dune (1984)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/dune/",
@@ -4382,6 +5642,26 @@
         {
           "time": "6:45 PM",
           "link": "https://tickets.bam.org/production/?pid=49731"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Sep 7",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "4:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "7:30 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
         }
       ]
     },
@@ -4566,7 +5846,203 @@
       ]
     },
     {
-      "date": "Fri Aug 15, 2025",
+      "date": "Mon, Oct 20",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "12:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "12:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Oct 21",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "12:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "12:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Nov 18",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "12:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "12:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Nov 19",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "12:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "12:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Nov 22",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Nov 24",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "12:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "12:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Dec 13",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Dec 15",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "12:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "12:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Jan 10",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Jan 12",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "12:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "12:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        }
+      ]
+    },
+    {
+      "date": "Fri, May 2",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        }
+      ]
+    },
+    {
+      "date": "Sun, May 4",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "12:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "12:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        }
+      ]
+    },
+    {
+      "date": "Fri, May 30",
+      "title": "A Girl Is a Gun (1943)",
+      "theater": "Lincoln Center",
+      "letterboxdURL": "https://letterboxd.com/film/a-girl-is-a-gun/",
+      "showtimes": [
+        {
+          "time": "12:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "12:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        },
+        {
+          "time": "1:00 PM",
+          "link": "https://www.filmlinc.org/films/a-girl-is-a-gun/"
+        }
+      ]
+    },
+    {
+      "date": "Fri Aug 15",
       "title": "A Better Tomorrow (1986)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/a-better-tomorrow/",
@@ -4578,7 +6054,7 @@
       ]
     },
     {
-      "date": "Sat Aug 16, 2025",
+      "date": "Sat Aug 16",
       "title": "A Better Tomorrow (1986)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/a-better-tomorrow/",
@@ -4590,7 +6066,7 @@
       ]
     },
     {
-      "date": "Sun Aug 17, 2025",
+      "date": "Sun Aug 17",
       "title": "A Better Tomorrow (1986)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/a-better-tomorrow/",
@@ -4602,7 +6078,7 @@
       ]
     },
     {
-      "date": "Sun Aug 17, 2025",
+      "date": "Sun Aug 17",
       "title": "A Better Tomorrow II (1987)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/a-better-tomorrow-ii/",
@@ -4614,7 +6090,7 @@
       ]
     },
     {
-      "date": "Sat Aug 16, 2025",
+      "date": "Sat Aug 16",
       "title": "A Better Tomorrow III: Love and Death in Saigon (1989)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/a-better-tomorrow-iii-love-and-death-in-saigon/",
@@ -4626,7 +6102,7 @@
       ]
     },
     {
-      "date": "Sun Aug 17, 2025",
+      "date": "Sun Aug 17",
       "title": "A Better Tomorrow III: Love and Death in Saigon (1989)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/a-better-tomorrow-iii-love-and-death-in-saigon/",
@@ -4746,7 +6222,7 @@
       ]
     },
     {
-      "date": "Mon Aug 11, 2025",
+      "date": "Mon Aug 11",
       "title": "Babe: Pig in the City (1998)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/babe-pig-in-the-city/",
@@ -4758,7 +6234,7 @@
       ]
     },
     {
-      "date": "Tue Aug 12, 2025",
+      "date": "Tue Aug 12",
       "title": "Babe: Pig in the City (1998)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/babe-pig-in-the-city/",
@@ -4770,7 +6246,7 @@
       ]
     },
     {
-      "date": "Wed Aug 13, 2025",
+      "date": "Wed Aug 13",
       "title": "Babe: Pig in the City (1998)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/babe-pig-in-the-city/",
@@ -4782,7 +6258,7 @@
       ]
     },
     {
-      "date": "Thu Aug 14, 2025",
+      "date": "Thu Aug 14",
       "title": "Babe: Pig in the City (1998)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/babe-pig-in-the-city/",
@@ -4878,7 +6354,7 @@
       ]
     },
     {
-      "date": "Fri Aug 15, 2025",
+      "date": "Fri Aug 15",
       "title": "City on Fire (1987)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/city-on-fire/",
@@ -4890,7 +6366,7 @@
       ]
     },
     {
-      "date": "Sat Aug 16, 2025",
+      "date": "Sat Aug 16",
       "title": "City on Fire (1987)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/city-on-fire/",
@@ -5190,7 +6666,7 @@
       ]
     },
     {
-      "date": "Mon Aug 11, 2025",
+      "date": "Mon Aug 11",
       "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/in-the-mood-for-love-2000/",
@@ -5210,7 +6686,7 @@
       ]
     },
     {
-      "date": "Tue Aug 12, 2025",
+      "date": "Tue Aug 12",
       "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/in-the-mood-for-love-2000/",
@@ -5230,7 +6706,7 @@
       ]
     },
     {
-      "date": "Wed Aug 13, 2025",
+      "date": "Wed Aug 13",
       "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/in-the-mood-for-love-2000/",
@@ -5246,7 +6722,7 @@
       ]
     },
     {
-      "date": "Thu Aug 14, 2025",
+      "date": "Thu Aug 14",
       "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/in-the-mood-for-love-2000/",
@@ -5490,7 +6966,7 @@
       ]
     },
     {
-      "date": "Mon Aug 11, 2025",
+      "date": "Mon Aug 11",
       "title": "Night of the Juggler (1980)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/night-of-the-juggler/",
@@ -5506,7 +6982,7 @@
       ]
     },
     {
-      "date": "Tue Aug 12, 2025",
+      "date": "Tue Aug 12",
       "title": "Night of the Juggler (1980)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/night-of-the-juggler/",
@@ -5522,7 +6998,7 @@
       ]
     },
     {
-      "date": "Wed Aug 13, 2025",
+      "date": "Wed Aug 13",
       "title": "Night of the Juggler (1980)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/night-of-the-juggler/",
@@ -5542,7 +7018,7 @@
       ]
     },
     {
-      "date": "Thu Aug 14, 2025",
+      "date": "Thu Aug 14",
       "title": "Night of the Juggler (1980)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/night-of-the-juggler/",
@@ -5634,7 +7110,7 @@
       ]
     },
     {
-      "date": "Fri Aug 15, 2025",
+      "date": "Fri Aug 15",
       "title": "Peking Opera Blues (1986)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/peking-opera-blues/",
@@ -5646,7 +7122,7 @@
       ]
     },
     {
-      "date": "Sat Aug 16, 2025",
+      "date": "Sat Aug 16",
       "title": "Peking Opera Blues (1986)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/peking-opera-blues/",
@@ -5658,7 +7134,7 @@
       ]
     },
     {
-      "date": "Sun Aug 17, 2025",
+      "date": "Sun Aug 17",
       "title": "Peking Opera Blues (1986)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/peking-opera-blues/",
@@ -5934,7 +7410,7 @@
       ]
     },
     {
-      "date": "Mon Aug 11, 2025",
+      "date": "Mon Aug 11",
       "title": "The Edge of the World (1937)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/the-edge-of-the-world/",
@@ -6054,7 +7530,7 @@
       ]
     },
     {
-      "date": "Fri Aug 15, 2025",
+      "date": "Fri Aug 15",
       "title": "The Killer (1989)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/the-killer-1989/",
@@ -6070,7 +7546,7 @@
       ]
     },
     {
-      "date": "Sat Aug 16, 2025",
+      "date": "Sat Aug 16",
       "title": "The Killer (1989)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/the-killer-1989/",
@@ -6082,7 +7558,7 @@
       ]
     },
     {
-      "date": "Sun Aug 17, 2025",
+      "date": "Sun Aug 17",
       "title": "The Killer (1989)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/the-killer-1989/",
@@ -6118,7 +7594,7 @@
       ]
     },
     {
-      "date": "Mon Aug 11, 2025",
+      "date": "Mon Aug 11",
       "title": "The Lovers on the Bridge (1991)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/the-lovers-on-the-bridge/",
@@ -6142,7 +7618,7 @@
       ]
     },
     {
-      "date": "Tue Aug 12, 2025",
+      "date": "Tue Aug 12",
       "title": "The Lovers on the Bridge (1991)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/the-lovers-on-the-bridge/",
@@ -6166,7 +7642,7 @@
       ]
     },
     {
-      "date": "Wed Aug 13, 2025",
+      "date": "Wed Aug 13",
       "title": "The Lovers on the Bridge (1991)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/the-lovers-on-the-bridge/",
@@ -6190,7 +7666,7 @@
       ]
     },
     {
-      "date": "Thu Aug 14, 2025",
+      "date": "Thu Aug 14",
       "title": "The Lovers on the Bridge (1991)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/the-lovers-on-the-bridge/",
