@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-21T17:53:46.729839",
+  "lastUpdated": "2025-08-21T18:25:40.397542",
   "movies": [
     {
       "date": "Fri, Aug 1",
@@ -478,18 +478,6 @@
         {
           "time": "8:35 PM",
           "link": "https://my.filmforum.org/blue-steel-wia/45007"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Aug 21",
-      "title": "Cleopatra Jones (1973)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/cleopatra-jones/",
-      "showtimes": [
-        {
-          "time": "6:35 PM",
-          "link": "https://my.filmforum.org/cleopatra-jones-wia/45001"
         }
       ]
     },
@@ -4367,6 +4355,18 @@
     },
     {
       "date": "Sat, Sep 13",
+      "title": "Green Border (2023)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/green-border/",
+      "showtimes": [
+        {
+          "time": "4:15 PM",
+          "link": "https://tickets.bam.org/production/?pid=49941"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Sep 13",
       "title": "Hot Fuzz (2007)",
       "theater": "Nitehawk WB",
       "letterboxdURL": "https://letterboxd.com/film/hot-fuzz/",
@@ -4539,6 +4539,30 @@
     },
     {
       "date": "Sun, Sep 14",
+      "title": "The Noose (1987)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/the-noose/",
+      "showtimes": [
+        {
+          "time": "4:45 PM",
+          "link": "https://tickets.bam.org/production/?pid=49945"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Sep 14",
+      "title": "The Saragossa Manuscript (1965)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/the-saragossa-manuscript/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://tickets.bam.org/production/?pid=49947"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Sep 14",
       "title": "Tropic Thunder (2008)",
       "theater": "Nitehawk PP",
       "letterboxdURL": "https://letterboxd.com/film/tropic-thunder/",
@@ -4546,6 +4570,18 @@
         {
           "time": "11:00 AM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19774141/"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Sep 14",
+      "title": "Woman Of\u2026 (1992)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/woman-of/",
+      "showtimes": [
+        {
+          "time": "7:00 PM",
+          "link": "https://tickets.bam.org/production/?pid=49949"
         }
       ]
     },
@@ -4587,6 +4623,18 @@
     },
     {
       "date": "Mon, Sep 15",
+      "title": "Filip (2015)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/filip/",
+      "showtimes": [
+        {
+          "time": "9:15 PM",
+          "link": "https://tickets.bam.org/production/?pid=49953"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Sep 15",
       "title": "Four Nights Of A Dreamer (1971)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/four-nights-of-a-dreamer/",
@@ -4618,6 +4666,18 @@
         {
           "time": "9:15 PM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19819632/"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Sep 15",
+      "title": "Trains (2020)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/trains-2020/",
+      "showtimes": [
+        {
+          "time": "7:00 PM",
+          "link": "https://tickets.bam.org/production/?pid=49951"
         }
       ]
     },
@@ -4682,6 +4742,18 @@
         {
           "time": "8:30 PM",
           "link": "https://my.filmforum.org/four-nights-of-a-dreamer/45391"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Sep 16",
+      "title": "Pianoforte (2023)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/pianoforte-2023/",
+      "showtimes": [
+        {
+          "time": "9:30 PM",
+          "link": "https://tickets.bam.org/production/?pid=49957"
         }
       ]
     },
@@ -4766,6 +4838,18 @@
         {
           "time": "9:15 PM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19819308/"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Sep 17",
+      "title": "The Peasants (2023)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/the-peasants-2023/",
+      "showtimes": [
+        {
+          "time": "9:00 PM",
+          "link": "https://tickets.bam.org/production/?pid=49963"
         }
       ]
     },
@@ -5230,7 +5314,7 @@
       ]
     },
     {
-      "date": "Thursday August 28",
+      "date": "Thursday August 28, 2025",
       "title": "A Brighter Summer Day (1991)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/a-brighter-summer-day/",
@@ -5374,7 +5458,7 @@
       ]
     },
     {
-      "date": "Saturday September 6",
+      "date": "Saturday September 6, 2025",
       "title": "A Gentle Creature (2017)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/a-gentle-creature-2017/",
@@ -5386,7 +5470,7 @@
       ]
     },
     {
-      "date": "Sunday September 7",
+      "date": "Sunday September 7, 2025",
       "title": "A Gentle Creature (2017)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/a-gentle-creature-2017/",
@@ -5398,7 +5482,7 @@
       ]
     },
     {
-      "date": "Sunday August 24",
+      "date": "Sunday August 24, 2025",
       "title": "All About Lily Chou-Chou (2001)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/all-about-lily-chou-chou/",
@@ -5410,7 +5494,7 @@
       ]
     },
     {
-      "date": "Wednesday August 27",
+      "date": "Wednesday August 27, 2025",
       "title": "All About Lily Chou-Chou (2001)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/all-about-lily-chou-chou/",
@@ -5422,7 +5506,7 @@
       ]
     },
     {
-      "date": "Saturday August 30",
+      "date": "Saturday August 30, 2025",
       "title": "All About Lily Chou-Chou (2001)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/all-about-lily-chou-chou/",
@@ -5434,7 +5518,7 @@
       ]
     },
     {
-      "date": "Sunday August 31",
+      "date": "Sunday August 31, 2025",
       "title": "All About Lily Chou-Chou (2001)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/all-about-lily-chou-chou/",
@@ -5446,7 +5530,7 @@
       ]
     },
     {
-      "date": "Sunday September 7",
+      "date": "Sunday September 7, 2025",
       "title": "All About Lily Chou-Chou (2001)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/all-about-lily-chou-chou/",
@@ -5458,7 +5542,7 @@
       ]
     },
     {
-      "date": "Sunday August 31",
+      "date": "Sunday August 31, 2025",
       "title": "Apocalypse Now: Final Cut (1979)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/apocalypse-now-final-cut/",
@@ -5470,7 +5554,7 @@
       ]
     },
     {
-      "date": "Saturday August 23",
+      "date": "Saturday August 23, 2025",
       "title": "Apocalypse Now: Redux (2001)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/apocalypse-now-redux-2001/",
@@ -5482,7 +5566,7 @@
       ]
     },
     {
-      "date": "Saturday August 30",
+      "date": "Saturday August 30, 2025",
       "title": "Apocalypse Now: Redux (2001)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/apocalypse-now-redux-2001/",
@@ -5494,7 +5578,7 @@
       ]
     },
     {
-      "date": "Monday August 25",
+      "date": "Monday August 25, 2025",
       "title": "Battle Royale (2000)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/battle-royale/",
@@ -5506,7 +5590,7 @@
       ]
     },
     {
-      "date": "Thursday August 21",
+      "date": "Thursday August 21, 2025",
       "title": "Belly [35mm] (1998)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/belly/",
@@ -5518,7 +5602,7 @@
       ]
     },
     {
-      "date": "Tuesday August 26",
+      "date": "Tuesday August 26, 2025",
       "title": "Belly [35mm] (1998)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/belly/",
@@ -5530,7 +5614,7 @@
       ]
     },
     {
-      "date": "Thursday August 28",
+      "date": "Thursday August 28, 2025",
       "title": "Belly [DCP] (1998)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/belly/",
@@ -5646,7 +5730,7 @@
       ]
     },
     {
-      "date": "Friday August 22",
+      "date": "Friday August 22, 2025",
       "title": "Burst City (1982)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/burst-city/",
@@ -5658,7 +5742,7 @@
       ]
     },
     {
-      "date": "Sunday August 24",
+      "date": "Sunday August 24, 2025",
       "title": "Burst City (1982)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/burst-city/",
@@ -5670,7 +5754,7 @@
       ]
     },
     {
-      "date": "Wednesday August 27",
+      "date": "Wednesday August 27, 2025",
       "title": "Burst City (1982)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/burst-city/",
@@ -5694,7 +5778,7 @@
       ]
     },
     {
-      "date": "Saturday August 30",
+      "date": "Saturday August 30, 2025",
       "title": "Cockfighter (1974)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/cockfighter/",
@@ -5706,7 +5790,7 @@
       ]
     },
     {
-      "date": "Monday September 1",
+      "date": "Monday September 1, 2025",
       "title": "Cockfighter (1974)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/cockfighter/",
@@ -5718,7 +5802,7 @@
       ]
     },
     {
-      "date": "Friday August 22",
+      "date": "Friday August 22, 2025",
       "title": "Come Drink with Me (1966)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/come-drink-with-me/",
@@ -5730,7 +5814,7 @@
       ]
     },
     {
-      "date": "Saturday August 23",
+      "date": "Saturday August 23, 2025",
       "title": "Come Drink with Me (1966)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/come-drink-with-me/",
@@ -5742,7 +5826,7 @@
       ]
     },
     {
-      "date": "Friday August 22",
+      "date": "Friday August 22, 2025",
       "title": "Days of Heaven (1978)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/days-of-heaven/",
@@ -5754,7 +5838,7 @@
       ]
     },
     {
-      "date": "Sunday August 24",
+      "date": "Sunday August 24, 2025",
       "title": "Days of Heaven (1978)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/days-of-heaven/",
@@ -5766,7 +5850,7 @@
       ]
     },
     {
-      "date": "Friday August 29",
+      "date": "Friday August 29, 2025",
       "title": "Days of Heaven (1978)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/days-of-heaven/",
@@ -5778,7 +5862,7 @@
       ]
     },
     {
-      "date": "Monday September 1",
+      "date": "Monday September 1, 2025",
       "title": "Days of Heaven (1978)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/days-of-heaven/",
@@ -5790,7 +5874,7 @@
       ]
     },
     {
-      "date": "Sunday August 24",
+      "date": "Sunday August 24, 2025",
       "title": "Dilwale Dulhania Le Jayenge (1995)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/dilwale-dulhania-le-jayenge/",
@@ -5802,7 +5886,7 @@
       ]
     },
     {
-      "date": "Wednesday August 27",
+      "date": "Wednesday August 27, 2025",
       "title": "Dilwale Dulhania Le Jayenge (1995)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/dilwale-dulhania-le-jayenge/",
@@ -5814,7 +5898,7 @@
       ]
     },
     {
-      "date": "Friday September 5",
+      "date": "Friday September 5, 2025",
       "title": "Dirty Harry [35mm] (1971)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/dirty-harry/",
@@ -5826,7 +5910,7 @@
       ]
     },
     {
-      "date": "Sunday September 7",
+      "date": "Sunday September 7, 2025",
       "title": "Dirty Harry [35mm] (1971)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/dirty-harry/",
@@ -5978,7 +6062,7 @@
       ]
     },
     {
-      "date": "Tuesday August 26",
+      "date": "Tuesday August 26, 2025",
       "title": "Downtown 81 (2000)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/downtown-81/",
@@ -5990,7 +6074,7 @@
       ]
     },
     {
-      "date": "Sunday August 31",
+      "date": "Sunday August 31, 2025",
       "title": "Edward Scissorhands (1990)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/edward-scissorhands/",
@@ -6002,7 +6086,7 @@
       ]
     },
     {
-      "date": "Monday September 1",
+      "date": "Monday September 1, 2025",
       "title": "Edward Scissorhands (1990)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/edward-scissorhands/",
@@ -6014,7 +6098,7 @@
       ]
     },
     {
-      "date": "Saturday September 6",
+      "date": "Saturday September 6, 2025",
       "title": "Farewell My Concubine (1993)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/farewell-my-concubine/",
@@ -6026,7 +6110,7 @@
       ]
     },
     {
-      "date": "Friday September 5",
+      "date": "Friday September 5, 2025",
       "title": "Four Adventures of Reinette and Mirabelle (1987)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/four-adventures-of-reinette-and-mirabelle/",
@@ -6038,7 +6122,7 @@
       ]
     },
     {
-      "date": "Monday August 25",
+      "date": "Monday August 25, 2025",
       "title": "Happiness (1998)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/happiness/",
@@ -6142,7 +6226,7 @@
       ]
     },
     {
-      "date": "Tuesday August 26",
+      "date": "Tuesday August 26, 2025",
       "title": "Hedwig and the Angry Inch (2001)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/hedwig-and-the-angry-inch/",
@@ -6154,7 +6238,7 @@
       ]
     },
     {
-      "date": "Friday August 29",
+      "date": "Friday August 29, 2025",
       "title": "High Fidelity (2000)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/high-fidelity/",
@@ -6166,7 +6250,7 @@
       ]
     },
     {
-      "date": "Sunday August 31",
+      "date": "Sunday August 31, 2025",
       "title": "High Fidelity (2000)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/high-fidelity/",
@@ -6178,7 +6262,7 @@
       ]
     },
     {
-      "date": "Saturday August 23",
+      "date": "Saturday August 23, 2025",
       "title": "House of Hummingbird (2019)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/house-of-hummingbird/",
@@ -6190,7 +6274,7 @@
       ]
     },
     {
-      "date": "Sunday August 24",
+      "date": "Sunday August 24, 2025",
       "title": "House of Hummingbird (2019)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/house-of-hummingbird/",
@@ -6202,7 +6286,7 @@
       ]
     },
     {
-      "date": "Wednesday August 27",
+      "date": "Wednesday August 27, 2025",
       "title": "House of Hummingbird (2019)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/house-of-hummingbird/",
@@ -6322,7 +6406,7 @@
       ]
     },
     {
-      "date": "Saturday August 30",
+      "date": "Saturday August 30, 2025",
       "title": "Koko: A Talking Gorilla (1978)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/koko-a-talking-gorilla/",
@@ -6334,7 +6418,7 @@
       ]
     },
     {
-      "date": "Friday August 29",
+      "date": "Friday August 29, 2025",
       "title": "La Collectionneuse (1967)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/la-collectionneuse/",
@@ -6346,7 +6430,7 @@
       ]
     },
     {
-      "date": "Sunday August 31",
+      "date": "Sunday August 31, 2025",
       "title": "La Collectionneuse (1967)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/la-collectionneuse/",
@@ -6358,7 +6442,7 @@
       ]
     },
     {
-      "date": "Saturday September 6",
+      "date": "Saturday September 6, 2025",
       "title": "La Piscine (1969)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/la-piscine/",
@@ -6370,7 +6454,7 @@
       ]
     },
     {
-      "date": "Sunday September 7",
+      "date": "Sunday September 7, 2025",
       "title": "La Piscine (1969)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/la-piscine/",
@@ -6382,7 +6466,7 @@
       ]
     },
     {
-      "date": "Saturday August 30",
+      "date": "Saturday August 30, 2025",
       "title": "Love and Pop (1998)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/search/Love%20and%20Pop+1998/",
@@ -6394,7 +6478,7 @@
       ]
     },
     {
-      "date": "Sunday August 31",
+      "date": "Sunday August 31, 2025",
       "title": "Love and Pop (1998)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/search/Love%20and%20Pop+1998/",
@@ -6406,7 +6490,7 @@
       ]
     },
     {
-      "date": "Monday September 1",
+      "date": "Monday September 1, 2025",
       "title": "Love and Pop (1998)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/search/Love%20and%20Pop+1998/",
@@ -6418,7 +6502,7 @@
       ]
     },
     {
-      "date": "Sunday September 7",
+      "date": "Sunday September 7, 2025",
       "title": "Ludwig (1972)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/ludwig/",
@@ -6430,7 +6514,7 @@
       ]
     },
     {
-      "date": "Saturday September 6",
+      "date": "Saturday September 6, 2025",
       "title": "Madame Wang's (1981)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/madame-wangs/",
@@ -6442,7 +6526,7 @@
       ]
     },
     {
-      "date": "Thursday August 21",
+      "date": "Thursday August 21, 2025",
       "title": "Madame X: An Absolute Ruler (1966)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/madame-x-an-absolute-ruler/",
@@ -6454,7 +6538,7 @@
       ]
     },
     {
-      "date": "Thursday August 28",
+      "date": "Thursday August 28, 2025",
       "title": "Made in Hong Kong (1997)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/made-in-hong-kong-1997/",
@@ -6466,7 +6550,7 @@
       ]
     },
     {
-      "date": "Thursday August 28",
+      "date": "Thursday August 28, 2025",
       "title": "Mala Noche (1986)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/mala-noche/",
@@ -6478,7 +6562,7 @@
       ]
     },
     {
-      "date": "Friday August 29",
+      "date": "Friday August 29, 2025",
       "title": "Mandy (2018)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/mandy-2018/",
@@ -6490,7 +6574,7 @@
       ]
     },
     {
-      "date": "Sunday August 31",
+      "date": "Sunday August 31, 2025",
       "title": "Mandy (2018)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/mandy-2018/",
@@ -6502,7 +6586,7 @@
       ]
     },
     {
-      "date": "Friday September 5",
+      "date": "Friday September 5, 2025",
       "title": "Millennium Mambo (2001)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/millennium-mambo/",
@@ -6514,7 +6598,7 @@
       ]
     },
     {
-      "date": "Saturday September 6",
+      "date": "Saturday September 6, 2025",
       "title": "Mixed Blood (1984)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/mixed-blood/",
@@ -6526,7 +6610,7 @@
       ]
     },
     {
-      "date": "Saturday August 30",
+      "date": "Saturday August 30, 2025",
       "title": "My Little Loves (1974)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/my-little-loves/",
@@ -6538,7 +6622,7 @@
       ]
     },
     {
-      "date": "Sunday August 31",
+      "date": "Sunday August 31, 2025",
       "title": "My Little Loves (1974)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/my-little-loves/",
@@ -6622,7 +6706,7 @@
       ]
     },
     {
-      "date": "Monday August 25",
+      "date": "Monday August 25, 2025",
       "title": "Nashville (1975)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/nashville/",
@@ -6634,7 +6718,7 @@
       ]
     },
     {
-      "date": "Wednesday August 27",
+      "date": "Wednesday August 27, 2025",
       "title": "Natural Born Killers (1994)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/natural-born-killers/",
@@ -6734,7 +6818,7 @@
       ]
     },
     {
-      "date": "Monday August 25",
+      "date": "Monday August 25, 2025",
       "title": "Nostalghia (1983)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/nostalghia/",
@@ -6770,7 +6854,7 @@
       ]
     },
     {
-      "date": "Saturday August 23",
+      "date": "Saturday August 23, 2025",
       "title": "Once Upon a Time in China (1991)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/once-upon-a-time-in-china/",
@@ -6782,7 +6866,7 @@
       ]
     },
     {
-      "date": "Sunday August 24",
+      "date": "Sunday August 24, 2025",
       "title": "Once Upon a Time in China (1991)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/once-upon-a-time-in-china/",
@@ -6794,7 +6878,7 @@
       ]
     },
     {
-      "date": "Wednesday August 27",
+      "date": "Wednesday August 27, 2025",
       "title": "Once Upon a Time in China (1991)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/once-upon-a-time-in-china/",
@@ -6806,7 +6890,7 @@
       ]
     },
     {
-      "date": "Saturday August 23",
+      "date": "Saturday August 23, 2025",
       "title": "Pauline at the Beach (1983)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/pauline-at-the-beach/",
@@ -6818,7 +6902,7 @@
       ]
     },
     {
-      "date": "Sunday August 24",
+      "date": "Sunday August 24, 2025",
       "title": "Pauline at the Beach (1983)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/pauline-at-the-beach/",
@@ -6830,7 +6914,7 @@
       ]
     },
     {
-      "date": "Thursday August 28",
+      "date": "Thursday August 28, 2025",
       "title": "Pauline at the Beach (1983)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/pauline-at-the-beach/",
@@ -6854,7 +6938,7 @@
       ]
     },
     {
-      "date": "Saturday August 30",
+      "date": "Saturday August 30, 2025",
       "title": "Perceval le Gallois (1978)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/perceval-le-gallois/",
@@ -6866,7 +6950,7 @@
       ]
     },
     {
-      "date": "Monday September 1",
+      "date": "Monday September 1, 2025",
       "title": "Perceval le Gallois (1978)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/perceval-le-gallois/",
@@ -6914,7 +6998,7 @@
       ]
     },
     {
-      "date": "Saturday August 30",
+      "date": "Saturday August 30, 2025",
       "title": "Possession (1981)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/possession/",
@@ -6926,7 +7010,7 @@
       ]
     },
     {
-      "date": "Monday September 1",
+      "date": "Monday September 1, 2025",
       "title": "Possession (1981)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/possession/",
@@ -6938,7 +7022,7 @@
       ]
     },
     {
-      "date": "Friday August 22",
+      "date": "Friday August 22, 2025",
       "title": "Pripyat (1999)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/pripyat/",
@@ -6950,7 +7034,7 @@
       ]
     },
     {
-      "date": "Saturday August 23",
+      "date": "Saturday August 23, 2025",
       "title": "Pripyat (1999)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/pripyat/",
@@ -6962,7 +7046,7 @@
       ]
     },
     {
-      "date": "Thursday August 28",
+      "date": "Thursday August 28, 2025",
       "title": "Pripyat (1999)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/pripyat/",
@@ -6974,7 +7058,7 @@
       ]
     },
     {
-      "date": "Monday August 25",
+      "date": "Monday August 25, 2025",
       "title": "Requiem for a Dream (2000)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/requiem-for-a-dream/",
@@ -7010,7 +7094,7 @@
       ]
     },
     {
-      "date": "Tuesday August 26",
+      "date": "Tuesday August 26, 2025",
       "title": "School in the Crosshairs (1981)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/school-in-the-crosshairs/",
@@ -7022,7 +7106,7 @@
       ]
     },
     {
-      "date": "Friday August 22",
+      "date": "Friday August 22, 2025",
       "title": "Spacked Out (2000)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/spacked-out/",
@@ -7034,7 +7118,7 @@
       ]
     },
     {
-      "date": "Sunday August 24",
+      "date": "Sunday August 24, 2025",
       "title": "Spacked Out (2000)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/spacked-out/",
@@ -7046,7 +7130,7 @@
       ]
     },
     {
-      "date": "Friday August 29",
+      "date": "Friday August 29, 2025",
       "title": "Spacked Out (2000)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/spacked-out/",
@@ -7058,7 +7142,7 @@
       ]
     },
     {
-      "date": "Saturday August 30",
+      "date": "Saturday August 30, 2025",
       "title": "Spacked Out (2000)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/spacked-out/",
@@ -7070,7 +7154,7 @@
       ]
     },
     {
-      "date": "Friday September 5",
+      "date": "Friday September 5, 2025",
       "title": "Spike of Bensonhurst (1988)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/spike-of-bensonhurst/",
@@ -7082,7 +7166,7 @@
       ]
     },
     {
-      "date": "Friday September 5",
+      "date": "Friday September 5, 2025",
       "title": "Spring Fever (2009)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/spring-fever-2009/",
@@ -7094,7 +7178,7 @@
       ]
     },
     {
-      "date": "Saturday September 6",
+      "date": "Saturday September 6, 2025",
       "title": "Spring Fever (2009)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/spring-fever-2009/",
@@ -7106,7 +7190,7 @@
       ]
     },
     {
-      "date": "Tuesday August 26",
+      "date": "Tuesday August 26, 2025",
       "title": "Still Life [DCP] (2006)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/still-life-2006/",
@@ -7118,7 +7202,7 @@
       ]
     },
     {
-      "date": "Tuesday August 26",
+      "date": "Tuesday August 26, 2025",
       "title": "Taxi zum Klo (1980)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/taxi-zum-klo/",
@@ -7130,7 +7214,7 @@
       ]
     },
     {
-      "date": "Friday August 29",
+      "date": "Friday August 29, 2025",
       "title": "The Assassin (2015)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/the-assassin-2015/",
@@ -7142,7 +7226,7 @@
       ]
     },
     {
-      "date": "Monday September 1",
+      "date": "Monday September 1, 2025",
       "title": "The Assassin (2015)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/the-assassin-2015/",
@@ -7154,7 +7238,7 @@
       ]
     },
     {
-      "date": "Friday September 5",
+      "date": "Friday September 5, 2025",
       "title": "The Enigma of Kaspar Hauser (1974)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/the-enigma-of-kaspar-hauser/",
@@ -7166,7 +7250,7 @@
       ]
     },
     {
-      "date": "Saturday September 6",
+      "date": "Saturday September 6, 2025",
       "title": "The Enigma of Kaspar Hauser (1974)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/the-enigma-of-kaspar-hauser/",
@@ -7178,7 +7262,7 @@
       ]
     },
     {
-      "date": "Monday August 25",
+      "date": "Monday August 25, 2025",
       "title": "The Girl Can't Help It (1955)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/the-girl-cant-help-it/",
@@ -7190,7 +7274,7 @@
       ]
     },
     {
-      "date": "Saturday August 23",
+      "date": "Saturday August 23, 2025",
       "title": "The Grandmaster (2013)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/the-grandmaster/",
@@ -7202,7 +7286,7 @@
       ]
     },
     {
-      "date": "Sunday August 24",
+      "date": "Sunday August 24, 2025",
       "title": "The Grandmaster (2013)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/the-grandmaster/",
@@ -7214,7 +7298,7 @@
       ]
     },
     {
-      "date": "Thursday August 28",
+      "date": "Thursday August 28, 2025",
       "title": "The Grandmaster (2013)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/the-grandmaster/",
@@ -7226,7 +7310,7 @@
       ]
     },
     {
-      "date": "Saturday August 30",
+      "date": "Saturday August 30, 2025",
       "title": "The Grandmaster (2013)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/the-grandmaster/",
@@ -7238,7 +7322,7 @@
       ]
     },
     {
-      "date": "Monday September 1",
+      "date": "Monday September 1, 2025",
       "title": "The Grandmaster (2013)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/the-grandmaster/",
@@ -7250,7 +7334,7 @@
       ]
     },
     {
-      "date": "Saturday August 30",
+      "date": "Saturday August 30, 2025",
       "title": "The Idiots (1999)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/the-idiots/",
@@ -7262,7 +7346,7 @@
       ]
     },
     {
-      "date": "Monday September 1",
+      "date": "Monday September 1, 2025",
       "title": "The Idiots (1999)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/the-idiots/",
@@ -7310,7 +7394,7 @@
       ]
     },
     {
-      "date": "Friday August 29",
+      "date": "Friday August 29, 2025",
       "title": "The Life Aquatic with Steve Zissou (2004)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/the-life-aquatic-with-steve-zissou/",
@@ -7322,7 +7406,7 @@
       ]
     },
     {
-      "date": "Sunday August 31",
+      "date": "Sunday August 31, 2025",
       "title": "The Life Aquatic with Steve Zissou (2004)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/the-life-aquatic-with-steve-zissou/",
@@ -7334,7 +7418,7 @@
       ]
     },
     {
-      "date": "Sunday September 7",
+      "date": "Sunday September 7, 2025",
       "title": "The Life Aquatic with Steve Zissou (2004)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/the-life-aquatic-with-steve-zissou/",
@@ -7346,7 +7430,7 @@
       ]
     },
     {
-      "date": "Friday September 5",
+      "date": "Friday September 5, 2025",
       "title": "The Lineup (1958)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/the-lineup/",
@@ -7358,7 +7442,7 @@
       ]
     },
     {
-      "date": "Saturday September 6",
+      "date": "Saturday September 6, 2025",
       "title": "The Lineup (1958)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/the-lineup/",
@@ -7462,7 +7546,7 @@
       ]
     },
     {
-      "date": "Saturday September 6",
+      "date": "Saturday September 6, 2025",
       "title": "The Matrix (1999)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/the-matrix/",
@@ -7474,7 +7558,7 @@
       ]
     },
     {
-      "date": "Saturday August 23",
+      "date": "Saturday August 23, 2025",
       "title": "The Mouth Agape (1974)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/the-mouth-agape/",
@@ -7486,7 +7570,7 @@
       ]
     },
     {
-      "date": "Sunday August 24",
+      "date": "Sunday August 24, 2025",
       "title": "The Mouth Agape (1974)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/the-mouth-agape/",
@@ -7498,7 +7582,7 @@
       ]
     },
     {
-      "date": "Saturday September 6",
+      "date": "Saturday September 6, 2025",
       "title": "The Trial (1962)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/the-trial-1962/",
@@ -7510,7 +7594,7 @@
       ]
     },
     {
-      "date": "Sunday September 7",
+      "date": "Sunday September 7, 2025",
       "title": "The Trial (1962)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/the-trial-1962/",
@@ -7522,7 +7606,7 @@
       ]
     },
     {
-      "date": "Tuesday August 26",
+      "date": "Tuesday August 26, 2025",
       "title": "The Young Girls of Rochefort (1967)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/the-young-girls-of-rochefort/",
@@ -7534,7 +7618,7 @@
       ]
     },
     {
-      "date": "Friday August 22",
+      "date": "Friday August 22, 2025",
       "title": "Titane (2021)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/titane/",
@@ -7546,7 +7630,7 @@
       ]
     },
     {
-      "date": "Saturday August 23",
+      "date": "Saturday August 23, 2025",
       "title": "Titane (2021)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/titane/",
@@ -7558,7 +7642,7 @@
       ]
     },
     {
-      "date": "Tuesday August 26",
+      "date": "Tuesday August 26, 2025",
       "title": "Titane (2021)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/titane/",
@@ -7570,7 +7654,7 @@
       ]
     },
     {
-      "date": "Friday August 29",
+      "date": "Friday August 29, 2025",
       "title": "Typhoon Club (1985)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/typhoon-club/",
@@ -7582,7 +7666,7 @@
       ]
     },
     {
-      "date": "Sunday August 31",
+      "date": "Sunday August 31, 2025",
       "title": "Typhoon Club (1985)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/typhoon-club/",
@@ -7594,7 +7678,7 @@
       ]
     },
     {
-      "date": "Monday September 1",
+      "date": "Monday September 1, 2025",
       "title": "Typhoon Club (1985)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/typhoon-club/",
