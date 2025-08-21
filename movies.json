@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-08-16T08:43:28.844328",
+  "lastUpdated": "2025-08-21T17:53:46.729839",
   "movies": [
     {
       "date": "Fri, Aug 1",
@@ -87,7 +87,7 @@
     },
     {
       "date": "Sun, Aug 3",
-      "title": "Milla (2015)",
+      "title": "Milla (2012)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/milla/",
       "showtimes": [
@@ -195,7 +195,7 @@
     },
     {
       "date": "Wed, Aug 6",
-      "title": "Milla (2015)",
+      "title": "Milla (2012)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/milla/",
       "showtimes": [
@@ -303,7 +303,7 @@
     },
     {
       "date": "Sun, Aug 10",
-      "title": "Milla (2015)",
+      "title": "Milla (2012)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/milla/",
       "showtimes": [
@@ -411,9 +411,9 @@
     },
     {
       "date": "Fri, Aug 15",
-      "title": "Hit The Road (2021)",
+      "title": "Hit The Road (2013)",
       "theater": "Anthology",
-      "letterboxdURL": "https://letterboxd.com/film/hit-the-road-2021/",
+      "letterboxdURL": "https://letterboxd.com/film/hit-the-road/",
       "showtimes": [
         {
           "time": "8:45 PM",
@@ -435,90 +435,6 @@
     },
     {
       "date": "Sat, Aug 16",
-      "title": "Alfie (1966)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/alfie/",
-      "showtimes": [
-        {
-          "time": "4:00 PM",
-          "link": "https://www.moma.org/calendar/events/10700"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
-      "title": "Aliens (1986)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/aliens/",
-      "showtimes": [
-        {
-          "time": "7:50 PM",
-          "link": "https://my.filmforum.org/aliens-wia/44981"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
-      "title": "An Officer And A Spy (2019)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
-      "showtimes": [
-        {
-          "time": "12:15 PM",
-          "link": "https://my.filmforum.org/an-officer-and-a-spy/44601"
-        },
-        {
-          "time": "3:00 PM",
-          "link": "https://my.filmforum.org/an-officer-and-a-spy/44647"
-        },
-        {
-          "time": "5:45 PM",
-          "link": "https://my.filmforum.org/an-officer-and-a-spy/44625"
-        },
-        {
-          "time": "8:30 PM",
-          "link": "https://my.filmforum.org/an-officer-and-a-spy/44639"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
-      "title": "Educating Rita (1983)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/educating-rita/",
-      "showtimes": [
-        {
-          "time": "1:30 PM",
-          "link": "https://www.moma.org/calendar/events/10708"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
-      "title": "Irma Vep (1996)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/irma-vep/",
-      "showtimes": [
-        {
-          "time": "3:10 PM",
-          "link": "https://my.filmforum.org/irma-vep-wia/44963"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
-      "title": "Mixed Blood (New 4K Restoration) (1984)",
-      "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/film/mixed-blood/",
-      "showtimes": [
-        {
-          "time": "9:45 PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/6556?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
       "title": "My Beautiful Laundrette (1985)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/my-beautiful-laundrette/",
@@ -526,78 +442,6 @@
         {
           "time": "7:30 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=08&year=2025#showing-59770"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
-      "title": "Rashomon (1950)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/rashomon/",
-      "showtimes": [
-        {
-          "time": "6:50 PM",
-          "link": "https://my.filmforum.org/rashomon-kurosawa/45407"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
-      "title": "Seven Samurai (1954)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/seven-samurai/",
-      "showtimes": [
-        {
-          "time": "2:40 PM",
-          "link": "https://my.filmforum.org/seven-samurai-kurosawa/45421"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
-      "title": "Solaris (1972)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/solaris/",
-      "showtimes": [
-        {
-          "time": "7:15 PM",
-          "link": "https://tickets.bam.org/production/?pid=49387"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
-      "title": "The Italian Job (1969)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/the-italian-job/",
-      "showtimes": [
-        {
-          "time": "6:30 PM",
-          "link": "https://www.moma.org/calendar/events/10709"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
-      "title": "The Sacrifice (2023)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-sacrifice-2023/",
-      "showtimes": [
-        {
-          "time": "1:30 PM",
-          "link": "https://tickets.bam.org/production/?pid=49381"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Aug 16",
-      "title": "Throne Of Blood (1957)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/throne-of-blood/",
-      "showtimes": [
-        {
-          "time": "12:20 PM",
-          "link": "https://my.filmforum.org/throne-of-blood-kurosawa/45417"
         }
       ]
     },
@@ -614,779 +458,11 @@
       ]
     },
     {
-      "date": "Sat, Aug 16",
-      "title": "Who Killed Teddy Bear? (1965)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/who-killed-teddy-bear/",
-      "showtimes": [
-        {
-          "time": "8:50 PM",
-          "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/45426"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "A Goofy Movie (1995)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/a-goofy-movie-1995/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/19292680/"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "A Touch Of Zen (1970)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/a-touch-of-zen/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://my.filmforum.org/a-touch-of-zen-wia/44993"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "An Officer And A Spy (2019)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
-      "showtimes": [
-        {
-          "time": "12:15 PM",
-          "link": "https://my.filmforum.org/an-officer-and-a-spy/44602"
-        },
-        {
-          "time": "3:00 PM",
-          "link": "https://my.filmforum.org/an-officer-and-a-spy/44648"
-        },
-        {
-          "time": "5:45 PM",
-          "link": "https://my.filmforum.org/an-officer-and-a-spy/44626"
-        },
-        {
-          "time": "8:30 PM",
-          "link": "https://my.filmforum.org/an-officer-and-a-spy/44640"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "Andrei Rublev (1966)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/andrei-rublev/",
-      "showtimes": [
-        {
-          "time": "3:50 PM",
-          "link": "https://tickets.bam.org/production/?pid=49393"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "Cinema Tehran presents The Music Room by Satyajit Ray and Kiarostami's The Chorus (1958)",
-      "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/search/Cinema%20Tehran%20presents%20The%20Music%20Room%20by%20Satyajit%20Ray%20and%20Kiarostami%27s%20The%20Chorus+1958/",
-      "showtimes": [
-        {
-          "time": "9:00 PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/6583?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "Forty Guns (1957)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/forty-guns/",
-      "showtimes": [
-        {
-          "time": "5:10 PM",
-          "link": "https://my.filmforum.org/forty-guns-wia/44989"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "Get Carter (1971)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/get-carter/",
-      "showtimes": [
-        {
-          "time": "1:30 PM",
-          "link": "https://www.moma.org/calendar/events/10707"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "Husbands - 35MM (1970)",
-      "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/film/husbands/",
-      "showtimes": [
-        {
-          "time": "3:00 PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/6557?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "Ikiru (2023)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/ikiru/",
-      "showtimes": [
-        {
-          "time": "5:10 PM",
-          "link": "https://my.filmforum.org/ikiru-kurosawa/45411"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "Johnny Guitar (1954)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/johnny-guitar/",
-      "showtimes": [
-        {
-          "time": "12:15 PM",
-          "link": "https://my.filmforum.org/johnny-guitar-wia/44983"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "Mirror (1999)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/mirror-1999/",
-      "showtimes": [
-        {
-          "time": "1:30 PM",
-          "link": "https://tickets.bam.org/production/?pid=49390"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "Pulp (1972)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/pulp/",
-      "showtimes": [
-        {
-          "time": "4:00 PM",
-          "link": "https://www.moma.org/calendar/events/10705"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "Rashomon (1950)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/rashomon/",
-      "showtimes": [
-        {
-          "time": "3:10 PM",
-          "link": "https://my.filmforum.org/rashomon-kurosawa/45408"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "Solaris (1972)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/solaris/",
-      "showtimes": [
-        {
-          "time": "7:25 PM",
-          "link": "https://tickets.bam.org/production/?pid=49387"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "Stray Dog (2018)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/stray-dog/",
-      "showtimes": [
-        {
-          "time": "12:40 PM",
-          "link": "https://my.filmforum.org/stray-dog-kurosawa/45413"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "The Furies (1972)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/the-furies/",
-      "showtimes": [
-        {
-          "time": "2:45 PM",
-          "link": "https://my.filmforum.org/the-furies-wia/44987"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 17",
-      "title": "Who Killed Teddy Bear? (1965)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/who-killed-teddy-bear/",
-      "showtimes": [
-        {
-          "time": "8:00 PM",
-          "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/45427"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 18",
-      "title": "An Officer And A Spy (2019)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
-      "showtimes": [
-        {
-          "time": "12:15 PM",
-          "link": "https://my.filmforum.org/an-officer-and-a-spy/44603"
-        },
-        {
-          "time": "3:00 PM",
-          "link": "https://my.filmforum.org/an-officer-and-a-spy/44613"
-        },
-        {
-          "time": "5:45 PM",
-          "link": "https://my.filmforum.org/an-officer-and-a-spy/44627"
-        },
-        {
-          "time": "8:30 PM",
-          "link": "https://my.filmforum.org/an-officer-and-a-spy/44641"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 18",
-      "title": "Children of Men (2006)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/children-of-men/",
-      "showtimes": [
-        {
-          "time": "4:00 PM",
-          "link": "https://www.moma.org/calendar/events/10710"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 18",
-      "title": "Gun Crazy (1992)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/gun-crazy/",
-      "showtimes": [
-        {
-          "time": "12:45 PM",
-          "link": "https://my.filmforum.org/gun-crazy-wia/44995"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 18",
-      "title": "High And Low (1963)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/high-and-low/",
-      "showtimes": [
-        {
-          "time": "8:00 PM",
-          "link": "https://my.filmforum.org/high-and-low-kurosawa/45424"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 18",
-      "title": "Ivan\u2019s Childhood (1962)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/ivans-childhood/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://tickets.bam.org/production/?pid=49375"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 18",
-      "title": "Johnny Guitar (1954)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/johnny-guitar/",
-      "showtimes": [
-        {
-          "time": "5:45 PM",
-          "link": "https://my.filmforum.org/johnny-guitar-wia/44985"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 18",
-      "title": "Kriemhild'S Revenge (1924)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/kriemhilds-revenge/",
-      "showtimes": [
-        {
-          "time": "8:00 PM",
-          "link": "https://my.filmforum.org/kriemhilds-revenge-wia/44998"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 18",
-      "title": "Night Train to Terror (1985)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/night-train-to-terror/",
-      "showtimes": [
-        {
-          "time": "9:15 PM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/19292415/"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 18",
-      "title": "Nostalghia (1983)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/nostalghia/",
-      "showtimes": [
-        {
-          "time": "9:15 PM",
-          "link": "https://tickets.bam.org/production/?pid=49396"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 18",
-      "title": "Ran (1985)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/ran-1985/",
-      "showtimes": [
-        {
-          "time": "2:50 PM",
-          "link": "https://my.filmforum.org/ran-kuro/45423"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 18",
-      "title": "Rashomon (1950)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/rashomon/",
-      "showtimes": [
-        {
-          "time": "6:00 PM",
-          "link": "https://my.filmforum.org/rashomon-kurosawa/45409"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 18",
-      "title": "Speed Racer - 35MM (2008)",
-      "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/film/speed-racer/",
-      "showtimes": [
-        {
-          "time": "9:30 PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/6590?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 18",
-      "title": "The Furies (1972)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/the-furies/",
-      "showtimes": [
-        {
-          "time": "3:10 PM",
-          "link": "https://my.filmforum.org/the-furies-wia/44986"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 18",
-      "title": "The Wilby Conspiracy (1975)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/the-wilby-conspiracy/",
-      "showtimes": [
-        {
-          "time": "6:30 PM",
-          "link": "https://www.moma.org/calendar/events/10785"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 18",
-      "title": "Yojimbo (1961)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/yojimbo/",
-      "showtimes": [
-        {
-          "time": "12:30 PM",
-          "link": "https://my.filmforum.org/yojimbo-kurosawa/45422"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Aug 19",
-      "title": "Aliens (1986)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/aliens/",
-      "showtimes": [
-        {
-          "time": "5:50 PM",
-          "link": "https://my.filmforum.org/aliens-wia/44982"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Aug 19",
-      "title": "An Officer And A Spy (2019)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
-      "showtimes": [
-        {
-          "time": "12:15 PM",
-          "link": "https://my.filmforum.org/an-officer-and-a-spy/44604"
-        },
-        {
-          "time": "3:00 PM",
-          "link": "https://my.filmforum.org/an-officer-and-a-spy/44614"
-        },
-        {
-          "time": "5:45 PM",
-          "link": "https://my.filmforum.org/an-officer-and-a-spy/44628"
-        },
-        {
-          "time": "8:30 PM",
-          "link": "https://my.filmforum.org/an-officer-and-a-spy/44642"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Aug 19",
-      "title": "Children of Men (2006)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/children-of-men/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://www.moma.org/calendar/events/10710"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Aug 19",
-      "title": "Drive (1997) (1997)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/drive/",
-      "showtimes": [
-        {
-          "time": "9:15 PM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/19483865/"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Aug 19",
-      "title": "Ghost In The Shell (1995)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/ghost-in-the-shell/",
-      "showtimes": [
-        {
-          "time": "8:50 PM",
-          "link": "https://my.filmforum.org/ghost-in-the-shell-wia/44999"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Aug 19",
-      "title": "Mighty Morphin Power Rangers: The Movie (1995)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/mighty-morphin-power-rangers-the-movie/",
-      "showtimes": [
-        {
-          "time": "9:15 PM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/19679076/"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Aug 19",
-      "title": "Seven Samurai (1954)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/seven-samurai/",
-      "showtimes": [
-        {
-          "time": "2:45 PM",
-          "link": "https://my.filmforum.org/seven-samurai-kurosawa/45419"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Aug 19",
-      "title": "Stray Dog (2018)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/stray-dog/",
-      "showtimes": [
-        {
-          "time": "12:15 PM",
-          "link": "https://my.filmforum.org/stray-dog-kurosawa/45415"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Aug 19",
-      "title": "The Romantic Englishwoman (1975)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/the-romantic-englishwoman/",
-      "showtimes": [
-        {
-          "time": "4:00 PM",
-          "link": "https://www.moma.org/calendar/events/10703"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Aug 19",
-      "title": "The Sacrifice (2023)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-sacrifice-2023/",
-      "showtimes": [
-        {
-          "time": "5:00 PM",
-          "link": "https://tickets.bam.org/production/?pid=49381"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Aug 19",
-      "title": "Who Killed Teddy Bear? (1965)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/who-killed-teddy-bear/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/45428"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 20",
-      "title": "Aliens (1986)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/aliens/",
-      "showtimes": [
-        {
-          "time": "1:00 PM",
-          "link": "https://my.filmforum.org/aliens-wia/44979"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 20",
-      "title": "An Officer And A Spy (2019)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
-      "showtimes": [
-        {
-          "time": "12:15 PM",
-          "link": "https://my.filmforum.org/an-officer-and-a-spy/44605"
-        },
-        {
-          "time": "3:00 PM",
-          "link": "https://my.filmforum.org/an-officer-and-a-spy/44615"
-        },
-        {
-          "time": "5:45 PM",
-          "link": "https://my.filmforum.org/an-officer-and-a-spy/44629"
-        },
-        {
-          "time": "8:30 PM",
-          "link": "https://my.filmforum.org/an-officer-and-a-spy/44643"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 20",
-      "title": "Andrei Rublev (1966)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/andrei-rublev/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://tickets.bam.org/production/?pid=49393"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 20",
-      "title": "Cleopatra Jones (1973)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/cleopatra-jones/",
-      "showtimes": [
-        {
-          "time": "4:00 PM",
-          "link": "https://my.filmforum.org/cleopatra-jones-wia/45000"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 20",
-      "title": "Educating Rita (1983)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/educating-rita/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://www.moma.org/calendar/events/10708"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 20",
-      "title": "Forty Guns (1957)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/forty-guns/",
-      "showtimes": [
-        {
-          "time": "6:00 PM",
-          "link": "https://my.filmforum.org/forty-guns-wia/44990"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 20",
-      "title": "Hannah and Her Sisters (1986)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/hannah-and-her-sisters/",
-      "showtimes": [
-        {
-          "time": "4:00 PM",
-          "link": "https://www.moma.org/calendar/events/10711"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 20",
-      "title": "Ikiru (2023)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/ikiru/",
-      "showtimes": [
-        {
-          "time": "5:10 PM",
-          "link": "https://my.filmforum.org/ikiru-kurosawa/45412"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 20",
-      "title": "La Femme Nikita (1990)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/la-femme-nikita/",
-      "showtimes": [
-        {
-          "time": "7:50 PM",
-          "link": "https://my.filmforum.org/la-femme-nikita-wia/45401"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 20",
-      "title": "Leaving Las Vegas (1995)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/leaving-las-vegas/",
-      "showtimes": [
-        {
-          "time": "9:30 PM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/19771436/"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 20",
-      "title": "Nostalghia (1983)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/nostalghia/",
-      "showtimes": [
-        {
-          "time": "4:30 PM",
-          "link": "https://tickets.bam.org/production/?pid=49396"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 20",
-      "title": "Rashomon (1950)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/rashomon/",
-      "showtimes": [
-        {
-          "time": "3:10 PM",
-          "link": "https://my.filmforum.org/rashomon-kurosawa/45405"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 20",
-      "title": "Stray Dog (2018)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/stray-dog/",
-      "showtimes": [
-        {
-          "time": "12:40 PM",
-          "link": "https://my.filmforum.org/stray-dog-kurosawa/45414"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Aug 20",
-      "title": "Who Killed Teddy Bear? (1965)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/who-killed-teddy-bear/",
-      "showtimes": [
-        {
-          "time": "8:00 PM",
-          "link": "https://my.filmforum.org/who-killed-teddy-bear-35mm/45429"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Aug 21",
-      "title": "A Touch Of Zen (1970)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/a-touch-of-zen/",
-      "showtimes": [
-        {
-          "time": "12:15 PM",
-          "link": "https://my.filmforum.org/a-touch-of-zen-wia/44991"
-        }
-      ]
-    },
-    {
       "date": "Thu, Aug 21",
       "title": "An Officer And A Spy (2019)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
       "showtimes": [
-        {
-          "time": "12:15 PM",
-          "link": "https://my.filmforum.org/an-officer-and-a-spy/44606"
-        },
-        {
-          "time": "3:00 PM",
-          "link": "https://my.filmforum.org/an-officer-and-a-spy/44616"
-        },
-        {
-          "time": "5:45 PM",
-          "link": "https://my.filmforum.org/an-officer-and-a-spy/44630"
-        },
         {
           "time": "8:30 PM",
           "link": "https://my.filmforum.org/an-officer-and-a-spy/44644"
@@ -1407,18 +483,6 @@
     },
     {
       "date": "Thu, Aug 21",
-      "title": "Cannibal Hookers (1987)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/cannibal-hookers/",
-      "showtimes": [
-        {
-          "time": "9:30 PM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/19200826/"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Aug 21",
       "title": "Cleopatra Jones (1973)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/cleopatra-jones/",
@@ -1431,9 +495,9 @@
     },
     {
       "date": "Thu, Aug 21",
-      "title": "Mirror (1999)",
+      "title": "Mirror (2009)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/mirror-1999/",
+      "letterboxdURL": "https://letterboxd.com/film/mirror-2009/",
       "showtimes": [
         {
           "time": "4:30 PM",
@@ -1443,33 +507,9 @@
     },
     {
       "date": "Thu, Aug 21",
-      "title": "Rashomon (1950)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/rashomon/",
-      "showtimes": [
-        {
-          "time": "12:15 PM",
-          "link": "https://my.filmforum.org/rashomon-kurosawa/45406"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Aug 21",
-      "title": "Seven Samurai (1954)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/seven-samurai/",
-      "showtimes": [
-        {
-          "time": "4:35 PM",
-          "link": "https://my.filmforum.org/seven-samurai-kurosawa/45420"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Aug 21",
-      "title": "Stalker (2023)",
+      "title": "Stalker (2010)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/stalker-2023/",
+      "letterboxdURL": "https://letterboxd.com/film/stalker-2010/",
       "showtimes": [
         {
           "time": "7:00 PM",
@@ -1498,18 +538,6 @@
         {
           "time": "6:30 PM",
           "link": "https://www.moma.org/calendar/events/10712"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Aug 21",
-      "title": "Throne Of Blood (1957)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/throne-of-blood/",
-      "showtimes": [
-        {
-          "time": "2:15 PM",
-          "link": "https://my.filmforum.org/throne-of-blood-kurosawa/45418"
         }
       ]
     },
@@ -1551,6 +579,30 @@
     },
     {
       "date": "Fri, Aug 22",
+      "title": "An Officer And A Spy (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://my.filmforum.org/an-officer-and-a-spy/45447"
+        },
+        {
+          "time": "3:00 PM",
+          "link": "https://my.filmforum.org/an-officer-and-a-spy/45448"
+        },
+        {
+          "time": "5:45 PM",
+          "link": "https://my.filmforum.org/an-officer-and-a-spy/45449"
+        },
+        {
+          "time": "8:30 PM",
+          "link": "https://my.filmforum.org/an-officer-and-a-spy/45450"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
       "title": "Blue Steel (1990)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/blue-steel-1990/",
@@ -1558,6 +610,18 @@
         {
           "time": "6:00 PM",
           "link": "https://my.filmforum.org/blue-steel-wia/45008"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
+      "title": "Brazil (1985)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/brazil/",
+      "showtimes": [
+        {
+          "time": "8:00 PM",
+          "link": "https://my.filmforum.org/brazil-gilliam/45495"
         }
       ]
     },
@@ -1575,6 +639,18 @@
     },
     {
       "date": "Fri, Aug 22",
+      "title": "Ikiru (2023)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/ikiru/",
+      "showtimes": [
+        {
+          "time": "2:40 PM",
+          "link": "https://my.filmforum.org/ikiru-kurosawa/45498"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
       "title": "Lady Snowblood (1973)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/lady-snowblood/",
@@ -1582,6 +658,30 @@
         {
           "time": "3:50 PM",
           "link": "https://my.filmforum.org/lady-snowblood-wia/44972"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
+      "title": "Rashomon (1950)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/rashomon/",
+      "showtimes": [
+        {
+          "time": "12:40 PM",
+          "link": "https://my.filmforum.org/rashomon-kurosawa/45497"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Aug 22",
+      "title": "Stray Dog (2018)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/stray-dog/",
+      "showtimes": [
+        {
+          "time": "5:30 PM",
+          "link": "https://my.filmforum.org/stray-dog-kurosawa/45499"
         }
       ]
     },
@@ -1647,7 +747,7 @@
     },
     {
       "date": "Sat, Aug 23",
-      "title": " Front Row (2012)",
+      "title": " Front Row (2001)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/front-row/",
       "showtimes": [
@@ -1690,6 +790,30 @@
         {
           "time": "8:30 PM",
           "link": "https://tickets.bam.org/production/?pid=49520"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
+      "title": "An Officer And A Spy (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://my.filmforum.org/an-officer-and-a-spy/45451"
+        },
+        {
+          "time": "3:00 PM",
+          "link": "https://my.filmforum.org/an-officer-and-a-spy/45452"
+        },
+        {
+          "time": "5:45 PM",
+          "link": "https://my.filmforum.org/an-officer-and-a-spy/45453"
+        },
+        {
+          "time": "8:30 PM",
+          "link": "https://my.filmforum.org/an-officer-and-a-spy/45454"
         }
       ]
     },
@@ -1767,6 +891,30 @@
     },
     {
       "date": "Sat, Aug 23",
+      "title": "Rashomon (1950)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/rashomon/",
+      "showtimes": [
+        {
+          "time": "7:40 PM",
+          "link": "https://my.filmforum.org/rashomon-kurosawa/45502"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
+      "title": "Seven Samurai (1954)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/seven-samurai/",
+      "showtimes": [
+        {
+          "time": "3:20 PM",
+          "link": "https://my.filmforum.org/seven-samurai-kurosawa/45501"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
       "title": "Terminator 2: Judgment Day (1991)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/terminator-2-judgment-day/",
@@ -1791,6 +939,18 @@
     },
     {
       "date": "Sat, Aug 23",
+      "title": "Throne Of Blood (1957)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/throne-of-blood/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://my.filmforum.org/throne-of-blood-kurosawa/45500"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 23",
       "title": "To Wong Foo, Thanks for Everything! Julie Newmar (1995)",
       "theater": "Nitehawk PP",
       "letterboxdURL": "https://letterboxd.com/film/to-wong-foo-thanks-for-everything-julie-newmar/",
@@ -1810,6 +970,30 @@
         {
           "time": "4:00 PM",
           "link": "https://www.moma.org/calendar/events/10715"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "An Officer And A Spy (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://my.filmforum.org/an-officer-and-a-spy/45455"
+        },
+        {
+          "time": "3:00 PM",
+          "link": "https://my.filmforum.org/an-officer-and-a-spy/45456"
+        },
+        {
+          "time": "5:45 PM",
+          "link": "https://my.filmforum.org/an-officer-and-a-spy/45457"
+        },
+        {
+          "time": "8:30 PM",
+          "link": "https://my.filmforum.org/an-officer-and-a-spy/45458"
         }
       ]
     },
@@ -1875,6 +1059,18 @@
     },
     {
       "date": "Sun, Aug 24",
+      "title": "High And Low (1963)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/high-and-low/",
+      "showtimes": [
+        {
+          "time": "4:15 PM",
+          "link": "https://my.filmforum.org/high-and-low-kurosawa/45504"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
       "title": "Kikujiro (1999)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/kikujiro/",
@@ -1906,6 +1102,18 @@
         {
           "time": "7:10 PM",
           "link": "https://my.filmforum.org/kill-bill-vol-2-wia/45025"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "Ran (1985)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/ran-1985/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://my.filmforum.org/ran-kuro/45503"
         }
       ]
     },
@@ -1958,6 +1166,30 @@
       ]
     },
     {
+      "date": "Sun, Aug 24",
+      "title": "World on a Wire (2010)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/world-on-a-wire/",
+      "showtimes": [
+        {
+          "time": "11:00 AM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1306/seats"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 24",
+      "title": "Yojimbo (1961)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/yojimbo/",
+      "showtimes": [
+        {
+          "time": "7:15 PM",
+          "link": "https://my.filmforum.org/yojimbo-kurosawa/45505"
+        }
+      ]
+    },
+    {
       "date": "Mon, Aug 25",
       "title": "Aftersun (2022)",
       "theater": "BAM",
@@ -1966,6 +1198,30 @@
         {
           "time": "5:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49520"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 25",
+      "title": "An Officer And A Spy (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://my.filmforum.org/an-officer-and-a-spy/45459"
+        },
+        {
+          "time": "3:00 PM",
+          "link": "https://my.filmforum.org/an-officer-and-a-spy/45460"
+        },
+        {
+          "time": "5:45 PM",
+          "link": "https://my.filmforum.org/an-officer-and-a-spy/45461"
+        },
+        {
+          "time": "8:30 PM",
+          "link": "https://my.filmforum.org/an-officer-and-a-spy/45462"
         }
       ]
     },
@@ -1983,6 +1239,18 @@
     },
     {
       "date": "Mon, Aug 25",
+      "title": "Clueless (1995)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/clueless/",
+      "showtimes": [
+        {
+          "time": "7:00 PM",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19290157/"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 25",
       "title": "Do the Right Thing (1989)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/do-the-right-thing/",
@@ -1990,18 +1258,6 @@
         {
           "time": "9:15 PM",
           "link": "https://tickets.bam.org/production/?pid=49535"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Aug 25",
-      "title": "Dragon Inn (2011)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/dragon-inn/",
-      "showtimes": [
-        {
-          "time": "3:20 PM",
-          "link": "https://my.filmforum.org/dragon-inn-wia/45027"
         }
       ]
     },
@@ -2019,6 +1275,18 @@
     },
     {
       "date": "Mon, Aug 25",
+      "title": "High And Low (1963)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/high-and-low/",
+      "showtimes": [
+        {
+          "time": "7:50 PM",
+          "link": "https://my.filmforum.org/high-and-low-kurosawa/45509"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 25",
       "title": "Johnny Guitar (1954)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/johnny-guitar/",
@@ -2026,6 +1294,18 @@
         {
           "time": "1:00 PM",
           "link": "https://my.filmforum.org/johnny-guitar-wia/44984"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 25",
+      "title": "Rashomon (1950)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/rashomon/",
+      "showtimes": [
+        {
+          "time": "3:20 PM",
+          "link": "https://my.filmforum.org/rashomon-kurosawa/45507"
         }
       ]
     },
@@ -2067,6 +1347,30 @@
     },
     {
       "date": "Mon, Aug 25",
+      "title": "Throne Of Blood (1957)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/throne-of-blood/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://my.filmforum.org/throne-of-blood-kurosawa/45506"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 25",
+      "title": "Yojimbo (1961)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/yojimbo/",
+      "showtimes": [
+        {
+          "time": "5:30 PM",
+          "link": "https://my.filmforum.org/yojimbo-kurosawa/45508"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Aug 25",
       "title": "Youth (2015)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/youth-2015/",
@@ -2091,6 +1395,30 @@
     },
     {
       "date": "Tue, Aug 26",
+      "title": "An Officer And A Spy (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://my.filmforum.org/an-officer-and-a-spy/45463"
+        },
+        {
+          "time": "3:00 PM",
+          "link": "https://my.filmforum.org/an-officer-and-a-spy/45464"
+        },
+        {
+          "time": "5:45 PM",
+          "link": "https://my.filmforum.org/an-officer-and-a-spy/45465"
+        },
+        {
+          "time": "8:30 PM",
+          "link": "https://my.filmforum.org/an-officer-and-a-spy/45466"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 26",
       "title": "Billion Dollar Brain (1967)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/billion-dollar-brain/",
@@ -2110,6 +1438,18 @@
         {
           "time": "8:00 PM",
           "link": "https://my.filmforum.org/bonnie-and-clyde-wia/45020"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 26",
+      "title": "Brazil (1985)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/brazil/",
+      "showtimes": [
+        {
+          "time": "7:30 PM",
+          "link": "https://my.filmforum.org/brazil-gilliam/45496"
         }
       ]
     },
@@ -2175,6 +1515,30 @@
     },
     {
       "date": "Tue, Aug 26",
+      "title": "Seven Samurai (1954)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/seven-samurai/",
+      "showtimes": [
+        {
+          "time": "3:20 PM",
+          "link": "https://my.filmforum.org/seven-samurai-kurosawa/45511"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 26",
+      "title": "Stray Dog (2018)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/stray-dog/",
+      "showtimes": [
+        {
+          "time": "12:50 PM",
+          "link": "https://my.filmforum.org/stray-dog-kurosawa/45510"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Aug 26",
       "title": "Summer 1993 (2017)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/summer-1993/",
@@ -2199,7 +1563,7 @@
     },
     {
       "date": "Wed, Aug 27",
-      "title": " Front Row (2012)",
+      "title": " Front Row (2001)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/front-row/",
       "showtimes": [
@@ -2218,6 +1582,26 @@
         {
           "time": "8:00 PM",
           "link": "https://www.moma.org/calendar/events/10744"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 27",
+      "title": "An Officer And A Spy (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://my.filmforum.org/an-officer-and-a-spy/45467"
+        },
+        {
+          "time": "3:00 PM",
+          "link": "https://my.filmforum.org/an-officer-and-a-spy/45475"
+        },
+        {
+          "time": "8:40 PM",
+          "link": "https://my.filmforum.org/an-officer-and-a-spy/45470"
         }
       ]
     },
@@ -2295,6 +1679,30 @@
     },
     {
       "date": "Wed, Aug 27",
+      "title": "Ghost in the Shell (1995)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/ghost-in-the-shell/",
+      "showtimes": [
+        {
+          "time": "7:00 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1309/seats"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 27",
+      "title": "High And Low (1963)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/high-and-low/",
+      "showtimes": [
+        {
+          "time": "3:50 PM",
+          "link": "https://my.filmforum.org/high-and-low-kurosawa/45513"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 27",
       "title": "Kikujiro (1999)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/kikujiro/",
@@ -2331,6 +1739,18 @@
     },
     {
       "date": "Wed, Aug 27",
+      "title": "Ran (1985)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/ran-1985/",
+      "showtimes": [
+        {
+          "time": "12:40 PM",
+          "link": "https://my.filmforum.org/ran-kuro/45512"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 27",
       "title": "Something Weird (1967)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/something-weird/",
@@ -2338,6 +1758,18 @@
         {
           "time": "9:00 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=08&year=2025#showing-59888"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Aug 27",
+      "title": "Stray Dog (2018)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/stray-dog/",
+      "showtimes": [
+        {
+          "time": "8:00 PM",
+          "link": "https://my.filmforum.org/stray-dog-kurosawa/45514"
         }
       ]
     },
@@ -2362,6 +1794,30 @@
         {
           "time": "7:00 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=08&year=2025#showing-59750"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 28",
+      "title": "An Officer And A Spy (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/an-officer-and-a-spy/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://my.filmforum.org/an-officer-and-a-spy/45471"
+        },
+        {
+          "time": "3:00 PM",
+          "link": "https://my.filmforum.org/an-officer-and-a-spy/45472"
+        },
+        {
+          "time": "5:45 PM",
+          "link": "https://my.filmforum.org/an-officer-and-a-spy/45473"
+        },
+        {
+          "time": "8:30 PM",
+          "link": "https://my.filmforum.org/an-officer-and-a-spy/45474"
         }
       ]
     },
@@ -2439,6 +1895,18 @@
     },
     {
       "date": "Thu, Aug 28",
+      "title": "Ikiru (2023)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/ikiru/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://my.filmforum.org/ikiru-kurosawa/45515"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 28",
       "title": "Irma Vep (1996)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/irma-vep/",
@@ -2458,6 +1926,30 @@
         {
           "time": "6:00 PM",
           "link": "https://my.filmforum.org/set-it-off-wia/45032"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 28",
+      "title": "Seven Samurai (1954)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/seven-samurai/",
+      "showtimes": [
+        {
+          "time": "6:40 PM",
+          "link": "https://my.filmforum.org/seven-samurai-kurosawa/45517"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Aug 28",
+      "title": "Stray Dog (2018)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/stray-dog/",
+      "showtimes": [
+        {
+          "time": "4:00 PM",
+          "link": "https://my.filmforum.org/stray-dog-kurosawa/45516"
         }
       ]
     },
@@ -2499,6 +1991,22 @@
     },
     {
       "date": "Fri, Aug 29",
+      "title": "Close Encounters of the Third Kind (1977)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/close-encounters-of-the-third-kind/",
+      "showtimes": [
+        {
+          "time": "6:30 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1353/seats"
+        },
+        {
+          "time": "9:40 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1356/seats"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Aug 29",
       "title": "Deathtrap (1982)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/deathtrap/",
@@ -2506,18 +2014,6 @@
         {
           "time": "6:30 PM",
           "link": "https://www.moma.org/calendar/events/10717"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Aug 29",
-      "title": "Dragon Inn (2011)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/dragon-inn/",
-      "showtimes": [
-        {
-          "time": "8:30 PM",
-          "link": "https://my.filmforum.org/dragon-inn-wia/45028"
         }
       ]
     },
@@ -2595,6 +2091,18 @@
     },
     {
       "date": "Fri, Aug 29",
+      "title": "Sorcerer (1977)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/sorcerer/",
+      "showtimes": [
+        {
+          "time": "12:40 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1444/seats"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Aug 29",
       "title": "The Great Dictator (1940)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/the-great-dictator/",
@@ -2619,13 +2127,25 @@
     },
     {
       "date": "Fri, Aug 29",
-      "title": "To Be or Not to Be (1983)",
+      "title": "To Be or Not to Be (1942)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/to-be-or-not-to-be-1983/",
+      "letterboxdURL": "https://letterboxd.com/film/to-be-or-not-to-be/",
       "showtimes": [
         {
           "time": "4:30 PM",
           "link": "https://tickets.bam.org/production/?pid=49622"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Aug 29",
+      "title": "Under the Skin (2013)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/under-the-skin-2013/",
+      "showtimes": [
+        {
+          "time": "3:30 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1391/seats"
         }
       ]
     },
@@ -2643,7 +2163,19 @@
     },
     {
       "date": "Sat, Aug 30",
-      "title": "Coffy (1973)",
+      "title": "Blood and Wine (1996)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/blood-and-wine/",
+      "showtimes": [
+        {
+          "time": "3:30 PM",
+          "link": "https://www.moma.org/calendar/events/10718"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 30",
+      "title": "Coffy (2022)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/coffy/",
       "showtimes": [
@@ -2662,6 +2194,18 @@
         {
           "time": "4:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49631"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 30",
+      "title": "D\u00e9j\u00e0 Vu (2006)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/search/D%C3%A9j%C3%A0%20Vu+2006/",
+      "showtimes": [
+        {
+          "time": "7:00 PM",
+          "link": "https://www.moma.org/calendar/events/10750"
         }
       ]
     },
@@ -2691,6 +2235,18 @@
     },
     {
       "date": "Sat, Aug 30",
+      "title": "Harry Brown (2009)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/harry-brown/",
+      "showtimes": [
+        {
+          "time": "6:30 PM",
+          "link": "https://www.moma.org/calendar/events/10720"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 30",
       "title": "In the Electric Mist (2009)",
       "theater": "MoMA",
       "letterboxdURL": "https://letterboxd.com/film/in-the-electric-mist/",
@@ -2710,6 +2266,30 @@
         {
           "time": "7:30 PM",
           "link": "https://my.filmforum.org/jackie-brown-wia/45039"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 30",
+      "title": "Lawrence of Arabia (1962)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/lawrence-of-arabia/",
+      "showtimes": [
+        {
+          "time": "1:30 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1393/seats"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 30",
+      "title": "Once Upon a Time in... Hollywood (2019)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/once-upon-a-time-in-hollywood/",
+      "showtimes": [
+        {
+          "time": "6:35 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1394/seats"
         }
       ]
     },
@@ -2799,6 +2379,18 @@
     },
     {
       "date": "Sat, Aug 30",
+      "title": "The Becoming Box (2011)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/the-becoming-box/",
+      "showtimes": [
+        {
+          "time": "4:00 PM",
+          "link": "https://www.moma.org/calendar/events/10749"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 30",
       "title": "The Big Doll House (1971)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/the-big-doll-house/",
@@ -2846,6 +2438,54 @@
       ]
     },
     {
+      "date": "Sat, Aug 30",
+      "title": "The Muppet Christmas Carol (1992)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/the-muppet-christmas-carol-1992/",
+      "showtimes": [
+        {
+          "time": "1:30 PM",
+          "link": "https://www.moma.org/calendar/events/10716"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 30",
+      "title": "The Thing (1982)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/the-thing/",
+      "showtimes": [
+        {
+          "time": "10:10 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1427/seats"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Aug 30",
+      "title": "The Wiz (1978)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/the-wiz-1978/",
+      "showtimes": [
+        {
+          "time": "10:10 AM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1392/seats"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 31",
+      "title": "All Dirt Roads Taste of Salt (2023)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/all-dirt-roads-taste-of-salt/",
+      "showtimes": [
+        {
+          "time": "4:00 PM",
+          "link": "https://www.moma.org/calendar/events/10751"
+        }
+      ]
+    },
+    {
       "date": "Sun, Aug 31",
       "title": "BlacKkKlansman (2018)",
       "theater": "BAM",
@@ -2854,6 +2494,30 @@
         {
           "time": "1:30 PM",
           "link": "https://tickets.bam.org/production/?pid=49640"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 31",
+      "title": "Blade Runner 2049 (2017)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/blade-runner-2049/",
+      "showtimes": [
+        {
+          "time": "1:45 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1428/seats"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 31",
+      "title": "Blade Runner: The Final Cut (1982)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/blade-runner-the-final-cut/",
+      "showtimes": [
+        {
+          "time": "11:00 AM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1307/seats"
         }
       ]
     },
@@ -2895,18 +2559,6 @@
     },
     {
       "date": "Sun, Aug 31",
-      "title": "Dragon Inn (2011)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/dragon-inn/",
-      "showtimes": [
-        {
-          "time": "1:00 PM",
-          "link": "https://my.filmforum.org/dragon-inn-wia/45403"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Aug 31",
       "title": "Fallen Angels (1995)",
       "theater": "Nitehawk WB",
       "letterboxdURL": "https://letterboxd.com/film/fallen-angels/",
@@ -2926,6 +2578,30 @@
         {
           "time": "7:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49645"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 31",
+      "title": "Mad Max: Fury Road (2015)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/mad-max-fury-road-2015/",
+      "showtimes": [
+        {
+          "time": "9:40 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1396/seats"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 31",
+      "title": "Male of the Species (1969)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/male-of-the-species/",
+      "showtimes": [
+        {
+          "time": "4:30 PM",
+          "link": "https://www.moma.org/calendar/events/10783"
         }
       ]
     },
@@ -2979,6 +2655,18 @@
     },
     {
       "date": "Sun, Aug 31",
+      "title": "The Boatman (2017)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/the-boatman/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://www.moma.org/calendar/events/10745"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Aug 31",
       "title": "The Devonsville Terror (1983)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/the-devonsville-terror/",
@@ -3002,6 +2690,18 @@
       ]
     },
     {
+      "date": "Sun, Aug 31",
+      "title": "The Wrong Box (1966)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/the-wrong-box/",
+      "showtimes": [
+        {
+          "time": "2:00 PM",
+          "link": "https://www.moma.org/calendar/events/10713"
+        }
+      ]
+    },
+    {
       "date": "Mon, Sep 1",
       "title": "A Touch Of Zen (1970)",
       "theater": "Film Forum",
@@ -3015,7 +2715,19 @@
     },
     {
       "date": "Mon, Sep 1",
-      "title": "Big Bad Mama (1974)",
+      "title": "Always for Pleasure (1978)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/always-for-pleasure/",
+      "showtimes": [
+        {
+          "time": "4:30 PM",
+          "link": "https://www.moma.org/calendar/events/10803"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Sep 1",
+      "title": "Big Bad Mama (2008)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/big-bad-mama/",
       "showtimes": [
@@ -3039,6 +2751,18 @@
     },
     {
       "date": "Mon, Sep 1",
+      "title": "Blow Out (1981)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/blow-out/",
+      "showtimes": [
+        {
+          "time": "9:35 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1398/seats"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Sep 1",
       "title": "Duck Soup (1933)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/duck-soup-1933/",
@@ -3046,6 +2770,18 @@
         {
           "time": "5:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49619"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Sep 1",
+      "title": "Ghostbusters (1984)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/ghostbusters/",
+      "showtimes": [
+        {
+          "time": "4:05 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1397/seats"
         }
       ]
     },
@@ -3063,6 +2799,18 @@
     },
     {
       "date": "Mon, Sep 1",
+      "title": "Male of the Species (1969)",
+      "theater": "MoMA",
+      "letterboxdURL": "https://letterboxd.com/film/male-of-the-species/",
+      "showtimes": [
+        {
+          "time": "4:00 PM",
+          "link": "https://www.moma.org/calendar/events/10783"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Sep 1",
       "title": "Porco Rosso (1992)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/porco-rosso/",
@@ -3075,13 +2823,49 @@
     },
     {
       "date": "Mon, Sep 1",
-      "title": "To Be or Not to Be (1983)",
+      "title": "South Park: Bigger, Longer & Uncut (1999)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/south-park-bigger-longer-uncut/",
+      "showtimes": [
+        {
+          "time": "9:30 PM",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19819163/"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Sep 1",
+      "title": "To Be or Not to Be (1942)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/to-be-or-not-to-be-1983/",
+      "letterboxdURL": "https://letterboxd.com/film/to-be-or-not-to-be/",
       "showtimes": [
         {
           "time": "7:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49622"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Sep 1",
+      "title": "Total Recall (1990)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/total-recall/",
+      "showtimes": [
+        {
+          "time": "6:55 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1430/seats"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Sep 1",
+      "title": "Tremors (1990)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/tremors/",
+      "showtimes": [
+        {
+          "time": "9:15 PM",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19819545/"
         }
       ]
     },
@@ -3106,6 +2890,18 @@
         {
           "time": "9:30 PM",
           "link": "https://tickets.bam.org/production/?pid=49631"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Sep 2",
+      "title": "Dreamgirls (2006)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/dreamgirls/",
+      "showtimes": [
+        {
+          "time": "3:15 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1400/seats"
         }
       ]
     },
@@ -3147,6 +2943,42 @@
     },
     {
       "date": "Tue, Sep 2",
+      "title": "McCabe & Mrs. Miller (1971)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/mccabe-mrs-miller/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1399/seats"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Sep 2",
+      "title": "Paprika (2006)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/paprika-2006/",
+      "showtimes": [
+        {
+          "time": "9:15 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1431/seats"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Sep 2",
+      "title": "ROMA (2018)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/roma-2018/",
+      "showtimes": [
+        {
+          "time": "6:15 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1401/seats"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Sep 2",
       "title": "Set It Off (1996)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/set-it-off/",
@@ -3183,9 +3015,9 @@
     },
     {
       "date": "Tue, Sep 2",
-      "title": "The Organizer (2017)",
+      "title": "The Organizer (1968)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-organizer-2017/",
+      "letterboxdURL": "https://letterboxd.com/film/the-organizer/",
       "showtimes": [
         {
           "time": "6:45 PM",
@@ -3207,6 +3039,42 @@
     },
     {
       "date": "Wed, Sep 3",
+      "title": "Dreamgirls (2006)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/dreamgirls/",
+      "showtimes": [
+        {
+          "time": "9:25 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1404/seats"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Sep 3",
+      "title": "Escape from New York (1981)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/escape-from-new-york/",
+      "showtimes": [
+        {
+          "time": "7:00 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1308/seats"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Sep 3",
+      "title": "Fantastic Planet (1973)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/fantastic-planet/",
+      "showtimes": [
+        {
+          "time": "9:15 PM",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19819278/"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Sep 3",
       "title": "Hanna (2007)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/hanna/",
@@ -3214,6 +3082,18 @@
         {
           "time": "5:40 PM",
           "link": "https://my.filmforum.org/hanna-wia/45049"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Sep 3",
+      "title": "Happy as Lazzaro (2018)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/happy-as-lazzaro/",
+      "showtimes": [
+        {
+          "time": "4:00 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1403/seats"
         }
       ]
     },
@@ -3267,13 +3147,25 @@
     },
     {
       "date": "Wed, Sep 3",
-      "title": "The Organizer (2017)",
+      "title": "The Organizer (1968)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-organizer-2017/",
+      "letterboxdURL": "https://letterboxd.com/film/the-organizer/",
       "showtimes": [
         {
           "time": "6:45 PM",
           "link": "https://tickets.bam.org/production/?pid=49652"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Sep 3",
+      "title": "Under the Skin (2013)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/under-the-skin-2013/",
+      "showtimes": [
+        {
+          "time": "1:25 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1402/seats"
         }
       ]
     },
@@ -3339,6 +3231,42 @@
     },
     {
       "date": "Thu, Sep 4",
+      "title": "Once Upon a Time in the West (1968)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/once-upon-a-time-in-the-west/",
+      "showtimes": [
+        {
+          "time": "3:10 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1405/seats"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Sep 4",
+      "title": "Showgirls (1995)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/showgirls/",
+      "showtimes": [
+        {
+          "time": "9:30 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1406/seats"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Sep 4",
+      "title": "Sorcerer (1977)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/sorcerer/",
+      "showtimes": [
+        {
+          "time": "6:45 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1443/seats"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Sep 4",
       "title": "Starship Troopers  (1997)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/starship-troopers/",
@@ -3346,6 +3274,18 @@
         {
           "time": "4:15 PM",
           "link": "https://tickets.bam.org/production/?pid=49634"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Sep 4",
+      "title": "The Bridge on the River Kwai (1957)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/the-bridge-on-the-river-kwai/",
+      "showtimes": [
+        {
+          "time": "11:45 AM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1432/seats"
         }
       ]
     },
@@ -3387,7 +3327,7 @@
     },
     {
       "date": "Fri, Sep 5",
-      "title": "Female Trouble (1974)",
+      "title": "Female Trouble (1975)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/female-trouble/",
       "showtimes": [
@@ -3427,7 +3367,19 @@
     },
     {
       "date": "Fri, Sep 5",
-      "title": "Nashville (1975)",
+      "title": "Mad Max: Fury Road (2015)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/mad-max-fury-road-2015/",
+      "showtimes": [
+        {
+          "time": "9:25 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1407/seats"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Sep 5",
+      "title": "Nashville (2018)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/nashville/",
       "showtimes": [
@@ -3451,13 +3403,13 @@
     },
     {
       "date": "Fri, Sep 5",
-      "title": "Playtime (1967)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/playtime/",
+      "title": "Sorcerer (1977)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/sorcerer/",
       "showtimes": [
         {
-          "time": "4:15 PM",
-          "link": "https://tickets.bam.org/production/?pid=49753"
+          "time": "3:20 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1445/seats"
         }
       ]
     },
@@ -3474,14 +3426,38 @@
       ]
     },
     {
+      "date": "Fri, Sep 5",
+      "title": "The Thing (1982)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/the-thing/",
+      "showtimes": [
+        {
+          "time": "12:45 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1433/seats"
+        }
+      ]
+    },
+    {
       "date": "Sat, Sep 6",
-      "title": "A Face in the Crowd (1957)",
+      "title": "A Face in the Crowd (2023)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/a-face-in-the-crowd/",
       "showtimes": [
         {
           "time": "9:30 PM",
           "link": "https://tickets.bam.org/production/?pid=49734"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Sep 6",
+      "title": "Dune (1984)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/dune/",
+      "showtimes": [
+        {
+          "time": "5:30 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1435/seats"
         }
       ]
     },
@@ -3539,7 +3515,19 @@
     },
     {
       "date": "Sat, Sep 6",
-      "title": "Nashville (1975)",
+      "title": "McCabe & Mrs. Miller (1971)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/mccabe-mrs-miller/",
+      "showtimes": [
+        {
+          "time": "12:00 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1408/seats"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Sep 6",
+      "title": "Nashville (2018)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/nashville/",
       "showtimes": [
@@ -3563,6 +3551,18 @@
     },
     {
       "date": "Sat, Sep 6",
+      "title": "Son of the White Mare (1981)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/son-of-the-white-mare/",
+      "showtimes": [
+        {
+          "time": "11:00 AM",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19819281/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Sep 6",
       "title": "Tenebrae (1982)",
       "theater": "Nitehawk WB",
       "letterboxdURL": "https://letterboxd.com/film/tenebrae/",
@@ -3570,6 +3570,30 @@
         {
           "time": "11:55 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19728018/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Sep 6",
+      "title": "The Doors (1991)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/the-doors/",
+      "showtimes": [
+        {
+          "time": "8:55 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1410/seats"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Sep 6",
+      "title": "The Time Masters (1982)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/search/The%20Time%20Masters+1982/",
+      "showtimes": [
+        {
+          "time": "11:15 AM",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19819195/"
         }
       ]
     },
@@ -3594,6 +3618,30 @@
         {
           "time": "5:45 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6593?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Sep 7",
+      "title": "Cinderella (2015)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/cinderella-2015/",
+      "showtimes": [
+        {
+          "time": "11:00 AM",
+          "link": "https://my.filmforum.org/cinderella-ffjr/45440"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Sep 7",
+      "title": "Dunkirk (2017)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/dunkirk-2017/",
+      "showtimes": [
+        {
+          "time": "7:05 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1412/seats"
         }
       ]
     },
@@ -3663,6 +3711,18 @@
     },
     {
       "date": "Sun, Sep 7",
+      "title": "Lawrence of Arabia (1962)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/lawrence-of-arabia/",
+      "showtimes": [
+        {
+          "time": "1:55 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1411/seats"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Sep 7",
       "title": "Pee-wee's Big Adventure (1985)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/pee-wees-big-adventure/",
@@ -3675,13 +3735,25 @@
     },
     {
       "date": "Sun, Sep 7",
-      "title": "Pollyanna (1960)",
+      "title": "Pollyanna (2003)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/pollyanna/",
+      "letterboxdURL": "https://letterboxd.com/film/pollyanna-2003/",
       "showtimes": [
         {
           "time": "3:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49737"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Sep 7",
+      "title": "Son of the White Mare (1981)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/son-of-the-white-mare/",
+      "showtimes": [
+        {
+          "time": "11:00 AM",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19819282/"
         }
       ]
     },
@@ -3710,8 +3782,44 @@
       ]
     },
     {
+      "date": "Sun, Sep 7",
+      "title": "The Terminator (1984)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/the-terminator/",
+      "showtimes": [
+        {
+          "time": "11:00 AM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1313/seats"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Sep 7",
+      "title": "The Time Masters (1982)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/search/The%20Time%20Masters+1982/",
+      "showtimes": [
+        {
+          "time": "11:15 AM",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19819197/"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Sep 7",
+      "title": "Under the Skin (2013)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/under-the-skin-2013/",
+      "showtimes": [
+        {
+          "time": "9:40 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1413/seats"
+        }
+      ]
+    },
+    {
       "date": "Mon, Sep 8",
-      "title": "All About Eve (1950)",
+      "title": "All About Eve (1972)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/all-about-eve/",
       "showtimes": [
@@ -3783,13 +3891,37 @@
     },
     {
       "date": "Mon, Sep 8",
-      "title": "The Misfits (1961)",
+      "title": "The Blob (1988) (1988)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/the-blob-1988/",
+      "showtimes": [
+        {
+          "time": "9:15 PM",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19819571/"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Sep 8",
+      "title": "The Misfits (2021)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-misfits/",
+      "letterboxdURL": "https://letterboxd.com/film/the-misfits-2021/",
       "showtimes": [
         {
           "time": "4:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49743"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Sep 8",
+      "title": "Thelma & Louise (1991)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/thelma-louise/",
+      "showtimes": [
+        {
+          "time": "8:45 PM",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19864365/"
         }
       ]
     },
@@ -3802,6 +3934,18 @@
         {
           "time": "4:00 PM",
           "link": "https://tickets.bam.org/production/?pid=49751"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Sep 9",
+      "title": "A Scanner Darkly (2006)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/a-scanner-darkly/",
+      "showtimes": [
+        {
+          "time": "9:30 PM",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19819198/"
         }
       ]
     },
@@ -3843,21 +3987,9 @@
     },
     {
       "date": "Tue, Sep 9",
-      "title": "Playtime (1967)",
+      "title": "The Misfits (2021)",
       "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/playtime/",
-      "showtimes": [
-        {
-          "time": "6:45 PM",
-          "link": "https://tickets.bam.org/production/?pid=49753"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Sep 9",
-      "title": "The Misfits (1961)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-misfits/",
+      "letterboxdURL": "https://letterboxd.com/film/the-misfits-2021/",
       "showtimes": [
         {
           "time": "9:20 PM",
@@ -3867,7 +3999,7 @@
     },
     {
       "date": "Tue, Sep 9",
-      "title": "The Wild Child (2019)",
+      "title": "The Wild Child (1968)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/the-wild-child/",
       "showtimes": [
@@ -3879,7 +4011,7 @@
     },
     {
       "date": "Wed, Sep 10",
-      "title": "Female Trouble (1974)",
+      "title": "Female Trouble (1975)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/female-trouble/",
       "showtimes": [
@@ -3931,6 +4063,18 @@
     },
     {
       "date": "Wed, Sep 10",
+      "title": "RoboCop (1987)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/robocop/",
+      "showtimes": [
+        {
+          "time": "7:00 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1310/seats"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Sep 10",
       "title": "Some Like It Hot (1959)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/some-like-it-hot/",
@@ -3955,7 +4099,7 @@
     },
     {
       "date": "Thu, Sep 11",
-      "title": "A Face in the Crowd (1957)",
+      "title": "A Face in the Crowd (2023)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/a-face-in-the-crowd/",
       "showtimes": [
@@ -3967,7 +4111,7 @@
     },
     {
       "date": "Thu, Sep 11",
-      "title": "All About Eve (1950)",
+      "title": "All About Eve (1972)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/all-about-eve/",
       "showtimes": [
@@ -4031,6 +4175,62 @@
     },
     {
       "date": "Fri, Sep 12",
+      "title": "2001: A Space Odyssey (1968)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/2001-a-space-odyssey/",
+      "showtimes": [
+        {
+          "time": "6:30 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1441/seats"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Sep 12",
+      "title": "Bram Stoker's Dracula (1992)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/bram-stokers-dracula/",
+      "showtimes": [
+        {
+          "time": "10:05 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1446/seats"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Sep 12",
+      "title": "Day of the Dead (1985)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/day-of-the-dead/",
+      "showtimes": [
+        {
+          "time": "11:55 PM",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19777651/"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Sep 12",
+      "title": "Dreams (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/dreams-2019/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/dreams/44685"
+        },
+        {
+          "time": "2:50 PM",
+          "link": "https://my.filmforum.org/dreams/44692"
+        },
+        {
+          "time": "5:20 PM",
+          "link": "https://my.filmforum.org/dreams/44697"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Sep 12",
       "title": "Four Nights Of A Dreamer (1971)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/four-nights-of-a-dreamer/",
@@ -4054,6 +4254,86 @@
         {
           "time": "8:30 PM",
           "link": "https://my.filmforum.org/four-nights-of-a-dreamer/45388"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Sep 12",
+      "title": "Persona (1966)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/persona/",
+      "showtimes": [
+        {
+          "time": "12:55 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1415/seats"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Sep 12",
+      "title": "ROMA (2018)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/roma-2018/",
+      "showtimes": [
+        {
+          "time": "3:10 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1416/seats"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Sep 13",
+      "title": "Amadeus (1984)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/amadeus/",
+      "showtimes": [
+        {
+          "time": "4:00 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1417/seats"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Sep 13",
+      "title": "Birdboy: The Forgotten Children (2015)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/birdboy-the-forgotten-children/",
+      "showtimes": [
+        {
+          "time": "11:15 AM",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19819219/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Sep 13",
+      "title": "Day of the Dead (1985)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/day-of-the-dead/",
+      "showtimes": [
+        {
+          "time": "11:55 PM",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19777654/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Sep 13",
+      "title": "Dreams (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/dreams-2019/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/dreams/44686"
+        },
+        {
+          "time": "2:50 PM",
+          "link": "https://my.filmforum.org/dreams/44711"
+        },
+        {
+          "time": "5:20 PM",
+          "link": "https://my.filmforum.org/dreams/44698"
         }
       ]
     },
@@ -4099,6 +4379,30 @@
     },
     {
       "date": "Sat, Sep 13",
+      "title": "Interstellar (2014)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/interstellar-2014/",
+      "showtimes": [
+        {
+          "time": "8:15 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1418/seats"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Sep 13",
+      "title": "The Triplets of Belleville (2003)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/the-triplets-of-belleville/",
+      "showtimes": [
+        {
+          "time": "12:00 PM",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19819292/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Sep 13",
       "title": "Tropic Thunder (2008)",
       "theater": "Nitehawk PP",
       "letterboxdURL": "https://letterboxd.com/film/tropic-thunder/",
@@ -4106,6 +4410,54 @@
         {
           "time": "11:00 AM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19774139/"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Sep 14",
+      "title": "Birdboy: The Forgotten Children (2015)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/birdboy-the-forgotten-children/",
+      "showtimes": [
+        {
+          "time": "11:15 AM",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19819236/"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Sep 14",
+      "title": "Close Encounters of the Third Kind (1977)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/close-encounters-of-the-third-kind/",
+      "showtimes": [
+        {
+          "time": "7:45 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1420/seats"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Sep 14",
+      "title": "Dreams (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/dreams-2019/",
+      "showtimes": [
+        {
+          "time": "12:40 PM",
+          "link": "https://my.filmforum.org/dreams/44687"
+        },
+        {
+          "time": "3:00 PM",
+          "link": "https://my.filmforum.org/dreams/44712"
+        },
+        {
+          "time": "5:30 PM",
+          "link": "https://my.filmforum.org/dreams/44699"
+        },
+        {
+          "time": "8:00 PM",
+          "link": "https://my.filmforum.org/dreams/44706"
         }
       ]
     },
@@ -4151,6 +4503,42 @@
     },
     {
       "date": "Sun, Sep 14",
+      "title": "Lawrence of Arabia (1962)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/lawrence-of-arabia/",
+      "showtimes": [
+        {
+          "time": "2:30 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1419/seats"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Sep 14",
+      "title": "One Hundred Men And A Girl (1937)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/one-hundred-men-and-a-girl/",
+      "showtimes": [
+        {
+          "time": "11:00 AM",
+          "link": "https://my.filmforum.org/one-hundred-men-and-a-girl-ffjr/45442"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Sep 14",
+      "title": "The Matrix (1999)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/the-matrix/",
+      "showtimes": [
+        {
+          "time": "11:00 AM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1311/seats"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Sep 14",
       "title": "Tropic Thunder (2008)",
       "theater": "Nitehawk PP",
       "letterboxdURL": "https://letterboxd.com/film/tropic-thunder/",
@@ -4170,6 +4558,30 @@
         {
           "time": "7:00 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19774102/"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Sep 15",
+      "title": "Dreams (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/dreams-2019/",
+      "showtimes": [
+        {
+          "time": "12:40 PM",
+          "link": "https://my.filmforum.org/dreams/44688"
+        },
+        {
+          "time": "3:00 PM",
+          "link": "https://my.filmforum.org/dreams/44693"
+        },
+        {
+          "time": "5:30 PM",
+          "link": "https://my.filmforum.org/dreams/44700"
+        },
+        {
+          "time": "8:00 PM",
+          "link": "https://my.filmforum.org/dreams/44707"
         }
       ]
     },
@@ -4198,6 +4610,42 @@
       ]
     },
     {
+      "date": "Mon, Sep 15",
+      "title": "Mimic (1997)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/mimic/",
+      "showtimes": [
+        {
+          "time": "9:15 PM",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19819632/"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Sep 16",
+      "title": "Dreams (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/dreams-2019/",
+      "showtimes": [
+        {
+          "time": "12:40 PM",
+          "link": "https://my.filmforum.org/dreams/44689"
+        },
+        {
+          "time": "3:00 PM",
+          "link": "https://my.filmforum.org/dreams/44694"
+        },
+        {
+          "time": "5:30 PM",
+          "link": "https://my.filmforum.org/dreams/44701"
+        },
+        {
+          "time": "8:00 PM",
+          "link": "https://my.filmforum.org/dreams/44708"
+        }
+      ]
+    },
+    {
       "date": "Tue, Sep 16",
       "title": "Escaflowne: The Movie (2000)",
       "theater": "Nitehawk WB",
@@ -4210,13 +4658,309 @@
       ]
     },
     {
+      "date": "Tue, Sep 16",
+      "title": "Four Nights Of A Dreamer (1971)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/four-nights-of-a-dreamer/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/four-nights-of-a-dreamer/45342"
+        },
+        {
+          "time": "2:30 PM",
+          "link": "https://my.filmforum.org/four-nights-of-a-dreamer/45351"
+        },
+        {
+          "time": "4:30 PM",
+          "link": "https://my.filmforum.org/four-nights-of-a-dreamer/45360"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://my.filmforum.org/four-nights-of-a-dreamer/45373"
+        },
+        {
+          "time": "8:30 PM",
+          "link": "https://my.filmforum.org/four-nights-of-a-dreamer/45391"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Sep 16",
+      "title": "The Godfather Part III (1990)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/the-godfather-part-iii/",
+      "showtimes": [
+        {
+          "time": "8:45 PM",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19819435/"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Sep 17",
+      "title": "Angela (2023)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/angela-2023/",
+      "showtimes": [
+        {
+          "time": "7:50 PM",
+          "link": "https://my.filmforum.org/45556/45558"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Sep 17",
+      "title": "Dreams (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/dreams-2019/",
+      "showtimes": [
+        {
+          "time": "12:40 PM",
+          "link": "https://my.filmforum.org/dreams/44690"
+        },
+        {
+          "time": "3:00 PM",
+          "link": "https://my.filmforum.org/dreams/44695"
+        },
+        {
+          "time": "5:30 PM",
+          "link": "https://my.filmforum.org/dreams/44702"
+        },
+        {
+          "time": "8:00 PM",
+          "link": "https://my.filmforum.org/dreams/44709"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Sep 17",
+      "title": "Four Nights Of A Dreamer (1971)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/four-nights-of-a-dreamer/",
+      "showtimes": [
+        {
+          "time": "12:20 PM",
+          "link": "https://my.filmforum.org/four-nights-of-a-dreamer/45343"
+        },
+        {
+          "time": "2:10 PM",
+          "link": "https://my.filmforum.org/four-nights-of-a-dreamer/45352"
+        },
+        {
+          "time": "4:00 PM",
+          "link": "https://my.filmforum.org/four-nights-of-a-dreamer/45361"
+        },
+        {
+          "time": "6:00 PM",
+          "link": "https://my.filmforum.org/four-nights-of-a-dreamer/45374"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Sep 17",
+      "title": "Mars Express (2023)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/mars-express/",
+      "showtimes": [
+        {
+          "time": "9:15 PM",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19819308/"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Sep 18",
+      "title": "Dreams (2019)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/dreams-2019/",
+      "showtimes": [
+        {
+          "time": "12:40 PM",
+          "link": "https://my.filmforum.org/dreams/44691"
+        },
+        {
+          "time": "3:00 PM",
+          "link": "https://my.filmforum.org/dreams/44696"
+        },
+        {
+          "time": "5:30 PM",
+          "link": "https://my.filmforum.org/dreams/44703"
+        },
+        {
+          "time": "8:00 PM",
+          "link": "https://my.filmforum.org/dreams/44710"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Sep 18",
+      "title": "Fatal Images (1989)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/fatal-images/",
+      "showtimes": [
+        {
+          "time": "9:30 PM",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19856203/"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Sep 18",
+      "title": "Four Nights Of A Dreamer (1971)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/four-nights-of-a-dreamer/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/four-nights-of-a-dreamer/45344"
+        },
+        {
+          "time": "2:30 PM",
+          "link": "https://my.filmforum.org/four-nights-of-a-dreamer/45353"
+        },
+        {
+          "time": "4:30 PM",
+          "link": "https://my.filmforum.org/four-nights-of-a-dreamer/45362"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://my.filmforum.org/four-nights-of-a-dreamer/45375"
+        },
+        {
+          "time": "8:30 PM",
+          "link": "https://my.filmforum.org/four-nights-of-a-dreamer/45393"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Sep 18",
+      "title": "They Live (1988)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/they-live/",
+      "showtimes": [
+        {
+          "time": "7:15 PM",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19854802/"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Sep 19",
+      "title": "Black Mother (1989)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/black-mother/",
+      "showtimes": [
+        {
+          "time": "5:00 PM",
+          "link": "https://tickets.bam.org/production/?pid=49760"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Sep 19",
+      "title": "Blow Out (1981)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/blow-out/",
+      "showtimes": [
+        {
+          "time": "11:30 AM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1421/seats"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Sep 19",
+      "title": "Dancehall Queen (1997)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/dancehall-queen/",
+      "showtimes": [
+        {
+          "time": "7:00 PM",
+          "link": "https://tickets.bam.org/production/?pid=49763"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Sep 19",
+      "title": "Dreamgirls (2006)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/dreamgirls/",
+      "showtimes": [
+        {
+          "time": "2:00 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1422/seats"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Sep 19",
+      "title": "Lawrence of Arabia (1962)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/lawrence-of-arabia/",
+      "showtimes": [
+        {
+          "time": "7:30 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1424/seats"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Sep 19",
+      "title": "Persona (1966)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/persona/",
+      "showtimes": [
+        {
+          "time": "5:00 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1423/seats"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Sep 19",
+      "title": "Predators (2010)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/predators/",
+      "showtimes": [
+        {
+          "time": "12:20 PM",
+          "link": "https://my.filmforum.org/predators/44713"
+        },
+        {
+          "time": "2:30 PM",
+          "link": "https://my.filmforum.org/predators/44714"
+        },
+        {
+          "time": "4:40 PM",
+          "link": "https://my.filmforum.org/predators/44715"
+        },
+        {
+          "time": "7:00 PM",
+          "link": "https://my.filmforum.org/predators/44716"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Sep 19",
+      "title": "Shottas (2002)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/shottas/",
+      "showtimes": [
+        {
+          "time": "9:30 PM",
+          "link": "https://tickets.bam.org/production/?pid=49757"
+        }
+      ]
+    },
+    {
       "date": "Sat, Sep 20",
       "title": "Lost River + Q&A and Performance (2014)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/film/lost-river/",
       "showtimes": [
         {
-          "time": "10:00 PM",
+          "time": "9:30 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6601?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
@@ -4242,6 +4986,42 @@
         {
           "time": "11:00 AM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/19774106/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Sep 20",
+      "title": "Predators (2010)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/predators/",
+      "showtimes": [
+        {
+          "time": "12:20 PM",
+          "link": "https://my.filmforum.org/predators/44723"
+        },
+        {
+          "time": "2:30 PM",
+          "link": "https://my.filmforum.org/predators/44742"
+        },
+        {
+          "time": "4:40 PM",
+          "link": "https://my.filmforum.org/predators/44743"
+        },
+        {
+          "time": "7:00 PM",
+          "link": "https://my.filmforum.org/predators/44717"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Sep 21",
+      "title": "Lost River + Intro (2014)",
+      "theater": "Roxy",
+      "letterboxdURL": "https://letterboxd.com/film/lost-river/",
+      "showtimes": [
+        {
+          "time": "8:00 PM",
+          "link": "https://ticketing.uswest.veezi.com/purchase/6602?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
     },
@@ -4282,6 +5062,42 @@
       ]
     },
     {
+      "date": "Mon, Sep 22",
+      "title": "Troll 2 (1990) (1990)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/troll-2/",
+      "showtimes": [
+        {
+          "time": "9:15 PM",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19819693/"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Sep 23",
+      "title": "Anomalisa (2015)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/anomalisa/",
+      "showtimes": [
+        {
+          "time": "9:00 PM",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19819318/"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Sep 24",
+      "title": "Day of the Dead (1985)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/day-of-the-dead/",
+      "showtimes": [
+        {
+          "time": "9:15 PM",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19776974/"
+        }
+      ]
+    },
+    {
       "date": "Sat, Sep 27",
       "title": "D.E.B.S. (2005)",
       "theater": "Nitehawk PP",
@@ -4290,6 +5106,18 @@
         {
           "time": "12:00 PM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19774164/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Sep 27",
+      "title": "The Lord of the Rings (1978) (1978)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/the-lord-of-the-rings/",
+      "showtimes": [
+        {
+          "time": "11:00 AM",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19819332/"
         }
       ]
     },
@@ -4306,6 +5134,30 @@
       ]
     },
     {
+      "date": "Sun, Sep 28",
+      "title": "The Lord of the Rings (1978) (1978)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/the-lord-of-the-rings/",
+      "showtimes": [
+        {
+          "time": "11:00 AM",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19819333/"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Sep 29",
+      "title": "Humanoids From the Deep (1980)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/humanoids-from-the-deep-1980/",
+      "showtimes": [
+        {
+          "time": "9:15 PM",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/19819747/"
+        }
+      ]
+    },
+    {
       "date": "Tue, Sep 30",
       "title": "Black Dynamite (2009)",
       "theater": "Nitehawk PP",
@@ -4314,6 +5166,18 @@
         {
           "time": "9:15 PM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/19774173/"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Sep 30",
+      "title": "Persepolis (2007)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/persepolis/",
+      "showtimes": [
+        {
+          "time": "9:30 PM",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19819262/"
         }
       ]
     },
@@ -4330,50 +5194,14 @@
       ]
     },
     {
-      "date": "Sat Aug 16",
-      "title": "A Better Tomorrow (1986)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/a-better-tomorrow/",
+      "date": "Wed, Oct 15",
+      "title": "Goblin (1994)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/goblin/",
       "showtimes": [
         {
-          "time": "9:45 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508896~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Sun Aug 17",
-      "title": "A Better Tomorrow (1986)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/a-better-tomorrow/",
-      "showtimes": [
-        {
-          "time": "4:20 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508897~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Tue Aug 19",
-      "title": "A Better Tomorrow (1986)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/a-better-tomorrow/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508898~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Wed Aug 20",
-      "title": "A Better Tomorrow (1986)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/a-better-tomorrow/",
-      "showtimes": [
-        {
-          "time": "4:20 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508899~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "time": "9:30 PM",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/19856310/"
         }
       ]
     },
@@ -4390,78 +5218,6 @@
       ]
     },
     {
-      "date": "Sun Aug 17",
-      "title": "A Better Tomorrow II (1987)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/a-better-tomorrow-ii/",
-      "showtimes": [
-        {
-          "time": "6:50 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508902~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Mon Aug 18",
-      "title": "A Better Tomorrow II (1987)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/a-better-tomorrow-ii/",
-      "showtimes": [
-        {
-          "time": "1:40 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508904~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Wed Aug 20",
-      "title": "A Better Tomorrow II (1987)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/a-better-tomorrow-ii/",
-      "showtimes": [
-        {
-          "time": "9:30 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508905~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Sat Aug 16",
-      "title": "A Better Tomorrow III: Love and Death in Saigon (1989)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/a-better-tomorrow-iii-love-and-death-in-saigon/",
-      "showtimes": [
-        {
-          "time": "11:05 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508909~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Sun Aug 17",
-      "title": "A Better Tomorrow III: Love and Death in Saigon (1989)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/a-better-tomorrow-iii-love-and-death-in-saigon/",
-      "showtimes": [
-        {
-          "time": "9:30 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508910~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Mon Aug 18",
-      "title": "A Better Tomorrow III: Love and Death in Saigon (1989)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/a-better-tomorrow-iii-love-and-death-in-saigon/",
-      "showtimes": [
-        {
-          "time": "9:40 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508911~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
       "date": "Thu Aug 21",
       "title": "A Better Tomorrow III: Love and Death in Saigon (1989)",
       "theater": "IFC",
@@ -4470,18 +5226,6 @@
         {
           "time": "9:30 PM",
           "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508912~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Wednesday August 20",
-      "title": "A Brighter Summer Day (1991)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/a-brighter-summer-day/",
-      "showtimes": [
-        {
-          "time": "6:10 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27794"
         }
       ]
     },
@@ -4510,6 +5254,126 @@
       ]
     },
     {
+      "date": "Sat Aug 23",
+      "title": "A Chinese Ghost Story (1987)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/a-chinese-ghost-story/",
+      "showtimes": [
+        {
+          "time": "1:15 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508957~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Sun Aug 24",
+      "title": "A Chinese Ghost Story (1987)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/a-chinese-ghost-story/",
+      "showtimes": [
+        {
+          "time": "4:35 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508958~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Mon Aug 25",
+      "title": "A Chinese Ghost Story (1987)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/a-chinese-ghost-story/",
+      "showtimes": [
+        {
+          "time": "9:50 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508959~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Tue Aug 26",
+      "title": "A Chinese Ghost Story (1987)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/a-chinese-ghost-story/",
+      "showtimes": [
+        {
+          "time": "10:35 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508960~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Wed Aug 27",
+      "title": "A Chinese Ghost Story (1987)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/a-chinese-ghost-story/",
+      "showtimes": [
+        {
+          "time": "7:15 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508961~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Sat Aug 23",
+      "title": "A Chinese Ghost Story II (1990)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/a-chinese-ghost-story-ii/",
+      "showtimes": [
+        {
+          "time": "3:45 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508963~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Sun Aug 24",
+      "title": "A Chinese Ghost Story II (1990)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/a-chinese-ghost-story-ii/",
+      "showtimes": [
+        {
+          "time": "7:05 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508964~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Sun Aug 24",
+      "title": "A Chinese Ghost Story III (1991)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/a-chinese-ghost-story-iii/",
+      "showtimes": [
+        {
+          "time": "9:40 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508966~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Tue Aug 26",
+      "title": "A Chinese Ghost Story III (1991)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/a-chinese-ghost-story-iii/",
+      "showtimes": [
+        {
+          "time": "12:55 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508967~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Wed Aug 27",
+      "title": "A Chinese Ghost Story III (1991)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/a-chinese-ghost-story-iii/",
+      "showtimes": [
+        {
+          "time": "9:40 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508968~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
       "date": "Saturday September 6",
       "title": "A Gentle Creature (2017)",
       "theater": "Metrograph",
@@ -4530,54 +5394,6 @@
         {
           "time": "4:45 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27855"
-        }
-      ]
-    },
-    {
-      "date": "Saturday August 16",
-      "title": "A River Called Titas (1973)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/a-river-called-titas/",
-      "showtimes": [
-        {
-          "time": "2:20 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27645"
-        }
-      ]
-    },
-    {
-      "date": "Monday August 18",
-      "title": "A River Called Titas (1973)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/a-river-called-titas/",
-      "showtimes": [
-        {
-          "time": "6:35 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27783"
-        }
-      ]
-    },
-    {
-      "date": "Friday August 22",
-      "title": "ACE Presents: Wet Hot American Summer (2001)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/wet-hot-american-summer/",
-      "showtimes": [
-        {
-          "time": "7:30 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27695"
-        }
-      ]
-    },
-    {
-      "date": "Friday August 22",
-      "title": "All About Lily Chou-Chou (2001)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/all-about-lily-chou-chou/",
-      "showtimes": [
-        {
-          "time": "3:20 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27689"
         }
       ]
     },
@@ -4678,30 +5494,6 @@
       ]
     },
     {
-      "date": "Sunday August 17",
-      "title": "Battle Royale (2000)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/battle-royale/",
-      "showtimes": [
-        {
-          "time": "2:40 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27650"
-        }
-      ]
-    },
-    {
-      "date": "Tuesday August 19",
-      "title": "Battle Royale (2000)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/battle-royale/",
-      "showtimes": [
-        {
-          "time": "7:15 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27788"
-        }
-      ]
-    },
-    {
       "date": "Monday August 25",
       "title": "Battle Royale (2000)",
       "theater": "Metrograph",
@@ -4710,18 +5502,6 @@
         {
           "time": "9:40 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27810"
-        }
-      ]
-    },
-    {
-      "date": "Sunday August 17",
-      "title": "Belly [35mm] (1998)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/belly/",
-      "showtimes": [
-        {
-          "time": "7:30 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27652"
         }
       ]
     },
@@ -4738,6 +5518,18 @@
       ]
     },
     {
+      "date": "Tuesday August 26",
+      "title": "Belly [35mm] (1998)",
+      "theater": "Metrograph",
+      "letterboxdURL": "https://letterboxd.com/film/belly/",
+      "showtimes": [
+        {
+          "time": "5:30 PM",
+          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27862"
+        }
+      ]
+    },
+    {
       "date": "Thursday August 28",
       "title": "Belly [DCP] (1998)",
       "theater": "Metrograph",
@@ -4750,14 +5542,26 @@
       ]
     },
     {
-      "date": "Sunday August 17",
-      "title": "Boyfriends and Girlfriends (1987)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/boyfriends-and-girlfriends/",
+      "date": "Fri Aug 22",
+      "title": "Beyond the Valley of the Dolls (1970)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/beyond-the-valley-of-the-dolls/",
       "showtimes": [
         {
-          "time": "11:00 AM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27648"
+          "time": "12:00 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513431~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Sat Aug 23",
+      "title": "Beyond the Valley of the Dolls (1970)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/beyond-the-valley-of-the-dolls/",
+      "showtimes": [
+        {
+          "time": "12:00 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513432~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -4774,6 +5578,70 @@
         {
           "time": "9:30 PM",
           "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508948~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Sat Aug 23",
+      "title": "Bullet in the Head (1990)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/bullet-in-the-head/",
+      "showtimes": [
+        {
+          "time": "6:25 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508949~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Sun Aug 24",
+      "title": "Bullet in the Head (1990)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/bullet-in-the-head/",
+      "showtimes": [
+        {
+          "time": "10:35 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508950~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Mon Aug 25",
+      "title": "Bullet in the Head (1990)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/bullet-in-the-head/",
+      "showtimes": [
+        {
+          "time": "10:35 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508951~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "4:05 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508952~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Tue Aug 26",
+      "title": "Bullet in the Head (1990)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/bullet-in-the-head/",
+      "showtimes": [
+        {
+          "time": "6:30 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508953~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Wed Aug 27",
+      "title": "Bullet in the Head (1990)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/bullet-in-the-head/",
+      "showtimes": [
+        {
+          "time": "1:25 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508954~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -4814,54 +5682,6 @@
       ]
     },
     {
-      "date": "Sat Aug 16",
-      "title": "City on Fire (1987)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/city-on-fire/",
-      "showtimes": [
-        {
-          "time": "1:55 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508930~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Mon Aug 18",
-      "title": "City on Fire (1987)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/city-on-fire/",
-      "showtimes": [
-        {
-          "time": "11:05 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508931~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Tue Aug 19",
-      "title": "City on Fire (1987)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/city-on-fire/",
-      "showtimes": [
-        {
-          "time": "4:20 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508932~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Wed Aug 20",
-      "title": "City on Fire (1987)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/city-on-fire/",
-      "showtimes": [
-        {
-          "time": "6:50 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508933~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
       "date": "Thu Aug 21",
       "title": "City on Fire (1987)",
       "theater": "IFC",
@@ -4870,42 +5690,6 @@
         {
           "time": "11:05 AM",
           "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508934~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Wednesday August 20",
-      "title": "Climax (2018)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/climax-2018/",
-      "showtimes": [
-        {
-          "time": "10:30 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27796"
-        }
-      ]
-    },
-    {
-      "date": "Saturday August 16",
-      "title": "Clouds of Sils Maria (2014)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/clouds-of-sils-maria/",
-      "showtimes": [
-        {
-          "time": "5:25 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27644"
-        }
-      ]
-    },
-    {
-      "date": "Tuesday August 19",
-      "title": "Clouds of Sils Maria (2014)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/clouds-of-sils-maria/",
-      "showtimes": [
-        {
-          "time": "4:45 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27787"
         }
       ]
     },
@@ -4958,42 +5742,6 @@
       ]
     },
     {
-      "date": "Tuesday August 26",
-      "title": "Come Drink with Me (1966)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/come-drink-with-me/",
-      "showtimes": [
-        {
-          "time": "5:30 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27815"
-        }
-      ]
-    },
-    {
-      "date": "Sat Aug 16",
-      "title": "Commando (1985)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/commando/",
-      "showtimes": [
-        {
-          "time": "12:00 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512551~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Sat Aug 16",
-      "title": "Cure (1997)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/cure/",
-      "showtimes": [
-        {
-          "time": "11:50 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512553~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
       "date": "Friday August 22",
       "title": "Days of Heaven (1978)",
       "theater": "Metrograph",
@@ -5042,18 +5790,6 @@
       ]
     },
     {
-      "date": "Monday August 18",
-      "title": "Desperately Seeking Susan: 40th Anniversary (1985)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/Desperately%20Seeking%20Susan%3A%2040th%20Anniversary+1985/",
-      "showtimes": [
-        {
-          "time": "9:45 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27785"
-        }
-      ]
-    },
-    {
       "date": "Sunday August 24",
       "title": "Dilwale Dulhania Le Jayenge (1995)",
       "theater": "Metrograph",
@@ -5079,7 +5815,7 @@
     },
     {
       "date": "Friday September 5",
-      "title": "Dirty Harry (1971)",
+      "title": "Dirty Harry [35mm] (1971)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/dirty-harry/",
       "showtimes": [
@@ -5091,13 +5827,165 @@
     },
     {
       "date": "Sunday September 7",
-      "title": "Dirty Harry (1971)",
+      "title": "Dirty Harry [35mm] (1971)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/dirty-harry/",
       "showtimes": [
         {
           "time": "7:40 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27858"
+        }
+      ]
+    },
+    {
+      "date": "Fri Aug 22",
+      "title": "Diva (1982)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/diva/",
+      "showtimes": [
+        {
+          "time": "1:15 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513475~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "4:00 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513502~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "6:45 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513499~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:35 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513500~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Sat Aug 23",
+      "title": "Diva (1982)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/diva/",
+      "showtimes": [
+        {
+          "time": "1:15 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513481~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "4:00 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513482~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "6:45 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513483~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:35 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513484~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Sun Aug 24",
+      "title": "Diva (1982)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/diva/",
+      "showtimes": [
+        {
+          "time": "1:15 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513485~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "4:00 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513486~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "6:45 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513487~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:35 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513488~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Mon Aug 25",
+      "title": "Diva (1982)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/diva/",
+      "showtimes": [
+        {
+          "time": "1:15 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513489~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "4:00 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513490~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:35 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513491~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Tue Aug 26",
+      "title": "Diva (1982)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/diva/",
+      "showtimes": [
+        {
+          "time": "1:15 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513477~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "4:00 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513478~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "6:45 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513501~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:35 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513479~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Wed Aug 27",
+      "title": "Diva (1982)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/diva/",
+      "showtimes": [
+        {
+          "time": "1:15 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513492~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "3:45 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513493~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "6:45 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513480~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:35 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513494~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Tuesday August 26",
+      "title": "Downtown 81 (2000)",
+      "theater": "Metrograph",
+      "letterboxdURL": "https://letterboxd.com/film/downtown-81/",
+      "showtimes": [
+        {
+          "time": "7:45 PM",
+          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27864"
         }
       ]
     },
@@ -5126,18 +6014,6 @@
       ]
     },
     {
-      "date": "Thursday August 21",
-      "title": "Far From Heaven (2002)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/far-from-heaven/",
-      "showtimes": [
-        {
-          "time": "4:15 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27800"
-        }
-      ]
-    },
-    {
       "date": "Saturday September 6",
       "title": "Farewell My Concubine (1993)",
       "theater": "Metrograph",
@@ -5158,42 +6034,6 @@
         {
           "time": "3:20 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27835"
-        }
-      ]
-    },
-    {
-      "date": "Saturday August 16",
-      "title": "Happiness (1998)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/happiness/",
-      "showtimes": [
-        {
-          "time": "2:15 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27638"
-        }
-      ]
-    },
-    {
-      "date": "Sunday August 17",
-      "title": "Happiness (1998)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/happiness/",
-      "showtimes": [
-        {
-          "time": "3:00 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27657"
-        }
-      ]
-    },
-    {
-      "date": "Tuesday August 19",
-      "title": "Happiness (1998)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/happiness/",
-      "showtimes": [
-        {
-          "time": "9:35 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27789"
         }
       ]
     },
@@ -5226,50 +6066,78 @@
       ]
     },
     {
-      "date": "Saturday August 16",
-      "title": "Hard to Be a God (2013)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/hard-to-be-a-god/",
+      "date": "Sat Aug 23",
+      "title": "Hard Boiled (1992)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/hard-boiled/",
       "showtimes": [
         {
-          "time": "7:20 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27640"
+          "time": "10:35 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508937~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:30 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=511673~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
     {
-      "date": "Monday August 18",
-      "title": "Hard to Be a God (2013)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/hard-to-be-a-god/",
+      "date": "Sun Aug 24",
+      "title": "Hard Boiled (1992)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/hard-boiled/",
       "showtimes": [
         {
-          "time": "6:30 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27782"
+          "time": "1:35 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508938~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
     {
-      "date": "Sunday August 17",
-      "title": "Hedwig and the Angry Inch (2001)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/hedwig-and-the-angry-inch/",
+      "date": "Mon Aug 25",
+      "title": "Hard Boiled (1992)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/hard-boiled/",
       "showtimes": [
         {
-          "time": "5:00 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27651"
+          "time": "1:15 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508939~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "7:00 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508940~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
     {
-      "date": "Wednesday August 20",
-      "title": "Hedwig and the Angry Inch (2001)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/hedwig-and-the-angry-inch/",
+      "date": "Tue Aug 26",
+      "title": "Hard Boiled (1992)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/hard-boiled/",
       "showtimes": [
         {
-          "time": "10:30 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27795"
+          "time": "3:30 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508946~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:30 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508941~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Wed Aug 27",
+      "title": "Hard Boiled (1992)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/hard-boiled/",
+      "showtimes": [
+        {
+          "time": "10:35 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508942~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "4:20 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508943~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -5346,74 +6214,14 @@
       ]
     },
     {
-      "date": "Sat Aug 16",
-      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
+      "date": "Tue Aug 26",
+      "title": "Hustler White (1996)",
       "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/in-the-mood-for-love-2000/",
+      "letterboxdURL": "https://letterboxd.com/film/hustler-white/",
       "showtimes": [
         {
-          "time": "11:10 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512569~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "5:10 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512563~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Sun Aug 17",
-      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/in-the-mood-for-love-2000/",
-      "showtimes": [
-        {
-          "time": "11:10 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512570~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "5:10 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512564~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Mon Aug 18",
-      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/in-the-mood-for-love-2000/",
-      "showtimes": [
-        {
-          "time": "11:10 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513119~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "5:10 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512561~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Tue Aug 19",
-      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/in-the-mood-for-love-2000/",
-      "showtimes": [
-        {
-          "time": "5:10 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512562~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Wed Aug 20",
-      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/in-the-mood-for-love-2000/",
-      "showtimes": [
-        {
-          "time": "5:10 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512565~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "time": "7:00 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513000~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -5430,6 +6238,90 @@
       ]
     },
     {
+      "date": "Fri Aug 22",
+      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/in-the-mood-for-love-2000/",
+      "showtimes": [
+        {
+          "time": "11:10 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=514412~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "4:20 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513503~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Sat Aug 23",
+      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/in-the-mood-for-love-2000/",
+      "showtimes": [
+        {
+          "time": "11:10 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513510~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "4:20 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513504~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Sun Aug 24",
+      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/in-the-mood-for-love-2000/",
+      "showtimes": [
+        {
+          "time": "11:10 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513511~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "4:20 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513505~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Mon Aug 25",
+      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/in-the-mood-for-love-2000/",
+      "showtimes": [
+        {
+          "time": "4:20 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513506~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Tue Aug 26",
+      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/in-the-mood-for-love-2000/",
+      "showtimes": [
+        {
+          "time": "4:20 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513507~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Wed Aug 27",
+      "title": "In the Mood for Love + In the Mood for Love 2001 (2000)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/in-the-mood-for-love-2000/",
+      "showtimes": [
+        {
+          "time": "4:20 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513508~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
       "date": "Saturday August 30",
       "title": "Koko: A Talking Gorilla (1978)",
       "theater": "Metrograph",
@@ -5438,18 +6330,6 @@
         {
           "time": "6:50 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27753"
-        }
-      ]
-    },
-    {
-      "date": "Tuesday August 19",
-      "title": "Kundun (1997)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/kundun/",
-      "showtimes": [
-        {
-          "time": "4:30 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27786"
         }
       ]
     },
@@ -5498,30 +6378,6 @@
         {
           "time": "9:45 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27859"
-        }
-      ]
-    },
-    {
-      "date": "Saturday August 16",
-      "title": "Late August, Early September (1998)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/late-august-early-september/",
-      "showtimes": [
-        {
-          "time": "12:00 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27637"
-        }
-      ]
-    },
-    {
-      "date": "Monday August 18",
-      "title": "Late August, Early September (1998)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/late-august-early-september/",
-      "showtimes": [
-        {
-          "time": "4:15 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27781"
         }
       ]
     },
@@ -5586,18 +6442,6 @@
       ]
     },
     {
-      "date": "Saturday August 16",
-      "title": "Madame X: An Absolute Ruler (1966)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/madame-x-an-absolute-ruler/",
-      "showtimes": [
-        {
-          "time": "8:00 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27643"
-        }
-      ]
-    },
-    {
       "date": "Thursday August 21",
       "title": "Madame X: An Absolute Ruler (1966)",
       "theater": "Metrograph",
@@ -5606,18 +6450,6 @@
         {
           "time": "6:45 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27804"
-        }
-      ]
-    },
-    {
-      "date": "Sunday August 17",
-      "title": "Made in Hong Kong (1997)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/made-in-hong-kong-1997/",
-      "showtimes": [
-        {
-          "time": "9:45 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27654"
         }
       ]
     },
@@ -5718,26 +6550,74 @@
       ]
     },
     {
-      "date": "Sunday August 17",
-      "title": "Nashville (1975)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/nashville/",
+      "date": "Fri Aug 22",
+      "title": "My Neighbor Totoro (1988)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/my-neighbor-totoro/",
       "showtimes": [
         {
-          "time": "11:30 AM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27647"
+          "time": "11:00 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513519~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
     {
-      "date": "Thursday August 21",
-      "title": "Nashville (1975)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/nashville/",
+      "date": "Sat Aug 23",
+      "title": "My Neighbor Totoro (1988)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/my-neighbor-totoro/",
       "showtimes": [
         {
-          "time": "6:30 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27801"
+          "time": "11:00 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513512~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Sun Aug 24",
+      "title": "My Neighbor Totoro (1988)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/my-neighbor-totoro/",
+      "showtimes": [
+        {
+          "time": "11:00 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513513~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Mon Aug 25",
+      "title": "My Neighbor Totoro (1988)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/my-neighbor-totoro/",
+      "showtimes": [
+        {
+          "time": "11:00 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513514~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Tue Aug 26",
+      "title": "My Neighbor Totoro (1988)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/my-neighbor-totoro/",
+      "showtimes": [
+        {
+          "time": "11:00 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513516~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Wed Aug 27",
+      "title": "My Neighbor Totoro (1988)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/my-neighbor-totoro/",
+      "showtimes": [
+        {
+          "time": "11:00 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513517~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -5754,30 +6634,6 @@
       ]
     },
     {
-      "date": "Sunday August 17",
-      "title": "Natural Born Killers (1994)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/natural-born-killers/",
-      "showtimes": [
-        {
-          "time": "9:35 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27653"
-        }
-      ]
-    },
-    {
-      "date": "Tuesday August 19",
-      "title": "Natural Born Killers (1994)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/natural-born-killers/",
-      "showtimes": [
-        {
-          "time": "9:45 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27790"
-        }
-      ]
-    },
-    {
       "date": "Wednesday August 27",
       "title": "Natural Born Killers (1994)",
       "theater": "Metrograph",
@@ -5786,82 +6642,6 @@
         {
           "time": "9:50 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27826"
-        }
-      ]
-    },
-    {
-      "date": "Sat Aug 16",
-      "title": "Night of the Juggler (1980)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/night-of-the-juggler/",
-      "showtimes": [
-        {
-          "time": "11:20 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512573~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:20 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512574~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Sun Aug 17",
-      "title": "Night of the Juggler (1980)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/night-of-the-juggler/",
-      "showtimes": [
-        {
-          "time": "11:20 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512575~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:20 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512576~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Mon Aug 18",
-      "title": "Night of the Juggler (1980)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/night-of-the-juggler/",
-      "showtimes": [
-        {
-          "time": "11:20 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512577~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:20 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512578~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Tue Aug 19",
-      "title": "Night of the Juggler (1980)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/night-of-the-juggler/",
-      "showtimes": [
-        {
-          "time": "9:20 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512583~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Wed Aug 20",
-      "title": "Night of the Juggler (1980)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/night-of-the-juggler/",
-      "showtimes": [
-        {
-          "time": "11:20 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512579~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:20 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512582~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -5882,14 +6662,74 @@
       ]
     },
     {
-      "date": "Monday August 18",
-      "title": "Nostalghia (1983)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/nostalghia/",
+      "date": "Fri Aug 22",
+      "title": "Night of the Juggler (1980)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/night-of-the-juggler/",
       "showtimes": [
         {
-          "time": "4:00 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27780"
+          "time": "9:45 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513520~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Sat Aug 23",
+      "title": "Night of the Juggler (1980)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/night-of-the-juggler/",
+      "showtimes": [
+        {
+          "time": "9:45 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513522~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Sun Aug 24",
+      "title": "Night of the Juggler (1980)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/night-of-the-juggler/",
+      "showtimes": [
+        {
+          "time": "9:45 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513523~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Mon Aug 25",
+      "title": "Night of the Juggler (1980)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/night-of-the-juggler/",
+      "showtimes": [
+        {
+          "time": "9:45 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513524~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Tue Aug 26",
+      "title": "Night of the Juggler (1980)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/night-of-the-juggler/",
+      "showtimes": [
+        {
+          "time": "9:45 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513521~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Wed Aug 27",
+      "title": "Night of the Juggler (1980)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/night-of-the-juggler/",
+      "showtimes": [
+        {
+          "time": "9:45 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513525~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -5906,14 +6746,26 @@
       ]
     },
     {
-      "date": "Sat Aug 16",
+      "date": "Fri Aug 22",
       "title": "On-Gaku: Our Sound (2019)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/on-gaku-our-sound/",
       "showtimes": [
         {
-          "time": "11:55 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512585~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "time": "11:50 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513528~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Sat Aug 23",
+      "title": "On-Gaku: Our Sound (2019)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/on-gaku-our-sound/",
+      "showtimes": [
+        {
+          "time": "11:50 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513527~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -5990,54 +6842,6 @@
       ]
     },
     {
-      "date": "Sat Aug 16",
-      "title": "Peking Opera Blues (1986)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/peking-opera-blues/",
-      "showtimes": [
-        {
-          "time": "7:10 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508922~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Sun Aug 17",
-      "title": "Peking Opera Blues (1986)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/peking-opera-blues/",
-      "showtimes": [
-        {
-          "time": "1:45 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508923~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Mon Aug 18",
-      "title": "Peking Opera Blues (1986)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/peking-opera-blues/",
-      "showtimes": [
-        {
-          "time": "7:05 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508924~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Wed Aug 20",
-      "title": "Peking Opera Blues (1986)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/peking-opera-blues/",
-      "showtimes": [
-        {
-          "time": "1:45 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508926~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
       "date": "Thu Aug 21",
       "title": "Peking Opera Blues (1986)",
       "theater": "IFC",
@@ -6074,14 +6878,38 @@
       ]
     },
     {
-      "date": "Saturday August 16",
-      "title": "Possession (1981)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/possession/",
+      "date": "Fri Aug 22",
+      "title": "Pet Sematary (1989)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/pet-sematary/",
       "showtimes": [
         {
-          "time": "10:45 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27641"
+          "time": "12:10 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513529~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Sat Aug 23",
+      "title": "Pet Sematary (1989)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/pet-sematary/",
+      "showtimes": [
+        {
+          "time": "12:10 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513530~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Mon Aug 25",
+      "title": "Portrait of Jason (1967)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/portrait-of-jason/",
+      "showtimes": [
+        {
+          "time": "7:10 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510274~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -6146,54 +6974,6 @@
       ]
     },
     {
-      "date": "Saturday August 16",
-      "title": "Querelle (1982)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/querelle/",
-      "showtimes": [
-        {
-          "time": "10:50 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27642"
-        }
-      ]
-    },
-    {
-      "date": "Thursday August 21",
-      "title": "Querelle (1982)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/querelle/",
-      "showtimes": [
-        {
-          "time": "9:35 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27803"
-        }
-      ]
-    },
-    {
-      "date": "Saturday August 16",
-      "title": "Requiem for a Dream (2000)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/requiem-for-a-dream/",
-      "showtimes": [
-        {
-          "time": "5:10 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27639"
-        }
-      ]
-    },
-    {
-      "date": "Wednesday August 20",
-      "title": "Requiem for a Dream (2000)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/requiem-for-a-dream/",
-      "showtimes": [
-        {
-          "time": "4:10 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27792"
-        }
-      ]
-    },
-    {
       "date": "Monday August 25",
       "title": "Requiem for a Dream (2000)",
       "theater": "Metrograph",
@@ -6206,26 +6986,26 @@
       ]
     },
     {
-      "date": "Sat Aug 16",
+      "date": "Fri Aug 22",
       "title": "Rosemary's Baby (1968)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/rosemarys-baby/",
       "showtimes": [
         {
-          "time": "11:35 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512768~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "time": "11:40 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513531~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
     {
-      "date": "Mon Aug 18",
-      "title": "Say Amen, Somebody (1982)",
+      "date": "Sat Aug 23",
+      "title": "Rosemary's Baby (1968)",
       "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/say-amen-somebody/",
+      "letterboxdURL": "https://letterboxd.com/film/rosemarys-baby/",
       "showtimes": [
         {
-          "time": "7:00 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=510275~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "time": "11:40 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513532~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -6238,30 +7018,6 @@
         {
           "time": "5:40 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27816"
-        }
-      ]
-    },
-    {
-      "date": "Sunday August 17",
-      "title": "Shortbus (2006)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/shortbus/",
-      "showtimes": [
-        {
-          "time": "7:35 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27655"
-        }
-      ]
-    },
-    {
-      "date": "Wednesday August 20",
-      "title": "Shortbus (2006)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/shortbus/",
-      "showtimes": [
-        {
-          "time": "8:25 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27797"
         }
       ]
     },
@@ -6286,18 +7042,6 @@
         {
           "time": "7:45 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27712"
-        }
-      ]
-    },
-    {
-      "date": "Tuesday August 26",
-      "title": "Spacked Out (2000)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/spacked-out/",
-      "showtimes": [
-        {
-          "time": "7:35 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27818"
         }
       ]
     },
@@ -6362,18 +7106,6 @@
       ]
     },
     {
-      "date": "Tuesday August 19",
-      "title": "Still Life [DCP] (2006)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/still-life-2006/",
-      "showtimes": [
-        {
-          "time": "7:20 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27791"
-        }
-      ]
-    },
-    {
       "date": "Tuesday August 26",
       "title": "Still Life [DCP] (2006)",
       "theater": "Metrograph",
@@ -6382,42 +7114,6 @@
         {
           "time": "3:15 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27814"
-        }
-      ]
-    },
-    {
-      "date": "Monday August 18",
-      "title": "Stranger Than Paradise (1984)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/stranger-than-paradise/",
-      "showtimes": [
-        {
-          "time": "9:50 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27784"
-        }
-      ]
-    },
-    {
-      "date": "Sunday August 17",
-      "title": "Summer Hours (2008)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/summer-hours/",
-      "showtimes": [
-        {
-          "time": "5:35 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27656"
-        }
-      ]
-    },
-    {
-      "date": "Wednesday August 20",
-      "title": "Taxi Tehran (2015)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/taxi-tehran/",
-      "showtimes": [
-        {
-          "time": "4:20 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27793"
         }
       ]
     },
@@ -6458,18 +7154,6 @@
       ]
     },
     {
-      "date": "Sat Aug 16",
-      "title": "The Decline of Western Civilization Part II: The Metal Years (1988)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/the-decline-of-western-civilization-part-ii-the-metal-years/",
-      "showtimes": [
-        {
-          "time": "11:25 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512598~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
       "date": "Friday September 5",
       "title": "The Enigma of Kaspar Hauser (1974)",
       "theater": "Metrograph",
@@ -6490,18 +7174,6 @@
         {
           "time": "12:15 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27843"
-        }
-      ]
-    },
-    {
-      "date": "Saturday August 16",
-      "title": "The Girl Can't Help It (1955)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/the-girl-cant-help-it/",
-      "showtimes": [
-        {
-          "time": "12:15 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27646"
         }
       ]
     },
@@ -6602,70 +7274,6 @@
       ]
     },
     {
-      "date": "Sat Aug 16",
-      "title": "The Killer (1989)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/the-killer-1989/",
-      "showtimes": [
-        {
-          "time": "4:30 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508915~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Sun Aug 17",
-      "title": "The Killer (1989)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/the-killer-1989/",
-      "showtimes": [
-        {
-          "time": "11:05 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508916~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Mon Aug 18",
-      "title": "The Killer (1989)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/the-killer-1989/",
-      "showtimes": [
-        {
-          "time": "4:20 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508917~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Tue Aug 19",
-      "title": "The Killer (1989)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/the-killer-1989/",
-      "showtimes": [
-        {
-          "time": "1:40 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508918~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:30 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512429~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Wed Aug 20",
-      "title": "The Killer (1989)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/the-killer-1989/",
-      "showtimes": [
-        {
-          "time": "11:05 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508919~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
       "date": "Thu Aug 21",
       "title": "The Killer (1989)",
       "theater": "IFC",
@@ -6674,6 +7282,30 @@
         {
           "time": "6:50 PM",
           "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=508920~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Fri Aug 22",
+      "title": "The Killer (1989)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/the-killer-1989/",
+      "showtimes": [
+        {
+          "time": "12:05 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513554~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Sat Aug 23",
+      "title": "The Killer (1989)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/the-killer-1989/",
+      "showtimes": [
+        {
+          "time": "12:05 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513555~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -6738,103 +7370,15 @@
       ]
     },
     {
-      "date": "Sat Aug 16",
-      "title": "The Lovers on the Bridge (1991)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/the-lovers-on-the-bridge/",
-      "showtimes": [
-        {
-          "time": "1:25 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512599~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "4:15 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512600~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "7:05 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512601~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Sun Aug 17",
-      "title": "The Lovers on the Bridge (1991)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/the-lovers-on-the-bridge/",
-      "showtimes": [
-        {
-          "time": "1:25 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512602~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "4:15 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512603~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "7:05 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512604~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Mon Aug 18",
-      "title": "The Lovers on the Bridge (1991)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/the-lovers-on-the-bridge/",
-      "showtimes": [
-        {
-          "time": "1:25 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512609~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "4:15 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512610~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Tue Aug 19",
-      "title": "The Lovers on the Bridge (1991)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/the-lovers-on-the-bridge/",
-      "showtimes": [
-        {
-          "time": "1:50 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512614~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "4:15 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512615~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "7:05 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512616~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Wed Aug 20",
-      "title": "The Lovers on the Bridge (1991)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/the-lovers-on-the-bridge/",
-      "showtimes": [
-        {
-          "time": "4:15 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512605~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "7:05 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512606~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
       "date": "Thu Aug 21",
       "title": "The Lovers on the Bridge (1991)",
       "theater": "IFC",
       "letterboxdURL": "https://letterboxd.com/film/the-lovers-on-the-bridge/",
       "showtimes": [
+        {
+          "time": "1:25 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=514402~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
         {
           "time": "4:15 PM",
           "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512607~8722a542-64c1-4c0b-af02-c3e8a239d769& "
@@ -6842,6 +7386,78 @@
         {
           "time": "7:05 PM",
           "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=512608~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Fri Aug 22",
+      "title": "The Lovers on the Bridge (1991)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/the-lovers-on-the-bridge/",
+      "showtimes": [
+        {
+          "time": "1:45 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513564~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "7:00 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513565~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Sat Aug 23",
+      "title": "The Lovers on the Bridge (1991)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/the-lovers-on-the-bridge/",
+      "showtimes": [
+        {
+          "time": "1:45 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513556~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "7:00 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513557~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Sun Aug 24",
+      "title": "The Lovers on the Bridge (1991)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/the-lovers-on-the-bridge/",
+      "showtimes": [
+        {
+          "time": "1:45 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513558~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "7:00 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513559~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Mon Aug 25",
+      "title": "The Lovers on the Bridge (1991)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/the-lovers-on-the-bridge/",
+      "showtimes": [
+        {
+          "time": "1:45 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513560~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Wed Aug 27",
+      "title": "The Lovers on the Bridge (1991)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/the-lovers-on-the-bridge/",
+      "showtimes": [
+        {
+          "time": "1:45 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=513561~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -6854,18 +7470,6 @@
         {
           "time": "10:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27851"
-        }
-      ]
-    },
-    {
-      "date": "Sunday September 7",
-      "title": "The Matrix (1999)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/the-matrix/",
-      "showtimes": [
-        {
-          "time": "4:30 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27854"
         }
       ]
     },
@@ -6914,18 +7518,6 @@
         {
           "time": "9:50 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27860"
-        }
-      ]
-    },
-    {
-      "date": "Thursday August 21",
-      "title": "The Young Girls of Rochefort (1967)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/the-young-girls-of-rochefort/",
-      "showtimes": [
-        {
-          "time": "4:00 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27799"
         }
       ]
     },
@@ -7010,30 +7602,6 @@
         {
           "time": "2:45 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27766"
-        }
-      ]
-    },
-    {
-      "date": "Sunday August 17",
-      "title": "Whisky (2004)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/whisky/",
-      "showtimes": [
-        {
-          "time": "1:00 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27649"
-        }
-      ]
-    },
-    {
-      "date": "Wednesday August 20",
-      "title": "Whisky (2004)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/whisky/",
-      "showtimes": [
-        {
-          "time": "6:20 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=27798"
         }
       ]
     }
