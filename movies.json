@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-03T16:32:02.870996",
+  "lastUpdated": "2025-10-03T17:36:39.204153",
   "movies": [
     {
       "date": "Wed, Oct 1",
@@ -30,18 +30,6 @@
         {
           "time": "8:45 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2025#showing-59954"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Oct 3",
-      "title": "Autour d'un marteau. A propos de Jean-Luc Vilmouth (The Hammer) (1985)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/Autour%20d%27un%20marteau.%20A%20propos%20de%20Jean-Luc%20Vilmouth%20%28The%20Hammer%29+1985/",
-      "showtimes": [
-        {
-          "time": "4:30 PM",
-          "link": "https://www.moma.org/calendar/events/10836"
         }
       ]
     },
@@ -118,18 +106,6 @@
         {
           "time": "8:20 PM",
           "link": "https://my.filmforum.org/predators/46234"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Oct 3",
-      "title": "Saute ma ville (1968)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/Saute%20ma%20ville+1968/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://www.moma.org/calendar/events/10820"
         }
       ]
     },
@@ -223,18 +199,6 @@
     },
     {
       "date": "Sat, Oct 4",
-      "title": "Family Business (1984)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/family-business-1984/",
-      "showtimes": [
-        {
-          "time": "1:30 PM",
-          "link": "https://www.moma.org/calendar/events/10840"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 4",
       "title": "Four Nights Of A Dreamer (1972)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/four-nights-of-a-dreamer/",
@@ -319,18 +283,6 @@
     },
     {
       "date": "Sat, Oct 4",
-      "title": "Les rendez-vous d\u2019Anna (The Meetings of Anna) (1978)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/Les%20rendez-vous%20d%E2%80%99Anna%20%28The%20Meetings%20of%20Anna%29+1978/",
-      "showtimes": [
-        {
-          "time": "6:30 PM",
-          "link": "https://www.moma.org/calendar/events/10831"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 4",
       "title": "Lolita (1997)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/lolita-1997/",
@@ -366,18 +318,6 @@
         {
           "time": "2:00 PM",
           "link": "https://my.filmforum.org/the-ladykillers-sellers/46283"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 4",
-      "title": "Toute une nuit (All Night Long) (1982)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/Toute%20une%20nuit%20%28All%20Night%20Long%29+1982/",
-      "showtimes": [
-        {
-          "time": "4:00 PM",
-          "link": "https://www.moma.org/calendar/events/10828"
         }
       ]
     },
@@ -511,18 +451,6 @@
     },
     {
       "date": "Sun, Oct 5",
-      "title": "La Folie Almayer (Almayer's Folly) (2011)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/La%20Folie%20Almayer%20%28Almayer%27s%20Folly%29+2011/",
-      "showtimes": [
-        {
-          "time": "4:00 PM",
-          "link": "https://www.moma.org/calendar/events/10848"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 5",
       "title": "Lawrence of Arabia (1962)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/lawrence-of-arabia/",
@@ -563,18 +491,6 @@
     },
     {
       "date": "Sun, Oct 5",
-      "title": "Robert Wilson and the Civil Wars (1987)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/robert-wilson-and-the-civil-wars/",
-      "showtimes": [
-        {
-          "time": "1:00 PM",
-          "link": "https://tickets.bam.org/production/?pid=50598"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 5",
       "title": "The Adventures Of Robin Hood (1985)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/the-adventures-of-robin-hood/",
@@ -606,18 +522,6 @@
         {
           "time": "11:00 AM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/20110108/"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Oct 6",
-      "title": "A l'Est avec Sonia Wieder-Atherton (2007)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/a-lest-avec-sonia-wieder-atherton/",
-      "showtimes": [
-        {
-          "time": "4:00 PM",
-          "link": "https://www.moma.org/calendar/events/10846"
         }
       ]
     },
@@ -815,18 +719,6 @@
     },
     {
       "date": "Mon, Oct 6",
-      "title": "Trois strophes sur le nom de Sacher (ThreeStanzas on the Name Sacher) (1989)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/Trois%20strophes%20sur%20le%20nom%20de%20Sacher%20%28ThreeStanzas%20on%20the%20Name%20Sacher%29+1989/",
-      "showtimes": [
-        {
-          "time": "6:30 PM",
-          "link": "https://www.moma.org/calendar/events/10844"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Oct 6",
       "title": "Who's the Caboose? - 35MM + Q&A | Mary Bronstein Selects (1997)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/film/whos-the-caboose/",
@@ -931,18 +823,6 @@
     },
     {
       "date": "Tue, Oct 7",
-      "title": "Mortu Nega (1988)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/mortu-nega/",
-      "showtimes": [
-        {
-          "time": "6:00 PM",
-          "link": "https://tickets.bam.org/production/?pid=50608"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Oct 7",
       "title": "Paprika (2006)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/paprika-2006/",
@@ -1031,18 +911,6 @@
     },
     {
       "date": "Tue, Oct 7",
-      "title": "Un divan \u00e0 New York (A Couch in NewYork) (1998)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/Un%20divan%20%C3%A0%20New%20York%20%28A%20Couch%20in%20NewYork%29+1998/",
-      "showtimes": [
-        {
-          "time": "6:30 PM",
-          "link": "https://www.moma.org/calendar/events/10847"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Oct 7",
       "title": "Welcome to the Dollhouse - 35MM | Mary Bronstein Selects (1995)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/film/welcome-to-the-dollhouse/",
@@ -1050,18 +918,6 @@
         {
           "time": "7:00 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6677?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Oct 8",
-      "title": "Angel\u2019s Egg (1985)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/angels-egg/",
-      "showtimes": [
-        {
-          "time": "6:00 PM",
-          "link": "https://tickets.bam.org/production/?pid=50612"
         }
       ]
     },
@@ -1118,18 +974,6 @@
         {
           "time": "6:10 PM",
           "link": "https://my.filmforum.org/four-nights-of-a-dreamer/46271"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Oct 8",
-      "title": "Golden Eighties (1986)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/golden-eighties/",
-      "showtimes": [
-        {
-          "time": "6:30 PM",
-          "link": "https://www.moma.org/calendar/events/10841"
         }
       ]
     },
@@ -1250,18 +1094,6 @@
         {
           "time": "9:30 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6679?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Oct 9",
-      "title": "A l'Est avec Sonia Wieder-Atherton (2007)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/a-lest-avec-sonia-wieder-atherton/",
-      "showtimes": [
-        {
-          "time": "6:30 PM",
-          "link": "https://www.moma.org/calendar/events/10846"
         }
       ]
     },
@@ -1394,18 +1226,6 @@
         {
           "time": "7:30 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6673?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Oct 9",
-      "title": "Pour Febe Elisabeth Velasquez, El Salvador (1991)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/pour-febe-elisabeth-velasquez-el-salvador/",
-      "showtimes": [
-        {
-          "time": "4:00 PM",
-          "link": "https://www.moma.org/calendar/events/10834"
         }
       ]
     },
@@ -1603,30 +1423,6 @@
     },
     {
       "date": "Sat, Oct 11",
-      "title": "La Folie Almayer (Almayer's Folly) (2011)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/La%20Folie%20Almayer%20%28Almayer%27s%20Folly%29+2011/",
-      "showtimes": [
-        {
-          "time": "1:30 PM",
-          "link": "https://www.moma.org/calendar/events/10848"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 11",
-      "title": "No Home Movie (2015)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/no-home-movie/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://www.moma.org/calendar/events/10851"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 11",
       "title": "Quick Billy (1968)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/quick-billy/",
@@ -1739,30 +1535,6 @@
     },
     {
       "date": "Sun, Oct 12",
-      "title": "Desert Hearts (1985)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/desert-hearts/",
-      "showtimes": [
-        {
-          "time": "6:30 PM",
-          "link": "https://newfest.org/events/deserthearts/"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 12",
-      "title": "Dreamers (2003)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/dreamers/",
-      "showtimes": [
-        {
-          "time": "4:00 PM",
-          "link": "https://newfest.org/events/dreamers/"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 12",
       "title": "My Father Is Coming (1991)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/my-father-is-coming/",
@@ -1834,18 +1606,6 @@
         {
           "time": "11:00 AM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/20110125/"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 12",
-      "title": "Un divan \u00e0 New York (A Couch in NewYork) (1998)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/Un%20divan%20%C3%A0%20New%20York%20%28A%20Couch%20in%20NewYork%29+1998/",
-      "showtimes": [
-        {
-          "time": "4:00 PM",
-          "link": "https://www.moma.org/calendar/events/10847"
         }
       ]
     },
@@ -2051,18 +1811,6 @@
     },
     {
       "date": "Wed, Oct 15",
-      "title": "Jeanne Dielman, 23, quai du Commerce,1080 Bruxelles (1975)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/Jeanne%20Dielman%2C%2023%2C%20quai%20du%20Commerce%2C1080%20Bruxelles+1975/",
-      "showtimes": [
-        {
-          "time": "6:30 PM",
-          "link": "https://www.moma.org/calendar/events/10827"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Oct 15",
       "title": "My Beautiful Laundrette (1985)",
       "theater": "Nitehawk PP",
       "letterboxdURL": "https://letterboxd.com/film/my-beautiful-laundrette/",
@@ -2130,30 +1878,6 @@
         {
           "time": "6:45 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2025#showing-60074"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Oct 16",
-      "title": "No Home Movie (2015)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/no-home-movie/",
-      "showtimes": [
-        {
-          "time": "4:00 PM",
-          "link": "https://www.moma.org/calendar/events/10851"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Oct 16",
-      "title": "Screen tests with Maria Cabral and C\u00e9sarMonteiro (1966)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/Screen%20tests%20with%20Maria%20Cabral%20and%20C%C3%A9sarMonteiro+1966/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://www.moma.org/calendar/events/10889"
         }
       ]
     },
@@ -2259,18 +1983,6 @@
     },
     {
       "date": "Fri, Oct 17",
-      "title": "Quem Espera por Sapatos de Defunto Morre Descal\u00e7o(He Who Awaits Dead Men's Shoes Dies Barefoot) (1970)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/Quem%20Espera%20por%20Sapatos%20de%20Defunto%20Morre%20Descal%C3%A7o%28He%20Who%20Awaits%20Dead%20Men%27s%20Shoes%20Dies%20Barefoot%29+1970/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://www.moma.org/calendar/events/10891"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Oct 17",
       "title": "Seduction: The Cruel Woman (1986)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/seduction-the-cruel-woman/",
@@ -2283,18 +1995,6 @@
     },
     {
       "date": "Fri, Oct 17",
-      "title": "Sophia de Mello Breyner Andresen (1969)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/sophia-de-mello-breyner-andresen/",
-      "showtimes": [
-        {
-          "time": "4:30 PM",
-          "link": "https://www.moma.org/calendar/events/10890"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Oct 17",
       "title": "Sugar Hill (1974)",
       "theater": "Nitehawk WB",
       "letterboxdURL": "https://letterboxd.com/film/sugar-hill-1974/",
@@ -2302,30 +2002,6 @@
         {
           "time": "12:10 AM",
           "link": "https://brooklynhorror2025.eventive.org/schedule/68bf0d1756ab0c15888e9572"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Oct 17",
-      "title": "The Razor's Edge (2016)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-razors-edge/",
-      "showtimes": [
-        {
-          "time": "5:00 PM",
-          "link": "https://tickets.bam.org/production/?pid=50334"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 18",
-      "title": "A Civilized People (1999)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/a-civilized-people/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://tickets.bam.org/production/?pid=50727"
         }
       ]
     },
@@ -2411,18 +2087,6 @@
     },
     {
       "date": "Sat, Oct 18",
-      "title": "Le p\u00e8re No\u00ebl a les yeux bleus (Santa Claus Has BlueEyes) (1966)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/Le%20p%C3%A8re%20No%C3%ABl%20a%20les%20yeux%20bleus%20%28Santa%20Claus%20Has%20BlueEyes%29+1966/",
-      "showtimes": [
-        {
-          "time": "4:00 PM",
-          "link": "https://www.moma.org/calendar/events/10892"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 18",
       "title": "Mocktail Matinee: Josie and the Pussycats (2001)",
       "theater": "Nitehawk PP",
       "letterboxdURL": "https://letterboxd.com/search/Mocktail%20Matinee%3A%20Josie%20and%20the%20Pussycats+2001/",
@@ -2483,18 +2147,6 @@
     },
     {
       "date": "Sat, Oct 18",
-      "title": "The Razor's Edge (2016)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-razors-edge/",
-      "showtimes": [
-        {
-          "time": "9:15 PM",
-          "link": "https://tickets.bam.org/production/?pid=50334"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 18",
       "title": "Virgin Machine (1989)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/virgin-machine/",
@@ -2502,30 +2154,6 @@
         {
           "time": "4:45 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2025#showing-60087"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 18",
-      "title": "\u00c0 Flor do Mar (Hovering Over the Water) (1978)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/%C3%80%20Flor%20do%20Mar%20%28Hovering%20Over%20the%20Water%29+1978/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://www.moma.org/calendar/events/10895"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 19",
-      "title": "A Perfect Day (2023)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/a-perfect-day/",
-      "showtimes": [
-        {
-          "time": "6:45 PM",
-          "link": "https://tickets.bam.org/production/?pid=50352"
         }
       ]
     },
@@ -2647,18 +2275,6 @@
     },
     {
       "date": "Sun, Oct 19",
-      "title": "Screen tests with Maria Cabral and C\u00e9sarMonteiro (1966)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/Screen%20tests%20with%20Maria%20Cabral%20and%20C%C3%A9sarMonteiro+1966/",
-      "showtimes": [
-        {
-          "time": "4:00 PM",
-          "link": "https://www.moma.org/calendar/events/10889"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 19",
       "title": "Sherlock Jr (1911)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/sherlock-jr/",
@@ -2666,46 +2282,6 @@
         {
           "time": "11:00 AM",
           "link": "https://my.filmforum.org/sherlock-jr-ffjr/45564"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 19",
-      "title": "The Razor's Edge (2016)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-razors-edge/",
-      "showtimes": [
-        {
-          "time": "2:00 PM",
-          "link": "https://tickets.bam.org/production/?pid=50334"
-        },
-        {
-          "time": "8:45 PM",
-          "link": "https://tickets.bam.org/production/?pid=50334"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 19",
-      "title": "Where Do We Go Now? (2011)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/where-do-we-go-now/",
-      "showtimes": [
-        {
-          "time": "4:15 PM",
-          "link": "https://tickets.bam.org/production/?pid=50349"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Oct 20",
-      "title": "A Perfect Day (2023)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/a-perfect-day/",
-      "showtimes": [
-        {
-          "time": "5:00 PM",
-          "link": "https://tickets.bam.org/production/?pid=50352"
         }
       ]
     },
@@ -2797,51 +2373,11 @@
       "date": "Mon, Oct 20",
       "title": "MIX Film Festival presents: Assassins: A Film Concerning Rimbaud (1985)",
       "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/film/assassins-a-film-concerning-rimbaud/",
+      "letterboxdURL": "https://letterboxd.com/search/Assassins%3A%20A%20Film%20Concerning%20Rimbaud+1985/",
       "showtimes": [
         {
           "time": "7:00 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6716?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Oct 20",
-      "title": "Quem Espera por Sapatos de Defunto Morre Descal\u00e7o(He Who Awaits Dead Men's Shoes Dies Barefoot) (1970)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/Quem%20Espera%20por%20Sapatos%20de%20Defunto%20Morre%20Descal%C3%A7o%28He%20Who%20Awaits%20Dead%20Men%27s%20Shoes%20Dies%20Barefoot%29+1970/",
-      "showtimes": [
-        {
-          "time": "4:00 PM",
-          "link": "https://www.moma.org/calendar/events/10891"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Oct 20",
-      "title": "The Razor's Edge (2016)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-razors-edge/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://tickets.bam.org/production/?pid=50334"
-        },
-        {
-          "time": "9:15 PM",
-          "link": "https://tickets.bam.org/production/?pid=50334"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Oct 20",
-      "title": "Veredas (Trails) (1978)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/search/Veredas%20%28Trails%29+1978/",
-      "showtimes": [
-        {
-          "time": "6:30 PM",
-          "link": "https://www.moma.org/calendar/events/10893"
         }
       ]
     },
@@ -2899,18 +2435,6 @@
     },
     {
       "date": "Tue, Oct 21",
-      "title": "The Razor's Edge (2016)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-razors-edge/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://tickets.bam.org/production/?pid=50334"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Oct 21",
       "title": "The Warriors (1979)",
       "theater": "Nitehawk PP",
       "letterboxdURL": "https://letterboxd.com/film/the-warriors/",
@@ -2918,30 +2442,6 @@
         {
           "time": "9:15 PM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/20190819/"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Oct 21",
-      "title": "Where Do We Go Now? (2011)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/where-do-we-go-now/",
-      "showtimes": [
-        {
-          "time": "9:15 PM",
-          "link": "https://tickets.bam.org/production/?pid=50349"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Oct 22",
-      "title": "A Civilized People (1999)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/a-civilized-people/",
-      "showtimes": [
-        {
-          "time": "9:30 PM",
-          "link": "https://tickets.bam.org/production/?pid=50727"
         }
       ]
     },
@@ -2999,18 +2499,6 @@
     },
     {
       "date": "Wed, Oct 22",
-      "title": "The Razor's Edge (2016)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-razors-edge/",
-      "showtimes": [
-        {
-          "time": "4:30 PM",
-          "link": "https://tickets.bam.org/production/?pid=50334"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Oct 22",
       "title": "The Source Family + Q&A (2012)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/film/the-source-family/",
@@ -3062,30 +2550,6 @@
       ]
     },
     {
-      "date": "Thu, Oct 23",
-      "title": "The Razor's Edge (2016)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-razors-edge/",
-      "showtimes": [
-        {
-          "time": "4:30 PM",
-          "link": "https://tickets.bam.org/production/?pid=50334"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Oct 24",
-      "title": "Bleak Street (2015)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/bleak-street/",
-      "showtimes": [
-        {
-          "time": "2:00 PM",
-          "link": "https://tickets.bam.org/production/?pid=50368"
-        }
-      ]
-    },
-    {
       "date": "Fri, Oct 24",
       "title": "Bride of Re-Animator (1990)",
       "theater": "Nitehawk WB",
@@ -3099,18 +2563,6 @@
     },
     {
       "date": "Fri, Oct 24",
-      "title": "Devil Between the Legs (2019)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/devil-between-the-legs/",
-      "showtimes": [
-        {
-          "time": "4:00 PM",
-          "link": "https://tickets.bam.org/production/?pid=50363"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Oct 24",
       "title": "Halloween II - 35MM (2009)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/film/halloween-ii-2009/",
@@ -3118,18 +2570,6 @@
         {
           "time": "9:15 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6748?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Oct 24",
-      "title": "Life Sentence (2001)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/life-sentence/",
-      "showtimes": [
-        {
-          "time": "9:30 PM",
-          "link": "https://tickets.bam.org/production/?pid=50390"
         }
       ]
     },
@@ -3154,18 +2594,6 @@
         {
           "time": "7:30 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2025#showing-59996"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Oct 24",
-      "title": "The Castle of Purity (1973)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-castle-of-purity/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://tickets.bam.org/production/?pid=50393"
         }
       ]
     },
@@ -3231,18 +2659,6 @@
     },
     {
       "date": "Sat, Oct 25",
-      "title": "Deep Crimson (1996)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/deep-crimson/",
-      "showtimes": [
-        {
-          "time": "6:15 PM",
-          "link": "https://tickets.bam.org/production/?pid=50381"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 25",
       "title": "Halloween II - 35MM (2009)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/film/halloween-ii-2009/",
@@ -3286,42 +2702,6 @@
         {
           "time": "6:45 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2025#showing-60124"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 25",
-      "title": "The Place Without Limits (1978)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-place-without-limits/",
-      "showtimes": [
-        {
-          "time": "3:45 PM",
-          "link": "https://tickets.bam.org/production/?pid=50378"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 25",
-      "title": "The Realm of Fortune (1986)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-realm-of-fortune/",
-      "showtimes": [
-        {
-          "time": "9:10 PM",
-          "link": "https://tickets.bam.org/production/?pid=50384"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 25",
-      "title": "Time to Die (2021)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/time-to-die/",
-      "showtimes": [
-        {
-          "time": "1:45 PM",
-          "link": "https://tickets.bam.org/production/?pid=50375"
         }
       ]
     },
@@ -3423,18 +2803,6 @@
     },
     {
       "date": "Sun, Oct 26",
-      "title": "The Holy Inquisition (1974)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-holy-inquisition/",
-      "showtimes": [
-        {
-          "time": "4:30 PM",
-          "link": "https://tickets.bam.org/production/?pid=50371"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 26",
       "title": "Two Tons Of Turquoise To Taos Tonight (1975)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/two-tons-of-turquoise-to-taos-tonight/",
@@ -3458,18 +2826,6 @@
       ]
     },
     {
-      "date": "Sun, Oct 26",
-      "title": "Woman of the Port (2003)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/search/Woman%20of%20the%20Port+2003/",
-      "showtimes": [
-        {
-          "time": "7:15 PM",
-          "link": "https://tickets.bam.org/production/?pid=50387"
-        }
-      ]
-    },
-    {
       "date": "Mon, Oct 27",
       "title": "A Woman Of Affairs (1988)",
       "theater": "Film Forum",
@@ -3478,18 +2834,6 @@
         {
           "time": "6:00 PM",
           "link": "https://my.filmforum.org/a-woman-of-affairs/45721"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Oct 27",
-      "title": "Devil Between the Legs (2019)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/devil-between-the-legs/",
-      "showtimes": [
-        {
-          "time": "6:30 PM",
-          "link": "https://tickets.bam.org/production/?pid=50363"
         }
       ]
     },
@@ -3543,18 +2887,6 @@
     },
     {
       "date": "Tue, Oct 28",
-      "title": "Bleak Street (2015)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/bleak-street/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://tickets.bam.org/production/?pid=50368"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Oct 28",
       "title": "Innocent Blood (1992)",
       "theater": "Nitehawk PP",
       "letterboxdURL": "https://letterboxd.com/film/innocent-blood/",
@@ -3591,18 +2923,6 @@
     },
     {
       "date": "Tue, Oct 28",
-      "title": "The Holy Inquisition (1974)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-holy-inquisition/",
-      "showtimes": [
-        {
-          "time": "9:15 PM",
-          "link": "https://tickets.bam.org/production/?pid=50371"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Oct 28",
       "title": "The Juniper Tree (1990)",
       "theater": "Nitehawk WB",
       "letterboxdURL": "https://letterboxd.com/film/the-juniper-tree/",
@@ -3610,18 +2930,6 @@
         {
           "time": "7:00 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/20007587/"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Oct 28",
-      "title": "Time to Die (2021)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/time-to-die/",
-      "showtimes": [
-        {
-          "time": "5:00 PM",
-          "link": "https://tickets.bam.org/production/?pid=50375"
         }
       ]
     },
@@ -3655,18 +2963,6 @@
     },
     {
       "date": "Wed, Oct 29",
-      "title": "Deep Crimson (1996)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/deep-crimson/",
-      "showtimes": [
-        {
-          "time": "9:30 PM",
-          "link": "https://tickets.bam.org/production/?pid=50381"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Oct 29",
       "title": "Earth Altars / La Tierra Los Altares (2023)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/earth-altars/",
@@ -3686,18 +2982,6 @@
         {
           "time": "9:00 PM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/20110081/"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Oct 29",
-      "title": "Life Sentence (2001)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/life-sentence/",
-      "showtimes": [
-        {
-          "time": "4:30 PM",
-          "link": "https://tickets.bam.org/production/?pid=50390"
         }
       ]
     },
@@ -3738,18 +3022,6 @@
       ]
     },
     {
-      "date": "Wed, Oct 29",
-      "title": "The Realm of Fortune (1986)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-realm-of-fortune/",
-      "showtimes": [
-        {
-          "time": "6:45 PM",
-          "link": "https://tickets.bam.org/production/?pid=50384"
-        }
-      ]
-    },
-    {
       "date": "Thu, Oct 30",
       "title": "Auction (2004)",
       "theater": "Film Forum",
@@ -3786,42 +3058,6 @@
         {
           "time": "7:00 PM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/20185034/"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Oct 30",
-      "title": "The Castle of Purity (1973)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-castle-of-purity/",
-      "showtimes": [
-        {
-          "time": "9:30 PM",
-          "link": "https://tickets.bam.org/production/?pid=50393"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Oct 30",
-      "title": "The Place Without Limits (1978)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-place-without-limits/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://tickets.bam.org/production/?pid=50378"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Oct 30",
-      "title": "Woman of the Port (2003)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/search/Woman%20of%20the%20Port+2003/",
-      "showtimes": [
-        {
-          "time": "4:30 PM",
-          "link": "https://tickets.bam.org/production/?pid=50387"
         }
       ]
     },
@@ -3878,42 +3114,6 @@
       ]
     },
     {
-      "date": "Fri, Oct 31",
-      "title": "The Wolf House (2009)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-wolf-house/",
-      "showtimes": [
-        {
-          "time": "9:00 PM",
-          "link": "https://tickets.bam.org/production/?pid=50403"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Oct 31",
-      "title": "Viy (1967)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/viy/",
-      "showtimes": [
-        {
-          "time": "7:15 PM",
-          "link": "https://tickets.bam.org/production/?pid=50400"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Oct 31",
-      "title": "White Reindeer (2013)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/white-reindeer/",
-      "showtimes": [
-        {
-          "time": "5:30 PM",
-          "link": "https://tickets.bam.org/production/?pid=50397"
-        }
-      ]
-    },
-    {
       "date": "Sat, Nov 1",
       "title": "Auction (2004)",
       "theater": "Film Forum",
@@ -3943,30 +3143,6 @@
     },
     {
       "date": "Sat, Nov 1",
-      "title": "Donkey Skin (1982)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/donkey-skin/",
-      "showtimes": [
-        {
-          "time": "2:00 PM",
-          "link": "https://tickets.bam.org/production/?pid=50406"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Nov 1",
-      "title": "November (2014)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/november-2014/",
-      "showtimes": [
-        {
-          "time": "4:00 PM",
-          "link": "https://tickets.bam.org/production/?pid=50409"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Nov 1",
       "title": "Pandora'S Box (1995)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/pandoras-box/",
@@ -3974,18 +3150,6 @@
         {
           "time": "8:00 PM",
           "link": "https://my.filmforum.org/pandoras-box-deco/46118"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Nov 1",
-      "title": "The Outcasts (2023)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/the-outcasts-2023/",
-      "showtimes": [
-        {
-          "time": "6:30 PM",
-          "link": "https://tickets.bam.org/production/?pid=50412"
         }
       ]
     },
@@ -4026,490 +3190,6 @@
         {
           "time": "9:30 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/20205190/"
-        }
-      ]
-    },
-    {
-      "date": "Fri Oct 3",
-      "title": "A Scanner Darkly (2006)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/a-scanner-darkly/",
-      "showtimes": [
-        {
-          "time": "12:00 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=520972~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Sat Oct 4",
-      "title": "A Scanner Darkly (2006)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/a-scanner-darkly/",
-      "showtimes": [
-        {
-          "time": "12:00 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=520973~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Fri Oct 3",
-      "title": "All the President's Men (1976)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/all-the-presidents-men/",
-      "showtimes": [
-        {
-          "time": "3:45 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=520899~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Sat Oct 4",
-      "title": "All the President's Men (1976)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/all-the-presidents-men/",
-      "showtimes": [
-        {
-          "time": "8:45 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=520889~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Sun Oct 5",
-      "title": "All the President's Men (1976)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/all-the-presidents-men/",
-      "showtimes": [
-        {
-          "time": "3:45 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=520949~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Mon Oct 6",
-      "title": "All the President's Men (1976)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/all-the-presidents-men/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=520891~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Tue Oct 7",
-      "title": "All the President's Men (1976)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/all-the-presidents-men/",
-      "showtimes": [
-        {
-          "time": "3:45 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=520955~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Wed Oct 8",
-      "title": "All the President's Men (1976)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/all-the-presidents-men/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=520956~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Fri Oct 3",
-      "title": "Hard Boiled (1992)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/hard-boiled/",
-      "showtimes": [
-        {
-          "time": "11:10 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=520974~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Sat Oct 4",
-      "title": "Hard Boiled (1992)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/hard-boiled/",
-      "showtimes": [
-        {
-          "time": "11:10 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=520976~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Fri Oct 3",
-      "title": "Jacob's Ladder (1990)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/jacobs-ladder-1990/",
-      "showtimes": [
-        {
-          "time": "10:55 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=520923~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "1:30 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=519177~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "4:10 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=519184~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "6:50 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=519191~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:25 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=519198~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Sat Oct 4",
-      "title": "Jacob's Ladder (1990)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/jacobs-ladder-1990/",
-      "showtimes": [
-        {
-          "time": "10:55 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=520987~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "1:30 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=519178~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "4:10 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=519185~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "6:50 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=519192~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:25 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=519199~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Sun Oct 5",
-      "title": "Jacob's Ladder (1990)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/jacobs-ladder-1990/",
-      "showtimes": [
-        {
-          "time": "10:55 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=520989~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "1:30 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=519179~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "4:10 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=519186~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "6:50 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=519193~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:25 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=519200~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Mon Oct 6",
-      "title": "Jacob's Ladder (1990)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/jacobs-ladder-1990/",
-      "showtimes": [
-        {
-          "time": "10:55 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=520990~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "1:30 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=519180~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "4:10 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=519187~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "6:50 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=519194~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:25 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=519201~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Tue Oct 7",
-      "title": "Jacob's Ladder (1990)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/jacobs-ladder-1990/",
-      "showtimes": [
-        {
-          "time": "10:55 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=520954~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "1:30 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=519181~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "4:10 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=519188~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "6:50 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=519195~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:25 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=519202~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Wed Oct 8",
-      "title": "Jacob's Ladder (1990)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/jacobs-ladder-1990/",
-      "showtimes": [
-        {
-          "time": "10:55 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=520992~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "1:30 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=519182~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "4:10 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=519189~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "6:50 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=519196~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:25 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=519203~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Thu Oct 9",
-      "title": "Jacob's Ladder (1990)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/jacobs-ladder-1990/",
-      "showtimes": [
-        {
-          "time": "10:55 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=520993~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "1:30 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=519183~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "4:10 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=519190~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "6:50 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=519197~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:25 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=519204~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Fri Oct 3",
-      "title": "Linda Linda Linda (2005)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/linda-linda-linda/",
-      "showtimes": [
-        {
-          "time": "4:00 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=520885~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Sat Oct 4",
-      "title": "Linda Linda Linda (2005)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/linda-linda-linda/",
-      "showtimes": [
-        {
-          "time": "4:00 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=520925~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Sun Oct 5",
-      "title": "Linda Linda Linda (2005)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/linda-linda-linda/",
-      "showtimes": [
-        {
-          "time": "4:00 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=520963~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Mon Oct 6",
-      "title": "Linda Linda Linda (2005)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/linda-linda-linda/",
-      "showtimes": [
-        {
-          "time": "4:00 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=520930~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Tue Oct 7",
-      "title": "Linda Linda Linda (2005)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/linda-linda-linda/",
-      "showtimes": [
-        {
-          "time": "4:00 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=520934~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Fri Oct 3",
-      "title": "Parasite (2019)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/parasite-2019/",
-      "showtimes": [
-        {
-          "time": "8:45 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=521104~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Sat Oct 4",
-      "title": "Parasite (2019)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/parasite-2019/",
-      "showtimes": [
-        {
-          "time": "3:45 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=521105~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Sun Oct 5",
-      "title": "Parasite (2019)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/parasite-2019/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=521106~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Mon Oct 6",
-      "title": "Parasite (2019)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/parasite-2019/",
-      "showtimes": [
-        {
-          "time": "8:45 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=521107~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Tue Oct 7",
-      "title": "Parasite (2019)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/parasite-2019/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=521108~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Fri Oct 3",
-      "title": "Sleepwalkers (1992)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/sleepwalkers/",
-      "showtimes": [
-        {
-          "time": "12:10 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=520944~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Sat Oct 4",
-      "title": "Sleepwalkers (1992)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/sleepwalkers/",
-      "showtimes": [
-        {
-          "time": "12:10 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=520945~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Fri Oct 3",
-      "title": "The Exorcist (1973)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/the-exorcist/",
-      "showtimes": [
-        {
-          "time": "11:35 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=520880~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Sat Oct 4",
-      "title": "The Exorcist (1973)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/the-exorcist/",
-      "showtimes": [
-        {
-          "time": "11:35 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=520999~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     }
