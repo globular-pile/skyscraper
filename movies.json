@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-10-03T17:36:39.204153",
+  "lastUpdated": "2025-10-14T13:48:23.416203",
   "movies": [
     {
       "date": "Wed, Oct 1",
@@ -34,1220 +34,8 @@
       ]
     },
     {
-      "date": "Fri, Oct 3",
-      "title": "Blowback presents: Starship Troopers - 35MM (1997)",
-      "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/film/starship-troopers/",
-      "showtimes": [
-        {
-          "time": "9:00 PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/6672?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Oct 3",
-      "title": "Close Encounters of the Third Kind (1977)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/close-encounters-of-the-third-kind/",
-      "showtimes": [
-        {
-          "time": "6:45 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1567/seats"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Oct 3",
-      "title": "Dreams (2000)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/dreams-2000/",
-      "showtimes": [
-        {
-          "time": "6:00 PM",
-          "link": "https://my.filmforum.org/dreams/46250"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Oct 3",
-      "title": "Four Nights Of A Dreamer (1972)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/four-nights-of-a-dreamer/",
-      "showtimes": [
-        {
-          "time": "9:00 PM",
-          "link": "https://my.filmforum.org/four-nights-of-a-dreamer/46267"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Oct 3",
-      "title": "Ju Dou (1990)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/ju-dou/",
-      "showtimes": [
-        {
-          "time": "6:30 PM",
-          "link": "https://my.filmforum.org/ju-dou/45858"
-        },
-        {
-          "time": "8:35 PM",
-          "link": "https://my.filmforum.org/ju-dou/45859"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Oct 3",
-      "title": "Predators (2010)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/predators/",
-      "showtimes": [
-        {
-          "time": "8:20 PM",
-          "link": "https://my.filmforum.org/predators/46234"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Oct 3",
-      "title": "The Terminator (1984)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/the-terminator/",
-      "showtimes": [
-        {
-          "time": "10:00 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1568/seats"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 4",
-      "title": "A Movie and a Walk: The World Before Your Feet (2018)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/search/A%20Movie%20and%20a%20Walk%3A%20The%20World%20Before%20Your%20Feet+2018/",
-      "showtimes": [
-        {
-          "time": "11:30 AM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/20090296/"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 4",
-      "title": "Barry Lyndon (1975)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/barry-lyndon/",
-      "showtimes": [
-        {
-          "time": "1:45 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1569/seats"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 4",
-      "title": "Blade Runner: The Final Cut (1982)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/blade-runner-the-final-cut/",
-      "showtimes": [
-        {
-          "time": "9:55 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1571/seats"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 4",
-      "title": "Blowback presents: Starship Troopers - 35MM (1997)",
-      "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/film/starship-troopers/",
-      "showtimes": [
-        {
-          "time": "9:30 PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/6746?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 4",
-      "title": "Commando (1985)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/commando/",
-      "showtimes": [
-        {
-          "time": "11:15 AM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/20110185/"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 4",
-      "title": "Dreams (2000)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/dreams-2000/",
-      "showtimes": [
-        {
-          "time": "1:00 PM",
-          "link": "https://my.filmforum.org/dreams/46244"
-        },
-        {
-          "time": "6:00 PM",
-          "link": "https://my.filmforum.org/dreams/46251"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 4",
-      "title": "Four Nights Of A Dreamer (1972)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/four-nights-of-a-dreamer/",
-      "showtimes": [
-        {
-          "time": "12:15 PM",
-          "link": "https://my.filmforum.org/four-nights-of-a-dreamer/46261"
-        },
-        {
-          "time": "4:00 PM",
-          "link": "https://my.filmforum.org/four-nights-of-a-dreamer/46269"
-        },
-        {
-          "time": "9:00 PM",
-          "link": "https://my.filmforum.org/four-nights-of-a-dreamer/46268"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 4",
-      "title": "Halloween (1978) (1978)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/halloween-1978/",
-      "showtimes": [
-        {
-          "time": "11:55 PM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/20110106/"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 4",
-      "title": "Interstellar (2014)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/interstellar-2014/",
-      "showtimes": [
-        {
-          "time": "6:15 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1570/seats"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 4",
-      "title": "Jeremiah Johnson (1972)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/jeremiah-johnson/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1538/seats"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 4",
-      "title": "Ju Dou (1990)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/ju-dou/",
-      "showtimes": [
-        {
-          "time": "12:15 PM",
-          "link": "https://my.filmforum.org/ju-dou/45869"
-        },
-        {
-          "time": "2:20 PM",
-          "link": "https://my.filmforum.org/ju-dou/45876"
-        },
-        {
-          "time": "4:25 PM",
-          "link": "https://my.filmforum.org/ju-dou/45877"
-        },
-        {
-          "time": "6:30 PM",
-          "link": "https://my.filmforum.org/ju-dou/45860"
-        },
-        {
-          "time": "8:35 PM",
-          "link": "https://my.filmforum.org/ju-dou/45866"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 4",
-      "title": "Lolita (1997)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/lolita-1997/",
-      "showtimes": [
-        {
-          "time": "6:00 PM",
-          "link": "https://my.filmforum.org/lolita-sellers/46280"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 4",
-      "title": "Predators (2010)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/predators/",
-      "showtimes": [
-        {
-          "time": "3:30 PM",
-          "link": "https://my.filmforum.org/predators/46241"
-        },
-        {
-          "time": "8:20 PM",
-          "link": "https://my.filmforum.org/predators/46235"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 4",
-      "title": "The Ladykillers (2004)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/the-ladykillers-2004/",
-      "showtimes": [
-        {
-          "time": "2:00 PM",
-          "link": "https://my.filmforum.org/the-ladykillers-sellers/46283"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 4",
-      "title": "Wes Craven\u2019s New Nightmare (1994)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/wes-cravens-new-nightmare/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/20110107/"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 5",
-      "title": "Andrei Rublev - 35MM | Harris Dickinson Selects (1966)",
-      "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/film/andrei-rublev/",
-      "showtimes": [
-        {
-          "time": "7:15 PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/6663?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 5",
-      "title": "Bug - 35MM (2006)",
-      "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/film/bug-2006/",
-      "showtimes": [
-        {
-          "time": "5:00 PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/6662?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 5",
-      "title": "Commando (1985)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/commando/",
-      "showtimes": [
-        {
-          "time": "11:15 AM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/20110186/"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 5",
-      "title": "Dreams (2000)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/dreams-2000/",
-      "showtimes": [
-        {
-          "time": "1:00 PM",
-          "link": "https://my.filmforum.org/dreams/46245"
-        },
-        {
-          "time": "6:00 PM",
-          "link": "https://my.filmforum.org/dreams/46252"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 5",
-      "title": "Four Nights Of A Dreamer (1972)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/four-nights-of-a-dreamer/",
-      "showtimes": [
-        {
-          "time": "1:20 PM",
-          "link": "https://my.filmforum.org/four-nights-of-a-dreamer/46262"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 5",
-      "title": "Grey Gardens (1976)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/grey-gardens/",
-      "showtimes": [
-        {
-          "time": "2:00 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1583/seats"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 5",
-      "title": "How Green Was My Valley (1941)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/how-green-was-my-valley/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1539/seats"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 5",
-      "title": "Ju Dou (1990)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/ju-dou/",
-      "showtimes": [
-        {
-          "time": "12:15 PM",
-          "link": "https://my.filmforum.org/ju-dou/45870"
-        },
-        {
-          "time": "2:20 PM",
-          "link": "https://my.filmforum.org/ju-dou/45868"
-        },
-        {
-          "time": "4:25 PM",
-          "link": "https://my.filmforum.org/ju-dou/45867"
-        },
-        {
-          "time": "6:10 PM",
-          "link": "https://my.filmforum.org/ju-dou/46257"
-        },
-        {
-          "time": "8:50 PM",
-          "link": "https://my.filmforum.org/ju-dou/45861"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 5",
-      "title": "Lawrence of Arabia (1962)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/lawrence-of-arabia/",
-      "showtimes": [
-        {
-          "time": "5:05 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1572/seats"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 5",
-      "title": "Master and Commander: The Far Side of the World (2003)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/master-and-commander-the-far-side-of-the-world/",
-      "showtimes": [
-        {
-          "time": "10:05 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1573/seats"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 5",
-      "title": "Predators (2010)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/predators/",
-      "showtimes": [
-        {
-          "time": "3:30 PM",
-          "link": "https://my.filmforum.org/predators/46242"
-        },
-        {
-          "time": "8:20 PM",
-          "link": "https://my.filmforum.org/predators/46236"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 5",
-      "title": "The Adventures Of Robin Hood (1985)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/the-adventures-of-robin-hood/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://my.filmforum.org/the-adventures-of-robin-hood-ffjr/45560"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 5",
-      "title": "The Ladykillers (2004)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/the-ladykillers-2004/",
-      "showtimes": [
-        {
-          "time": "8:15 PM",
-          "link": "https://my.filmforum.org/the-ladykillers-sellers/46284"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 5",
-      "title": "Wes Craven\u2019s New Nightmare (1994)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/wes-cravens-new-nightmare/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/20110108/"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Oct 6",
-      "title": "Blade Runner: The Final Cut (1982)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/blade-runner-the-final-cut/",
-      "showtimes": [
-        {
-          "time": "12:15 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1574/seats"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Oct 6",
-      "title": "Bram Stoker's Dracula (1992)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/bram-stokers-dracula/",
-      "showtimes": [
-        {
-          "time": "10:05 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1576/seats"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Oct 6",
-      "title": "Dr. Strangelove (1964)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/search/Dr.%20Strangelove+1964/",
-      "showtimes": [
-        {
-          "time": "8:35 PM",
-          "link": "https://my.filmforum.org/dr-strangelove-sellers/46277"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Oct 6",
-      "title": "Dreams (2000)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/dreams-2000/",
-      "showtimes": [
-        {
-          "time": "1:00 PM",
-          "link": "https://my.filmforum.org/dreams/46246"
-        },
-        {
-          "time": "6:00 PM",
-          "link": "https://my.filmforum.org/dreams/46253"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Oct 6",
-      "title": "Escape from New York (1981)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/escape-from-new-york/",
-      "showtimes": [
-        {
-          "time": "3:05 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1575/seats"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Oct 6",
-      "title": "Four Nights Of A Dreamer (1972)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/four-nights-of-a-dreamer/",
-      "showtimes": [
-        {
-          "time": "12:15 PM",
-          "link": "https://my.filmforum.org/four-nights-of-a-dreamer/46263"
-        },
-        {
-          "time": "4:40 PM",
-          "link": "https://my.filmforum.org/four-nights-of-a-dreamer/46270"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Oct 6",
-      "title": "Grand Hotel (2014)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/grand-hotel/",
-      "showtimes": [
-        {
-          "time": "6:00 PM",
-          "link": "https://my.filmforum.org/grand-hotel/45718"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Oct 6",
-      "title": "Ju Dou (1990)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/ju-dou/",
-      "showtimes": [
-        {
-          "time": "1:00 PM",
-          "link": "https://my.filmforum.org/ju-dou/45871"
-        },
-        {
-          "time": "3:20 PM",
-          "link": "https://my.filmforum.org/ju-dou/45872"
-        },
-        {
-          "time": "6:30 PM",
-          "link": "https://my.filmforum.org/ju-dou/46259"
-        },
-        {
-          "time": "8:30 PM",
-          "link": "https://my.filmforum.org/ju-dou/45862"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Oct 6",
-      "title": "Little Big Man (1970)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/little-big-man/",
-      "showtimes": [
-        {
-          "time": "6:45 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1550/seats"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Oct 6",
-      "title": "Predators (2010)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/predators/",
-      "showtimes": [
-        {
-          "time": "3:30 PM",
-          "link": "https://my.filmforum.org/predators/46230"
-        },
-        {
-          "time": "8:20 PM",
-          "link": "https://my.filmforum.org/predators/46237"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Oct 6",
-      "title": "Scream (1996)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/scream/",
-      "showtimes": [
-        {
-          "time": "9:15 PM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/20110062/"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Oct 6",
-      "title": "The Lure (2015)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/the-lure-2015/",
-      "showtimes": [
-        {
-          "time": "6:45 PM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/20007527/"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Oct 6",
-      "title": "The Pink Panther (2006)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/the-pink-panther-2006/",
-      "showtimes": [
-        {
-          "time": "2:10 PM",
-          "link": "https://my.filmforum.org/the-pink-panther-sellers/46281"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Oct 6",
-      "title": "The Watcher in the Woods + Intro | Mary Bronstein Selects (1980)",
-      "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/film/the-watcher-in-the-woods/",
-      "showtimes": [
-        {
-          "time": "9:30 PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/6676?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Oct 6",
-      "title": "Who's the Caboose? - 35MM + Q&A | Mary Bronstein Selects (1997)",
-      "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/film/whos-the-caboose/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/6675?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Oct 7",
-      "title": "Bamboozled (2001)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/bamboozled/",
-      "showtimes": [
-        {
-          "time": "7:50 PM",
-          "link": "https://my.filmforum.org/bamboozled/45945"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Oct 7",
-      "title": "Blowback presents: Starship Troopers - 35MM (1997)",
-      "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/film/starship-troopers/",
-      "showtimes": [
-        {
-          "time": "9:15 PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/6678?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Oct 7",
-      "title": "Dreams (2000)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/dreams-2000/",
-      "showtimes": [
-        {
-          "time": "1:00 PM",
-          "link": "https://my.filmforum.org/dreams/46247"
-        },
-        {
-          "time": "6:00 PM",
-          "link": "https://my.filmforum.org/dreams/46254"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Oct 7",
-      "title": "Four Nights Of A Dreamer (1972)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/four-nights-of-a-dreamer/",
-      "showtimes": [
-        {
-          "time": "12:15 PM",
-          "link": "https://my.filmforum.org/four-nights-of-a-dreamer/46264"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Oct 7",
-      "title": "Ju Dou (1990)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/ju-dou/",
-      "showtimes": [
-        {
-          "time": "12:15 PM",
-          "link": "https://my.filmforum.org/ju-dou/45873"
-        },
-        {
-          "time": "2:20 PM",
-          "link": "https://my.filmforum.org/ju-dou/45878"
-        },
-        {
-          "time": "4:25 PM",
-          "link": "https://my.filmforum.org/ju-dou/45881"
-        },
-        {
-          "time": "6:30 PM",
-          "link": "https://my.filmforum.org/ju-dou/45882"
-        },
-        {
-          "time": "8:35 PM",
-          "link": "https://my.filmforum.org/ju-dou/45863"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Oct 7",
-      "title": "Master and Commander: The Far Side of the World (2003)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/master-and-commander-the-far-side-of-the-world/",
-      "showtimes": [
-        {
-          "time": "12:30 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1577/seats"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Oct 7",
-      "title": "Paprika (2006)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/paprika-2006/",
-      "showtimes": [
-        {
-          "time": "10:05 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1578/seats"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Oct 7",
-      "title": "Pierrot le Fou (1965)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/pierrot-le-fou/",
-      "showtimes": [
-        {
-          "time": "7:15 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1541/seats"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Oct 7",
-      "title": "Predators (2010)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/predators/",
-      "showtimes": [
-        {
-          "time": "3:30 PM",
-          "link": "https://my.filmforum.org/predators/46231"
-        },
-        {
-          "time": "8:20 PM",
-          "link": "https://my.filmforum.org/predators/46238"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Oct 7",
-      "title": "Supernatural (1933)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/supernatural-1933/",
-      "showtimes": [
-        {
-          "time": "7:15 PM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/20007061/"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Oct 7",
-      "title": "The Fireworks Woman (1975)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/the-fireworks-woman/",
-      "showtimes": [
-        {
-          "time": "9:15 PM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/20097502/"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Oct 7",
-      "title": "The Mouse That Roared (1959)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/the-mouse-that-roared/",
-      "showtimes": [
-        {
-          "time": "2:15 PM",
-          "link": "https://my.filmforum.org/the-mouse-that-roared-sellers/46288"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Oct 7",
-      "title": "The Pink Panther (2006)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/the-pink-panther-2006/",
-      "showtimes": [
-        {
-          "time": "5:20 PM",
-          "link": "https://my.filmforum.org/the-pink-panther-sellers/46282"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Oct 7",
-      "title": "Welcome to the Dollhouse - 35MM | Mary Bronstein Selects (1995)",
-      "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/film/welcome-to-the-dollhouse/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/6677?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Oct 8",
-      "title": "Bones (2001)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/bones/",
-      "showtimes": [
-        {
-          "time": "9:00 PM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/20032617/"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Oct 8",
-      "title": "Bram Stoker's Dracula (1992)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/bram-stokers-dracula/",
-      "showtimes": [
-        {
-          "time": "1:00 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1579/seats"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Oct 8",
-      "title": "Dreams (2000)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/dreams-2000/",
-      "showtimes": [
-        {
-          "time": "1:00 PM",
-          "link": "https://my.filmforum.org/dreams/46248"
-        },
-        {
-          "time": "6:00 PM",
-          "link": "https://my.filmforum.org/dreams/46255"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Oct 8",
-      "title": "Four Nights Of A Dreamer (1972)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/four-nights-of-a-dreamer/",
-      "showtimes": [
-        {
-          "time": "12:15 PM",
-          "link": "https://my.filmforum.org/four-nights-of-a-dreamer/46265"
-        },
-        {
-          "time": "6:10 PM",
-          "link": "https://my.filmforum.org/four-nights-of-a-dreamer/46271"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Oct 8",
-      "title": "Ju Dou (1990)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/ju-dou/",
-      "showtimes": [
-        {
-          "time": "12:15 PM",
-          "link": "https://my.filmforum.org/ju-dou/45874"
-        },
-        {
-          "time": "2:20 PM",
-          "link": "https://my.filmforum.org/ju-dou/45879"
-        },
-        {
-          "time": "4:25 PM",
-          "link": "https://my.filmforum.org/ju-dou/45885"
-        },
-        {
-          "time": "6:30 PM",
-          "link": "https://my.filmforum.org/ju-dou/45883"
-        },
-        {
-          "time": "8:35 PM",
-          "link": "https://my.filmforum.org/ju-dou/45864"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Oct 8",
-      "title": "Manila in the Claws of Light | Harris Dickinson Selects (1975)",
-      "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/film/manila-in-the-claws-of-light/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/6708?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Oct 8",
-      "title": "Predators (2010)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/predators/",
-      "showtimes": [
-        {
-          "time": "3:30 PM",
-          "link": "https://my.filmforum.org/predators/46232"
-        },
-        {
-          "time": "8:20 PM",
-          "link": "https://my.filmforum.org/predators/46239"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Oct 8",
-      "title": "Psycho (1960)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/psycho/",
-      "showtimes": [
-        {
-          "time": "9:30 PM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/20189282/"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Oct 8",
-      "title": "Sorcerer (1977)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/sorcerer/",
-      "showtimes": [
-        {
-          "time": "9:50 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1580/seats"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Oct 8",
-      "title": "The Mouse That Roared (1959)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/the-mouse-that-roared/",
-      "showtimes": [
-        {
-          "time": "2:00 PM",
-          "link": "https://my.filmforum.org/the-mouse-that-roared-sellers/46289"
-        },
-        {
-          "time": "8:00 PM",
-          "link": "https://my.filmforum.org/the-mouse-that-roared-sellers/46290"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Oct 8",
-      "title": "The Party (1968)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/the-party/",
-      "showtimes": [
-        {
-          "time": "3:50 PM",
-          "link": "https://my.filmforum.org/the-party/46285"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Oct 8",
-      "title": "Welcome to the Dollhouse - 35MM | Mary Bronstein Selects (1995)",
-      "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/film/welcome-to-the-dollhouse/",
-      "showtimes": [
-        {
-          "time": "9:30 PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/6679?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
       "date": "Thu, Oct 9",
-      "title": "Cronos (1993)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/cronos/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1678/seats"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Oct 9",
-      "title": "Dr. Strangelove (1964)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/search/Dr.%20Strangelove+1964/",
-      "showtimes": [
-        {
-          "time": "7:10 PM",
-          "link": "https://my.filmforum.org/dr-strangelove-sellers/46278"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Oct 9",
-      "title": "Dreams (2000)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/dreams-2000/",
-      "showtimes": [
-        {
-          "time": "1:00 PM",
-          "link": "https://my.filmforum.org/dreams/46249"
-        },
-        {
-          "time": "6:00 PM",
-          "link": "https://my.filmforum.org/dreams/46256"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Oct 9",
-      "title": "Escape from New York (1981)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/escape-from-new-york/",
-      "showtimes": [
-        {
-          "time": "1:15 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1581/seats"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Oct 9",
-      "title": "Four Nights Of A Dreamer (1972)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/four-nights-of-a-dreamer/",
-      "showtimes": [
-        {
-          "time": "5:20 PM",
-          "link": "https://my.filmforum.org/four-nights-of-a-dreamer/46272"
-        },
-        {
-          "time": "9:15 PM",
-          "link": "https://my.filmforum.org/four-nights-of-a-dreamer/46273"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Oct 9",
-      "title": "Ju Dou (1990)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/ju-dou/",
-      "showtimes": [
-        {
-          "time": "12:15 PM",
-          "link": "https://my.filmforum.org/ju-dou/45875"
-        },
-        {
-          "time": "2:20 PM",
-          "link": "https://my.filmforum.org/ju-dou/45880"
-        },
-        {
-          "time": "4:25 PM",
-          "link": "https://my.filmforum.org/ju-dou/45886"
-        },
-        {
-          "time": "6:30 PM",
-          "link": "https://my.filmforum.org/ju-dou/45884"
-        },
-        {
-          "time": "8:35 PM",
-          "link": "https://my.filmforum.org/ju-dou/45865"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Oct 9",
-      "title": "Lolita (1997)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/lolita-1997/",
-      "showtimes": [
-        {
-          "time": "12:15 PM",
-          "link": "https://my.filmforum.org/lolita-sellers/46279"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Oct 9",
-      "title": "Mad Max: Fury Road (2015)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/mad-max-fury-road-2015/",
-      "showtimes": [
-        {
-          "time": "10:00 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1582/seats"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Oct 9",
-      "title": "Manila in the Claws of Light + Intro | Harris Dickinson Selects (1975)",
-      "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/film/manila-in-the-claws-of-light/",
-      "showtimes": [
-        {
-          "time": "7:30 PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/6673?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Oct 9",
-      "title": "Predators (2010)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/predators/",
-      "showtimes": [
-        {
-          "time": "3:30 PM",
-          "link": "https://my.filmforum.org/predators/46233"
-        },
-        {
-          "time": "8:20 PM",
-          "link": "https://my.filmforum.org/predators/46240"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Oct 9",
-      "title": "Quick Billy (1968)",
+      "title": "Quick Billy (1971)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/quick-billy/",
       "showtimes": [
@@ -1262,80 +50,8 @@
       ]
     },
     {
-      "date": "Thu, Oct 9",
-      "title": "The Black Room (1983)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/the-black-room/",
-      "showtimes": [
-        {
-          "time": "9:30 PM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/19807367/"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Oct 9",
-      "title": "The Party (1968)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/the-party/",
-      "showtimes": [
-        {
-          "time": "3:10 PM",
-          "link": "https://my.filmforum.org/the-party/46286"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Oct 9",
-      "title": "Welcome to the Dollhouse - 35MM | Mary Bronstein Selects (1995)",
-      "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/film/welcome-to-the-dollhouse/",
-      "showtimes": [
-        {
-          "time": "10:00 PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/6709?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
       "date": "Fri, Oct 10",
-      "title": "Darling (2016)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/darling/",
-      "showtimes": [
-        {
-          "time": "12:20 PM",
-          "link": "https://my.filmforum.org/darling/45888"
-        },
-        {
-          "time": "3:00 PM",
-          "link": "https://my.filmforum.org/darling/45889"
-        },
-        {
-          "time": "5:40 PM",
-          "link": "https://my.filmforum.org/darling/45890"
-        },
-        {
-          "time": "8:20 PM",
-          "link": "https://my.filmforum.org/darling/45891"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Oct 10",
-      "title": "Final Destination (2000)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/final-destination/",
-      "showtimes": [
-        {
-          "time": "11:55 PM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/20110137/"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Oct 10",
-      "title": "Quick Billy (1968)",
+      "title": "Quick Billy (1971)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/quick-billy/",
       "showtimes": [
@@ -1346,54 +62,6 @@
         {
           "time": "8:45 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2025#showing-60109"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Oct 10",
-      "title": "The Downtown Festival: End of The Night (1990)",
-      "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/search/The%20Downtown%20Festival%3A%20End%20of%20The%20Night+1990/",
-      "showtimes": [
-        {
-          "time": "6:30 PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/6681?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 11",
-      "title": "Darling (2016)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/darling/",
-      "showtimes": [
-        {
-          "time": "12:20 PM",
-          "link": "https://my.filmforum.org/darling/45892"
-        },
-        {
-          "time": "3:00 PM",
-          "link": "https://my.filmforum.org/darling/45938"
-        },
-        {
-          "time": "5:40 PM",
-          "link": "https://my.filmforum.org/darling/45914"
-        },
-        {
-          "time": "8:20 PM",
-          "link": "https://my.filmforum.org/darling/45927"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 11",
-      "title": "Final Destination (2000)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/final-destination/",
-      "showtimes": [
-        {
-          "time": "11:55 PM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/20110141/"
         }
       ]
     },
@@ -1423,7 +91,7 @@
     },
     {
       "date": "Sat, Oct 11",
-      "title": "Quick Billy (1968)",
+      "title": "Quick Billy (1971)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/quick-billy/",
       "showtimes": [
@@ -1434,102 +102,6 @@
         {
           "time": "8:45 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2025#showing-60111"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 11",
-      "title": "The Downtown Festival: Desperately Seeking Susan (1985)",
-      "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/search/The%20Downtown%20Festival%3A%20Desperately%20Seeking%20Susan+1985/",
-      "showtimes": [
-        {
-          "time": "5:00 PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/6682?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 11",
-      "title": "The Downtown Festival: New Rose Hotel (1998)",
-      "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/search/The%20Downtown%20Festival%3A%20New%20Rose%20Hotel+1998/",
-      "showtimes": [
-        {
-          "time": "7:30 PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/6744?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 11",
-      "title": "The Texas Chain Saw Massacre (1974)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/the-texas-chain-saw-massacre/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/20110123/"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 11",
-      "title": "Vivre Sa Vie (1962)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/vivre-sa-vie/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1542/seats"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 11",
-      "title": "Wallace & Gromit: The Curse of the Were-Rabbit (2005)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/wallace-gromit-the-curse-of-the-were-rabbit-2005/",
-      "showtimes": [
-        {
-          "time": "11:15 AM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/20155259/"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 12",
-      "title": "Band of Outsiders (1964)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/band-of-outsiders/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1543/seats"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 12",
-      "title": "Darling (2016)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/darling/",
-      "showtimes": [
-        {
-          "time": "12:20 PM",
-          "link": "https://my.filmforum.org/darling/45893"
-        },
-        {
-          "time": "3:00 PM",
-          "link": "https://my.filmforum.org/darling/45939"
-        },
-        {
-          "time": "5:40 PM",
-          "link": "https://my.filmforum.org/darling/45915"
-        },
-        {
-          "time": "8:20 PM",
-          "link": "https://my.filmforum.org/darling/45928"
         }
       ]
     },
@@ -1547,7 +119,7 @@
     },
     {
       "date": "Sun, Oct 12",
-      "title": "Quick Billy (1968)",
+      "title": "Quick Billy (1971)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/quick-billy/",
       "showtimes": [
@@ -1575,42 +147,6 @@
     },
     {
       "date": "Sun, Oct 12",
-      "title": "The Downtown Festival: The Golden Boat (1990)",
-      "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/search/The%20Downtown%20Festival%3A%20The%20Golden%20Boat+1990/",
-      "showtimes": [
-        {
-          "time": "3:00 PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/6683?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 12",
-      "title": "The Little Rascals (1994)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/the-little-rascals/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://my.filmforum.org/the-little-rascals-ffjr/45562"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 12",
-      "title": "The Texas Chain Saw Massacre (1974)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/the-texas-chain-saw-massacre/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/20110125/"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 12",
       "title": "Virgin Machine (1989)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/virgin-machine/",
@@ -1618,38 +154,6 @@
         {
           "time": "6:15 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2025#showing-60085"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Oct 12",
-      "title": "Wallace & Gromit: The Curse of the Were-Rabbit (2005)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/wallace-gromit-the-curse-of-the-were-rabbit-2005/",
-      "showtimes": [
-        {
-          "time": "11:15 AM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/20155263/"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Oct 13",
-      "title": "Darling (2016)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/darling/",
-      "showtimes": [
-        {
-          "time": "12:20 PM",
-          "link": "https://my.filmforum.org/darling/45894"
-        },
-        {
-          "time": "3:00 PM",
-          "link": "https://my.filmforum.org/darling/45905"
-        },
-        {
-          "time": "8:00 PM",
-          "link": "https://my.filmforum.org/darling/45916"
         }
       ]
     },
@@ -1678,50 +182,14 @@
       ]
     },
     {
-      "date": "Mon, Oct 13",
-      "title": "Friday the 13th Part 2 (1981)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/friday-the-13th-part-2/",
-      "showtimes": [
-        {
-          "time": "9:15 PM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/20110153/"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Oct 13",
-      "title": "Penthouse (1993)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/penthouse/",
-      "showtimes": [
-        {
-          "time": "6:00 PM",
-          "link": "https://my.filmforum.org/penthouse/45719"
-        }
-      ]
-    },
-    {
       "date": "Tue, Oct 14",
-      "title": "Darling (2016)",
+      "title": "Ju Dou (1990)",
       "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/darling/",
+      "letterboxdURL": "https://letterboxd.com/film/ju-dou/",
       "showtimes": [
         {
-          "time": "12:20 PM",
-          "link": "https://my.filmforum.org/darling/45895"
-        },
-        {
-          "time": "3:00 PM",
-          "link": "https://my.filmforum.org/darling/45906"
-        },
-        {
-          "time": "5:40 PM",
-          "link": "https://my.filmforum.org/darling/45918"
-        },
-        {
-          "time": "8:20 PM",
-          "link": "https://my.filmforum.org/darling/45929"
+          "time": "2:20 PM",
+          "link": "https://my.filmforum.org/ju-dou/46314"
         }
       ]
     },
@@ -1739,13 +207,21 @@
     },
     {
       "date": "Tue, Oct 14",
-      "title": "The Addams Family (1991)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/the-addams-family/",
+      "title": "The Librarians (2004)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-librarians/",
       "showtimes": [
         {
-          "time": "7:00 PM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/20276520/"
+          "time": "2:35 PM",
+          "link": "https://my.filmforum.org/the-librarians/46338"
+        },
+        {
+          "time": "4:40 PM",
+          "link": "https://my.filmforum.org/the-librarians/46343"
+        },
+        {
+          "time": "9:20 PM",
+          "link": "https://my.filmforum.org/the-librarians/46350"
         }
       ]
     },
@@ -1758,30 +234,6 @@
         {
           "time": "9:00 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2025#showing-60086"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Oct 15",
-      "title": "Darling (2016)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/darling/",
-      "showtimes": [
-        {
-          "time": "12:20 PM",
-          "link": "https://my.filmforum.org/darling/45896"
-        },
-        {
-          "time": "3:00 PM",
-          "link": "https://my.filmforum.org/darling/45907"
-        },
-        {
-          "time": "5:40 PM",
-          "link": "https://my.filmforum.org/darling/45919"
-        },
-        {
-          "time": "8:20 PM",
-          "link": "https://my.filmforum.org/darling/45930"
         }
       ]
     },
@@ -1834,26 +286,30 @@
       ]
     },
     {
-      "date": "Thu, Oct 16",
-      "title": "Darling (2016)",
+      "date": "Wed, Oct 15",
+      "title": "The Librarians (2004)",
       "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/darling/",
+      "letterboxdURL": "https://letterboxd.com/film/the-librarians/",
       "showtimes": [
         {
-          "time": "12:20 PM",
-          "link": "https://my.filmforum.org/darling/45897"
+          "time": "12:40 PM",
+          "link": "https://my.filmforum.org/the-librarians/46334"
         },
         {
-          "time": "3:00 PM",
-          "link": "https://my.filmforum.org/darling/45908"
+          "time": "2:35 PM",
+          "link": "https://my.filmforum.org/the-librarians/46339"
         },
         {
-          "time": "5:40 PM",
-          "link": "https://my.filmforum.org/darling/45920"
+          "time": "4:40 PM",
+          "link": "https://my.filmforum.org/the-librarians/46344"
         },
         {
-          "time": "8:20 PM",
-          "link": "https://my.filmforum.org/darling/45931"
+          "time": "6:45 PM",
+          "link": "https://my.filmforum.org/the-librarians/46351"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://my.filmforum.org/the-librarians/46357"
         }
       ]
     },
@@ -1895,13 +351,29 @@
     },
     {
       "date": "Thu, Oct 16",
-      "title": "The Downtown Festival: Oasis: Live at Knebworth Park (1996)",
-      "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/search/The%20Downtown%20Festival%3A%20Oasis%3A%20Live%20at%20Knebworth%20Park+1996/",
+      "title": "The Librarians (2004)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-librarians/",
       "showtimes": [
         {
-          "time": "11:30 PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/6710?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
+          "time": "12:40 PM",
+          "link": "https://my.filmforum.org/the-librarians/46335"
+        },
+        {
+          "time": "2:35 PM",
+          "link": "https://my.filmforum.org/the-librarians/46340"
+        },
+        {
+          "time": "4:40 PM",
+          "link": "https://my.filmforum.org/the-librarians/46345"
+        },
+        {
+          "time": "6:45 PM",
+          "link": "https://my.filmforum.org/the-librarians/46352"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://my.filmforum.org/the-librarians/46358"
         }
       ]
     },
@@ -1914,30 +386,6 @@
         {
           "time": "11:55 PM",
           "link": "https://brooklynhorror2025.eventive.org/schedule/68bf0d1756ab0c15888e94a0"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Oct 17",
-      "title": "Darling (2016)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/darling/",
-      "showtimes": [
-        {
-          "time": "12:20 PM",
-          "link": "https://my.filmforum.org/darling/45898"
-        },
-        {
-          "time": "3:00 PM",
-          "link": "https://my.filmforum.org/darling/45909"
-        },
-        {
-          "time": "5:40 PM",
-          "link": "https://my.filmforum.org/darling/45921"
-        },
-        {
-          "time": "8:20 PM",
-          "link": "https://my.filmforum.org/darling/45932"
         }
       ]
     },
@@ -2019,30 +467,6 @@
     },
     {
       "date": "Sat, Oct 18",
-      "title": "Darling (2016)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/darling/",
-      "showtimes": [
-        {
-          "time": "12:20 PM",
-          "link": "https://my.filmforum.org/darling/45899"
-        },
-        {
-          "time": "3:00 PM",
-          "link": "https://my.filmforum.org/darling/45940"
-        },
-        {
-          "time": "5:40 PM",
-          "link": "https://my.filmforum.org/darling/45922"
-        },
-        {
-          "time": "8:20 PM",
-          "link": "https://my.filmforum.org/darling/45933"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Oct 18",
       "title": "Def by Temptation (1990)",
       "theater": "Nitehawk WB",
       "letterboxdURL": "https://letterboxd.com/film/def/",
@@ -2116,7 +540,7 @@
       "letterboxdURL": "https://letterboxd.com/film/night-of-the-living-dead-1990/",
       "showtimes": [
         {
-          "time": "11:45 PM",
+          "time": "11:15 PM",
           "link": "https://brooklynhorror2025.eventive.org/schedule/68bf0d1756ab0c15888e9545"
         }
       ]
@@ -2130,6 +554,18 @@
         {
           "time": "6:30 PM",
           "link": "https://brooklynhorror2025.eventive.org/schedule/68bf0d1756ab0c15888e9577"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Oct 18",
+      "title": "The Downtown Festival: Oasis: First Night Live at Knebworth Park (1996)",
+      "theater": "Roxy",
+      "letterboxdURL": "https://letterboxd.com/search/The%20Downtown%20Festival%3A%20Oasis%3A%20First%20Night%20Live%20at%20Knebworth%20Park+1996/",
+      "showtimes": [
+        {
+          "time": "10:30 PM",
+          "link": "https://ticketing.uswest.veezi.com/purchase/6758?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
     },
@@ -2183,25 +619,13 @@
     },
     {
       "date": "Sun, Oct 19",
-      "title": "Darling (2016)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/darling/",
+      "title": "Beetlejuice (1988)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/beetlejuice-1988/",
       "showtimes": [
         {
-          "time": "12:20 PM",
-          "link": "https://my.filmforum.org/darling/45900"
-        },
-        {
-          "time": "3:00 PM",
-          "link": "https://my.filmforum.org/darling/45941"
-        },
-        {
-          "time": "5:40 PM",
-          "link": "https://my.filmforum.org/darling/45923"
-        },
-        {
-          "time": "8:20 PM",
-          "link": "https://my.filmforum.org/darling/45934"
+          "time": "12:00 PM",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/20383824/"
         }
       ]
     },
@@ -2287,26 +711,6 @@
     },
     {
       "date": "Mon, Oct 20",
-      "title": "Darling (2016)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/darling/",
-      "showtimes": [
-        {
-          "time": "12:20 PM",
-          "link": "https://my.filmforum.org/darling/45901"
-        },
-        {
-          "time": "3:00 PM",
-          "link": "https://my.filmforum.org/darling/45910"
-        },
-        {
-          "time": "8:20 PM",
-          "link": "https://my.filmforum.org/darling/45917"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Oct 20",
       "title": "Demon City Shinjuku (1988)",
       "theater": "Nitehawk PP",
       "letterboxdURL": "https://letterboxd.com/film/demon-city-shinjuku/",
@@ -2373,35 +777,11 @@
       "date": "Mon, Oct 20",
       "title": "MIX Film Festival presents: Assassins: A Film Concerning Rimbaud (1985)",
       "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/search/Assassins%3A%20A%20Film%20Concerning%20Rimbaud+1985/",
+      "letterboxdURL": "https://letterboxd.com/film/assassins-a-film-concerning-rimbaud/",
       "showtimes": [
         {
           "time": "7:00 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6716?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Oct 21",
-      "title": "Darling (2016)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/darling/",
-      "showtimes": [
-        {
-          "time": "12:20 PM",
-          "link": "https://my.filmforum.org/darling/45902"
-        },
-        {
-          "time": "3:00 PM",
-          "link": "https://my.filmforum.org/darling/45911"
-        },
-        {
-          "time": "5:40 PM",
-          "link": "https://my.filmforum.org/darling/45924"
-        },
-        {
-          "time": "8:20 PM",
-          "link": "https://my.filmforum.org/darling/45935"
         }
       ]
     },
@@ -2447,30 +827,6 @@
     },
     {
       "date": "Wed, Oct 22",
-      "title": "Darling (2016)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/darling/",
-      "showtimes": [
-        {
-          "time": "12:20 PM",
-          "link": "https://my.filmforum.org/darling/45903"
-        },
-        {
-          "time": "3:00 PM",
-          "link": "https://my.filmforum.org/darling/45912"
-        },
-        {
-          "time": "5:40 PM",
-          "link": "https://my.filmforum.org/darling/45925"
-        },
-        {
-          "time": "8:20 PM",
-          "link": "https://my.filmforum.org/darling/45936"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Oct 22",
       "title": "Greaser\u2019S Palace (2006)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/greasers-palace/",
@@ -2511,30 +867,6 @@
     },
     {
       "date": "Thu, Oct 23",
-      "title": "Darling (2016)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/darling/",
-      "showtimes": [
-        {
-          "time": "12:20 PM",
-          "link": "https://my.filmforum.org/darling/45904"
-        },
-        {
-          "time": "3:00 PM",
-          "link": "https://my.filmforum.org/darling/45913"
-        },
-        {
-          "time": "5:40 PM",
-          "link": "https://my.filmforum.org/darling/45926"
-        },
-        {
-          "time": "8:20 PM",
-          "link": "https://my.filmforum.org/darling/45937"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Oct 23",
       "title": "Greaser\u2019S Palace (2006)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/greasers-palace/",
@@ -2546,6 +878,18 @@
         {
           "time": "9:00 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2025#showing-59940"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Oct 23",
+      "title": "Halloween II - 35MM (2009)",
+      "theater": "Roxy",
+      "letterboxdURL": "https://letterboxd.com/film/halloween-ii-2009/",
+      "showtimes": [
+        {
+          "time": "10:30 PM",
+          "link": "https://ticketing.uswest.veezi.com/purchase/6755?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
     },
@@ -2563,13 +907,25 @@
     },
     {
       "date": "Fri, Oct 24",
-      "title": "Halloween II - 35MM (2009)",
+      "title": "It Happened Here (2012)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/it-happened-here/",
+      "showtimes": [
+        {
+          "time": "6:00 PM",
+          "link": "https://my.filmforum.org/it-happened-here-brownlow/46413"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Oct 24",
+      "title": "Putty Hill + Q&A (2010)",
       "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/film/halloween-ii-2009/",
+      "letterboxdURL": "https://letterboxd.com/film/putty-hill/",
       "showtimes": [
         {
           "time": "9:15 PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/6748?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
+          "link": "https://ticketing.uswest.veezi.com/purchase/6756?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
     },
@@ -2587,13 +943,25 @@
     },
     {
       "date": "Fri, Oct 24",
-      "title": "Swallowed (2011)",
-      "theater": "Anthology",
-      "letterboxdURL": "https://letterboxd.com/film/swallowed/",
+      "title": "Sunrise (1995)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/sunrise/",
       "showtimes": [
         {
-          "time": "7:30 PM",
-          "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2025#showing-59996"
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/sunrise-brownlow/46397"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Oct 24",
+      "title": "The Charm Of Dynamite (1968)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/search/The%20Charm%20Of%20Dynamite+1968/",
+      "showtimes": [
+        {
+          "time": "2:30 PM",
+          "link": "https://my.filmforum.org/charm-of-dynamite-brownlow/46400"
         }
       ]
     },
@@ -2611,6 +979,18 @@
     },
     {
       "date": "Fri, Oct 24",
+      "title": "The Wind (2009)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-wind-2009/",
+      "showtimes": [
+        {
+          "time": "8:20 PM",
+          "link": "https://my.filmforum.org/the-wind-brownlow/46414"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Oct 24",
       "title": "Two Tons Of Turquoise To Taos Tonight (1975)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/two-tons-of-turquoise-to-taos-tonight/",
@@ -2618,6 +998,18 @@
         {
           "time": "9:30 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2025#showing-60121"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Oct 24",
+      "title": "Winstanley (1975)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/winstanley/",
+      "showtimes": [
+        {
+          "time": "3:50 PM",
+          "link": "https://my.filmforum.org/winstanley-brownlow/46405"
         }
       ]
     },
@@ -2671,6 +1063,18 @@
     },
     {
       "date": "Sat, Oct 25",
+      "title": "It Happened Here (2012)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/it-happened-here/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/it-happened-here-brownlow/46409"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Oct 25",
       "title": "Lolita - 35MM (1962)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/film/lolita/",
@@ -2706,6 +1110,54 @@
       ]
     },
     {
+      "date": "Sat, Oct 25",
+      "title": "Show People (1974)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/show-people/",
+      "showtimes": [
+        {
+          "time": "6:40 PM",
+          "link": "https://my.filmforum.org/show-people-brownlow/46418"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Oct 25",
+      "title": "The Docks Of New York (1928)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-docks-of-new-york/",
+      "showtimes": [
+        {
+          "time": "8:30 PM",
+          "link": "https://my.filmforum.org/docks-of-new-york-brownlow/46420"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Oct 25",
+      "title": "The General (1955)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-general/",
+      "showtimes": [
+        {
+          "time": "4:50 PM",
+          "link": "https://my.filmforum.org/the-general-brownlow/46417"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Oct 25",
+      "title": "Winstanley (1975)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/winstanley/",
+      "showtimes": [
+        {
+          "time": "2:40 PM",
+          "link": "https://my.filmforum.org/winstanley-brownlow/46408"
+        }
+      ]
+    },
+    {
       "date": "Sun, Oct 26",
       "title": "Casper (1995)",
       "theater": "Nitehawk PP",
@@ -2726,6 +1178,18 @@
         {
           "time": "9:30 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6739?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Oct 26",
+      "title": "City Lights (1931)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/city-lights/",
+      "showtimes": [
+        {
+          "time": "4:20 PM",
+          "link": "https://my.filmforum.org/city-lights-brownlow/46425"
         }
       ]
     },
@@ -2791,6 +1255,18 @@
     },
     {
       "date": "Sun, Oct 26",
+      "title": "Seven Chances (1925)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/seven-chances/",
+      "showtimes": [
+        {
+          "time": "2:50 PM",
+          "link": "https://my.filmforum.org/seven-chances-brownlow/46424"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Oct 26",
       "title": "Sticks And Bones (1973)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/sticks-and-bones/",
@@ -2798,6 +1274,18 @@
         {
           "time": "6:00 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2025#showing-60117"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Oct 26",
+      "title": "The Kid Brother (1987)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-kid-brother-1987/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://my.filmforum.org/kid-brother-brownlow/46421"
         }
       ]
     },
@@ -2815,6 +1303,18 @@
     },
     {
       "date": "Sun, Oct 26",
+      "title": "Unknown Chaplin (2005)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/unknown-chaplin-2005/",
+      "showtimes": [
+        {
+          "time": "6:20 PM",
+          "link": "https://my.filmforum.org/unknown-chaplin-brownlow/46428"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Oct 26",
       "title": "Weekend (1962)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/weekend/",
@@ -2827,13 +1327,25 @@
     },
     {
       "date": "Mon, Oct 27",
-      "title": "A Woman Of Affairs (1988)",
+      "title": "A Woman Of Affairs (1996)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/a-woman-of-affairs/",
       "showtimes": [
         {
           "time": "6:00 PM",
           "link": "https://my.filmforum.org/a-woman-of-affairs/45721"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Oct 27",
+      "title": "City Lights (1931)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/city-lights/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/city-lights-brownlow/46426"
         }
       ]
     },
@@ -2846,6 +1358,18 @@
         {
           "time": "7:00 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6740?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Oct 27",
+      "title": "House on Haunted Hill (1959)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/house-on-haunted-hill/",
+      "showtimes": [
+        {
+          "time": "9:15 PM",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/20314436/"
         }
       ]
     },
@@ -2886,6 +1410,42 @@
       ]
     },
     {
+      "date": "Mon, Oct 27",
+      "title": "The Goose Woman (1933)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-goose-woman/",
+      "showtimes": [
+        {
+          "time": "8:10 PM",
+          "link": "https://my.filmforum.org/goose-woman-brownlow/46429"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Oct 27",
+      "title": "Unknown Chaplin (2005)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/unknown-chaplin-2005/",
+      "showtimes": [
+        {
+          "time": "2:30 PM",
+          "link": "https://my.filmforum.org/unknown-chaplin-brownlow/46427"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Oct 28",
+      "title": "A Cottage On Dartmoor (1929)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/a-cottage-on-dartmoor/",
+      "showtimes": [
+        {
+          "time": "6:15 PM",
+          "link": "https://my.filmforum.org/cottage-on-dartmoor-brownlow/46430"
+        }
+      ]
+    },
+    {
       "date": "Tue, Oct 28",
       "title": "Innocent Blood (1992)",
       "theater": "Nitehawk PP",
@@ -2899,12 +1459,24 @@
     },
     {
       "date": "Tue, Oct 28",
+      "title": "It Happened Here (2012)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/it-happened-here/",
+      "showtimes": [
+        {
+          "time": "4:10 PM",
+          "link": "https://my.filmforum.org/it-happened-here-brownlow/46410"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Oct 28",
       "title": "Orphan - 35MM (2009)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/film/orphan-2009/",
       "showtimes": [
         {
-          "time": "9:15 PM",
+          "time": "9:00 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6752?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
@@ -2923,6 +1495,30 @@
     },
     {
       "date": "Tue, Oct 28",
+      "title": "The General (1955)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-general/",
+      "showtimes": [
+        {
+          "time": "2:20 PM",
+          "link": "https://my.filmforum.org/the-general-brownlow/46415"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Oct 28",
+      "title": "The Iron Mask (1998)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-iron-mask/",
+      "showtimes": [
+        {
+          "time": "8:10 PM",
+          "link": "https://my.filmforum.org/iron-mask-brownlow/46432"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Oct 28",
       "title": "The Juniper Tree (1990)",
       "theater": "Nitehawk WB",
       "letterboxdURL": "https://letterboxd.com/film/the-juniper-tree/",
@@ -2930,6 +1526,18 @@
         {
           "time": "7:00 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/20007587/"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Oct 28",
+      "title": "Winstanley (1975)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/winstanley/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://my.filmforum.org/winstanley-brownlow/46406"
         }
       ]
     },
@@ -2963,6 +1571,18 @@
     },
     {
       "date": "Wed, Oct 29",
+      "title": "Cecil B Demille: American Epic (2004)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/cecil-b-demille-american-epic/",
+      "showtimes": [
+        {
+          "time": "5:30 PM",
+          "link": "https://my.filmforum.org/demille-american-epic-brownlow/46433"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Oct 29",
       "title": "Earth Altars / La Tierra Los Altares (2023)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/earth-altars/",
@@ -2970,6 +1590,18 @@
         {
           "time": "7:00 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2025#showing-60007"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Oct 29",
+      "title": "Halloween (1978)",
+      "theater": "Roxy",
+      "letterboxdURL": "https://letterboxd.com/film/halloween-1978/",
+      "showtimes": [
+        {
+          "time": "7:00 PM",
+          "link": "https://ticketing.uswest.veezi.com/purchase/6757?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
     },
@@ -2992,8 +1624,20 @@
       "letterboxdURL": "https://letterboxd.com/film/orphan-2009/",
       "showtimes": [
         {
-          "time": "9:15 PM",
+          "time": "9:00 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6753?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Oct 29",
+      "title": "Pandora'S Box (1995)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/pandoras-box/",
+      "showtimes": [
+        {
+          "time": "2:50 PM",
+          "link": "https://my.filmforum.org/pandoras-box-deco/46379"
         }
       ]
     },
@@ -3006,6 +1650,30 @@
         {
           "time": "7:30 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2025#showing-60119"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Oct 29",
+      "title": "The General (1955)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-general/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://my.filmforum.org/the-general-brownlow/46416"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Oct 29",
+      "title": "The Godless Girl (1928)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-godless-girl/",
+      "showtimes": [
+        {
+          "time": "8:00 PM",
+          "link": "https://my.filmforum.org/godless-girl-brownlow/46434"
         }
       ]
     },
@@ -3051,6 +1719,18 @@
     },
     {
       "date": "Thu, Oct 30",
+      "title": "It Happened Here (2012)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/it-happened-here/",
+      "showtimes": [
+        {
+          "time": "4:15 PM",
+          "link": "https://my.filmforum.org/it-happened-here-brownlow/46411"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Oct 30",
       "title": "Night of the Living Dead (1968)",
       "theater": "Nitehawk PP",
       "letterboxdURL": "https://letterboxd.com/film/night-of-the-living-dead/",
@@ -3058,6 +1738,54 @@
         {
           "time": "7:00 PM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/20185034/"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Oct 30",
+      "title": "The Charm Of Dynamite (1968)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/search/The%20Charm%20Of%20Dynamite+1968/",
+      "showtimes": [
+        {
+          "time": "6:20 PM",
+          "link": "https://my.filmforum.org/charm-of-dynamite-brownlow/46404"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Oct 30",
+      "title": "The Great Dictator (1940)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-great-dictator/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://my.filmforum.org/great-dictator-brownlow/46435"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Oct 30",
+      "title": "The Thief Of Bagdad (2008)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-thief-of-bagdad/",
+      "showtimes": [
+        {
+          "time": "7:40 PM",
+          "link": "https://my.filmforum.org/thief-of-bagdad-brownlow/46441"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Oct 30",
+      "title": "The Tramp And The Dictator (2002)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-tramp-and-the-dictator/",
+      "showtimes": [
+        {
+          "time": "2:45 PM",
+          "link": "https://my.filmforum.org/tramp-and-the-dictator-brownlow/46437"
         }
       ]
     },
@@ -3103,6 +1831,30 @@
     },
     {
       "date": "Fri, Oct 31",
+      "title": "Halloween III: Season of the Witch (1982)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/halloween-iii-season-of-the-witch/",
+      "showtimes": [
+        {
+          "time": "11:55 PM",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/20184346/"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Oct 31",
+      "title": "Lon Chaney: Man Of A Thousand (2000)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/search/Lon%20Chaney%3A%20Man%20Of%20A%20Thousand+2000/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://my.filmforum.org/lon-chaney-brownlow/46442"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Oct 31",
       "title": "Suspiria (1977)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/film/suspiria/",
@@ -3110,6 +1862,46 @@
         {
           "time": "5:00 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/6730?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Oct 31",
+      "title": "The Cat And The Canary (1978)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-cat-and-the-canary-1978/",
+      "showtimes": [
+        {
+          "time": "6:50 PM",
+          "link": "https://my.filmforum.org/cat-and-the-canary-brownlow/46447"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Oct 31",
+      "title": "The Phantom Of The Opera (1943)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-phantom-of-the-opera/",
+      "showtimes": [
+        {
+          "time": "2:50 PM",
+          "link": "https://my.filmforum.org/phantom-of-the-opera-brownlow/46444"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://my.filmforum.org/phantom-of-the-opera-brownlow/46445"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Oct 31",
+      "title": "Universal Horror (1998)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/universal-horror/",
+      "showtimes": [
+        {
+          "time": "4:50 PM",
+          "link": "https://my.filmforum.org/universal-horror-brownlow/46446"
         }
       ]
     },
@@ -3143,6 +1935,30 @@
     },
     {
       "date": "Sat, Nov 1",
+      "title": "Halloween III: Season of the Witch (1982)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/halloween-iii-season-of-the-witch/",
+      "showtimes": [
+        {
+          "time": "11:55 PM",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/20184347/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Nov 1",
+      "title": "Lon Chaney: Man Of A Thousand (2000)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/search/Lon%20Chaney%3A%20Man%20Of%20A%20Thousand+2000/",
+      "showtimes": [
+        {
+          "time": "2:00 PM",
+          "link": "https://my.filmforum.org/lon-chaney-brownlow/46443"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Nov 1",
       "title": "Pandora'S Box (1995)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/pandoras-box/",
@@ -3150,6 +1966,42 @@
         {
           "time": "8:00 PM",
           "link": "https://my.filmforum.org/pandoras-box-deco/46118"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Nov 1",
+      "title": "The Charm Of Dynamite (1968)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/search/The%20Charm%20Of%20Dynamite+1968/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/charm-of-dynamite-brownlow/46401"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Nov 1",
+      "title": "The Great Dictator (1940)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-great-dictator/",
+      "showtimes": [
+        {
+          "time": "4:00 PM",
+          "link": "https://my.filmforum.org/great-dictator-brownlow/46436"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Nov 1",
+      "title": "The Tramp And The Dictator (2002)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-tramp-and-the-dictator/",
+      "showtimes": [
+        {
+          "time": "6:30 PM",
+          "link": "https://my.filmforum.org/tramp-and-the-dictator-brownlow/46439"
         }
       ]
     },
@@ -3182,6 +2034,346 @@
       ]
     },
     {
+      "date": "Sun, Nov 2",
+      "title": "McCabe & Mrs. Miller (1971)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/mccabe-mrs-miller/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1551/seats"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Nov 2",
+      "title": "Napoleon (2023)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/napoleon-2023/",
+      "showtimes": [
+        {
+          "time": "1:10 PM",
+          "link": "https://my.filmforum.org/napoleon-brownlow/46448"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Nov 3",
+      "title": "Auction (2004)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/auction/",
+      "showtimes": [
+        {
+          "time": "12:40 PM",
+          "link": "https://my.filmforum.org/auction/46081"
+        },
+        {
+          "time": "2:35 PM",
+          "link": "https://my.filmforum.org/auction/46087"
+        },
+        {
+          "time": "4:40 PM",
+          "link": "https://my.filmforum.org/auction/46093"
+        },
+        {
+          "time": "6:45 PM",
+          "link": "https://my.filmforum.org/auction/46101"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://my.filmforum.org/auction/46109"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Nov 3",
+      "title": "Broadway (2013)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/broadway-2013/",
+      "showtimes": [
+        {
+          "time": "6:00 PM",
+          "link": "https://my.filmforum.org/broadway-deco/46117"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Nov 3",
+      "title": "Greed (2012)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/greed/",
+      "showtimes": [
+        {
+          "time": "8:15 PM",
+          "link": "https://my.filmforum.org/greed-brownlow/46449"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Nov 3",
+      "title": "Sunrise (1995)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/sunrise/",
+      "showtimes": [
+        {
+          "time": "4:00 PM",
+          "link": "https://my.filmforum.org/sunrise-brownlow/46398"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Nov 3",
+      "title": "The Charm Of Dynamite (1968)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/search/The%20Charm%20Of%20Dynamite+1968/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://my.filmforum.org/charm-of-dynamite-brownlow/46402"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Nov 3",
+      "title": "The Kid Brother (1987)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-kid-brother-1987/",
+      "showtimes": [
+        {
+          "time": "2:10 PM",
+          "link": "https://my.filmforum.org/kid-brother-brownlow/46422"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Nov 4",
+      "title": "Auction (2004)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/auction/",
+      "showtimes": [
+        {
+          "time": "12:40 PM",
+          "link": "https://my.filmforum.org/auction/46082"
+        },
+        {
+          "time": "2:35 PM",
+          "link": "https://my.filmforum.org/auction/46088"
+        },
+        {
+          "time": "4:40 PM",
+          "link": "https://my.filmforum.org/auction/46094"
+        },
+        {
+          "time": "6:45 PM",
+          "link": "https://my.filmforum.org/auction/46102"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://my.filmforum.org/auction/46110"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Nov 4",
+      "title": "For Heaven'S Sake (1926)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/for-heavens-sake/",
+      "showtimes": [
+        {
+          "time": "6:00 PM",
+          "link": "https://my.filmforum.org/for-heavens-sake-brownlow/46451"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Nov 4",
+      "title": "Four Horsemen Of The Apocalyps (1921)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/search/Four%20Horsemen%20Of%20The%20Apocalyps+1921/",
+      "showtimes": [
+        {
+          "time": "7:40 PM",
+          "link": "https://my.filmforum.org/four-horsemen-brownlow/46452"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Nov 4",
+      "title": "Mississippi Masala (1991)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/mississippi-masala/",
+      "showtimes": [
+        {
+          "time": "7:00 PM",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/20391172/"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Nov 4",
+      "title": "Safety Last! (1923)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/safety-last/",
+      "showtimes": [
+        {
+          "time": "4:10 PM",
+          "link": "https://my.filmforum.org/safety-last-brownlow/46431"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Nov 4",
+      "title": "The Circus (2014)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-circus/",
+      "showtimes": [
+        {
+          "time": "2:20 PM",
+          "link": "https://my.filmforum.org/circus-brownlow/46450"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Nov 4",
+      "title": "The Color Purple (1985) (1985)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/the-color-purple/",
+      "showtimes": [
+        {
+          "time": "9:15 PM",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/20327321/"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Nov 4",
+      "title": "The Tramp And The Dictator (2002)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-tramp-and-the-dictator/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://my.filmforum.org/tramp-and-the-dictator-brownlow/46438"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Nov 5",
+      "title": "Auction (2004)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/auction/",
+      "showtimes": [
+        {
+          "time": "12:40 PM",
+          "link": "https://my.filmforum.org/auction/46083"
+        },
+        {
+          "time": "2:35 PM",
+          "link": "https://my.filmforum.org/auction/46089"
+        },
+        {
+          "time": "4:40 PM",
+          "link": "https://my.filmforum.org/auction/46095"
+        },
+        {
+          "time": "6:45 PM",
+          "link": "https://my.filmforum.org/auction/46103"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://my.filmforum.org/auction/46111"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Nov 5",
+      "title": "Intolerance (1916)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/intolerance/",
+      "showtimes": [
+        {
+          "time": "7:20 PM",
+          "link": "https://my.filmforum.org/intolerance-brownlow/46454"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Nov 5",
+      "title": "Smouldering Fires (1925)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/smouldering-fires/",
+      "showtimes": [
+        {
+          "time": "5:30 PM",
+          "link": "https://my.filmforum.org/smouldering-fires-brownlow/46453"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Nov 5",
+      "title": "The Kid Brother (1987)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-kid-brother-1987/",
+      "showtimes": [
+        {
+          "time": "3:40 PM",
+          "link": "https://my.filmforum.org/kid-brother-brownlow/46423"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Nov 5",
+      "title": "The Thief Of Bagdad (2008)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-thief-of-bagdad/",
+      "showtimes": [
+        {
+          "time": "12:40 PM",
+          "link": "https://my.filmforum.org/thief-of-bagdad-brownlow/46440"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Nov 6",
+      "title": "Auction (2004)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/auction/",
+      "showtimes": [
+        {
+          "time": "12:40 PM",
+          "link": "https://my.filmforum.org/auction/46084"
+        },
+        {
+          "time": "2:35 PM",
+          "link": "https://my.filmforum.org/auction/46090"
+        },
+        {
+          "time": "4:40 PM",
+          "link": "https://my.filmforum.org/auction/46096"
+        },
+        {
+          "time": "6:45 PM",
+          "link": "https://my.filmforum.org/auction/46104"
+        },
+        {
+          "time": "8:45 PM",
+          "link": "https://my.filmforum.org/auction/46112"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Nov 6",
+      "title": "It Happened Here (2012)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/it-happened-here/",
+      "showtimes": [
+        {
+          "time": "3:50 PM",
+          "link": "https://my.filmforum.org/it-happened-here-brownlow/46412"
+        }
+      ]
+    },
+    {
       "date": "Thu, Nov 6",
       "title": "Shadow of the Hawk (1976)",
       "theater": "Nitehawk WB",
@@ -3190,6 +2382,138 @@
         {
           "time": "9:30 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/20205190/"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Nov 6",
+      "title": "Sunrise (1995)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/sunrise/",
+      "showtimes": [
+        {
+          "time": "6:00 PM",
+          "link": "https://my.filmforum.org/sunrise-brownlow/46399"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Nov 6",
+      "title": "The Charm Of Dynamite (1968)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/search/The%20Charm%20Of%20Dynamite+1968/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/charm-of-dynamite-brownlow/46403"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Nov 6",
+      "title": "The Last Command (1988)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-last-command/",
+      "showtimes": [
+        {
+          "time": "8:00 PM",
+          "link": "https://my.filmforum.org/last-command-brownlow/46455"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Nov 6",
+      "title": "Winstanley (1975)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/winstanley/",
+      "showtimes": [
+        {
+          "time": "1:50 PM",
+          "link": "https://my.filmforum.org/winstanley-brownlow/46407"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Nov 9",
+      "title": "Stubby (1978)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/search/Stubby+1978/",
+      "showtimes": [
+        {
+          "time": "11:00 AM",
+          "link": "https://my.filmforum.org/stubby-ffjr/45570"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Nov 9",
+      "title": "Tomorrow (1972)",
+      "theater": "Paris",
+      "letterboxdURL": "https://letterboxd.com/film/tomorrow/",
+      "showtimes": [
+        {
+          "time": "11:00 AM",
+          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-1549/seats"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Nov 10",
+      "title": "Madam Satan (1930)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/madam-satan/",
+      "showtimes": [
+        {
+          "time": "6:00 PM",
+          "link": "https://my.filmforum.org/madam-satan-deco/46119"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Nov 11",
+      "title": "Night Nurse (1931)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/night-nurse/",
+      "showtimes": [
+        {
+          "time": "7:15 PM",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/20323297/"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Nov 20",
+      "title": "Legion of the Night (1995)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/legion-of-the-night/",
+      "showtimes": [
+        {
+          "time": "9:15 PM",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/20345652/"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Dec 11",
+      "title": "Sgt. Pepper\u2019s Lonely Hearts Club Band (1978)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/sgt-peppers-lonely-hearts-club-band/",
+      "showtimes": [
+        {
+          "time": "9:30 PM",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/20205291/"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Dec 18",
+      "title": "Mondo Schizo: Carl J. Sukenick\u2019s Galaxy of Garbage (2015)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/search/Mondo%20Schizo%3A%20Carl%20J.%20Sukenick%E2%80%99s%20Galaxy%20of%20Garbage+2015/",
+      "showtimes": [
+        {
+          "time": "9:30 PM",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/20345682/"
         }
       ]
     }
