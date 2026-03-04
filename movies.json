@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-04T05:22:26.490645",
+  "lastUpdated": "2026-03-04T06:43:52.773926",
   "movies": [
     {
       "date": "Sun, Mar 1",
@@ -351,6 +351,18 @@
     },
     {
       "date": "Fri, Mar 6",
+      "title": "Mulholland Drive (2001)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/mulholland-drive/",
+      "showtimes": [
+        {
+          "time": "6:30 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Mar 6",
       "title": "Rendez-vous (1985)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/rendez-vous-1985/",
@@ -523,6 +535,18 @@
     },
     {
       "date": "Sat, Mar 7",
+      "title": "Mulholland Drive (2001)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/mulholland-drive/",
+      "showtimes": [
+        {
+          "time": "6:30 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Mar 7",
       "title": "Once Upon a Time in Hollywood (2019)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/once-upon-a-time-in-hollywood/",
@@ -607,6 +631,18 @@
     },
     {
       "date": "Sat, Mar 7",
+      "title": "The Wiz (1939)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/the-wiz/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Mar 7",
       "title": "Weekend (1967)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/weekend-1967/",
@@ -614,6 +650,18 @@
         {
           "time": "8:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=29291"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Mar 7",
+      "title": "West Indies: The Fugitive Slaves of Liberty (1979)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/west-indies-the-fugitive-slaves-of-liberty/",
+      "showtimes": [
+        {
+          "time": "4:00 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
         }
       ]
     },
@@ -695,6 +743,18 @@
     },
     {
       "date": "Sun, Mar 8",
+      "title": "I\u2019m Going Home (2001)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/im-going-home/",
+      "showtimes": [
+        {
+          "time": "4:00 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Mar 8",
       "title": "Mauvais Sang (1986)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/mauvais-sang/",
@@ -702,6 +762,18 @@
         {
           "time": "4:35 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=29301"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Mar 8",
+      "title": "Memento (2000)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/memento/",
+      "showtimes": [
+        {
+          "time": "3:00 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
         }
       ]
     },
@@ -738,6 +810,18 @@
         {
           "time": "5:30 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=29306"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Mar 8",
+      "title": "Space Is the Place (1974)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/space-is-the-place/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
         }
       ]
     },
@@ -1623,6 +1707,18 @@
     },
     {
       "date": "Fri, Mar 13",
+      "title": "Pulse (2006)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/pulse-2006/",
+      "showtimes": [
+        {
+          "time": "7:00 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Mar 13",
       "title": "Queen of Katwe (2016)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/queen-of-katwe/",
@@ -1735,6 +1831,18 @@
     },
     {
       "date": "Sat, Mar 14",
+      "title": "De Humani Corporis Fabrica (2023)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/de-humani-corporis-fabrica/",
+      "showtimes": [
+        {
+          "time": "3:15 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Mar 14",
       "title": "Dope (2015)",
       "theater": "Nitehawk PP",
       "letterboxdURL": "https://letterboxd.com/film/dope-2015/",
@@ -1742,6 +1850,30 @@
         {
           "time": "12:15 PM",
           "link": "https://nitehawkcinema.com/prospectpark/purchase/21638058/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Mar 14",
+      "title": "Fantastic Voyage (1966)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/fantastic-voyage/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Mar 14",
+      "title": "Fat Girl (2001)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/fat-girl/",
+      "showtimes": [
+        {
+          "time": "6:00 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
         }
       ]
     },
@@ -2142,6 +2274,18 @@
         {
           "time": "2:00 PM",
           "link": "https://commerce.bam.org/production/52772"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Mar 15",
+      "title": "The Royal Tenenbaums (2001)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/the-royal-tenenbaums/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
         }
       ]
     },
@@ -2735,6 +2879,18 @@
     },
     {
       "date": "Fri, Mar 20",
+      "title": "The Royal Tenenbaums (2001)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/the-royal-tenenbaums/",
+      "showtimes": [
+        {
+          "time": "6:30 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Mar 20",
       "title": "The Stairway to a Distant Past (1995)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/search/The%20Stairway%20to%20a%20Distant%20Past+1995/",
@@ -2754,6 +2910,18 @@
         {
           "time": "4:00 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/7165?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Mar 21",
+      "title": "Atanarjuat: The Fast Runner (2002)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/atanarjuat-the-fast-runner/",
+      "showtimes": [
+        {
+          "time": "2:30 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
         }
       ]
     },
@@ -2807,6 +2975,18 @@
     },
     {
       "date": "Sat, Mar 21",
+      "title": "Gosford Park (2001)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/gosford-park/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Mar 21",
       "title": "Haifa (2021)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/haifa-2021/",
@@ -2826,6 +3006,18 @@
         {
           "time": "1:30 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=03&year=2026#showing-60985"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Mar 21",
+      "title": "In Praise of Love (2001)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/in-praise-of-love/",
+      "showtimes": [
+        {
+          "time": "3:30 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
         }
       ]
     },
@@ -2987,6 +3179,18 @@
     },
     {
       "date": "Sat, Mar 21",
+      "title": "The Piano Teacher (2001)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/the-piano-teacher/",
+      "showtimes": [
+        {
+          "time": "6:00 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Mar 21",
       "title": "The Player (1992)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/the-player/",
@@ -3083,6 +3287,18 @@
     },
     {
       "date": "Sun, Mar 22",
+      "title": "Ghost World (2001)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/ghost-world/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Mar 22",
       "title": "High Life (2018)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/high-life-2018/",
@@ -3102,6 +3318,18 @@
         {
           "time": "2:00 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/7169?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Mar 22",
+      "title": "In Praise of Love (2001)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/in-praise-of-love/",
+      "showtimes": [
+        {
+          "time": "4:00 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
         }
       ]
     },
@@ -3246,6 +3474,18 @@
         {
           "time": "1:45 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=03&year=2026#showing-60977"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Mar 22",
+      "title": "Va Savoir (2001)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/va-savoir/",
+      "showtimes": [
+        {
+          "time": "2:00 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
         }
       ]
     },
@@ -4367,6 +4607,18 @@
     },
     {
       "date": "Sun, Mar 29",
+      "title": "Millennium Mambo (2001)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/millennium-mambo/",
+      "showtimes": [
+        {
+          "time": "3:00 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Mar 29",
       "title": "Monsters, Inc. (2001)",
       "theater": "Nitehawk WB",
       "letterboxdURL": "https://letterboxd.com/film/monsters-inc/",
@@ -4506,6 +4758,18 @@
         {
           "time": "9:45 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=29454"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Mar 29",
+      "title": "Trouble Every Day (2001)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/trouble-every-day/",
+      "showtimes": [
+        {
+          "time": "5:15 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
         }
       ]
     },
@@ -4842,6 +5106,138 @@
         {
           "time": "11:55 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/21927100/"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Apr 3",
+      "title": "What Time Is It There? (1989)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/what-time-is-it-there/",
+      "showtimes": [
+        {
+          "time": "6:30 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Apr 4",
+      "title": "Donnie Darko (2001)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/donnie-darko-2001/",
+      "showtimes": [
+        {
+          "time": "6:00 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Apr 4",
+      "title": "Millennium Mambo (2001)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/millennium-mambo/",
+      "showtimes": [
+        {
+          "time": "3:30 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Apr 4",
+      "title": "Waking Life (2001)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/waking-life/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Apr 5",
+      "title": "Donnie Darko (2001)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/donnie-darko-2001/",
+      "showtimes": [
+        {
+          "time": "5:00 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Apr 5",
+      "title": "That Old Dream That Moves (Real Cool Time) (2001)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/search/That%20Old%20Dream%20That%20Moves%20%28Real%20Cool%20Time%29+2001/",
+      "showtimes": [
+        {
+          "time": "4:00 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Apr 5",
+      "title": "The Lady and the Duke (2001)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/the-lady-and-the-duke/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Apr 10",
+      "title": "Trouble Every Day (2001)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/trouble-every-day/",
+      "showtimes": [
+        {
+          "time": "6:30 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Apr 11",
+      "title": "Hedwig and the Angry Inch (2001)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/hedwig-and-the-angry-inch/",
+      "showtimes": [
+        {
+          "time": "6:00 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Apr 11",
+      "title": "How to Marry a Millionaire (1953)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/how-to-marry-a-millionaire/",
+      "showtimes": [
+        {
+          "time": "4:00 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Apr 12",
+      "title": "Don\u2019t Bother to Knock (1952)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/dont-bother-to-knock/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://movingimage.org/visit/museum-admission-tickets/"
         }
       ]
     },
