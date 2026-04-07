@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-07T13:33:30.561079",
+  "lastUpdated": "2026-04-07T13:48:42.022270",
   "movies": [
     {
       "date": "Wed, Apr 1",
@@ -155,13 +155,25 @@
     },
     {
       "date": "Tue, Apr 7",
-      "title": "The King of Comedy (1982)",
-      "theater": "MoMA",
-      "letterboxdURL": "https://letterboxd.com/film/the-king-of-comedy/",
+      "title": "The Love Parade (2012)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-love-parade/",
       "showtimes": [
         {
-          "time": "6:30 PM",
-          "link": "https://www.moma.org/calendar/events/11290"
+          "time": "6:00 PM",
+          "link": "https://my.filmforum.org/the-love-parade/49562"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Apr 8",
+      "title": "Days And Nights In The Forest (1970)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/days-and-nights-in-the-forest/",
+      "showtimes": [
+        {
+          "time": "2:50 PM",
+          "link": "https://my.filmforum.org/days-and-nights/49775"
         }
       ]
     },
@@ -278,6 +290,30 @@
         {
           "time": "7:00 PM",
           "link": "https://commerce.bam.org/production/53668"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Apr 9",
+      "title": "Days And Nights In The Forest (1970)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/days-and-nights-in-the-forest/",
+      "showtimes": [
+        {
+          "time": "2:50 PM",
+          "link": "https://my.filmforum.org/days-and-nights/49776"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Apr 9",
+      "title": "E'Piccerella (1922)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/search/E%27Piccerella+1922/",
+      "showtimes": [
+        {
+          "time": "6:00 PM",
+          "link": "https://my.filmforum.org/epiccerella/49567"
         }
       ]
     },
@@ -450,6 +486,22 @@
         {
           "time": "9:15 PM",
           "link": "https://commerce.bam.org/production/53668"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Apr 10",
+      "title": "Days And Nights In The Forest (1970)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/days-and-nights-in-the-forest/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/days-and-nights/49970"
+        },
+        {
+          "time": "5:45 PM",
+          "link": "https://my.filmforum.org/days-and-nights/49977"
         }
       ]
     },
@@ -702,6 +754,22 @@
         {
           "time": "4:15 PM",
           "link": "https://commerce.bam.org/production/53680"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Apr 11",
+      "title": "Days And Nights In The Forest (1970)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/days-and-nights-in-the-forest/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/days-and-nights/49971"
+        },
+        {
+          "time": "5:45 PM",
+          "link": "https://my.filmforum.org/days-and-nights/49978"
         }
       ]
     },
@@ -971,6 +1039,22 @@
     },
     {
       "date": "Sun, Apr 12",
+      "title": "Days And Nights In The Forest (1970)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/days-and-nights-in-the-forest/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://my.filmforum.org/days-and-nights/49972"
+        },
+        {
+          "time": "5:45 PM",
+          "link": "https://my.filmforum.org/days-and-nights/49979"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Apr 12",
       "title": "Dekalog: Episodes 5-7 (1990)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/search/Dekalog%3A%20Episodes%205-7+1990/",
@@ -1002,6 +1086,18 @@
         {
           "time": "12:30 PM",
           "link": "https://movingimage.org/event/dont-bother-to-knock/"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Apr 12",
+      "title": "Dr. Jack (2010)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/dr-jack/",
+      "showtimes": [
+        {
+          "time": "11:00 AM",
+          "link": "https://my.filmforum.org/dr-jack-ffjr/49535"
         }
       ]
     },
@@ -1175,6 +1271,18 @@
     },
     {
       "date": "Mon, Apr 13",
+      "title": "Days And Nights In The Forest (1970)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/days-and-nights-in-the-forest/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/days-and-nights/49973"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Apr 13",
       "title": "Ed Wood (1994)",
       "theater": "Nitehawk WB",
       "letterboxdURL": "https://letterboxd.com/film/ed-wood/",
@@ -1283,6 +1391,18 @@
     },
     {
       "date": "Tue, Apr 14",
+      "title": "Days And Nights In The Forest (1970)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/days-and-nights-in-the-forest/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/days-and-nights/49974"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Apr 14",
       "title": "In the Mood for Love (2000)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/in-the-mood-for-love-2000/",
@@ -1314,6 +1434,22 @@
         {
           "time": "5:10 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=29689"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Apr 14",
+      "title": "Monte Carlo (2011)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/monte-carlo/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://my.filmforum.org/monte-carlo/49564"
+        },
+        {
+          "time": "6:00 PM",
+          "link": "https://my.filmforum.org/monte-carlo/49565"
         }
       ]
     },
@@ -1499,6 +1635,22 @@
     },
     {
       "date": "Wed, Apr 15",
+      "title": "Days And Nights In The Forest (1970)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/days-and-nights-in-the-forest/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/days-and-nights/49975"
+        },
+        {
+          "time": "5:45 PM",
+          "link": "https://my.filmforum.org/days-and-nights/49980"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Apr 15",
       "title": "Nausica\u00e4 of the Valley of the Wind (1984)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/search/Nausica%C3%A4%20of%20the%20Valley%20of%20the%20Wind+1984/",
@@ -1602,6 +1754,22 @@
         {
           "time": "9:30 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/7270?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Apr 16",
+      "title": "Days And Nights In The Forest (1970)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/days-and-nights-in-the-forest/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/days-and-nights/49976"
+        },
+        {
+          "time": "5:45 PM",
+          "link": "https://my.filmforum.org/days-and-nights/49981"
         }
       ]
     },
@@ -1715,6 +1883,22 @@
     },
     {
       "date": "Fri, Apr 17",
+      "title": "Crumb (1995)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/crumb/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://my.filmforum.org/crumb/49701"
+        },
+        {
+          "time": "8:10 PM",
+          "link": "https://my.filmforum.org/crumb/49639"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Apr 17",
       "title": "Fear and Loathing in Las Vegas (1998)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/fear-and-loathing-in-las-vegas/",
@@ -1751,6 +1935,18 @@
     },
     {
       "date": "Fri, Apr 17",
+      "title": "Louie Bluie (1985)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/louie-bluie/",
+      "showtimes": [
+        {
+          "time": "4:30 PM",
+          "link": "https://my.filmforum.org/louie-bluie/49703"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Apr 17",
       "title": "Made in U.S.A. (1966)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/made-in-usa/",
@@ -1758,6 +1954,22 @@
         {
           "time": "2:10 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=29570"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Apr 17",
+      "title": "No Picnic (2006)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/no-picnic/",
+      "showtimes": [
+        {
+          "time": "2:40 PM",
+          "link": "https://my.filmforum.org/no-picnic/49721"
+        },
+        {
+          "time": "6:00 PM",
+          "link": "https://my.filmforum.org/no-picnic/49726"
         }
       ]
     },
@@ -1915,6 +2127,18 @@
     },
     {
       "date": "Sat, Apr 18",
+      "title": "Crumb (1995)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/crumb/",
+      "showtimes": [
+        {
+          "time": "8:50 PM",
+          "link": "https://my.filmforum.org/crumb/49698"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Apr 18",
       "title": "Daria Kashcheeva Shorts Program (2019)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/search/Daria%20Kashcheeva%20Shorts%20Program+2019/",
@@ -1922,6 +2146,18 @@
         {
           "time": "6:30 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=29586"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Apr 18",
+      "title": "Ghost World (2001)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/ghost-world/",
+      "showtimes": [
+        {
+          "time": "3:50 PM",
+          "link": "https://my.filmforum.org/ghost-world/49711"
         }
       ]
     },
@@ -1975,6 +2211,18 @@
     },
     {
       "date": "Sat, Apr 18",
+      "title": "Louie Bluie (1985)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/louie-bluie/",
+      "showtimes": [
+        {
+          "time": "2:10 PM",
+          "link": "https://my.filmforum.org/louie-bluie/49706"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Apr 18",
       "title": "Mulholland Drive [35mm] (2001)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/mulholland-drive/",
@@ -2006,6 +2254,22 @@
         {
           "time": "10:15 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=29584"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Apr 18",
+      "title": "No Picnic (2006)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/no-picnic/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://my.filmforum.org/no-picnic/49727"
+        },
+        {
+          "time": "6:50 PM",
+          "link": "https://my.filmforum.org/no-picnic/49729"
         }
       ]
     },
@@ -2247,6 +2511,18 @@
     },
     {
       "date": "Sun, Apr 19",
+      "title": "Crumb (1995)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/crumb/",
+      "showtimes": [
+        {
+          "time": "5:35 PM",
+          "link": "https://my.filmforum.org/crumb/49699"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Apr 19",
       "title": "Documentary Shorts by Krzysztof Kieslowski (1979)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/search/Documentary%20Shorts+1979/",
@@ -2271,6 +2547,18 @@
     },
     {
       "date": "Sun, Apr 19",
+      "title": "Ghost World (2001)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/ghost-world/",
+      "showtimes": [
+        {
+          "time": "3:10 PM",
+          "link": "https://my.filmforum.org/ghost-world/49712"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Apr 19",
       "title": "In a Year of 13 Moons (1978)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/search/In%20a%20Year%20of%2013%20Moons+1978/",
@@ -2290,6 +2578,22 @@
         {
           "time": "1:30 PM",
           "link": "https://commerce.bam.org/production/54050"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Apr 19",
+      "title": "Kiki'S Delivery Service (1989)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/kikis-delivery-service/",
+      "showtimes": [
+        {
+          "time": "11:00 AM",
+          "link": "https://my.filmforum.org/kikis-delivery-service-ffjr/kikis-delivery-service-eng"
+        },
+        {
+          "time": "11:05 AM",
+          "link": "https://my.filmforum.org/kikis-delivery-service-ffjr/kikis-delivery-service-ffjr"
         }
       ]
     },
@@ -2350,6 +2654,22 @@
         {
           "time": "2:15 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=29591"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Apr 19",
+      "title": "No Picnic (2006)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/no-picnic/",
+      "showtimes": [
+        {
+          "time": "1:10 PM",
+          "link": "https://my.filmforum.org/no-picnic/49728"
+        },
+        {
+          "time": "8:10 PM",
+          "link": "https://my.filmforum.org/no-picnic/49730"
         }
       ]
     },
@@ -2455,6 +2775,22 @@
     },
     {
       "date": "Mon, Apr 20",
+      "title": "Bad Santa (2003)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/bad-santa/",
+      "showtimes": [
+        {
+          "time": "2:30 PM",
+          "link": "https://my.filmforum.org/bad-santa/49714"
+        },
+        {
+          "time": "8:00 PM",
+          "link": "https://my.filmforum.org/bad-santa/49715"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Apr 20",
       "title": "Burn After Reading (2008)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/burn-after-reading/",
@@ -2479,6 +2815,18 @@
     },
     {
       "date": "Mon, Apr 20",
+      "title": "Louie Bluie (1985)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/louie-bluie/",
+      "showtimes": [
+        {
+          "time": "4:30 PM",
+          "link": "https://my.filmforum.org/louie-bluie/49704"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Apr 20",
       "title": "Michael Clayton (2007)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/michael-clayton/",
@@ -2486,6 +2834,22 @@
         {
           "time": "7:00 PM",
           "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-2446/seats"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Apr 20",
+      "title": "No Picnic (2006)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/no-picnic/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/no-picnic/49722"
+        },
+        {
+          "time": "6:00 PM",
+          "link": "https://my.filmforum.org/no-picnic/49731"
         }
       ]
     },
@@ -2607,6 +2971,18 @@
     },
     {
       "date": "Tue, Apr 21",
+      "title": "Art School Confidential (2006)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/art-school-confidential/",
+      "showtimes": [
+        {
+          "time": "2:50 PM",
+          "link": "https://my.filmforum.org/art-school-confidential/49717"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Apr 21",
       "title": "Casablanca - 35MM | Jack Harlow Selects (1943)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/film/casablanca/",
@@ -2643,6 +3019,18 @@
     },
     {
       "date": "Tue, Apr 21",
+      "title": "Louie Bluie (1985)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/louie-bluie/",
+      "showtimes": [
+        {
+          "time": "5:20 PM",
+          "link": "https://my.filmforum.org/louie-bluie/49707"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Apr 21",
       "title": "Michael Clayton (2007)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/michael-clayton/",
@@ -2650,6 +3038,22 @@
         {
           "time": "3:30 PM",
           "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-2449/seats"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Apr 21",
+      "title": "No Picnic (2006)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/no-picnic/",
+      "showtimes": [
+        {
+          "time": "12:50 PM",
+          "link": "https://my.filmforum.org/no-picnic/49723"
+        },
+        {
+          "time": "9:20 PM",
+          "link": "https://my.filmforum.org/no-picnic/49732"
         }
       ]
     },
@@ -2714,6 +3118,58 @@
         {
           "time": "12:30 PM",
           "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-2448/seats"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Apr 21",
+      "title": "The Shop Around The Corner (1940)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-shop-around-the-corner/",
+      "showtimes": [
+        {
+          "time": "7:15 PM",
+          "link": "https://my.filmforum.org/the-shop-around-the-corner/49736"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Apr 22",
+      "title": "Art School Confidential (2006)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/art-school-confidential/",
+      "showtimes": [
+        {
+          "time": "8:00 PM",
+          "link": "https://my.filmforum.org/art-school-confidential/49718"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Apr 22",
+      "title": "Ghost World (2001)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/ghost-world/",
+      "showtimes": [
+        {
+          "time": "3:00 PM",
+          "link": "https://my.filmforum.org/ghost-world/49709"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Apr 22",
+      "title": "No Picnic (2006)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/no-picnic/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://my.filmforum.org/no-picnic/49724"
+        },
+        {
+          "time": "6:00 PM",
+          "link": "https://my.filmforum.org/no-picnic/49733"
         }
       ]
     },
@@ -2795,6 +3251,18 @@
     },
     {
       "date": "Thu, Apr 23",
+      "title": "Crumb (1995)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/crumb/",
+      "showtimes": [
+        {
+          "time": "8:40 PM",
+          "link": "https://my.filmforum.org/crumb/49719"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Apr 23",
       "title": "Fortress (1992)",
       "theater": "Nitehawk WB",
       "letterboxdURL": "https://letterboxd.com/film/fortress-1992/",
@@ -2807,6 +3275,18 @@
     },
     {
       "date": "Thu, Apr 23",
+      "title": "Ghost World (2001)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/ghost-world/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/ghost-world/49710"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Apr 23",
       "title": "Les Hautes Solitudes (1974)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/les-hautes-solitudes/",
@@ -2814,6 +3294,34 @@
         {
           "time": "9:00 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=04&year=2026#showing-61065"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Apr 23",
+      "title": "Louie Bluie (1985)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/louie-bluie/",
+      "showtimes": [
+        {
+          "time": "3:00 PM",
+          "link": "https://my.filmforum.org/louie-bluie/49705"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Apr 23",
+      "title": "No Picnic (2006)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/no-picnic/",
+      "showtimes": [
+        {
+          "time": "4:30 PM",
+          "link": "https://my.filmforum.org/no-picnic/49725"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://my.filmforum.org/no-picnic/49734"
         }
       ]
     },
@@ -2870,6 +3378,30 @@
         {
           "time": "9:30 PM",
           "link": "https://commerce.bam.org/production/54064"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Apr 24",
+      "title": "Bernstein'S Wall (2021)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/bernsteins-wall/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49442"
+        },
+        {
+          "time": "2:30 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49449"
+        },
+        {
+          "time": "4:45 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49454"
+        },
+        {
+          "time": "7:00 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49459"
         }
       ]
     },
@@ -3018,6 +3550,30 @@
       ]
     },
     {
+      "date": "Fri, Apr 24",
+      "title": "The Seduction Of Mimi (1972)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-seduction-of-mimi/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/the-seduction-of-mimi/49744"
+        },
+        {
+          "time": "3:00 PM",
+          "link": "https://my.filmforum.org/the-seduction-of-mimi/49745"
+        },
+        {
+          "time": "5:30 PM",
+          "link": "https://my.filmforum.org/the-seduction-of-mimi/49756"
+        },
+        {
+          "time": "7:55 PM",
+          "link": "https://my.filmforum.org/the-seduction-of-mimi/49767"
+        }
+      ]
+    },
+    {
       "date": "Sat, Apr 25",
       "title": "9 to 5 (1980)",
       "theater": "BAM",
@@ -3038,6 +3594,30 @@
         {
           "time": "6:15 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=04&year=2026#showing-61077"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Apr 25",
+      "title": "Bernstein'S Wall (2021)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/bernsteins-wall/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49443"
+        },
+        {
+          "time": "2:30 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49471"
+        },
+        {
+          "time": "4:45 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49472"
+        },
+        {
+          "time": "7:40 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49460"
         }
       ]
     },
@@ -3163,6 +3743,18 @@
     },
     {
       "date": "Sat, Apr 25",
+      "title": "Our Land (1966)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/our-land/",
+      "showtimes": [
+        {
+          "time": "7:30 PM",
+          "link": "https://my.filmforum.org/our-land/49406"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Apr 25",
       "title": "Partner (2011)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/partner/",
@@ -3283,6 +3875,30 @@
     },
     {
       "date": "Sat, Apr 25",
+      "title": "The Seduction Of Mimi (1972)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-seduction-of-mimi/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/the-seduction-of-mimi/49746"
+        },
+        {
+          "time": "3:00 PM",
+          "link": "https://my.filmforum.org/the-seduction-of-mimi/49766"
+        },
+        {
+          "time": "5:30 PM",
+          "link": "https://my.filmforum.org/the-seduction-of-mimi/49757"
+        },
+        {
+          "time": "7:55 PM",
+          "link": "https://my.filmforum.org/the-seduction-of-mimi/49768"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Apr 25",
       "title": "Throw Down (2004)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/throw-down/",
@@ -3314,6 +3930,34 @@
         {
           "time": "11:00 AM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=29652"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Apr 26",
+      "title": "Bernstein'S Wall (2021)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/bernsteins-wall/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49444"
+        },
+        {
+          "time": "2:30 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49473"
+        },
+        {
+          "time": "4:45 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49474"
+        },
+        {
+          "time": "7:00 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49461"
+        },
+        {
+          "time": "9:10 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49466"
         }
       ]
     },
@@ -3362,6 +4006,18 @@
         {
           "time": "4:15 PM",
           "link": "https://commerce.bam.org/production/54079"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Apr 26",
+      "title": "Crooklyn (1994)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/crooklyn/",
+      "showtimes": [
+        {
+          "time": "11:00 AM",
+          "link": "https://my.filmforum.org/crooklyn-ffjr/49541"
         }
       ]
     },
@@ -3523,6 +4179,38 @@
     },
     {
       "date": "Sun, Apr 26",
+      "title": "The Seduction Of Mimi (1972)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-seduction-of-mimi/",
+      "showtimes": [
+        {
+          "time": "3:40 PM",
+          "link": "https://my.filmforum.org/the-seduction-of-mimi/49763"
+        },
+        {
+          "time": "6:10 PM",
+          "link": "https://my.filmforum.org/the-seduction-of-mimi/49764"
+        },
+        {
+          "time": "8:30 PM",
+          "link": "https://my.filmforum.org/the-seduction-of-mimi/49765"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Apr 26",
+      "title": "The Shop Around The Corner (1940)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-shop-around-the-corner/",
+      "showtimes": [
+        {
+          "time": "1:30 PM",
+          "link": "https://my.filmforum.org/the-shop-around-the-corner/49737"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Apr 26",
       "title": "Throw Down (2004)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/throw-down/",
@@ -3542,6 +4230,34 @@
         {
           "time": "9:30 PM",
           "link": "https://commerce.bam.org/production/54073"
+        }
+      ]
+    },
+    {
+      "date": "Mon, Apr 27",
+      "title": "Bernstein'S Wall (2021)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/bernsteins-wall/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49445"
+        },
+        {
+          "time": "2:30 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49450"
+        },
+        {
+          "time": "4:45 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49455"
+        },
+        {
+          "time": "7:00 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49462"
+        },
+        {
+          "time": "9:10 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49467"
         }
       ]
     },
@@ -3606,6 +4322,30 @@
       ]
     },
     {
+      "date": "Mon, Apr 27",
+      "title": "The Seduction Of Mimi (1972)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-seduction-of-mimi/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/the-seduction-of-mimi/49748"
+        },
+        {
+          "time": "3:00 PM",
+          "link": "https://my.filmforum.org/the-seduction-of-mimi/49752"
+        },
+        {
+          "time": "5:30 PM",
+          "link": "https://my.filmforum.org/the-seduction-of-mimi/49759"
+        },
+        {
+          "time": "7:55 PM",
+          "link": "https://my.filmforum.org/the-seduction-of-mimi/49769"
+        }
+      ]
+    },
+    {
       "date": "Tue, Apr 28",
       "title": "Barbarella (1968)",
       "theater": "BAM",
@@ -3614,6 +4354,34 @@
         {
           "time": "7:00 PM",
           "link": "https://commerce.bam.org/production/54064"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Apr 28",
+      "title": "Bernstein'S Wall (2021)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/bernsteins-wall/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49446"
+        },
+        {
+          "time": "2:30 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49451"
+        },
+        {
+          "time": "4:45 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49456"
+        },
+        {
+          "time": "7:00 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49463"
+        },
+        {
+          "time": "9:10 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49468"
         }
       ]
     },
@@ -3679,6 +4447,42 @@
     },
     {
       "date": "Tue, Apr 28",
+      "title": "One Hour With You (1932)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/one-hour-with-you/",
+      "showtimes": [
+        {
+          "time": "2:40 PM",
+          "link": "https://my.filmforum.org/one-hour-with-you-lubitsch/49739"
+        },
+        {
+          "time": "6:50 PM",
+          "link": "https://my.filmforum.org/one-hour-with-you-lubitsch/49738"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Apr 28",
+      "title": "The Seduction Of Mimi (1972)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-seduction-of-mimi/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://my.filmforum.org/the-seduction-of-mimi/49749"
+        },
+        {
+          "time": "4:30 PM",
+          "link": "https://my.filmforum.org/the-seduction-of-mimi/49753"
+        },
+        {
+          "time": "8:40 PM",
+          "link": "https://my.filmforum.org/the-seduction-of-mimi/49760"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Apr 28",
       "title": "Torso (2009)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/torso-2009/",
@@ -3715,6 +4519,34 @@
     },
     {
       "date": "Wed, Apr 29",
+      "title": "Bernstein'S Wall (2021)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/bernsteins-wall/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49447"
+        },
+        {
+          "time": "2:30 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49452"
+        },
+        {
+          "time": "4:45 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49457"
+        },
+        {
+          "time": "7:00 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49464"
+        },
+        {
+          "time": "9:10 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49469"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Apr 29",
       "title": "Cobre (1982)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/search/Cobre+1982/",
@@ -3746,6 +4578,58 @@
         {
           "time": "7:00 PM",
           "link": "https://nitehawkcinema.com/williamsburg/purchase/21949233/"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Apr 29",
+      "title": "The Seduction Of Mimi (1972)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-seduction-of-mimi/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/the-seduction-of-mimi/49750"
+        },
+        {
+          "time": "3:00 PM",
+          "link": "https://my.filmforum.org/the-seduction-of-mimi/49754"
+        },
+        {
+          "time": "5:30 PM",
+          "link": "https://my.filmforum.org/the-seduction-of-mimi/49761"
+        },
+        {
+          "time": "7:55 PM",
+          "link": "https://my.filmforum.org/the-seduction-of-mimi/49770"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Apr 30",
+      "title": "Bernstein'S Wall (2021)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/bernsteins-wall/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49448"
+        },
+        {
+          "time": "2:30 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49453"
+        },
+        {
+          "time": "4:45 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49458"
+        },
+        {
+          "time": "7:00 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49465"
+        },
+        {
+          "time": "9:10 PM",
+          "link": "https://my.filmforum.org/bernsteins-wall/49470"
         }
       ]
     },
@@ -3822,6 +4706,54 @@
       ]
     },
     {
+      "date": "Thu, Apr 30",
+      "title": "The Seduction Of Mimi (1972)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-seduction-of-mimi/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/the-seduction-of-mimi/49751"
+        },
+        {
+          "time": "3:00 PM",
+          "link": "https://my.filmforum.org/the-seduction-of-mimi/49755"
+        },
+        {
+          "time": "5:30 PM",
+          "link": "https://my.filmforum.org/the-seduction-of-mimi/49762"
+        },
+        {
+          "time": "7:55 PM",
+          "link": "https://my.filmforum.org/the-seduction-of-mimi/49771"
+        }
+      ]
+    },
+    {
+      "date": "Fri, May 1",
+      "title": "Bellissima (1966)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/bellissima/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/bellissima/50032"
+        },
+        {
+          "time": "3:00 PM",
+          "link": "https://my.filmforum.org/bellissima/50033"
+        },
+        {
+          "time": "5:30 PM",
+          "link": "https://my.filmforum.org/bellissima/50034"
+        },
+        {
+          "time": "8:00 PM",
+          "link": "https://my.filmforum.org/bellissima/50035"
+        }
+      ]
+    },
+    {
       "date": "Fri, May 1",
       "title": "Gaza Fights for Freedom (2019)",
       "theater": "BAM",
@@ -3830,6 +4762,30 @@
         {
           "time": "7:30 PM",
           "link": "https://commerce.bam.org/production/54086"
+        }
+      ]
+    },
+    {
+      "date": "Fri, May 1",
+      "title": "Our Land (1966)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/our-land/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://my.filmforum.org/our-land/49837"
+        },
+        {
+          "time": "2:50 PM",
+          "link": "https://my.filmforum.org/our-land/49836"
+        },
+        {
+          "time": "5:30 PM",
+          "link": "https://my.filmforum.org/our-land/49820"
+        },
+        {
+          "time": "8:10 PM",
+          "link": "https://my.filmforum.org/our-land/49827"
         }
       ]
     },
@@ -3859,6 +4815,30 @@
     },
     {
       "date": "Sat, May 2",
+      "title": "Bellissima (1966)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/bellissima/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/bellissima/50036"
+        },
+        {
+          "time": "3:00 PM",
+          "link": "https://my.filmforum.org/bellissima/50058"
+        },
+        {
+          "time": "5:30 PM",
+          "link": "https://my.filmforum.org/bellissima/50046"
+        },
+        {
+          "time": "8:00 PM",
+          "link": "https://my.filmforum.org/bellissima/50052"
+        }
+      ]
+    },
+    {
+      "date": "Sat, May 2",
       "title": "Get Over It (2001)",
       "theater": "Nitehawk WB",
       "letterboxdURL": "https://letterboxd.com/film/get-over-it/",
@@ -3871,6 +4851,30 @@
     },
     {
       "date": "Sat, May 2",
+      "title": "Our Land (1966)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/our-land/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://my.filmforum.org/our-land/49838"
+        },
+        {
+          "time": "2:50 PM",
+          "link": "https://my.filmforum.org/our-land/49834"
+        },
+        {
+          "time": "5:30 PM",
+          "link": "https://my.filmforum.org/our-land/49821"
+        },
+        {
+          "time": "8:10 PM",
+          "link": "https://my.filmforum.org/our-land/49828"
+        }
+      ]
+    },
+    {
+      "date": "Sat, May 2",
       "title": "Star Wars: Episode IV - A New Hope (1977)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/search/Star%20Wars%3A%20Episode%20IV%20-%20A%20New%20Hope+1977/",
@@ -3878,6 +4882,30 @@
         {
           "time": "11:00 AM",
           "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-2305/seats"
+        }
+      ]
+    },
+    {
+      "date": "Sun, May 3",
+      "title": "Bellissima (1966)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/bellissima/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://my.filmforum.org/bellissima/50038"
+        },
+        {
+          "time": "3:30 PM",
+          "link": "https://my.filmforum.org/bellissima/50057"
+        },
+        {
+          "time": "6:00 PM",
+          "link": "https://my.filmforum.org/bellissima/50047"
+        },
+        {
+          "time": "8:20 PM",
+          "link": "https://my.filmforum.org/bellissima/50053"
         }
       ]
     },
@@ -3919,6 +4947,30 @@
     },
     {
       "date": "Sun, May 3",
+      "title": "Our Land (1966)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/our-land/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://my.filmforum.org/our-land/49839"
+        },
+        {
+          "time": "2:50 PM",
+          "link": "https://my.filmforum.org/our-land/49835"
+        },
+        {
+          "time": "5:30 PM",
+          "link": "https://my.filmforum.org/our-land/49822"
+        },
+        {
+          "time": "8:10 PM",
+          "link": "https://my.filmforum.org/our-land/49829"
+        }
+      ]
+    },
+    {
+      "date": "Sun, May 3",
       "title": "Petro (2021)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/petro/",
@@ -3926,6 +4978,18 @@
         {
           "time": "8:00 PM",
           "link": "https://commerce.bam.org/production/54101"
+        }
+      ]
+    },
+    {
+      "date": "Sun, May 3",
+      "title": "Teenage Mutant Ninja Turtles (2014)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/teenage-mutant-ninja-turtles-2014/",
+      "showtimes": [
+        {
+          "time": "11:00 AM",
+          "link": "https://my.filmforum.org/tmnt-ffjr/49543"
         }
       ]
     },
@@ -3943,6 +5007,30 @@
     },
     {
       "date": "Mon, May 4",
+      "title": "Bellissima (1966)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/bellissima/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/bellissima/50039"
+        },
+        {
+          "time": "3:00 PM",
+          "link": "https://my.filmforum.org/bellissima/50043"
+        },
+        {
+          "time": "5:30 PM",
+          "link": "https://my.filmforum.org/bellissima/50048"
+        },
+        {
+          "time": "8:00 PM",
+          "link": "https://my.filmforum.org/bellissima/50054"
+        }
+      ]
+    },
+    {
+      "date": "Mon, May 4",
       "title": "For Sama (2022)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/for-sama/",
@@ -3950,6 +5038,30 @@
         {
           "time": "5:00 PM",
           "link": "https://commerce.bam.org/production/54437"
+        }
+      ]
+    },
+    {
+      "date": "Mon, May 4",
+      "title": "Our Land (1966)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/our-land/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://my.filmforum.org/our-land/49840"
+        },
+        {
+          "time": "2:50 PM",
+          "link": "https://my.filmforum.org/our-land/49844"
+        },
+        {
+          "time": "5:30 PM",
+          "link": "https://my.filmforum.org/our-land/49823"
+        },
+        {
+          "time": "8:10 PM",
+          "link": "https://my.filmforum.org/our-land/49830"
         }
       ]
     },
@@ -3967,6 +5079,22 @@
     },
     {
       "date": "Tue, May 5",
+      "title": "Bellissima (1966)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/bellissima/",
+      "showtimes": [
+        {
+          "time": "2:50 PM",
+          "link": "https://my.filmforum.org/bellissima/50040"
+        },
+        {
+          "time": "8:00 PM",
+          "link": "https://my.filmforum.org/bellissima/50049"
+        }
+      ]
+    },
+    {
+      "date": "Tue, May 5",
       "title": "For Sama (2022)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/for-sama/",
@@ -3979,6 +5107,30 @@
     },
     {
       "date": "Tue, May 5",
+      "title": "Our Land (1966)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/our-land/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://my.filmforum.org/our-land/49841"
+        },
+        {
+          "time": "2:50 PM",
+          "link": "https://my.filmforum.org/our-land/49845"
+        },
+        {
+          "time": "5:30 PM",
+          "link": "https://my.filmforum.org/our-land/49824"
+        },
+        {
+          "time": "8:10 PM",
+          "link": "https://my.filmforum.org/our-land/49831"
+        }
+      ]
+    },
+    {
+      "date": "Tue, May 5",
       "title": "The Iron Giant (1999)",
       "theater": "Paris",
       "letterboxdURL": "https://letterboxd.com/film/the-iron-giant/",
@@ -3986,6 +5138,46 @@
         {
           "time": "7:00 PM",
           "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-2308/seats"
+        }
+      ]
+    },
+    {
+      "date": "Tue, May 5",
+      "title": "The Smiling Lieutenant (1931)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/the-smiling-lieutenant/",
+      "showtimes": [
+        {
+          "time": "12:50 PM",
+          "link": "https://my.filmforum.org/the-smiling-lieutenant-lubitsch/50019"
+        },
+        {
+          "time": "6:00 PM",
+          "link": "https://my.filmforum.org/the-smiling-lieutenant-lubitsch/50020"
+        }
+      ]
+    },
+    {
+      "date": "Wed, May 6",
+      "title": "Bellissima (1966)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/bellissima/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/bellissima/50041"
+        },
+        {
+          "time": "3:00 PM",
+          "link": "https://my.filmforum.org/bellissima/50044"
+        },
+        {
+          "time": "5:30 PM",
+          "link": "https://my.filmforum.org/bellissima/50050"
+        },
+        {
+          "time": "8:00 PM",
+          "link": "https://my.filmforum.org/bellissima/50055"
         }
       ]
     },
@@ -4003,6 +5195,30 @@
     },
     {
       "date": "Wed, May 6",
+      "title": "Our Land (1966)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/our-land/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://my.filmforum.org/our-land/49842"
+        },
+        {
+          "time": "2:50 PM",
+          "link": "https://my.filmforum.org/our-land/49846"
+        },
+        {
+          "time": "5:30 PM",
+          "link": "https://my.filmforum.org/our-land/49825"
+        },
+        {
+          "time": "8:10 PM",
+          "link": "https://my.filmforum.org/our-land/49832"
+        }
+      ]
+    },
+    {
+      "date": "Wed, May 6",
       "title": "Petro (2021)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/petro/",
@@ -4010,6 +5226,54 @@
         {
           "time": "5:00 PM",
           "link": "https://commerce.bam.org/production/54101"
+        }
+      ]
+    },
+    {
+      "date": "Thu, May 7",
+      "title": "Bellissima (1966)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/bellissima/",
+      "showtimes": [
+        {
+          "time": "12:30 PM",
+          "link": "https://my.filmforum.org/bellissima/50042"
+        },
+        {
+          "time": "3:00 PM",
+          "link": "https://my.filmforum.org/bellissima/50045"
+        },
+        {
+          "time": "5:30 PM",
+          "link": "https://my.filmforum.org/bellissima/50051"
+        },
+        {
+          "time": "8:00 PM",
+          "link": "https://my.filmforum.org/bellissima/50056"
+        }
+      ]
+    },
+    {
+      "date": "Thu, May 7",
+      "title": "Our Land (1966)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/our-land/",
+      "showtimes": [
+        {
+          "time": "12:15 PM",
+          "link": "https://my.filmforum.org/our-land/49843"
+        },
+        {
+          "time": "2:50 PM",
+          "link": "https://my.filmforum.org/our-land/49847"
+        },
+        {
+          "time": "5:30 PM",
+          "link": "https://my.filmforum.org/our-land/49826"
+        },
+        {
+          "time": "8:10 PM",
+          "link": "https://my.filmforum.org/our-land/49833"
         }
       ]
     },
