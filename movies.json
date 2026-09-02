@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T10:10:00.255832",
+  "lastUpdated": "2026-09-02T12:10:39.483131",
   "movies": [
     {
       "date": "Wed, Sep 2",
@@ -8,11 +8,11 @@
       "letterboxdURL": "https://letterboxd.com/film/billy-liar/",
       "showtimes": [
         {
-          "time": "12:20",
+          "time": "12:20 PM",
           "link": "https://filmforum.org/film/billy-liar"
         },
         {
-          "time": "5:45",
+          "time": "5:45 PM",
           "link": "https://filmforum.org/film/billy-liar"
         }
       ]
@@ -24,7 +24,7 @@
       "letterboxdURL": "https://letterboxd.com/film/center-stage-1991/",
       "showtimes": [
         {
-          "time": "2:35",
+          "time": "2:35 PM",
           "link": "https://filmforum.org/film/center-stage"
         }
       ]
@@ -36,27 +36,27 @@
       "letterboxdURL": "https://letterboxd.com/film/filipinana/",
       "showtimes": [
         {
-          "time": "12:20",
+          "time": "12:20 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "2:30",
+          "time": "2:30 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "4:45",
+          "time": "4:45 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "7:00",
+          "time": "7:00 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "8:00",
+          "time": "8:00 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "9:10",
+          "time": "9:10 PM",
           "link": "https://filmforum.org/film/filipinana"
         }
       ]
@@ -106,18 +106,6 @@
         {
           "time": "10:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30874"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Sep 2",
-      "title": "La Haine (1995)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/la-haine/",
-      "showtimes": [
-        {
-          "time": "8:00 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30887"
         }
       ]
     },
@@ -181,7 +169,7 @@
       "letterboxdURL": "https://letterboxd.com/film/rumble-fish/",
       "showtimes": [
         {
-          "time": "2:35",
+          "time": "2:35 PM",
           "link": "https://filmforum.org/film/rumble-fish-coppola"
         }
       ]
@@ -246,7 +234,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-cotton-club-encore/",
       "showtimes": [
         {
-          "time": "4:40",
+          "time": "4:40 PM",
           "link": "https://filmforum.org/film/the-cotton-club-coppola"
         }
       ]
@@ -258,7 +246,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-godfather-part-ii/",
       "showtimes": [
         {
-          "time": "7:30",
+          "time": "7:30 PM",
           "link": "https://filmforum.org/film/the-godfather-part-ii-coppola"
         }
       ]
@@ -315,7 +303,7 @@
       "letterboxdURL": "https://letterboxd.com/film/tucker-the-man-and-his-dream/",
       "showtimes": [
         {
-          "time": "12:15",
+          "time": "12:15 PM",
           "link": "https://filmforum.org/film/tucker-the-man-and-his-dream-coppola"
         }
       ]
@@ -363,7 +351,7 @@
       "letterboxdURL": "https://letterboxd.com/film/apocalypse-now-final-cut/",
       "showtimes": [
         {
-          "time": "7:50",
+          "time": "7:50 PM",
           "link": "https://filmforum.org/film/apocalypse-now-final-cut-coppola"
         }
       ]
@@ -391,11 +379,11 @@
           "link": "https://filmforum.org/film/billy-liar"
         },
         {
-          "time": "12:20",
+          "time": "12:20 PM",
           "link": "https://filmforum.org/film/billy-liar"
         },
         {
-          "time": "5:45",
+          "time": "5:45 PM",
           "link": "https://filmforum.org/film/billy-liar"
         }
       ]
@@ -423,7 +411,7 @@
           "link": "https://filmforum.org/film/center-stage"
         },
         {
-          "time": "2:35",
+          "time": "2:35 PM",
           "link": "https://filmforum.org/film/center-stage"
         }
       ]
@@ -521,27 +509,27 @@
       "letterboxdURL": "https://letterboxd.com/film/filipinana/",
       "showtimes": [
         {
-          "time": "12:20",
+          "time": "12:20 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "2:30",
+          "time": "2:30 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "4:45",
+          "time": "4:45 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "7:00",
+          "time": "7:00 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "8:00",
+          "time": "8:00 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "9:10",
+          "time": "9:10 PM",
           "link": "https://filmforum.org/film/filipinana"
         }
       ]
@@ -577,7 +565,7 @@
       "letterboxdURL": "https://letterboxd.com/film/hearts-of-darkness-a-filmmakers-apocalypse/",
       "showtimes": [
         {
-          "time": "5:40",
+          "time": "5:40 PM",
           "link": "https://filmforum.org/film/hearts-of-darkness-a-filmmakers-apocalypse-coppola"
         }
       ]
@@ -601,7 +589,7 @@
       "letterboxdURL": "https://letterboxd.com/film/mario-puzos-the-godfather-coda-the-death-of-michael-corleone/",
       "showtimes": [
         {
-          "time": "12:20",
+          "time": "12:20 PM",
           "link": "https://filmforum.org/film/the-godfather-coda-coppola"
         }
       ]
@@ -625,7 +613,7 @@
       "letterboxdURL": "https://letterboxd.com/search/One%20From%20The%20Heart%3A%20Reprise+1982/",
       "showtimes": [
         {
-          "time": "3:30",
+          "time": "3:30 PM",
           "link": "https://filmforum.org/film/one-from-the-heart-reprise-coppola"
         }
       ]
@@ -903,27 +891,27 @@
       "letterboxdURL": "https://letterboxd.com/film/filipinana/",
       "showtimes": [
         {
-          "time": "12:20",
+          "time": "12:20 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "2:30",
+          "time": "2:30 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "4:45",
+          "time": "4:45 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "7:00",
+          "time": "7:00 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "8:10",
+          "time": "8:10 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "9:10",
+          "time": "9:10 PM",
           "link": "https://filmforum.org/film/filipinana"
         }
       ]
@@ -1112,7 +1100,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-conversation/",
       "showtimes": [
         {
-          "time": "1:00",
+          "time": "1:00 PM",
           "link": "https://filmforum.org/film/the-conversation-coppola"
         }
       ]
@@ -1136,7 +1124,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-outsiders-the-complete-novel/",
       "showtimes": [
         {
-          "time": "3:30",
+          "time": "3:30 PM",
           "link": "https://filmforum.org/film/the-outsiders-coppola"
         }
       ]
@@ -1148,7 +1136,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-rain-people/",
       "showtimes": [
         {
-          "time": "6:00",
+          "time": "6:00 PM",
           "link": "https://filmforum.org/film/the-rain-people-coppola"
         }
       ]
@@ -1244,7 +1232,7 @@
       "letterboxdURL": "https://letterboxd.com/film/apocalypse-now-final-cut/",
       "showtimes": [
         {
-          "time": "4:50",
+          "time": "4:50 PM",
           "link": "https://filmforum.org/film/apocalypse-now-final-cut-coppola"
         }
       ]
@@ -1280,7 +1268,7 @@
       "letterboxdURL": "https://letterboxd.com/film/bram-stokers-dracula/",
       "showtimes": [
         {
-          "time": "8:30",
+          "time": "8:30 PM",
           "link": "https://filmforum.org/film/bram-stokers-dracula-coppola"
         }
       ]
@@ -1316,27 +1304,27 @@
       "letterboxdURL": "https://letterboxd.com/film/filipinana/",
       "showtimes": [
         {
-          "time": "12:20",
+          "time": "12:20 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "2:30",
+          "time": "2:30 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "4:45",
+          "time": "4:45 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "7:00",
+          "time": "7:00 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "8:10",
+          "time": "8:10 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "9:10",
+          "time": "9:10 PM",
           "link": "https://filmforum.org/film/filipinana"
         }
       ]
@@ -1360,7 +1348,7 @@
       "letterboxdURL": "https://letterboxd.com/film/gardens-of-stone/",
       "showtimes": [
         {
-          "time": "12:20",
+          "time": "12:20 PM",
           "link": "https://filmforum.org/film/gardens-of-stone-coppola"
         }
       ]
@@ -1372,7 +1360,7 @@
       "letterboxdURL": "https://letterboxd.com/film/hearts-of-darkness-a-filmmakers-apocalypse/",
       "showtimes": [
         {
-          "time": "2:40",
+          "time": "2:40 PM",
           "link": "https://filmforum.org/film/hearts-of-darkness-a-filmmakers-apocalypse-coppola"
         }
       ]
@@ -1789,27 +1777,27 @@
       "letterboxdURL": "https://letterboxd.com/film/filipinana/",
       "showtimes": [
         {
-          "time": "12:20",
+          "time": "12:20 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "2:30",
+          "time": "2:30 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "4:45",
+          "time": "4:45 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "7:00",
+          "time": "7:00 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "8:10",
+          "time": "8:10 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "9:10",
+          "time": "9:10 PM",
           "link": "https://filmforum.org/film/filipinana"
         }
       ]
@@ -1914,7 +1902,7 @@
       "letterboxdURL": "https://letterboxd.com/film/peggy-sue-got-married/",
       "showtimes": [
         {
-          "time": "3:10",
+          "time": "3:10 PM",
           "link": "https://filmforum.org/film/peggy-sue-got-married-coppola"
         }
       ]
@@ -1938,7 +1926,7 @@
       "letterboxdURL": "https://letterboxd.com/film/rumble-fish/",
       "showtimes": [
         {
-          "time": "8:20",
+          "time": "8:20 PM",
           "link": "https://filmforum.org/film/rumble-fish-coppola"
         }
       ]
@@ -2034,7 +2022,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-rainmaker-1997/",
       "showtimes": [
         {
-          "time": "5:30",
+          "time": "5:30 PM",
           "link": "https://filmforum.org/film/the-rainmaker-coppola"
         }
       ]
@@ -2154,7 +2142,7 @@
       "letterboxdURL": "https://letterboxd.com/film/youth-without-youth/",
       "showtimes": [
         {
-          "time": "12:30",
+          "time": "12:30 PM",
           "link": "https://filmforum.org/film/youth-without-youth-coppola"
         }
       ]
@@ -2262,27 +2250,27 @@
       "letterboxdURL": "https://letterboxd.com/film/filipinana/",
       "showtimes": [
         {
-          "time": "12:20",
+          "time": "12:20 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "2:30",
+          "time": "2:30 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "4:45",
+          "time": "4:45 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "7:00",
+          "time": "7:00 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "8:10",
+          "time": "8:10 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "9:10",
+          "time": "9:10 PM",
           "link": "https://filmforum.org/film/filipinana"
         }
       ]
@@ -2435,7 +2423,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-conversation/",
       "showtimes": [
         {
-          "time": "1:00",
+          "time": "1:00 PM",
           "link": "https://filmforum.org/film/the-conversation-coppola"
         }
       ]
@@ -2471,7 +2459,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-godfather/",
       "showtimes": [
         {
-          "time": "3:30",
+          "time": "3:30 PM",
           "link": "https://filmforum.org/film/the-godfather-coppola"
         }
       ]
@@ -2483,7 +2471,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-godfather-part-ii/",
       "showtimes": [
         {
-          "time": "7:00",
+          "time": "7:00 PM",
           "link": "https://filmforum.org/film/the-godfather-part-ii-coppola"
         }
       ]
@@ -2551,7 +2539,7 @@
       "letterboxdURL": "https://letterboxd.com/film/btwixt-now-and-sunrise/",
       "showtimes": [
         {
-          "time": "5:10",
+          "time": "5:10 PM",
           "link": "https://filmforum.org/film/btwixt-now-and-sunrise-coppola"
         }
       ]
@@ -2563,7 +2551,7 @@
       "letterboxdURL": "https://letterboxd.com/film/east-side-west-side-1927/",
       "showtimes": [
         {
-          "time": "5:40",
+          "time": "5:40 PM",
           "link": "https://filmforum.org/film/east-side-west-side-nyc-in-transit"
         }
       ]
@@ -2575,23 +2563,23 @@
       "letterboxdURL": "https://letterboxd.com/film/filipinana/",
       "showtimes": [
         {
-          "time": "12:20",
+          "time": "12:20 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "2:30",
+          "time": "2:30 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "4:45",
+          "time": "4:45 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "7:00",
+          "time": "7:00 PM",
           "link": "https://filmforum.org/film/filipinana"
         },
         {
-          "time": "9:10",
+          "time": "9:10 PM",
           "link": "https://filmforum.org/film/filipinana"
         }
       ]
@@ -2708,7 +2696,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-cotton-club-encore/",
       "showtimes": [
         {
-          "time": "7:10",
+          "time": "7:10 PM",
           "link": "https://filmforum.org/film/the-cotton-club-coppola"
         }
       ]
@@ -2752,7 +2740,7 @@
       "letterboxdURL": "https://letterboxd.com/film/tucker-the-man-and-his-dream/",
       "showtimes": [
         {
-          "time": "12:40",
+          "time": "12:40 PM",
           "link": "https://filmforum.org/film/tucker-the-man-and-his-dream-coppola"
         }
       ]
@@ -2764,7 +2752,7 @@
       "letterboxdURL": "https://letterboxd.com/film/youre-a-big-boy-now/",
       "showtimes": [
         {
-          "time": "3:00",
+          "time": "3:00 PM",
           "link": "https://filmforum.org/film/youre-a-big-boy-now-coppola"
         }
       ]
@@ -2877,7 +2865,7 @@
       "letterboxdURL": "https://letterboxd.com/search/One%20From%20The%20Heart%3A%20Reprise+1982/",
       "showtimes": [
         {
-          "time": "6:10",
+          "time": "6:10 PM",
           "link": "https://my.filmforum.org/events/one-from-the-heart-reprise"
         }
       ]
@@ -2925,20 +2913,8 @@
       "letterboxdURL": "https://letterboxd.com/film/tetro/",
       "showtimes": [
         {
-          "time": "1:00",
+          "time": "1:00 PM",
           "link": "https://my.filmforum.org/events/tetro"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Sep 9",
-      "title": "The Night is Short, Walk on Girl (2019)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/the-night-is-short-walk-on-girl/",
-      "showtimes": [
-        {
-          "time": "8:00 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30895"
         }
       ]
     },
@@ -2949,7 +2925,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-rain-people/",
       "showtimes": [
         {
-          "time": "3:40",
+          "time": "3:40 PM",
           "link": "https://my.filmforum.org/events/the-rain-people"
         }
       ]
@@ -3186,7 +3162,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-conversation/",
       "showtimes": [
         {
-          "time": "2:00",
+          "time": "2:00 PM",
           "link": "https://my.filmforum.org/events/the-conversation-coppola"
         }
       ]
@@ -3222,7 +3198,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-godfather-part-ii/",
       "showtimes": [
         {
-          "time": "4:20",
+          "time": "4:20 PM",
           "link": "https://my.filmforum.org/events/the-godfather-ii"
         }
       ]
@@ -4102,7 +4078,7 @@
       "letterboxdURL": "https://letterboxd.com/film/on-the-town/",
       "showtimes": [
         {
-          "time": "11:00",
+          "time": "11:00 PM",
           "link": "https://my.filmforum.org/on-the-town-ffjr"
         }
       ]
@@ -4542,7 +4518,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-incident-2014/",
       "showtimes": [
         {
-          "time": "7:30",
+          "time": "7:30 PM",
           "link": "https://my.filmforum.org/the-incident-transit"
         }
       ]
@@ -5342,7 +5318,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-cameraman/",
       "showtimes": [
         {
-          "time": "11:00",
+          "time": "11:00 PM",
           "link": "https://my.filmforum.org/the-cameraman-ffjr"
         }
       ]
@@ -5402,7 +5378,7 @@
       "letterboxdURL": "https://letterboxd.com/film/wild-style/",
       "showtimes": [
         {
-          "time": "8:10",
+          "time": "8:10 PM",
           "link": "https://my.filmforum.org/wild-style-transit"
         }
       ]
@@ -5528,6 +5504,18 @@
       ]
     },
     {
+      "date": "Mon, Sep 21",
+      "title": "Wayne\u2019s World 2 (1993)",
+      "theater": "Nitehawk WB",
+      "letterboxdURL": "https://letterboxd.com/film/waynes-world-2/",
+      "showtimes": [
+        {
+          "time": "9:30 PM",
+          "link": "https://nitehawkcinema.com/williamsburg/purchase/23948799/"
+        }
+      ]
+    },
+    {
       "date": "Tue, Sep 22",
       "title": "Crash - 35MM | Sex, Death, Cars! (1996)",
       "theater": "Roxy",
@@ -5588,6 +5576,18 @@
       ]
     },
     {
+      "date": "Tue, Sep 22",
+      "title": "Thiiird (2023)",
+      "theater": "Nitehawk PP",
+      "letterboxdURL": "https://letterboxd.com/film/thiiird/",
+      "showtimes": [
+        {
+          "time": "7:00 PM",
+          "link": "https://nitehawkcinema.com/prospectpark/purchase/23961057/"
+        }
+      ]
+    },
+    {
       "date": "Wed, Sep 23",
       "title": "City of Jade (2016)",
       "theater": "BAM",
@@ -5632,18 +5632,6 @@
         {
           "time": "4:30 PM",
           "link": "https://commerce.bam.org/production/57554"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Sep 23",
-      "title": "Wings of Desire + Hidden in Pieces (1987)",
-      "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/film/wings-of-desire/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/7788?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
         }
       ]
     },
@@ -6297,7 +6285,7 @@
       "letterboxdURL": "https://letterboxd.com/film/funny-face/",
       "showtimes": [
         {
-          "time": "11:00",
+          "time": "11:00 PM",
           "link": "https://my.filmforum.org/funny-face-ffjr"
         }
       ]
@@ -6875,6 +6863,18 @@
       ]
     },
     {
+      "date": "Fri, Oct 2",
+      "title": "Train to Busan (2016)",
+      "theater": "Metrograph",
+      "letterboxdURL": "https://letterboxd.com/film/train-to-busan/",
+      "showtimes": [
+        {
+          "time": "10:25 PM",
+          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30945"
+        }
+      ]
+    },
+    {
       "date": "Sat, Oct 3",
       "title": "Gone to Earth (1950)",
       "theater": "Lincoln Center",
@@ -6937,6 +6937,42 @@
         }
       ],
       "format": "16mm"
+    },
+    {
+      "date": "Sat, Oct 3",
+      "title": "Sympathy for Mr. Vengeance (2002)",
+      "theater": "Metrograph",
+      "letterboxdURL": "https://letterboxd.com/film/sympathy-for-mr-vengeance/",
+      "showtimes": [
+        {
+          "time": "4:45 PM",
+          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30946"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Oct 3",
+      "title": "The Wailing (2016)",
+      "theater": "Metrograph",
+      "letterboxdURL": "https://letterboxd.com/film/the-wailing/",
+      "showtimes": [
+        {
+          "time": "7:50 PM",
+          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30947"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Oct 3",
+      "title": "Train to Busan (2016)",
+      "theater": "Metrograph",
+      "letterboxdURL": "https://letterboxd.com/film/train-to-busan/",
+      "showtimes": [
+        {
+          "time": "10:50 PM",
+          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30948"
+        }
+      ]
     },
     {
       "date": "Sun, Oct 4",
@@ -7009,8 +7045,20 @@
       "letterboxdURL": "https://letterboxd.com/film/the-adventures-of-prince-achmed/",
       "showtimes": [
         {
-          "time": "11:00",
+          "time": "11:00 PM",
           "link": "https://my.filmforum.org/the-adventures-of-prince-achmed-ffjr"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Oct 4",
+      "title": "The Yellow Sea (2010)",
+      "theater": "Metrograph",
+      "letterboxdURL": "https://letterboxd.com/film/the-yellow-sea-2010/",
+      "showtimes": [
+        {
+          "time": "6:45 PM",
+          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30949"
         }
       ]
     },
@@ -7073,7 +7121,7 @@
       "letterboxdURL": "https://letterboxd.com/film/death-wish/",
       "showtimes": [
         {
-          "time": "6:20",
+          "time": "6:20 PM",
           "link": "https://filmforum.org/film/death-wish-nyc-in-transit"
         }
       ]
@@ -7208,6 +7256,18 @@
     },
     {
       "date": "Fri, Oct 9",
+      "title": "A Bittersweet Life (2005)",
+      "theater": "Metrograph",
+      "letterboxdURL": "https://letterboxd.com/film/a-bittersweet-life/",
+      "showtimes": [
+        {
+          "time": "9:30 PM",
+          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30950"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Oct 9",
       "title": "A Well for the Thirsty (1965)",
       "theater": "Lincoln Center",
       "letterboxdURL": "https://letterboxd.com/search/A%20Well%20for%20the%20Thirsty+1965/",
@@ -7272,6 +7332,42 @@
       "format": "16mm"
     },
     {
+      "date": "Sat, Oct 10",
+      "title": "The Foul King (2000)",
+      "theater": "Metrograph",
+      "letterboxdURL": "https://letterboxd.com/film/the-foul-king/",
+      "showtimes": [
+        {
+          "time": "8:25 PM",
+          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30951"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Oct 10",
+      "title": "The Wailing (2016)",
+      "theater": "Metrograph",
+      "letterboxdURL": "https://letterboxd.com/film/the-wailing/",
+      "showtimes": [
+        {
+          "time": "10:15 PM",
+          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30952"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Oct 11",
+      "title": "A Bittersweet Life (2005)",
+      "theater": "Metrograph",
+      "letterboxdURL": "https://letterboxd.com/film/a-bittersweet-life/",
+      "showtimes": [
+        {
+          "time": "7:20 PM",
+          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30953"
+        }
+      ]
+    },
+    {
       "date": "Sun, Oct 11",
       "title": "Goodbye South, Goodbye (1996)",
       "theater": "Lincoln Center",
@@ -7286,12 +7382,24 @@
     },
     {
       "date": "Sun, Oct 11",
+      "title": "The Foul King (2000)",
+      "theater": "Metrograph",
+      "letterboxdURL": "https://letterboxd.com/film/the-foul-king/",
+      "showtimes": [
+        {
+          "time": "9:45 PM",
+          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30954"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Oct 11",
       "title": "The Princess Bride (1987)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/the-princess-bride/",
       "showtimes": [
         {
-          "time": "11:00",
+          "time": "11:00 PM",
           "link": "https://my.filmforum.org/the-princess-bride-ffjr-26"
         }
       ]
@@ -7316,7 +7424,7 @@
       "letterboxdURL": "https://letterboxd.com/film/spy-kids/",
       "showtimes": [
         {
-          "time": "11:00",
+          "time": "11:00 PM",
           "link": "https://my.filmforum.org/spy-kids-ffjr"
         }
       ]
@@ -7340,7 +7448,7 @@
       "letterboxdURL": "https://letterboxd.com/film/corpse-bride/",
       "showtimes": [
         {
-          "time": "11:00",
+          "time": "11:00 PM",
           "link": "https://my.filmforum.org/corpse-bride-ffjr"
         }
       ]
@@ -7352,7 +7460,7 @@
       "letterboxdURL": "https://letterboxd.com/film/a-bronx-tale/",
       "showtimes": [
         {
-          "time": "5:50",
+          "time": "5:50 PM",
           "link": "https://filmforum.org/film/a-bronx-tale-nyc-in-transit"
         }
       ]
@@ -7364,7 +7472,7 @@
       "letterboxdURL": "https://letterboxd.com/film/coco-2017/",
       "showtimes": [
         {
-          "time": "11:00",
+          "time": "11:00 PM",
           "link": "https://my.filmforum.org/coco-ffjr"
         }
       ]
@@ -7388,7 +7496,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-red-balloon/",
       "showtimes": [
         {
-          "time": "11:00",
+          "time": "11:00 PM",
           "link": "https://my.filmforum.org/the-red-balloon-ffjr"
         }
       ]
@@ -7400,7 +7508,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-court-jester/",
       "showtimes": [
         {
-          "time": "11:00",
+          "time": "11:00 PM",
           "link": "https://my.filmforum.org/the-court-jester-ffjr"
         }
       ]
@@ -7424,7 +7532,7 @@
       "letterboxdURL": "https://letterboxd.com/film/little-fugitive-1953/",
       "showtimes": [
         {
-          "time": "11:00",
+          "time": "11:00 PM",
           "link": "https://my.filmforum.org/little-fugitive-ffjr"
         }
       ]
@@ -7436,7 +7544,7 @@
       "letterboxdURL": "https://letterboxd.com/film/pinocchio/",
       "showtimes": [
         {
-          "time": "11:00",
+          "time": "11:00 PM",
           "link": "https://my.filmforum.org/pinocchio-ffjr"
         }
       ]
@@ -7448,7 +7556,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-bells-of-st-marys/",
       "showtimes": [
         {
-          "time": "11:00",
+          "time": "11:00 PM",
           "link": "https://my.filmforum.org/the-bells-of-st-marys-ffjr"
         }
       ]
@@ -7773,7 +7881,7 @@
       "showtimes": [
         {
           "time": "11:35 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577722~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578305~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
