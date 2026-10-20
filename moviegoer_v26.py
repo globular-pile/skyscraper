@@ -451,15 +451,58 @@ def scrape_metrograph():
     print("🎬 Scraping Metrograph...")
     all_showtimes = []
     try:
+        html = None
+        last_response_details = "no response"
+        user_agents = (
+            'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 '
+            '(KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36',
+            'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 '
+            '(KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36',
+        )
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=True)
-            page = browser.new_page()
-            page.goto("https://metrograph.com/nyc/", wait_until="networkidle", timeout=45000)
-            soup = BeautifulSoup(page.content(), "html.parser")
-            browser.close()
+            try:
+                for attempt in range(4):
+                    page = browser.new_page(user_agent=user_agents[attempt % len(user_agents)])
+                    try:
+                        response = page.goto(
+                            "https://metrograph.com/nyc/",
+                            wait_until="domcontentloaded",
+                            timeout=45000
+                        )
+                        status = response.status if response else "unknown"
+                        title = page.title()
+                        film_card_count = page.locator("div.item.film-thumbnail").count()
+                        last_response_details = f"HTTP {status}, title={title!r}"
+                        if status == 200 and film_card_count > 0:
+                            html = page.content()
+                            break
+                        print(
+                            f"  - ⚠️ Metrograph attempt {attempt + 1}/4 returned "
+                            f"{last_response_details} with {film_card_count} film cards."
+                        )
+                    finally:
+                        page.close()
+                    if attempt < 3:
+                        time.sleep(2)
+            finally:
+                browser.close()
+
+        if html is None:
+            raise RuntimeError(
+                f"Metrograph did not return a usable listings page after 4 attempts "
+                f"({last_response_details})"
+            )
+
+        soup = BeautifulSoup(html, "html.parser")
 
         # New structure: each day is in a div.calendar-list-day with id like "calendar-list-day-2026-02-05"
-        for day_container in soup.select("div.calendar-list-day"):
+        day_containers = soup.select("div.calendar-list-day")
+        film_card_count = sum(len(day.select("div.item.film-thumbnail")) for day in day_containers)
+        if film_card_count == 0:
+            raise RuntimeError("Metrograph page loaded without any film listing cards")
+
+        for day_container in day_containers:
             day_id = day_container.get('id', '')
             # Extract date from id: "calendar-list-day-2026-02-05" -> "2026-02-05"
             date_match = re.search(r'calendar-list-day-(\d{4}-\d{2}-\d{2})', day_id)
@@ -513,6 +556,7 @@ def scrape_metrograph():
 
     except Exception as e:
         print(f"❌ Error during Metrograph scrape: {e}")
+        raise
     print(f"✅ Metrograph: Found {len(all_showtimes)} showtimes")
     return all_showtimes
 
@@ -1538,7 +1582,11 @@ def main(days=30):
     
     all_showtimes = []
     all_showtimes.extend(scrape_paris_theater(days))
-    all_showtimes.extend(scrape_metrograph())
+    metrograph_showtimes = scrape_metrograph()
+    if not metrograph_showtimes:
+        print("❌ Metrograph returned 0 showtimes; aborting publication to preserve existing data.")
+        sys.exit(1)
+    all_showtimes.extend(metrograph_showtimes)
     all_showtimes.extend(scrape_film_forum_api(days))
     all_showtimes.extend(scrape_moma_films())
     all_showtimes.extend(scrape_roxy_films())
