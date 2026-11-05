@@ -459,40 +459,84 @@ def scrape_metrograph():
             'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 '
             '(KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36',
         )
+        retry_delays = (30, 60, 120)
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=True)
             try:
                 for attempt in range(4):
                     page = browser.new_page(user_agent=user_agents[attempt % len(user_agents)])
                     try:
-                        response = page.goto(
-                            "https://metrograph.com/nyc/",
-                            wait_until="domcontentloaded",
-                            timeout=45000
-                        )
-                        status = response.status if response else "unknown"
-                        title = page.title()
-                        film_card_count = page.locator("div.item.film-thumbnail").count()
-                        last_response_details = f"HTTP {status}, title={title!r}"
-                        if status == 200 and film_card_count > 0:
-                            html = page.content()
-                            break
-                        print(
-                            f"  - ⚠️ Metrograph attempt {attempt + 1}/4 returned "
-                            f"{last_response_details} with {film_card_count} film cards."
-                        )
+                        try:
+                            response = page.goto(
+                                "https://metrograph.com/nyc/",
+                                wait_until="domcontentloaded",
+                                timeout=45000
+                            )
+                            status = response.status if response else "unknown"
+                            title = page.title()
+                            cf_mitigated = response.headers.get("cf-mitigated", "") if response else ""
+                            challenged = (
+                                status == 403
+                                or "checking your browser" in title.lower()
+                                or cf_mitigated.lower() == "challenge"
+                            )
+                            last_response_details = (
+                                f"HTTP {status}, title={title!r}, "
+                                f"cf-mitigated={cf_mitigated!r}"
+                            )
+
+                            if challenged:
+                                print(
+                                    f"  - ⚠️ Metrograph attempt {attempt + 1}/4 encountered "
+                                    f"a Cloudflare challenge ({last_response_details}). "
+                                    f"Waiting up to 15 seconds for it to resolve..."
+                                )
+                                try:
+                                    page.wait_for_selector(
+                                        "div.item.film-thumbnail",
+                                        state="attached",
+                                        timeout=15000
+                                    )
+                                except Exception:
+                                    pass
+
+                            film_card_count = page.locator("div.item.film-thumbnail").count()
+                            if film_card_count > 0:
+                                if challenged:
+                                    print(
+                                        f"  - ✅ Metrograph Cloudflare challenge resolved on "
+                                        f"attempt {attempt + 1}/4."
+                                    )
+                                html = page.content()
+                                break
+
+                            print(
+                                f"  - ❌ Metrograph attempt {attempt + 1}/4 ultimately failed: "
+                                f"{last_response_details}, {film_card_count} film cards."
+                            )
+                        except Exception as e:
+                            last_response_details = f"{type(e).__name__}: {e}"
+                            print(
+                                f"  - ❌ Metrograph attempt {attempt + 1}/4 ultimately failed: "
+                                f"{last_response_details}"
+                            )
                     finally:
                         page.close()
+                    if html is not None:
+                        break
                     if attempt < 3:
-                        time.sleep(2)
+                        delay = retry_delays[attempt]
+                        print(f"  - Waiting {delay} seconds before the next Metrograph attempt...")
+                        time.sleep(delay)
             finally:
                 browser.close()
 
         if html is None:
-            raise RuntimeError(
-                f"Metrograph did not return a usable listings page after 4 attempts "
-                f"({last_response_details})"
+            print(
+                f"❌ Metrograph is unavailable for this run after 4 attempts "
+                f"({last_response_details})."
             )
+            return None
 
         soup = BeautifulSoup(html, "html.parser")
 
@@ -556,7 +600,11 @@ def scrape_metrograph():
 
     except Exception as e:
         print(f"❌ Error during Metrograph scrape: {e}")
-        raise
+        print("❌ Metrograph is unavailable for this run.")
+        return None
+    if not all_showtimes:
+        print("❌ Metrograph returned 0 showtimes and is unavailable for this run.")
+        return None
     print(f"✅ Metrograph: Found {len(all_showtimes)} showtimes")
     return all_showtimes
 
@@ -1494,7 +1542,7 @@ def scrape_momi():
 # =============================================================================
 
 
-def export_to_github(all_showtimes):
+def export_to_github(all_showtimes, preserve_existing_metrograph=False):
     """Exports processed data to GitHub as JSON."""
     if not all_showtimes: return
     json_data = {"lastUpdated": datetime.now().isoformat(), "movies": []}
@@ -1528,13 +1576,11 @@ def export_to_github(all_showtimes):
     json_data["movies"].sort(key=lambda x: (parse_date_for_sorting(x['date']), x['title']))
     
     try:
-        json_content = json.dumps(json_data, indent=2)
-        encoded_content = base64.b64encode(json_content.encode()).decode()
         headers = {"Authorization": f"token {GITHUB_TOKEN}", "Accept": "application/vnd.github.v3+json"}
         url = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{GITHUB_FILE}"
         
         check_response = requests.get(url, headers=headers)
-        payload = {"message": f"Update movie data - {datetime.now().strftime('%Y-%m-%d %H:%M')}", "content": encoded_content}
+        existing_file = None
         if check_response.status_code == 200:
             try:
                 existing_file = check_response.json()
@@ -1551,6 +1597,47 @@ def export_to_github(all_showtimes):
                 print(f"❌ GitHub export aborted: existing {GITHUB_FILE} could not be decoded or parsed: {e}")
                 return False
 
+            if preserve_existing_metrograph:
+                today = datetime.now().date()
+                preserved_metrograph = []
+                seen_metrograph_rows = set()
+                for movie in existing_movies:
+                    if movie.get("theater") != "Metrograph":
+                        continue
+                    try:
+                        movie_date = datetime.strptime(
+                            f"{movie.get('date', '')} {today.year}",
+                            "%a, %b %d %Y"
+                        ).date()
+                        if movie_date < today and (today - movie_date).days > 180:
+                            movie_date = movie_date.replace(year=today.year + 1)
+                    except (TypeError, ValueError):
+                        continue
+                    row_key = (movie.get("date"), movie.get("title"), movie.get("theater"))
+                    if movie_date >= today and row_key not in seen_metrograph_rows:
+                        preserved_metrograph.append(movie)
+                        seen_metrograph_rows.add(row_key)
+
+                json_data["movies"] = [
+                    movie for movie in json_data["movies"]
+                    if movie.get("theater") != "Metrograph"
+                ]
+                json_data["movies"].extend(preserved_metrograph)
+                json_data["movies"].sort(
+                    key=lambda x: (parse_date_for_sorting(x['date']), x['title'])
+                )
+
+                if preserved_metrograph:
+                    print(
+                        f"⚠️  METROGRAPH WARNING: preserved {len(preserved_metrograph)} future "
+                        f"Metrograph entries from the previous successful run; this data may be stale."
+                    )
+                else:
+                    print(
+                        "⚠️  METROGRAPH WARNING: Metrograph was unavailable and no future "
+                        "Metrograph entries were available to preserve."
+                    )
+
             candidate_count = len(json_data["movies"])
             if candidate_count < existing_count * 0.5 or candidate_count > existing_count * 2:
                 print(
@@ -1559,7 +1646,17 @@ def export_to_github(all_showtimes):
                 )
                 return False
 
-            payload["sha"] = existing_file["sha"]
+        elif preserve_existing_metrograph:
+            print(
+                f"❌ GitHub export aborted: Metrograph was unavailable and existing {GITHUB_FILE} "
+                f"could not be retrieved ({check_response.status_code})."
+            )
+            return False
+
+        json_content = json.dumps(json_data, indent=2)
+        encoded_content = base64.b64encode(json_content.encode()).decode()
+        payload = {"message": f"Update movie data - {datetime.now().strftime('%Y-%m-%d %H:%M')}", "content": encoded_content}
+        if existing_file: payload["sha"] = existing_file["sha"]
         
         response = requests.put(url, headers=headers, json=payload)
         if response.status_code not in [200, 201]:
@@ -1583,10 +1680,9 @@ def main(days=30):
     all_showtimes = []
     all_showtimes.extend(scrape_paris_theater(days))
     metrograph_showtimes = scrape_metrograph()
-    if not metrograph_showtimes:
-        print("❌ Metrograph returned 0 showtimes; aborting publication to preserve existing data.")
-        sys.exit(1)
-    all_showtimes.extend(metrograph_showtimes)
+    metrograph_unavailable = metrograph_showtimes is None
+    if metrograph_showtimes:
+        all_showtimes.extend(metrograph_showtimes)
     all_showtimes.extend(scrape_film_forum_api(days))
     all_showtimes.extend(scrape_moma_films())
     all_showtimes.extend(scrape_roxy_films())
@@ -1604,7 +1700,10 @@ def main(days=30):
 
     exported = False
     if all_showtimes:
-        exported = export_to_github(all_showtimes)
+        exported = export_to_github(
+            all_showtimes,
+            preserve_existing_metrograph=metrograph_unavailable
+        )
         print("\n---")
         print(f"🔗 Live JSON: https://globular-pile.github.io/skyscraper/movies.json")
         print("---")
