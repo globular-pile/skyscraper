@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T18:38:25.678300",
+  "lastUpdated": "2026-11-13T18:34:04.315353",
   "movies": [
     {
       "date": "Wed, Nov 4",
@@ -75,18 +75,6 @@
     },
     {
       "date": "Tue, Nov 10",
-      "title": "Air Force One (1997)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/air-force-one/",
-      "showtimes": [
-        {
-          "time": "6:45 PM",
-          "link": "https://commerce.bam.org/production/59153"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Nov 10",
       "title": "Bored Teenagers (1978)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/bored-teenagers/",
@@ -94,130 +82,6 @@
         {
           "time": "9:00 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62256"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Nov 10",
-      "title": "Compulsion (1959)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/compulsion/",
-      "showtimes": [
-        {
-          "time": "9:30 PM",
-          "link": "https://commerce.bam.org/production/59132"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Nov 10",
-      "title": "Fatherland (1994)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/fatherland-1994/",
-      "showtimes": [
-        {
-          "time": "12:25 PM",
-          "link": "https://filmforum.org/film/fatherland"
-        },
-        {
-          "time": "2:25 PM",
-          "link": "https://filmforum.org/film/fatherland"
-        },
-        {
-          "time": "4:30 PM",
-          "link": "https://filmforum.org/film/fatherland"
-        },
-        {
-          "time": "6:30 PM",
-          "link": "https://filmforum.org/film/fatherland"
-        },
-        {
-          "time": "8:30 PM",
-          "link": "https://filmforum.org/film/fatherland"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Nov 10",
-      "title": "Fatherland (1994)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/fatherland-1994/",
-      "showtimes": [
-        {
-          "time": "4:45 PM",
-          "link": "https://commerce.bam.org/production/59498"
-        },
-        {
-          "time": "7:00 PM",
-          "link": "https://commerce.bam.org/production/59498"
-        },
-        {
-          "time": "9:15 PM",
-          "link": "https://commerce.bam.org/production/59498"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Nov 10",
-      "title": "Ken Russell\u2019s The Devils (1971)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/ken-russells-the-devils/",
-      "showtimes": [
-        {
-          "time": "4:10 PM",
-          "link": "https://www.bam.org/film/2026/the-devils#performanceHeader"
-        },
-        {
-          "time": "9:30 PM",
-          "link": "https://www.bam.org/film/2026/the-devils#performanceHeader"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Nov 10",
-      "title": "Manhattan By Numbers (1993)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/manhattan-by-numbers/",
-      "showtimes": [
-        {
-          "time": "endstoday!",
-          "link": "https://filmforum.org/film/manhattan-by-numbers-nyc-in-transit"
-        },
-        {
-          "time": "6:00 PM",
-          "link": "https://filmforum.org/film/manhattan-by-numbers-nyc-in-transit"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Nov 10",
-      "title": "Raise The Red Lantern (1991)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/raise-the-red-lantern/",
-      "showtimes": [
-        {
-          "time": "12:20 PM",
-          "link": "https://filmforum.org/film/raise-the-red-lantern"
-        },
-        {
-          "time": "1:30 PM",
-          "link": "https://filmforum.org/film/raise-the-red-lantern"
-        },
-        {
-          "time": "3:00 PM",
-          "link": "https://filmforum.org/film/raise-the-red-lantern"
-        },
-        {
-          "time": "4:15 PM",
-          "link": "https://filmforum.org/film/raise-the-red-lantern"
-        },
-        {
-          "time": "7:00 PM",
-          "link": "https://filmforum.org/film/raise-the-red-lantern"
-        },
-        {
-          "time": "8:30 PM",
-          "link": "https://filmforum.org/film/raise-the-red-lantern"
         }
       ]
     },
@@ -235,206 +99,6 @@
     },
     {
       "date": "Wed, Nov 11",
-      "title": "Air Force One (1997)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/air-force-one/",
-      "showtimes": [
-        {
-          "time": "4:15 PM",
-          "link": "https://commerce.bam.org/production/59153"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Nov 11",
-      "title": "Austin Powers: International Man of Mystery (1997)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/austin-powers-international-man-of-mystery/",
-      "showtimes": [
-        {
-          "time": "9:00 PM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/24665207/"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Nov 11",
-      "title": "Autumn Sonata (1978)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/autumn-sonata/",
-      "showtimes": [
-        {
-          "time": "3:30 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31398"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Nov 11",
-      "title": "Beetlejuice (1988)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/beetlejuice-1988/",
-      "showtimes": [
-        {
-          "time": "5:30 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31399"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Nov 11",
-      "title": "Blade Runner: The Final Cut (1982)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/blade-runner-the-final-cut/",
-      "showtimes": [
-        {
-          "time": "9:45 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31404"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Nov 11",
-      "title": "Blue Velvet (1986)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/blue-velvet/",
-      "showtimes": [
-        {
-          "time": "9:30 PM",
-          "link": "https://commerce.bam.org/production/59135"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Nov 11",
-      "title": "Brief Encounter (1945)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/brief-encounter/",
-      "showtimes": [
-        {
-          "time": "3:20 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31401"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Nov 11",
-      "title": "Fatherland (1994)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/fatherland-1994/",
-      "showtimes": [
-        {
-          "time": "12:25 PM",
-          "link": "https://filmforum.org/film/fatherland"
-        },
-        {
-          "time": "2:25 PM",
-          "link": "https://filmforum.org/film/fatherland"
-        },
-        {
-          "time": "4:30 PM",
-          "link": "https://filmforum.org/film/fatherland"
-        },
-        {
-          "time": "6:30 PM",
-          "link": "https://filmforum.org/film/fatherland"
-        },
-        {
-          "time": "8:30 PM",
-          "link": "https://filmforum.org/film/fatherland"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Nov 11",
-      "title": "Fatherland (1994)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/fatherland-1994/",
-      "showtimes": [
-        {
-          "time": "4:45 PM",
-          "link": "https://commerce.bam.org/production/59498"
-        },
-        {
-          "time": "7:00 PM",
-          "link": "https://commerce.bam.org/production/59498"
-        },
-        {
-          "time": "9:15 PM",
-          "link": "https://commerce.bam.org/production/59498"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Nov 11",
-      "title": "Horror of Dracula (1958)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/horror-of-dracula/",
-      "showtimes": [
-        {
-          "time": "10:45 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31403"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Nov 11",
-      "title": "Ken Russell\u2019s The Devils (1971)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/ken-russells-the-devils/",
-      "showtimes": [
-        {
-          "time": "9:10 PM",
-          "link": "https://www.bam.org/film/2026/the-devils#performanceHeader"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Nov 11",
-      "title": "Raise The Red Lantern (1991)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/raise-the-red-lantern/",
-      "showtimes": [
-        {
-          "time": "12:20 PM",
-          "link": "https://filmforum.org/film/raise-the-red-lantern"
-        },
-        {
-          "time": "1:30 PM",
-          "link": "https://filmforum.org/film/raise-the-red-lantern"
-        },
-        {
-          "time": "3:00 PM",
-          "link": "https://filmforum.org/film/raise-the-red-lantern"
-        },
-        {
-          "time": "4:15 PM",
-          "link": "https://filmforum.org/film/raise-the-red-lantern"
-        },
-        {
-          "time": "5:40 PM",
-          "link": "https://filmforum.org/film/raise-the-red-lantern"
-        },
-        {
-          "time": "8:20 PM",
-          "link": "https://filmforum.org/film/raise-the-red-lantern"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Nov 11",
-      "title": "THE MISFITS (2021)",
-      "theater": "Village East",
-      "letterboxdURL": "https://letterboxd.com/film/the-misfits-2021/",
-      "showtimes": [
-        {
-          "time": "7:10 PM",
-          "link": "https://www.angelikafilmcenter.com/villageeast/movies/details/the-misfits"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Nov 11",
       "title": "The Battle Of Tuntenhaus (1991)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/the-battle-of-tuntenhaus/",
@@ -442,166 +106,6 @@
         {
           "time": "6:45 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62278"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Nov 11",
-      "title": "The Great Muppet Caper (1981)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/the-great-muppet-caper/",
-      "showtimes": [
-        {
-          "time": "3:00 PM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/24610808/"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Nov 11",
-      "title": "The Trouble with Harry (1955)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/the-trouble-with-harry/",
-      "showtimes": [
-        {
-          "time": "5:15 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31402"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Nov 11",
-      "title": "Tracks (4K Restoration) + Q&A | This is Cin\u00e9matographe (1976)",
-      "theater": "Roxy",
-      "letterboxdURL": "https://letterboxd.com/film/tracks-1976/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://ticketing.uswest.veezi.com/purchase/7915?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Nov 12",
-      "title": "Bela Lugosi Meets a Brooklyn Gorilla (1952)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/bela-lugosi-meets-a-brooklyn-gorilla/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/24610598/"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Nov 12",
-      "title": "Fatherland (1994)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/fatherland-1994/",
-      "showtimes": [
-        {
-          "time": "12:25 PM",
-          "link": "https://filmforum.org/film/fatherland"
-        },
-        {
-          "time": "2:25 PM",
-          "link": "https://filmforum.org/film/fatherland"
-        },
-        {
-          "time": "4:30 PM",
-          "link": "https://filmforum.org/film/fatherland"
-        },
-        {
-          "time": "6:30 PM",
-          "link": "https://filmforum.org/film/fatherland"
-        },
-        {
-          "time": "8:30 PM",
-          "link": "https://filmforum.org/film/fatherland"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Nov 12",
-      "title": "Paris, Texas (1984)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/paris-texas/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://commerce.bam.org/production/59144"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Nov 12",
-      "title": "Raise The Red Lantern (1991)",
-      "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/raise-the-red-lantern/",
-      "showtimes": [
-        {
-          "time": "12:20 PM",
-          "link": "https://filmforum.org/film/raise-the-red-lantern"
-        },
-        {
-          "time": "1:30 PM",
-          "link": "https://filmforum.org/film/raise-the-red-lantern"
-        },
-        {
-          "time": "3:00 PM",
-          "link": "https://filmforum.org/film/raise-the-red-lantern"
-        },
-        {
-          "time": "4:15 PM",
-          "link": "https://filmforum.org/film/raise-the-red-lantern"
-        },
-        {
-          "time": "5:40 PM",
-          "link": "https://filmforum.org/film/raise-the-red-lantern"
-        },
-        {
-          "time": "7:00 PM",
-          "link": "https://filmforum.org/film/raise-the-red-lantern"
-        },
-        {
-          "time": "8:20 PM",
-          "link": "https://filmforum.org/film/raise-the-red-lantern"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Nov 12",
-      "title": "Sans Soleil (1983)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/sans-soleil/",
-      "showtimes": [
-        {
-          "time": "1:00 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31396"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Nov 12",
-      "title": "The Devonsville Terror (1983)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/the-devonsville-terror/",
-      "showtimes": [
-        {
-          "time": "9:30 PM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/24196085/"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Nov 12",
-      "title": "To Live and Die in L.A. (1985)",
-      "theater": "BAM",
-      "letterboxdURL": "https://letterboxd.com/film/to-live-and-die-in-la/",
-      "showtimes": [
-        {
-          "time": "4:30 PM",
-          "link": "https://commerce.bam.org/production/59147"
         }
       ]
     },
@@ -759,54 +263,6 @@
     },
     {
       "date": "Fri, Nov 13",
-      "title": "Je t'aime, je t'aime (1968)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/je-taime-je-taime/",
-      "showtimes": [
-        {
-          "time": "5:00 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31340"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Nov 13",
-      "title": "Master of the Flying Guillotine (1976)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/master-of-the-flying-guillotine/",
-      "showtimes": [
-        {
-          "time": "11:55 PM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/24665137/"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Nov 13",
-      "title": "Nightcrawler (2014)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/nightcrawler/",
-      "showtimes": [
-        {
-          "time": "9:50 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-3186/seats"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Nov 13",
-      "title": "Playback (2012)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/playback-2012/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31336"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Nov 13",
       "title": "Raise The Red Lantern (1991)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/raise-the-red-lantern/",
@@ -826,18 +282,6 @@
         {
           "time": "8:20 PM",
           "link": "https://filmforum.org/film/raise-the-red-lantern"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Nov 13",
-      "title": "Tenebrae (1982)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/film/tenebrae/",
-      "showtimes": [
-        {
-          "time": "11:00 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31338"
         }
       ]
     },
@@ -874,18 +318,6 @@
         {
           "time": "9:20 PM",
           "link": "https://commerce.bam.org/production/59258"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Nov 14",
-      "title": "Castle in the Sky (1986)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/castle-in-the-sky/",
-      "showtimes": [
-        {
-          "time": "12:00 PM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/24543407/"
         }
       ]
     },
@@ -983,30 +415,6 @@
     },
     {
       "date": "Sat, Nov 14",
-      "title": "Over the Hedge (2006)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/over-the-hedge/",
-      "showtimes": [
-        {
-          "time": "11:15 AM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/24665170/"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Nov 14",
-      "title": "Portrait of a Lady on Fire (2019)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/portrait-of-a-lady-on-fire/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-3127/seats"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Nov 14",
       "title": "Raise The Red Lantern (1991)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/raise-the-red-lantern/",
@@ -1079,18 +487,6 @@
     },
     {
       "date": "Sat, Nov 14",
-      "title": "The Devils (1971)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/the-devils/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/24709181/"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Nov 14",
       "title": "The French Connection (1971)",
       "theater": "MoMI",
       "letterboxdURL": "https://letterboxd.com/film/the-french-connection/",
@@ -1098,18 +494,6 @@
         {
           "time": "4:00 PM",
           "link": "https://movingimage.org/event/the-french-connection/"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Nov 14",
-      "title": "The Insider (1999)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/the-insider/",
-      "showtimes": [
-        {
-          "time": "2:30 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-3203/seats"
         }
       ]
     },
@@ -1174,30 +558,6 @@
       ]
     },
     {
-      "date": "Sat, Nov 14",
-      "title": "Thelma & Louise (1991)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/thelma-louise/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/24516626/"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Nov 14",
-      "title": "To Die For (1995)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/to-die-for/",
-      "showtimes": [
-        {
-          "time": "9:50 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-3188/seats"
-        }
-      ]
-    },
-    {
       "date": "Sun, Nov 15",
       "title": "Benedetta (2021)",
       "theater": "Metrograph",
@@ -1206,18 +566,6 @@
         {
           "time": "1:10 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31353"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Nov 15",
-      "title": "Castle in the Sky (1986)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/castle-in-the-sky/",
-      "showtimes": [
-        {
-          "time": "12:00 PM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/24543409/"
         }
       ]
     },
@@ -1347,18 +695,6 @@
     },
     {
       "date": "Sun, Nov 15",
-      "title": "Maurice (1987)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/maurice/",
-      "showtimes": [
-        {
-          "time": "2:00 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-3128/seats"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Nov 15",
       "title": "Ma\u00eetres Anciens \u2013 Com\u00e9die (2021)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/maitres-anciens-comedie/",
@@ -1366,30 +702,6 @@
         {
           "time": "3:00 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62215"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Nov 15",
-      "title": "Network (1976)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/network/",
-      "showtimes": [
-        {
-          "time": "9:05 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-3278/seats"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Nov 15",
-      "title": "Over the Hedge (2006)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/over-the-hedge/",
-      "showtimes": [
-        {
-          "time": "11:15 AM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/24665171/"
         }
       ]
     },
@@ -1491,18 +803,6 @@
     },
     {
       "date": "Sun, Nov 15",
-      "title": "The Devils (1971)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/the-devils/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/24709183/"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Nov 15",
       "title": "The Long, Long Trailer (1954)",
       "theater": "MoMI",
       "letterboxdURL": "https://letterboxd.com/film/the-long-long-trailer/",
@@ -1539,18 +839,6 @@
     },
     {
       "date": "Sun, Nov 15",
-      "title": "Thelma & Louise (1991)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/thelma-louise/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/24516630/"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Nov 15",
       "title": "Wallace & Gromit: The Classic Shorts (1995)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/search/Wallace%20%26%20Gromit%3A%20The%20Classic%20Shorts+1995/",
@@ -1570,18 +858,6 @@
         {
           "time": "4:30 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31447"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Nov 16",
-      "title": "Dog Day Afternoon (1975)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/dog-day-afternoon/",
-      "showtimes": [
-        {
-          "time": "11:15 AM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-3264/seats"
         }
       ]
     },
@@ -1675,18 +951,6 @@
     },
     {
       "date": "Mon, Nov 16",
-      "title": "Network (1976)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/network/",
-      "showtimes": [
-        {
-          "time": "2:15 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-3192/seats"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Nov 16",
       "title": "News From Home (1976)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/news-from-home/",
@@ -1718,18 +982,6 @@
         {
           "time": "10:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31449"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Nov 16",
-      "title": "Paprika (2006)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/paprika-2006/",
-      "showtimes": [
-        {
-          "time": "9:30 PM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/24849230/"
         }
       ]
     },
@@ -1831,25 +1083,29 @@
     },
     {
       "date": "Tue, Nov 17",
-      "title": "Broadcast News (1987)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/broadcast-news/",
+      "title": "Fatherland (1994)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/fatherland-1994/",
       "showtimes": [
         {
-          "time": "9:30 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-3204/seats"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Nov 17",
-      "title": "Dog Day Afternoon (1975)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/dog-day-afternoon/",
-      "showtimes": [
+          "time": "12:25 PM",
+          "link": "https://filmforum.org/film/fatherland"
+        },
+        {
+          "time": "2:25 PM",
+          "link": "https://filmforum.org/film/fatherland"
+        },
+        {
+          "time": "4:30 PM",
+          "link": "https://filmforum.org/film/fatherland"
+        },
         {
           "time": "6:30 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-3266/seats"
+          "link": "https://filmforum.org/film/fatherland"
+        },
+        {
+          "time": "8:30 PM",
+          "link": "https://filmforum.org/film/fatherland"
         }
       ]
     },
@@ -1862,18 +1118,6 @@
         {
           "time": "7:00 PM",
           "link": "https://commerce.bam.org/production/59498"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Nov 17",
-      "title": "In Cold Blood (1967)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/in-cold-blood/",
-      "showtimes": [
-        {
-          "time": "12:15 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-3265/seats"
         }
       ]
     },
@@ -1903,6 +1147,30 @@
     },
     {
       "date": "Tue, Nov 17",
+      "title": "Raise The Red Lantern (1991)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/raise-the-red-lantern/",
+      "showtimes": [
+        {
+          "time": "12:20 PM",
+          "link": "https://filmforum.org/film/raise-the-red-lantern"
+        },
+        {
+          "time": "3:00 PM",
+          "link": "https://filmforum.org/film/raise-the-red-lantern"
+        },
+        {
+          "time": "5:40 PM",
+          "link": "https://filmforum.org/film/raise-the-red-lantern"
+        },
+        {
+          "time": "8:20 PM",
+          "link": "https://filmforum.org/film/raise-the-red-lantern"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Nov 17",
       "title": "The Last Bolshevik (1994)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/the-last-bolshevik/",
@@ -1910,42 +1178,6 @@
         {
           "time": "7:00 PM",
           "link": "https://commerce.bam.org/production/59270"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Nov 17",
-      "title": "The Thing (1982)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/the-thing/",
-      "showtimes": [
-        {
-          "time": "9:15 PM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/24710449/"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Nov 17",
-      "title": "To Die For (1995)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/to-die-for/",
-      "showtimes": [
-        {
-          "time": "3:30 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-3198/seats"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Nov 18",
-      "title": "Broadcast News (1987)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/broadcast-news/",
-      "showtimes": [
-        {
-          "time": "2:30 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-3267/seats"
         }
       ]
     },
@@ -1958,6 +1190,34 @@
         {
           "time": "9:30 PM",
           "link": "https://commerce.bam.org/production/59261"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Nov 18",
+      "title": "Fatherland (1994)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/fatherland-1994/",
+      "showtimes": [
+        {
+          "time": "12:25 PM",
+          "link": "https://filmforum.org/film/fatherland"
+        },
+        {
+          "time": "2:25 PM",
+          "link": "https://filmforum.org/film/fatherland"
+        },
+        {
+          "time": "4:30 PM",
+          "link": "https://filmforum.org/film/fatherland"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://filmforum.org/film/fatherland"
+        },
+        {
+          "time": "8:30 PM",
+          "link": "https://filmforum.org/film/fatherland"
         }
       ]
     },
@@ -1987,61 +1247,53 @@
     },
     {
       "date": "Wed, Nov 18",
-      "title": "In Cold Blood (1967)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/in-cold-blood/",
+      "title": "Raise The Red Lantern (1991)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/raise-the-red-lantern/",
       "showtimes": [
         {
-          "time": "10:30 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-3268/seats"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Nov 18",
-      "title": "Nightcrawler (2014)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/nightcrawler/",
-      "showtimes": [
+          "time": "12:20 PM",
+          "link": "https://filmforum.org/film/raise-the-red-lantern"
+        },
         {
-          "time": "11:30 AM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-3195/seats"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Nov 18",
-      "title": "Pig (2021)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/pig-2021/",
-      "showtimes": [
+          "time": "3:00 PM",
+          "link": "https://filmforum.org/film/raise-the-red-lantern"
+        },
         {
-          "time": "7:00 PM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/24747107/"
+          "time": "5:40 PM",
+          "link": "https://filmforum.org/film/raise-the-red-lantern"
+        },
+        {
+          "time": "8:20 PM",
+          "link": "https://filmforum.org/film/raise-the-red-lantern"
         }
       ]
     },
     {
       "date": "Thu, Nov 19",
-      "title": "A Knight\u2019s Tale (2001)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/a-knights-tale/",
+      "title": "Fatherland (1994)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/fatherland-1994/",
       "showtimes": [
+        {
+          "time": "12:25 PM",
+          "link": "https://filmforum.org/film/fatherland"
+        },
+        {
+          "time": "2:25 PM",
+          "link": "https://filmforum.org/film/fatherland"
+        },
+        {
+          "time": "4:30 PM",
+          "link": "https://filmforum.org/film/fatherland"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://filmforum.org/film/fatherland"
+        },
         {
           "time": "8:30 PM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/24509998/"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Nov 19",
-      "title": "Cyclops (1987)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/cyclops-1987/",
-      "showtimes": [
-        {
-          "time": "9:30 PM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/24520156/"
+          "link": "https://filmforum.org/film/fatherland"
         }
       ]
     },
@@ -2071,18 +1323,6 @@
     },
     {
       "date": "Thu, Nov 19",
-      "title": "North by Northwest (1959)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/north-by-northwest/",
-      "showtimes": [
-        {
-          "time": "6:30 PM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/24510003/"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Nov 19",
       "title": "Paper Tiger (1975)",
       "theater": "BAM",
       "letterboxdURL": "https://letterboxd.com/film/paper-tiger/",
@@ -2103,6 +1343,30 @@
     },
     {
       "date": "Thu, Nov 19",
+      "title": "Raise The Red Lantern (1991)",
+      "theater": "Film Forum",
+      "letterboxdURL": "https://letterboxd.com/film/raise-the-red-lantern/",
+      "showtimes": [
+        {
+          "time": "12:20 PM",
+          "link": "https://filmforum.org/film/raise-the-red-lantern"
+        },
+        {
+          "time": "3:00 PM",
+          "link": "https://filmforum.org/film/raise-the-red-lantern"
+        },
+        {
+          "time": "5:40 PM",
+          "link": "https://filmforum.org/film/raise-the-red-lantern"
+        },
+        {
+          "time": "8:20 PM",
+          "link": "https://filmforum.org/film/raise-the-red-lantern"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Nov 19",
       "title": "T\u00e1r + Live Performance | Instruments of Desire (2022)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/film/tar-2022/",
@@ -2110,18 +1374,6 @@
         {
           "time": "6:00 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/7824?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Nov 20",
-      "title": "Blood Rage (1987)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/blood-rage-1987/",
-      "showtimes": [
-        {
-          "time": "11:55 PM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/24710312/"
         }
       ]
     },
@@ -2151,9 +1403,9 @@
     },
     {
       "date": "Fri, Nov 20",
-      "title": "Galaxie (1964)",
+      "title": "Galaxie (1966)",
       "theater": "Anthology",
-      "letterboxdURL": "https://letterboxd.com/film/galaxie-1964/",
+      "letterboxdURL": "https://letterboxd.com/film/galaxie/",
       "showtimes": [
         {
           "time": "6:30 PM",
@@ -2367,6 +1619,18 @@
     },
     {
       "date": "Sat, Nov 21",
+      "title": "Demons (1985)",
+      "theater": "MoMI",
+      "letterboxdURL": "https://letterboxd.com/film/demons/",
+      "showtimes": [
+        {
+          "time": "6:00 PM",
+          "link": "https://movingimage.org/event/demons-2026/"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Nov 21",
       "title": "Film No. 5 (Smile) (1968)",
       "theater": "Anthology",
       "letterboxdURL": "https://letterboxd.com/film/film-no-5/",
@@ -2463,18 +1727,6 @@
     },
     {
       "date": "Sat, Nov 21",
-      "title": "Tally Brown, New York (1979)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/tally-brown-new-york/",
-      "showtimes": [
-        {
-          "time": "12:15 PM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/24710517/"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Nov 21",
       "title": "That Day, On The Beach (1983)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/that-day-on-the-beach/",
@@ -2499,18 +1751,6 @@
     },
     {
       "date": "Sat, Nov 21",
-      "title": "The Lord of the Rings: The Fellowship of the Ring (2001)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/24710462/"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Nov 21",
       "title": "The Muppets Take Manhattan + The Muppet Show with Liza Minnelli (1984)",
       "theater": "MoMI",
       "letterboxdURL": "https://letterboxd.com/film/the-muppets-take-manhattan/",
@@ -2518,18 +1758,6 @@
         {
           "time": "12:30 PM",
           "link": "https://movingimage.org/event/the-muppets-take-manhattan-2026/2026-11-21/"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Nov 21",
-      "title": "The Piano (1993)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/the-piano/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/24710424/"
         }
       ]
     },
@@ -2715,18 +1943,6 @@
     },
     {
       "date": "Sun, Nov 22",
-      "title": "Tally Brown, New York (1979)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/tally-brown-new-york/",
-      "showtimes": [
-        {
-          "time": "12:15 PM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/24710514/"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Nov 22",
       "title": "That Day, On The Beach (1983)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/that-day-on-the-beach/",
@@ -2734,30 +1950,6 @@
         {
           "time": "3:20 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31387"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Nov 22",
-      "title": "The Lord of the Rings: The Fellowship of the Ring (2001)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/24710464/"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Nov 22",
-      "title": "The Piano (1993)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/the-piano/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/24710425/"
         }
       ]
     },
@@ -2806,30 +1998,6 @@
         {
           "time": "9:15 PM",
           "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62207"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Nov 23",
-      "title": "Bugsy (1991)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/bugsy/",
-      "showtimes": [
-        {
-          "time": "9:00 PM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/24516661/"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Nov 23",
-      "title": "Burning (2018)",
-      "theater": "Paris",
-      "letterboxdURL": "https://letterboxd.com/film/burning-2018/",
-      "showtimes": [
-        {
-          "time": "6:30 PM",
-          "link": "https://tickets.paristheaternyc.com/order/showtimes/2001-3048/seats"
         }
       ]
     },
@@ -2919,18 +2087,6 @@
     },
     {
       "date": "Tue, Nov 24",
-      "title": "Boyz n the Hood (1991)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/boyz-n-the-hood/",
-      "showtimes": [
-        {
-          "time": "9:30 PM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/24516634/"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Nov 24",
       "title": "Dov\u2019\u00e8 La Libert\u00e0? (where Is Freedom?) (1954)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/dove-la-liberta/",
@@ -2962,18 +2118,6 @@
         {
           "time": "9:15 PM",
           "link": "https://ticketing.uswest.veezi.com/purchase/7986?siteToken=tt17e5ajy3v48kh5b2kremvnz4"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Nov 24",
-      "title": "Network (1976)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/network/",
-      "showtimes": [
-        {
-          "time": "9:15 PM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/24849745/"
         }
       ]
     },
@@ -3035,18 +2179,6 @@
     },
     {
       "date": "Wed, Nov 25",
-      "title": "Family Portraits (1994)",
-      "theater": "Anthology",
-      "letterboxdURL": "https://letterboxd.com/film/family-portraits/",
-      "showtimes": [
-        {
-          "time": "6:30 PM",
-          "link": "http://anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62312"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Nov 25",
       "title": "Les Carabiniers (1963)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/les-carabiniers/",
@@ -3054,6 +2186,26 @@
         {
           "time": "7:40 PM",
           "link": "https://my.filmforum.org/events/les-carabiniers"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Nov 25",
+      "title": "Minotaur (2006)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/minotaur/",
+      "showtimes": [
+        {
+          "time": "3:45 PM",
+          "link": "https://commerce.bam.org/production/59770"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://commerce.bam.org/production/59770"
+        },
+        {
+          "time": "9:15 PM",
+          "link": "https://commerce.bam.org/production/59770"
         }
       ]
     },
@@ -3098,6 +2250,26 @@
         {
           "time": "7:10 PM",
           "link": "https://my.filmforum.org/events/europa-51"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Nov 26",
+      "title": "Minotaur (2006)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/minotaur/",
+      "showtimes": [
+        {
+          "time": "3:45 PM",
+          "link": "https://commerce.bam.org/production/59770"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://commerce.bam.org/production/59770"
+        },
+        {
+          "time": "9:15 PM",
+          "link": "https://commerce.bam.org/production/59770"
         }
       ]
     },
@@ -3218,6 +2390,30 @@
         {
           "time": "4:15 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31413"
+        }
+      ]
+    },
+    {
+      "date": "Fri, Nov 27",
+      "title": "Minotaur (2006)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/minotaur/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://commerce.bam.org/production/59770"
+        },
+        {
+          "time": "3:45 PM",
+          "link": "https://commerce.bam.org/production/59770"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://commerce.bam.org/production/59770"
+        },
+        {
+          "time": "9:15 PM",
+          "link": "https://commerce.bam.org/production/59770"
         }
       ]
     },
@@ -3367,30 +2563,6 @@
     },
     {
       "date": "Sat, Nov 28",
-      "title": "Beginners (2010)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/beginners/",
-      "showtimes": [
-        {
-          "time": "12:15 PM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/24875721/"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Nov 28",
-      "title": "Citizen Kane (1941)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/citizen-kane/",
-      "showtimes": [
-        {
-          "time": "11:15 AM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/24849131/"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Nov 28",
       "title": "Emperor of the North (1973)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/emperor-of-the-north/",
@@ -3487,13 +2659,25 @@
     },
     {
       "date": "Sat, Nov 28",
-      "title": "Night at the Museum (2006)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/night-at-the-museum/",
+      "title": "Minotaur (2006)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/minotaur/",
       "showtimes": [
         {
-          "time": "11:00 AM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/24849195/"
+          "time": "1:00 PM",
+          "link": "https://commerce.bam.org/production/59770"
+        },
+        {
+          "time": "3:45 PM",
+          "link": "https://commerce.bam.org/production/59770"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://commerce.bam.org/production/59770"
+        },
+        {
+          "time": "9:15 PM",
+          "link": "https://commerce.bam.org/production/59770"
         }
       ]
     },
@@ -3583,18 +2767,6 @@
     },
     {
       "date": "Sat, Nov 28",
-      "title": "The Last Waltz (1978)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/the-last-waltz/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/24710565/"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Nov 28",
       "title": "The Manchurian Candidate (1962)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/the-manchurian-candidate/",
@@ -3602,30 +2774,6 @@
         {
           "time": "3:30 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31419"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Nov 29",
-      "title": "Beginners (2010)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/beginners/",
-      "showtimes": [
-        {
-          "time": "12:15 PM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/24875722/"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Nov 29",
-      "title": "Citizen Kane (1941)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/citizen-kane/",
-      "showtimes": [
-        {
-          "time": "11:15 AM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/24849132/"
         }
       ]
     },
@@ -3655,6 +2803,30 @@
     },
     {
       "date": "Sun, Nov 29",
+      "title": "Minotaur (2006)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/minotaur/",
+      "showtimes": [
+        {
+          "time": "1:00 PM",
+          "link": "https://commerce.bam.org/production/59770"
+        },
+        {
+          "time": "3:45 PM",
+          "link": "https://commerce.bam.org/production/59770"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://commerce.bam.org/production/59770"
+        },
+        {
+          "time": "9:15 PM",
+          "link": "https://commerce.bam.org/production/59770"
+        }
+      ]
+    },
+    {
+      "date": "Sun, Nov 29",
       "title": "Moonlight Superman (1968)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/moonlight-superman/",
@@ -3662,18 +2834,6 @@
         {
           "time": "5:50 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31437"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Nov 29",
-      "title": "Night at the Museum (2006)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/night-at-the-museum/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/24849196/"
         }
       ]
     },
@@ -3775,18 +2935,6 @@
     },
     {
       "date": "Sun, Nov 29",
-      "title": "The Last Waltz (1978)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/the-last-waltz/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/24710567/"
-        }
-      ]
-    },
-    {
-      "date": "Sun, Nov 29",
       "title": "The Manchurian Candidate (1962)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/the-manchurian-candidate/",
@@ -3847,9 +2995,9 @@
     },
     {
       "date": "Mon, Nov 30",
-      "title": "Galaxie (1964)",
+      "title": "Galaxie (1966)",
       "theater": "Anthology",
-      "letterboxdURL": "https://letterboxd.com/film/galaxie-1964/",
+      "letterboxdURL": "https://letterboxd.com/film/galaxie/",
       "showtimes": [
         {
           "time": "8:45 PM",
@@ -3859,13 +3007,21 @@
     },
     {
       "date": "Mon, Nov 30",
-      "title": "Little Children (2006)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/little-children/",
+      "title": "Minotaur (2006)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/minotaur/",
       "showtimes": [
         {
+          "time": "3:45 PM",
+          "link": "https://commerce.bam.org/production/59770"
+        },
+        {
           "time": "6:30 PM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/24747498/"
+          "link": "https://commerce.bam.org/production/59770"
+        },
+        {
+          "time": "9:15 PM",
+          "link": "https://commerce.bam.org/production/59770"
         }
       ]
     },
@@ -3878,18 +3034,6 @@
         {
           "time": "2:10 PM",
           "link": "https://my.filmforum.org/events/rome-open-city-ross"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Nov 30",
-      "title": "The Lord of the Rings: The Fellowship of the Ring (2001)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/",
-      "showtimes": [
-        {
-          "time": "9:15 PM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/24772620/"
         }
       ]
     },
@@ -3914,6 +3058,26 @@
         {
           "time": "4:10 PM",
           "link": "https://my.filmforum.org/events/les-carabiniers"
+        }
+      ]
+    },
+    {
+      "date": "Tue, Dec 1",
+      "title": "Minotaur (2006)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/minotaur/",
+      "showtimes": [
+        {
+          "time": "3:45 PM",
+          "link": "https://commerce.bam.org/production/59770"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://commerce.bam.org/production/59770"
+        },
+        {
+          "time": "9:15 PM",
+          "link": "https://commerce.bam.org/production/59770"
         }
       ]
     },
@@ -3983,6 +3147,26 @@
     },
     {
       "date": "Wed, Dec 2",
+      "title": "Minotaur (2006)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/minotaur/",
+      "showtimes": [
+        {
+          "time": "3:45 PM",
+          "link": "https://commerce.bam.org/production/59770"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://commerce.bam.org/production/59770"
+        },
+        {
+          "time": "9:15 PM",
+          "link": "https://commerce.bam.org/production/59770"
+        }
+      ]
+    },
+    {
+      "date": "Wed, Dec 2",
       "title": "Rome, Open City (1945)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/rome-open-city/",
@@ -3990,18 +3174,6 @@
         {
           "time": "2:20 PM",
           "link": "https://my.filmforum.org/events/rome-open-city-ross"
-        }
-      ]
-    },
-    {
-      "date": "Wed, Dec 2",
-      "title": "True Stories (1986)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/true-stories/",
-      "showtimes": [
-        {
-          "time": "9:30 PM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/24850566/"
         }
       ]
     },
@@ -4026,6 +3198,26 @@
         {
           "time": "12:20 PM",
           "link": "https://my.filmforum.org/events/india-salvador-allende"
+        }
+      ]
+    },
+    {
+      "date": "Thu, Dec 3",
+      "title": "Minotaur (2006)",
+      "theater": "BAM",
+      "letterboxdURL": "https://letterboxd.com/film/minotaur/",
+      "showtimes": [
+        {
+          "time": "3:45 PM",
+          "link": "https://commerce.bam.org/production/59770"
+        },
+        {
+          "time": "6:30 PM",
+          "link": "https://commerce.bam.org/production/59770"
+        },
+        {
+          "time": "9:15 PM",
+          "link": "https://commerce.bam.org/production/59770"
         }
       ]
     },
@@ -4072,7 +3264,7 @@
       "letterboxdURL": "https://letterboxd.com/film/manhunter-the-final-cut/",
       "showtimes": [
         {
-          "time": "10:05 PM",
+          "time": "10:00 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31455"
         }
       ]
@@ -4086,18 +3278,6 @@
         {
           "time": "7:15 PM",
           "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31457"
-        }
-      ]
-    },
-    {
-      "date": "Fri, Dec 4",
-      "title": "On Cinematography: Arthur Jafa & Bradford Young (1991)",
-      "theater": "Metrograph",
-      "letterboxdURL": "https://letterboxd.com/search/On%20Cinematography%3A%20Arthur%20Jafa%20%26%20Bradford%20Young+1991/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31454"
         }
       ]
     },
@@ -4120,7 +3300,7 @@
       "letterboxdURL": "https://letterboxd.com/film/rome-open-city/",
       "showtimes": [
         {
-          "time": "12:00 PM",
+          "time": "2:00 PM",
           "link": "https://my.filmforum.org/events/rome-open-city-ross"
         }
       ]
@@ -4199,18 +3379,6 @@
     },
     {
       "date": "Sat, Dec 5",
-      "title": "Fiddler on the Roof (1971)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/fiddler-on-the-roof/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/24900622/"
-        }
-      ]
-    },
-    {
-      "date": "Sat, Dec 5",
       "title": "It Follows (2014)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/film/it-follows/",
@@ -4283,6 +3451,18 @@
     },
     {
       "date": "Sat, Dec 5",
+      "title": "The Inugami Family (1976)",
+      "theater": "Metrograph",
+      "letterboxdURL": "https://letterboxd.com/film/the-inugami-family/",
+      "showtimes": [
+        {
+          "time": "3:15 PM",
+          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31484"
+        }
+      ]
+    },
+    {
+      "date": "Sat, Dec 5",
       "title": "The Saga of Anatahan (1953)",
       "theater": "Metrograph",
       "letterboxdURL": "https://letterboxd.com/search/The%20Saga%20of%20Anatahan+1953/",
@@ -4331,13 +3511,13 @@
     },
     {
       "date": "Sun, Dec 6",
-      "title": "Fiddler on the Roof (1971)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/fiddler-on-the-roof/",
+      "title": "Daughters of the Dust (1991)",
+      "theater": "Metrograph",
+      "letterboxdURL": "https://letterboxd.com/film/daughters-of-the-dust/",
       "showtimes": [
         {
-          "time": "11:00 AM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/24900624/"
+          "time": "2:00 PM",
+          "link": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31485"
         }
       ]
     },
@@ -4499,18 +3679,6 @@
     },
     {
       "date": "Mon, Dec 7",
-      "title": "The Shop Around the Corner (1940)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/the-shop-around-the-corner/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/24900823/"
-        }
-      ]
-    },
-    {
-      "date": "Mon, Dec 7",
       "title": "Voyage To Italy (journey To Italy) (1954)",
       "theater": "Film Forum",
       "letterboxdURL": "https://letterboxd.com/film/journey-to-italy/",
@@ -4518,18 +3686,6 @@
         {
           "time": "4:10 PM",
           "link": "https://my.filmforum.org/events/voyage-to-italy-ross"
-        }
-      ]
-    },
-    {
-      "date": "Tue, Dec 8",
-      "title": "Air Mail (1932)",
-      "theater": "Nitehawk PP",
-      "letterboxdURL": "https://letterboxd.com/film/air-mail/",
-      "showtimes": [
-        {
-          "time": "7:00 PM",
-          "link": "https://nitehawkcinema.com/prospectpark/purchase/24865331/"
         }
       ]
     },
@@ -4564,7 +3720,7 @@
       "letterboxdURL": "https://letterboxd.com/film/rome-open-city/",
       "showtimes": [
         {
-          "time": "12:00 PM",
+          "time": "2:10 PM",
           "link": "https://my.filmforum.org/events/rome-open-city-ross"
         }
       ]
@@ -4626,18 +3782,6 @@
         {
           "time": "12:15 PM",
           "link": "https://my.filmforum.org/events/voyage-to-italy-ross"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Dec 10",
-      "title": "Lisztomania (1975)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/lisztomania/",
-      "showtimes": [
-        {
-          "time": "9:30 PM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/24518796/"
         }
       ]
     },
@@ -4739,18 +3883,6 @@
     },
     {
       "date": "Thu, Dec 17",
-      "title": "Feeders 2: Slay Bells (1998)",
-      "theater": "Nitehawk WB",
-      "letterboxdURL": "https://letterboxd.com/film/feeders-2-slay-bells/",
-      "showtimes": [
-        {
-          "time": "9:30 PM",
-          "link": "https://nitehawkcinema.com/williamsburg/purchase/24520161/"
-        }
-      ]
-    },
-    {
-      "date": "Thu, Dec 17",
       "title": "Film About A Father Who + Q&A (2021)",
       "theater": "Roxy",
       "letterboxdURL": "https://letterboxd.com/film/film-about-a-father-who/",
@@ -4775,9 +3907,9 @@
     },
     {
       "date": "Mon, Dec 28",
-      "title": "The Doll (2016)",
+      "title": "The Doll (1919)",
       "theater": "Film Forum",
-      "letterboxdURL": "https://letterboxd.com/film/the-doll-2016/",
+      "letterboxdURL": "https://letterboxd.com/film/the-doll/",
       "showtimes": [
         {
           "time": "6:30 PM",
@@ -4842,62 +3974,6 @@
         {
           "time": "11:35 PM",
           "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589077~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Tue Nov 10",
-      "title": "My Architect (2003)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/my-architect/",
-      "showtimes": [
-        {
-          "time": "6:30 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=586121~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Tue Nov 10",
-      "title": "The Devils (1971)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/the-devils/",
-      "showtimes": [
-        {
-          "time": "7:25 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588122~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:50 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588317~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Wed Nov 11",
-      "title": "The Devils (1971)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/the-devils/",
-      "showtimes": [
-        {
-          "time": "11:00 AM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588124~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        },
-        {
-          "time": "9:35 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588318~8722a542-64c1-4c0b-af02-c3e8a239d769& "
-        }
-      ]
-    },
-    {
-      "date": "Thu Nov 12",
-      "title": "The Devils (1971)",
-      "theater": "IFC",
-      "letterboxdURL": "https://letterboxd.com/film/the-devils/",
-      "showtimes": [
-        {
-          "time": "9:35 PM",
-          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=588320~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
     },
@@ -5006,6 +4082,78 @@
       ]
     },
     {
+      "date": "Tue Nov 17",
+      "title": "The Devils (1971)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/the-devils/",
+      "showtimes": [
+        {
+          "time": "11:00 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589043~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "4:35 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589049~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "7:25 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589056~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:15 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589055~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Wed Nov 18",
+      "title": "The Devils (1971)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/the-devils/",
+      "showtimes": [
+        {
+          "time": "11:00 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589329~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "4:35 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589331~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "7:25 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589333~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:15 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589332~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
+      "date": "Thu Nov 19",
+      "title": "The Devils (1971)",
+      "theater": "IFC",
+      "letterboxdURL": "https://letterboxd.com/film/the-devils/",
+      "showtimes": [
+        {
+          "time": "11:00 AM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589060~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "4:35 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589066~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "7:25 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589073~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        },
+        {
+          "time": "9:15 PM",
+          "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589072~8722a542-64c1-4c0b-af02-c3e8a239d769& "
+        }
+      ]
+    },
+    {
       "date": "Fri Nov 13",
       "title": "The Holy Mountain (1973)",
       "theater": "IFC",
@@ -5048,7 +4196,7 @@
       "letterboxdURL": "https://letterboxd.com/film/the-reflecting-skin/",
       "showtimes": [
         {
-          "time": "11:20 PM",
+          "time": "11:25 PM",
           "link": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=589005~8722a542-64c1-4c0b-af02-c3e8a239d769& "
         }
       ]
